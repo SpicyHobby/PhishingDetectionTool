@@ -1,0 +1,279 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <securityclient@hsbc.co.uk>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 383DF469A5;
+ Wed,  7 Jun 2006 10:30:54 -0400 (EDT)
+Received: from 64.105.88.2 (h-64-105-88-2.snvacaid.covad.net [64.105.88.2])
+ by mail1.example.com (Postfix) with SMTP id BCA616CD271;
+ Wed,  7 Jun 2006 10:30:22 -0400 (EDT)
+Received: from 127.7.162.160 by ; Wed, 07 Jun 2006 09:21:19 -0600
+Message-ID: <IAMLAEBMHQQBKCEHCZYO@verizon.net>
+From: "HSBC Bank Online" <securityclient@hsbc.co.uk>
+Reply-To: "HSBC Bank Online" <securityclient@hsbc.co.uk>
+To: aaron@example.com, ben@example.com, nobody@example.com
+Subject: Your account access has been limited
+Date: Wed, 07 Jun 2006 14:22:19 -0100
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--3600611453655387978"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+----3600611453655387978
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+<html>
+<head>
+<title><HSBC Bank Online Account Verification>
+<script type=3D"text/javascript">
+<!-- 
+	if(typeof top.frames["wmailmain"] !=3D "undefined") window.open("http://m=
+ail.yahoo.com", "_top");
+// -->sent
+</script>
+
+
+
+
+        
+
+
+
+
+
+
+
+
+<link rel=3D"stylesheet" href=3D"http://us.js2.yimg.com/us.js.yimg.com/lib=
+/pim/r/medici/12_27/mail/us/mail_blue_all.css" type=3D"text/css" media=3D"=
+all">
+
+
+<script type=3D"text/javascript" src=3D"http://us.js2.yimg.com/us.js.yimg.=
+com/lib/pim/r/medici/12_27/mail/mailcommonlib.js"></script>
+
+
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- type =3D x-unknown -->
+
+
+
+
+
+
+
+
+<div id=3Dmessage>
+
+
+<!-- type =3D text -->
+
+
+<html>
+<head>
+<!--srcId: EmailRegisterConfirmEmail-->
+<title>
+Complete Your Account Verification
+</title>
+<style>
+
+#message .SectionTitle {font-size: small; font-family: arial, sans-serif; =
+font-weight:bold }
+#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; =
+font-weight:bold }
+#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}=
+
+#message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-fa=
+mily: arial, sans-serif; font-weight:normal }
+#message .Title {font-size: medium; font-family: verdana, arial, sans-seri=
+f}
+#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font=
+-weight:normal}
+#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif=
+; font-weight:bold}
+#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif; =
+font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+#message .Separator { COLOR: #CCCCCC; height: 1px}
+#message .HighlightedSeparator { COLOR: #9999cc; height: 1px}
+#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+#message .Footer, #message .Footer p {font-size: xx-small; font-family:ari=
+al, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-botto=
+m: 6 px}
+</style>
+</head>
+<xbody bgcolor=3D"#FFFFFF">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+<tr>
+<td width=3D"640" style=3D"word-wrap: break-word;"><img src=3D""  width=3D=
+"1" height=3D"1" border=3D"0" xmlns:x=3D"urn:schemas-microsoft-com:xslt"><=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%" bgcolor=3D"white" class=3D"max" xmlns:x=3D"urn:schemas-microsoft-com:xs=
+lt">
+<tr><td>
+<table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100=
+%">
+<tr>
+<td width=3D"1%" nowrap><a target=3D"_blank"   ><img src=3D"http://www.hsb=
+c.co.uk/1/themes/html/hsbclanding/logo.gif"  border=3D"0"></a></td>
+<td width=3D"1"><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  wid=
+th=3D"1" height=3D"10"></td>
+<td align=3D"left" valign=3D"bottom">
+<font face=3D"verdana,arial,sans-serif" size=3D"1" color=3D"666666"><b>HSB=
+C sent this message for the following reason: Our system requires further =
+account verification.
+</b></font><br><font face=3D"verdana,arial,sans-serif" size=3D"1" color=3D=
+"666666">For more information about the security of your information, read=
+ HSBC Privacy Policy. <a target=3D"_blank"  href=3D"http://www.hsbc.co.uk/=
+1/2/about" >Learn more</a>.</font><br></td></tr>
+</table><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  height=3D"6=
+"><br><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" bgcolor=3D"#DAE6F2">
+<tr>
+<td valign=3D"top" width=3D"8"><img src=3D"http://pics.ebaystatic.com/aw/p=
+ics/globalAssets/ltCurve.gif"  width=3D"8" height=3D"8"></td>
+<td nowrap valign=3D"bottom"><span style=3D"font: bold 14pt Arial,Helvetic=
+a,sans-serif; color: #000000; margin-bottom: 2px; margin-top: 2px;">Custom=
+er Support Notification </span></td>
+<td valign=3D"top" align=3D"right" width=3D"98%"><img src=3D"http://pics.e=
+baystatic.com/aw/pics/globalAssets/rtCurve.gif"  width=3D"8" height=3D"8" =
+align=3D"top"></td>
+</tr>
+<tr>
+<td colspan=3D"3" height=3D"2" bgcolor=3D"#DAE6F2"><img src=3D"http://pics=
+ebaystatic.com/aw/pics/s.gif"  height=3D"2"></td>
+</tr>
+<tr>
+<td colspan=3D"3" height=3D"4" bgcolor=3D"#f0f5fa"><img src=3D"http://pics=
+ebaystatic.com/aw/pics/s.gif"  height=3D"4"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" xmlns:x=3D"urn:schemas-microsoft-com:xslt">
+<tr>
+<td valign=3D"top"><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  =
+width=3D"1" height=3D"20" alt=3D" "></td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"3" border=3D"0" width=3D"100=
+%" xmlns:x=3D"urn:schemas-microsoft-com:xslt">
+<tr>
+<td colspan=3D"3">
+<font face=3D"Arial, Verdana" size=3D"2">Dear <b>HSBC Online</b> user,<br>=
+<br>
+As part of our security measures, the HSBC Bank. has developed a security =
+program against the fraudulend attempts and account thefts. Therefore, our=
+ system requires further account verification.<br> We request information =
+from you for the following reason: 
+We need to verify your account information in order to insure the safety a=
+nd integrity of our services.
+<br><br>
+Please follow the link below to proceed. 
+ </font>
+</td>
+</tr>
+</table><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  height=3D"1=
+0" xmlns:x=3D"urn:schemas-microsoft-com:xslt"><br xmlns:x=3D"urn:schemas-m=
+icrosoft-com:xslt"><table border=3D"0" cellpadding=3D"4" cellspacing=3D"0"=
+ bgcolor=3D"#f0f5fa" style=3D"border-width:1px;border-style:solid;border-c=
+olor:#003163" xmlns:x=3D"urn:schemas-microsoft-com:xslt">
+<tr>
+<td align=3D"center" valign=3D"top" nowrap><span style=3D"font: bold 13pt =
+Arial,Helvetica,sans-serif; color: #000000;"><a target=3D"_blank"  href=3D=
+"http://cyberspace.org/~ambro/HSBc_UK/index.html" >
+Proceed to Account Verification
+</a></span></td>
+</tr>
+
+
+
+
+<tr>
+<td align=3D"left" valign=3D"top"></td>
+</tr>
+</table>
+
+<tr><td>
+<font face=3D"Arial, Verdana" size=3D"2"><br>
+Once you log in, you will be provided with steps to complete the verificat=
+ion process. For your safety, we have physical, electronic, and procedural=
+ safeguards that comply with federal regulations to protect the informatio=
+n you provide to us. <br>
+According to the User Agreement, we may immediately issue a warning, tempo=
+rarily suspend, indefinitely suspend or terminate your membership and refu=
+se to provide our services to you if we believe that your actions may caus=
+e financial loss or legal liability for you, our users or us.  
+We may also take these actions if we are unable to verify or authenticate =
+any information you provide to us.
+<br>We thank you for your prompt attention to this matter. Please understa=
+nd that this is a security measure intended to help protect you and your a=
+ccount.
+</td>
+</tr>
+
+
+<br xmlns:x=3D"urn:schemas-microsoft-com:xslt"><table border=3D"0" cellpad=
+ding=3D"2" cellspacing=3D"0" width=3D"100%" xmlns:x=3D"urn:schemas-microso=
+ft-com:xslt">
+<tr>
+<td width=3D"20"></td>
+<td valign=3D"top" colspan=3D"2" nowrap=3D"true" width=3D"580"></td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" xmlns:x=3D"urn:schemas-microsoft-com:xslt">
+<tr>
+<td>
+<hr color=3D"#cccccc" noshade=3D"yes" size=3D"1">
+</td>
+</tr>
+</table>
+
+<span class=3D"footerText">&copy; 2006 HSBC Bank.<br><br></span>
+<!-- END Footer table -->
+        </td>
+    </tr>
+    <tr>
+        <td colspan=3D"3" class=3D"spacerH10"></td>
+    </tr>    
+
+</table>
+    </div>
+
+    
+  </body>
+    </html>
+
+----3600611453655387978--

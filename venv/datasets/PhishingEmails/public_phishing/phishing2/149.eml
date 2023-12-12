@@ -1,0 +1,50 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 41E9A5370B2
+ for <nobody@login.example.com>; Sun, 18 Dec 2005 10:44:21 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 8621C6FA458
+ for <nobody@example.com>; Sun, 18 Dec 2005 10:44:18 -0500 (EST)
+Received: from 10.3.4.5 (unknown [218.111.160.122])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Sun, 18 Dec 2005 10:44:17 -0500 (EST)
+Received: from 127.64.135.244 by 218.111.160.122;
+ Sun, 18 Dec 2005 20:39:13 +0500
+Message-ID: <U[20
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.9 required=5.0 tests=MISSING_HEADERS,
+ MISSING_SUBJECT,RCVD_BY_IP,RCVD_DOUBLE_IP_SPAM,RCVD_HELO_IP_MISMATCH,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_DSBL,RCVD_IN_NJABL_DUL,
+ RCVD_IN_NJABL_PROXY,RCVD_IN_SORBS_HTTP,RCVD_IN_SORBS_MISC,
+ RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 RCVD_IN_SORBS_HTTP RBL: SORBS: sender is open HTTP proxy server
+ *      [218.111.160.122 listed in dnsbl.sorbs.net]
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?218.111.160.122>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?218.111.160.122>]
+ *  0.3 RCVD_IN_SORBS_MISC RBL: SORBS: sender is open proxy server
+ *      [218.111.160.122 listed in dnsbl.sorbs.net]
+ *  0.4 RCVD_IN_NJABL_PROXY RBL: NJABL: sender is an open proxy
+ *      [218.111.160.122 listed in combined.njabl.org]
+ *  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+ *      [218.111.160.122 listed in combined.njabl.org]
+ *  4.1 RCVD_DOUBLE_IP_SPAM Bulk email fingerprint (double IP) found
+ *  1.2 MISSING_SUBJECT Missing Subject: header
+Date: Sun, 18 Dec 2005 10:44:18 -0500 (EST)
+From: aw-confirm@eBay.com
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 150
+

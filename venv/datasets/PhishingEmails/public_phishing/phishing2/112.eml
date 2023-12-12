@@ -1,0 +1,42 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id 99C46536FF4; Sat, 10 Dec 2005 21:37:52 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id ECF626FA270;
+ Sat, 10 Dec 2005 21:37:34 -0500 (EST)
+Received: from pc-120-40-239-201.cm.vtr.net (pc-120-40-239-201.cm.vtr.net
+ [201.239.40.120]) by mail2.example.com (Postfix) with SMTP;
+ Sat, 10 Dec 2005 21:37:31 -0500 (EST)
+Received: from 52.9.22.16 by 201.239.40.120; Sat, 10 Dec 2005 21:34:27 -0500
+Message-ID: <I[20
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.0 required=5.0 tests=HELO_DYNAMIC_IPADDR,
+ MISSING_HEADERS,MISSING_SUBJECT,RCVD_BY_IP,RCVD_DOUBLE_IP_SPAM,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_DSBL,RCVD_IN_XBL autolearn=spam 
+ version=3.0.2
+X-Spam-Report: * 4.4 HELO_DYNAMIC_IPADDR Relay HELO'd using suspicious
+ hostname (IP addr 1)
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  0.1 MISSING_HEADERS Missing To: header
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?201.239.40.120>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?201.239.40.120>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [201.239.40.120 listed in sbl-xbl.spamhaus.org]
+ *  4.1 RCVD_DOUBLE_IP_SPAM Bulk email fingerprint (double IP) found
+ *  1.2 MISSING_SUBJECT Missing Subject: header
+Date: Sat, 10 Dec 2005 21:37:34 -0500 (EST)
+From: service@paypal.com
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 113
+

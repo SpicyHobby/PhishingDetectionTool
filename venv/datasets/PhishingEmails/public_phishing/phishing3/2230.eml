@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id BF5BE468A0
+ for <user@login.example.com>; Sat, 21 Jul 2007 23:48:30 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 935FD131FA11
+ for <user@example.com>; Sat, 21 Jul 2007 23:48:30 -0400 (EDT)
+Received: from zerodelta.org (zerodelta.org [69.36.191.87])
+ by mail.example.org (Postfix) with ESMTP id 97DCA6FA1C4
+ for <user@example.com>; Sat, 21 Jul 2007 23:48:30 -0400 (EDT)
+Received: from test (208-115-15-242.static.networktel.net [208.115.15.242])
+ (authenticated bits=0)
+ by zerodelta.org (8.12.11.20060308/8.12.11) with ESMTP id l6M3hdrW015183;
+ Sat, 21 Jul 2007 21:43:40 -0600
+Message-Id: <200707220343.l6M3hdrW015183@zerodelta.org>
+Reply-To: <service@paypal.com>
+From: "Customer Service"<service@paypal.com>
+Subject: PayPal Security Measures! ( Your account is limited )
+Date: Sat, 21 Jul 2007 23:46:11 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+X-Keywords: 
+Status: O
+Content-Length: 1024
+Lines: 20
+
+<title>paypal</title>
+<p><A target="_blank"  href="http://www.paypal.com/cgi-bin/webscr?cmd=_home" ><IMG src="https://www.paypal.com/en_US/i/logo/paypal_logo.gif"  border=0></A> 
+</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr> 
+    <td background="http://images.PayPal.com/images/bg_clk.gif" 
+width=100%><img src="http://images.PayPal.com/images/pixel.gif"  height="29"
+width="1" border="0"></td>
+  </tr>
+</table>
+<p><b><font size="3">PayPal Security Measures!</font></b></p>
+<p><font face="Arial"><tt><font face="verdana,arial,helvetica,sans-serif">
+</font></tt></font> 
+<p>In accordance with PayPal's User Agreement and to ensure that your account 
+  has not been compromised, access to your account was limited. Your account access 
+  will remain limited until this issue has been resolved. To secure your account 
+  and quickly restore full access, we may require some additional information 
+  from you. </p>
+<p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify"></p>
+<p style="MAR

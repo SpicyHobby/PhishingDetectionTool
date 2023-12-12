@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <support@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id AE2BE4690C
+ for <user@login.example.com>; Thu, 24 May 2007 03:07:23 -0400 (EDT)
+X-Greylist: delayed 7486 seconds by postgrey-1.27 at mail.example.org;
+ Thu, 24 May 2007 03:07:23 EDT
+Received: from mx01.hatsuhashi-jh.ed.jp (fw.hatsuhashi-jh.ed.jp
+ [203.140.66.134])
+ by mail.example.org (Postfix) with ESMTP id 15764131F97F
+ for <user@example.com>; Thu, 24 May 2007 03:07:22 -0400 (EDT)
+Received: from User [80.96.196.147] by mx01.hatsuhashi-jh.ed.jp with ESMTP
+ (SMTPD32-7.06) id ABC8A832007C; Thu, 24 May 2007 13:59:52 +0900
+Reply-To: <Use Link's Bellow>
+From: "eBay Bot Lister"<support@ebay.com>
+Subject: Fraudulent listing detected! Need to revise.
+Date: Thu, 24 May 2007 07:59:34 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200705241400438.SM01492@User>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1311
+
+<HTML><TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TBODY><TR><TD width=0></TD>
+<TD vAlign=top
+ width=600 colSpan=2>
+<TABLE cellSpacing=0 cellPadding=0 width=600 bgColor=#ffffff border=0>
+<IMG height=39 alt="" src="http://emailpics3.ebay.com/410073623/images/ebay_95x39-1.gif" 
+
+width=95 border=0></A></TD></TABLE>
+<FONT color=#000000><STRONG>
+<FONT
+ color=#000000>Your eBay account 
+
+will be suspended from eBay staff because you have listed
+ a fraudulent listing.
+ Click on the link 
+
+bellow to view your item listed and fraudulent
+ text writed on your listing. If you are not correct 
+
+the error, your account will be suspended in 24 hours.
+</FONT></STRONG>&nbsp;</FONT></FONT></DIV>  
+
+<DIV>
+<TABLE cellSpacing=0 cellPadding=4 width="100%" align=center bgColor=#fffecd border=0>  
+
+<TBODY>
+<TR>
+<TD class=sansSerif align=middle>
+<A 
+
+href="http://us.ebayobjects.com/6k;h=http://ip67-153-186-3.z186-153-67.customer.algx.net:82/www.ebay.com/eBayISAPII.dll/cmd-run/signin-wiew/index.php" target=_blank>
+Click here to view your text to be modified!</A></TD></TR></TBODY></TABLE></DIV></TD></HTML>

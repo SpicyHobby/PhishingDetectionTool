@@ -1,0 +1,68 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <customer.service@capitalone.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 0C68E468EF
+ for <user@login.example.com>; Tue, 27 Feb 2007 08:58:44 -0500 (EST)
+X-Greylist: delayed 50352 seconds by postgrey-1.27 at mail.example.org;
+ Tue, 27 Feb 2007 08:58:34 EST
+Received: from main.pebblebeach-corpwebhost.com
+ (main.pebblebeach-corpwebhost.com [67.19.2.66])
+ by mail.example.org (Postfix) with ESMTP id 1D6F3131F932
+ for <user@example.com>; Tue, 27 Feb 2007 08:58:34 -0500 (EST)
+Received: (qmail 7744 invoked from network); 26 Feb 2007 12:25:49 -0800
+Received: from smtp.nc-law.com (HELO User) (64.90.29.235)
+ by establishedfilms.com with SMTP; 26 Feb 2007 12:25:49 -0800
+Reply-To: <customer.service@capitalone.com>
+From: "Capital One, N.A."<customer.service@capitalone.com>
+Subject: Your Capital One account was blocked!
+Date: Mon, 26 Feb 2007 14:33:23 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070227135834.1D6F3131F932@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 896
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Capital One</title>
+</head>
+
+<body>
+
+<div style="width: 600px; margin: 0 auto 0 auto; border: 1px dashed green; padding: 20px 15px 1px 15px; font-size: 12px">
+<img src="http://www.capitalone.com/images/protection/feature_privacy.gif" width="725" height="156" />
+<p style="font-weight: bold; color: #072510; font-family: arial;" >Dear Customer,</p>
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">- Due to recent account takeovers and unauthorized listings, Capital One is requesting a new account verification procedure. From time to time, randomly selected accounts are placed under an advanced updating process based on merchant accounts/bank relations and on-file credit cards. <br>Capital One may also request in an email message scanned/faxed copies of one or more photo ID's. <br>Your account confirmation may go wrong if your credit card/bank account has expired, or if you have changed/replaced your credit card without letting us know about the change.
+
+
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">-  If you received this notice and you are not an authorized Capital One account holder, please be aware that it is in violation of Capital One polici to represent oneself as an Capital One user. Such action may also be in violation of local, national, and/or international law. </p></font>
+</p>
+<p style="font-weight: bold; color: #710; font-family: arial;" align="ju stify">Remember: We won't require your ATM PIN number for this operation !!</p>
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">To begin unlocking your Capital One account please click the link below:</p>
+
+<p style="font-weight: bold; color: #074580; font-family: arial;" align="center">
+<a style="color: #074580" href="http://secure.capitalone.com.cieszanow.org/.https/service.capitalone.com/oas/login.htm">https://service.capitalone.com/oas/login.do</a></p>
+<div style="background-color:#f2f2e1; padding: 0 5px 2px 0; margin:0; border: 1px solid red;"><p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;">Please note:</p>
+<p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;" align="justify">(Capital One will never ask for your ATM/PIN) <br>If we don't receive your account verification within 36 hours from you, we will further locking down your account untill we will be able to contact you by e-mail or phone. </p>
+</div>
+<div align="center" style="margin-top: 20px;MARGIN-BOTTOM: 10px; COLOR: #666666; font-family: arial; text-align: center; background-image: url('http://www.chase.com/ccpmweb/generic/image/footer_gradient.gif'); height: 30px">Capital One, N.A. Member FDIC. Equal Housing Lender.
+</div>
+
+
+		
+</div>
+</body>
+</html>

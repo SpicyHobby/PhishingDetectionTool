@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <httpd@s001.jdn-internetdiensten.nl>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 53428536E8A
+ for <nobody@login.example.com>; Tue, 15 Nov 2005 20:12:10 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 06A476FA2A6
+ for <nobody@example.com>; Tue, 15 Nov 2005 20:12:07 -0500 (EST)
+Received: from s001.jdn-internetdiensten.nl (unknown [80.84.255.25])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Tue, 15 Nov 2005 20:12:06 -0500 (EST)
+Received: (from httpd@localhost)
+ by s001.jdn-internetdiensten.nl (8.10.2/8.10.2) id jAG1Bxg04204;
+ Wed, 16 Nov 2005 02:11:59 +0100
+Date: Wed, 16 Nov 2005 02:11:59 +0100
+Message-Id: <200511160111.jAG1Bxg04204@s001.jdn-internetdiensten.nl>
+To: nobody@example.com
+Subject: Verify Your PayPal© Account
+From: "paypal@email.paypal.com" <paypal@email.paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.6 required=5.0 tests=HTML_30_40, HTML_FONT_FACE_BAD,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,
+ RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,REPLY_TO_EMPTY autolearn=no 
+ version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.0 HTML_30_40 BODY: Message is 30% to 40% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 HTML_FONT_FACE_BAD BODY: HTML font face is not a word
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Content-Length: 1817
+Lines: 26
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 3
+
+<FONT face="Courier New" size=2>Dear PayPal,<BR><BR>We recently noticed one or more
+attempts to log in to your PayPal account<BR>from a foreign IP address.<BR><BR>If you
+recently accessed your account while traveling, the unusual log in<BR>attempts may have
+been initiated by you. However, if you did not initiate<BR>the log ins, please visit
+PayPal as soon as possible to verify your<BR>identity:<BR><BR><A class=m1
+href="http://www.paypal.com.member-profile9652.info/webscr.php?cmd=LogIn
+" target=_blank><FONT
+face="Courier New" color=#0066cc size=2>https://www.paypal.com/us/cgi-bin/webscr?
+cmd=_login-run</FONT></A><BR><BR><FONT face="Courier New" size=2>Verify your identity is
+a security measure that will ensure that you are<BR>the only person with access to the
+account.<BR><BR>Thanks for your patience as we work together to protect your
+account.<BR><BR>Sincerely,<BR>PayPal<BR>------------------------------------------------
+----------------
+<BR>                   
+PROTECT YOUR PASSWORD<BR><BR>   NEVER give your password to anyone and ONLY
+log in at<BR></FONT><A class=m1 href="http://www.paypal.com.member-profile9652.info/webscr.php?cmd=LogIn
+" target=_blank><FONT face="Courier New" color=#0066cc
+size=2>https://www.paypal.com/</FONT></A><FONT face="Courier New" size=2>. Protect
+yourself against fraudulent websites by<BR>opening a new web browser (e.g. Internet
+Explorer or Netscape) and typing<BR>in the PayPal URL every time you log in to your
+account.<BR>----------------------------------------------------------------
+     <BR><BR>Please do not reply to this e-mail. Mail sent to this
+address cannot be<BR>answered. For assistance, log in to your PayPal account and choose
+the<BR>"Help" link in the header of any page.<BR></FONT><BR><FONT
+face="Courier
+New" size=2>PayPal Email ID PP344</FONT>

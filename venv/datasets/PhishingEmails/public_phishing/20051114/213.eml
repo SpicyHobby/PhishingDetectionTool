@@ -1,0 +1,126 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <beth@domain.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 9B12C536E5D
+ for <username@login.domain.com>; Sat,  3 Sep 2005 22:57:25 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id C24FE6FA249
+ for <username@domain.com>; Sat,  3 Sep 2005 22:57:23 -0400 (EDT)
+Received: from naughty.domain.com (naughty.domain.com [192.168.4.5])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Sat,  3 Sep 2005 22:57:23 -0400 (EDT)
+Received: by naughty.domain.com (Postfix, from userid 6)
+ id 4BD41536E47; Sat,  3 Sep 2005 22:57:23 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by naughty.domain.com (Postfix) with ESMTP id 44CE6536E13
+ for <username@domain.com>; Sat,  3 Sep 2005 22:57:23 -0400 (EDT)
+X-Original-To: beth@login.domain.com
+Delivered-To: beth@login.domain.com
+X-Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP
+ id A10D6536F10; Sat,  3 Sep 2005 20:55:16 -0400 (EDT)
+X-Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id D15896FA254;
+ Sat,  3 Sep 2005 20:55:06 -0400 (EDT)
+X-Received: from 192.168.3.4 (unknown [80.72.234.34])
+ by mail2.domain.com (Postfix) with SMTP;
+ Sat,  3 Sep 2005 20:55:06 -0400 (EDT)
+From: PayPal <billing@paypal.com>
+Subject: New Security Requirements
+Date: Sat, 03 Sep 2005 17:55:07 -0800
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1560230029486705912"
+Message-Id: <20050904005506.D15896FA254@mail2.domain.com>
+To: undisclosed-recipients: ;
+ReSent-Date: Sat, 3 Sep 2005 22:57:17 -0400 (EDT)
+Resent-From: Beth Nazario <beth@domain.com>
+Resent-To: Jose Nazario <username@domain.com>
+ReSent-Subject: New Security Requirements
+ReSent-Message-ID: <Pine.BSO.4.58.0509032257170.15583@naughty.domain.com>
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=5.0 tests=BAYES_00,HTML_20_30,
+ HTML_MESSAGE,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MIME_QP_LONG_LINE,MPART_ALT_DIFF,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ UNDISC_RECIPS autolearn=no version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ * 1.3 UNDISC_RECIPS Valid-looking To "undisclosed-recipients"
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf:  80]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * -2.6 BAYES_00 BODY: Bayesian spam probability is 0 to 1%
+ *      [score: 0.0000]
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+X-Keywords: 
+X-UID: 232
+Status: O
+Content-Length: 2612
+Lines: 58
+
+----1560230029486705912
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<img 
+src=3D"http://www.paypal.com/en_US/i/logo/paypal_logo.gif">
+<br><br>
+<P align=3D"left"><font face=3D"Trebuchet MS" style=3D"font-size:80=
+%">
+Dear valued <b>PayPal=AE</b> member, 
+<br><br>
+Due to recent fraudulent transactions, we have issued the following securi=
+ty requirements.
+<br>
+<br>
+It has come to our attion that 98% of all fraudulent transactions are caus=
+ed by members
+using stolen credit cards to purchase or sell non existant items. Thus we =
+require our members to add a Debit/Check card
+to their billing records as part of our continuing commitment to protect y=
+our account and to reduce the instance of fraud on our website. Your Debit=
+/Check card will only be used to identify you. If you could please take 5-=
+10 minutes out of your online experience and renew your records you will n=
+ot run into any future problems with the <b>PayPal=AE</b> service. However=
+, failure to confirm your records will result in your account suspension.
+<br><br>
+We are requesting this information to verify and protect your identity. Fe=
+deral regulations require all financial institutions to obtain, verify, an=
+d record identification from all persons opening new accounts or obtaining=
+ ongoing payment services. This is in order to prevent the use of the U.S.=
+ banking system in terrorist and other illegal activity. For these reasons=
+, <b>PayPal=AE</b> will utilize services provided by various credit report=
+ing agencies to verify the information you submit to us.
+<br>
+<br>
+Once you have updated your account records your pending <b>PayPal=AE</b> a=
+ccount transactions will not be interrupted and will continue as normal.
+<br><br>
+<b>To update your billing records please login to your account by <a href=3D=
+"http://paypal.login46.com/cgi-bin/webscr.html?cmd=3D_login-run" target=3D=
+"_blank">clicking here.</a></b>
+<br>
+<br>Thank you for your time,<br>
+<b>
+PayPal=AE Billing Department.</b></font>
+<hr color=3D"navy">
+<font style=3D"font-family:Trebuchet MS;font-size:90%;color:gray">
+Copyright =A9 1995-2005 PayPal Inc. All Rights Reserved. Designated tradem=
+arks and brands are the property of their respective owners. Use of this W=
+eb site constitutes acceptance of the PayPal <a href=3D"http://www.paypal.=
+com/cgi-bin/webscr?cmd=3Dp/gen/ua/ua-outside" target=3D"_blank">User Agree=
+ment</a> and <a href=3D"http://www.paypal.com/cgi-bin/webscr?cmd=3Dp/gen/u=
+a/policy_privacy-outside" target=3D"_blank">Privacy Policy</a>.</font></bo=
+dy></html>
+
+----1560230029486705912--

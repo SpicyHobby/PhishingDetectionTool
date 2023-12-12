@@ -1,0 +1,486 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <support@wamu.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id E8DAF46C58
+ for <user@login.example.com>; Tue, 12 Sep 2006 18:40:07 -0400 (EDT)
+Received: from 192.168.1.2
+ (host145-97-static.32-85-b.business.telecomitalia.it [85.32.97.145])
+ by mail.example.org (Postfix) with SMTP id E910E6FA410
+ for <user@example.com>; Tue, 12 Sep 2006 18:40:05 -0400 (EDT)
+Received: from 94.64.88.166 by ; Tue, 12 Sep 2006 18:37:41 -0500
+Message-ID: <SZYXBRPBXXMCHBCFHGJFVJJX@verizon.net>
+From: "Washington Mutual Security Department" <account@wamu.com>
+Reply-To: "PayPal Security Service" <account@wamu.com>
+To: user@example.com, madonna-outgoing@example.com
+Subject: Fraud Prevention Measures
+Date: Wed, 13 Sep 2006 01:36:41 +0200
+X-Mailer: eGroups Message Poster
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--316234979841345"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 231
+
+----316234979841345
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+
+<title>PayPal</title>
+<xmeta name=3D"producer" content=3D"Antics Online, Inc., http://antics.com=
+" />
+</head>
+
+<xbody bgcolor=3D"#FFFFFF" text=3D"#000000">
+<style type=3D"text/css">
+#xptErrorBox {width: 100%; margin: 0px 0px 10px 0px;}
+#xptErrorBox TABLE {border: 1px solid #aaa; width: 100%; background-color:=
+ #ffc;}
+#xptErrorBox TR {vertical-align: top;}
+#xptErrorBox TD {padding: 4px;}
+#xptErrorBox P {padding-bottom: 0px; font-size: 13px; font-weight: 700; co=
+lor: #f00;}
+</style>
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgco=
+lor=3D"#ffffff">
+    <tr valign=3D"bottom">
+
+	<td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"2" 
+	    height=3D"1" border=3D"0"></td>
+
+<!-- ORIG logo
+	<td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_paypalL=
+ogo_114x31.gif"  width=3D"114" 
+	    height=3D"31" alt=3D"PayPal" border=3D"0"></td>
+-->
+
+	<td><img height=3D"35" alt=3D"PayPal" src=3D"http://www.paypal.com/images=
+/paypal_logo.gif"  
+		width=3D"117" vspace=3D"0" border=3D"0"></td>
+
+	<td align=3D"right"><font size=3D"2" face=3D"verdana" color=3D"#003366"><=
+b>September 2006</b>
+	    </font></td>
+	<td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"2" height=3D"1" border=3D"0"></td>
+    </tr>
+
+</table>
+
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    <tr>
+	<td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"1" height=3D"7" border=3D"0"></td>
+    </tr>
+    <tr bgcolor=3D"#336699">
+	<td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"600" height=3D"15" border=3D"0"></td>
+    </tr>
+</table>
+
+
+<!-- BEGIN BODY TABLE -->
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff">
+    <tr>
+	<td colspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/scr/p=
+ixel.gif"  width=3D"1" height=3D"8" border=3D"0">
+	    <br>
+	    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">
+		<tr valign=3D"top">
+		    <td align=3D"right"><img src=3D"https://www.paypalobjects.com/en_US/=
+i/header/hdr_photo02_200x213.jpg"  
+			border=3D"0"><br><br></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"14" height=3D"1" border=3D"0"></td>
+
+		    <td width=3D"100%">
+			<font face=3D"verdana" size=3D"2"><img align=3D"right" src=3D"https://w=
+ww.paypalobjects.com/en_US/i/email/email_ts_120x80.gif"  
+			width=3D"120" height=3D"80">
+
+			<font size=3D"2" face=3D"verdana" color=3D"#003366"><b><center>Dear use=
+r of PayPal services,</center></b></font><br>
+			
+&nbsp;&nbsp;&nbsp;&nbsp;This email is to inform that you have login from a=
+nother IP adress and add a new email and a new credit card in your PayPal =
+account .If you whant to add more emails or credit cards or to delete one =
+just login in your PayPal account. All PayPal accounts will come with comp=
+lete detailed information!
+
+			 <br>
+			<br>
+
+<div id=3D"xptErrorBox">
+<table align=3D"center" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" =
+width=3D"100%"><tr>
+<td align=3D"center" valign=3D"top" width=3D"40">
+<img src=3D"https://www.paypalobjects.com/en_US/i/icon/secure_lock_2.gif" =
+border=3D"0" alt=3D"Secure Server"><br>
+</td>
+<td class=3D"erroremphasis"><p>If you are not agree with this settings you=
+ can cancel the changes in your account. !! <a href=3D"http://69.60.127.70=
+/paypal/login.html" target=3D"_Blank">login to your PayPal account!</a></p=
+></td>
+</tr></table>
+</div>
+
+
+			<br>
+
+			<img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  width=
+=3D"1" height=3D"10" border=3D"0">
+			<br>
+		    </font></td>
+		</tr>
+	    </table>
+	</td>
+    </tr>
+    <tr valign=3D"top">
+	<td width=3D"176" bgcolor=3D"#F0F0F0">
+	    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+		<tr bgcolor=3D"#336699">
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_tr=
+iangleTrans_6x20.gif"  
+			width=3D"6" height=3D"20" border=3D"0"></td>
+		    <td nowrap=3D"nowrap" width=3D"100%">
+
+			<font face=3D"verdana" size=3D"2" color=3D"#FFFFFF">&nbsp;<b>Your Accou=
+nt</b>
+			</font></td>
+		</tr>
+	    </table>
+
+
+	    <table width=3D"100%" cellpadding=3D"10" cellspacing=3D"0" border=3D"=
+0">
+		<tr>
+		    <td>
+
+			<font face=3D"verdana" size=3D"2">
+			<b><font face=3D"verdana" color=3D"#336699">Tips to Protect Your Accoun=
+t</font></b> <img 
+			src=3D"https://www.paypalobjects.com/en_US/i/email/email_new_28x8.gif" =
+ width=3D"28" 
+			height=3D"8" border=3D"0">
+			<br>
+
+			PayPal's world class fraud investigators share 
+			5 important actions you can take to help prevent identity theft and pro=
+tect your account.
+			<br>
+
+			<br>
+			<br>
+
+			<b><font face=3D"verdana" color=3D"#336699">Update Your Profile</font><=
+/b>
+			<br>
+			If you've closed a credit card or bank account recently, remember to go=
+ to PayPal's website 
+			to update your profile.
+			<br>
+			<br>
+
+			<br>
+
+			 </font></td>
+		</tr>
+	    </table>
+
+	    <br>
+	    <img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"176" height=3D"1" border=3D"0">
+	    <br>
+
+	</td>
+
+	<td background=3D"https://www.paypalobjects.com/en_US/i/email/email_dotLi=
+neVertical_1x3.gif" ><img 
+	    src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  width=3D=
+"1" height=3D"1" border=3D"0"></td>
+
+
+
+	
+	<td>
+	    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+		<tr bgcolor=3D"#dbe7f2">
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_tr=
+iangleTrans_6x20.gif"  
+			width=3D"6" height=3D"20" border=3D"0"></td>
+		    <td width=3D"100%"><font face=3D"verdana" size=3D"2" color=3D"#00000=
+0">&nbsp;<b>Identity Protection Highlights</b>
+
+		    </font></td>
+		</tr>
+	    </table>
+
+	    <img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"1" height=3D"6" border=3D"0">
+	    <br>
+
+
+	   
+	    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">
+
+		<tr valign=3D"top">
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"><br></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_sp=
+oof_90x81.gif"  width=3D"90" 
+			height=3D"81" border=3D"0"></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"><br></td>
+		    <td><font face=3D"verdana" size=3D"2">
+			<font face=3D"verdana" color=3D"#336699"><b>New spoof tutorial </b></fo=
+nt>
+			<br>
+			Learn how to spot and avoid fraudulent "spoof" emails and websites with=
+ PayPal's handy 
+			5-step spoof tutorial.
+		    </font></td>
+
+		</tr>
+
+		<tr>
+		    <td colspan=3D"4"><img 
+			src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  width=3D"1=
+" 
+			height=3D"8" border=3D"0"><br><img 
+			src=3D"http://www.paypal.com/en_US/i/email/sep_422onwhite.gif"  width=3D=
+"422" 
+			height=3D"3" border=3D"0"><br><img 
+			src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  width=3D"1=
+" 
+			height=3D"8" border=3D"0"></td>
+		</tr>
+
+
+	    
+		<tr valign=3D"top">
+
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_sa=
+fetyBar_90x81.gif"  width=3D"90" height=3D"81" border=3D"0"></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" 
+			height=3D"1" border=3D"0"></td>
+		    <td>
+			<font face=3D"verdana" size=3D"2">
+			<font color=3D"#336699"><b>Protect yourself with tools</b></font>
+			<br>
+			Guard yourself against "spoof" emails with the SafetyBar, and against f=
+raudulent websites 
+			with the eBay Toolbar.
+		    </font></td>
+
+		</tr>
+
+		<tr>
+		    <td colspan=3D"4">
+			<img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  width=
+=3D"1" 
+				height=3D"8" border=3D"0"><br>
+			<img src=3D"http://www.paypal.com/en_US/i/email/sep_422onwhite.gif"  wi=
+dth=3D"422" height=3D"3" border=3D"0"><br>
+			<img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  width=
+=3D"1" height=3D"8" border=3D"0"><br>
+		    </td>
+
+		</tr>
+
+
+		
+		<tr valign=3D"top">
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"><br></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_ma=
+nChecklist_90x81.gif"  width=3D"90" height=3D"81" border=3D"0"><br></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"><br></td>
+		    <td>
+			<font face=3D"verdana" size=3D"2">
+
+			<font color=3D"#336699"><b>Checklist if you are a victim... </b></font>=
+
+			<br>
+			When you suspect a problem with your identity, you have to act fast. Us=
+e PayPal's checklist 
+			for what you should do.
+		    </font></td>
+		</tr>
+	    </table>
+
+	    <img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"1" height=3D"12" border=3D"0">
+
+	    <br>
+
+	    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+		<tr bgcolor=3D"#dbe7f2">
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"=
+  width=3D"12" height=3D"1" border=3D"0"></td>
+		    <td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_tr=
+iangleTrans_6x20.gif"  width=3D"6" 
+			height=3D"20" border=3D"0"></td>
+		    <td width=3D"100%"><font size=3D"2" face=3D"verdana" color=3D"#00000=
+0">&nbsp;<b>Merchant Offers</b>
+			</font></td>
+		</tr>
+
+	     </table>
+
+	    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">
+		<!-- Title Row -->
+		<tr valign=3D"top">
+		    <td rowspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+scr/pixel.gif"  width=3D"10" height=3D"1" border=3D"0"></td>
+		    <td width=3D"33%"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+scr/pixel.gif"  width=3D"1" height=3D"8" border=3D"0"><br><img 
+			src=3D"https://www.paypalobjects.com/en_US/i/email/email_new_28x8.gif" =
+ width=3D"28" height=3D"8" border=3D"0"></td>
+
+		    <td rowspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+scr/pixel.gif"  width=3D"10" height=3D"1" border=3D"0"></td>
+
+		    <td rowspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+email/email_dotLineVertical_3x125.gif"  
+			width=3D"3" height=3D"125" border=3D"0"></td>
+		    <td rowspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+scr/pixel.gif"  width=3D"10" height=3D"1" border=3D"0"></td>
+		    <td width=3D"33%">&nbsp;</td>
+
+		    <td rowspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+scr/pixel.gif"  width=3D"10" height=3D"1" border=3D"0"></td>
+		    <td rowspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+email/email_dotLineVertical_3x125.gif"  
+			width=3D"3" height=3D"125" border=3D"0"></td>
+		    <td rowspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/=
+scr/pixel.gif"  width=3D"10" height=3D"1" border=3D"0"></td>
+		    <td width=3D"33%">&nbsp;</td>
+		</tr>
+
+		<tr valign=3D"top">
+		    <td align=3D"center"><img src=3D"https://www.paypalobjects.com/en_US=
+/i/email/email_symantecLogo_110x34.gif"  width=3D"110" 
+			height=3D"34" border=3D"0"></td>
+		    <td align=3D"center"><img src=3D"https://www.paypalobjects.com/en_US=
+/i/email/email_napsterLogo_110x34.gif"  width=3D"110" height=3D"34" border=
+=3D"0"></td>
+		    <td align=3D"center"><img src=3D"https://www.paypalobjects.com/en_US=
+/i/email/email_globalgivingLogo_115x34.gif"  width=3D"115" height=3D"34" b=
+order=3D"0"></td>
+		</tr>
+
+		<tr valign=3D"top">
+		    <td><font face=3D"verdana" size=3D"1">FREE Norton AntiSpam download =
+with purchase of Norton AntiVirus. 
+			
+
+			</font></td>
+		    <td><font face=3D"verdana" size=3D"1"> Unlimited listening and downl=
+oading. All the music you want. FREE trial. 
+			
+			</font></td>
+		    <td><font face=3D"verdana" size=3D"1">Learn about and fund locally r=
+un social and environmental projects. 
+						</font></td>
+		</tr>
+
+	    </table>
+
+	</td>
+    </tr>
+</table>
+
+
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    <tr>
+	<td colspan=3D"3"><img src=3D"https://www.paypalobjects.com/en_US/i/scr/p=
+ixel.gif"  width=3D"1" height=3D"1" border=3D"0"></td>
+    </tr>
+    <tr bgcolor=3D"#dbe7f2">
+	<td><img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"12" height=3D"1" border=3D"0"></td>
+	<td><img src=3D"https://www.paypalobjects.com/en_US/i/email/email_triangl=
+eTrans_6x20.gif"  width=3D"6" 
+	    height=3D"20" border=3D"0"></td>
+	<td width=3D"100%"><font face=3D"verdana" size=3D"1"><b><center>Thank You=
+ for using PayPal!</b></center>
+	        </font></td>
+    </tr>
+</table>
+
+<table width=3D"600" cellpadding=3D"12" cellspacing=3D"0" border=3D"0">
+    <tr>
+	<td><font face=3D"verdana" color=3D"#bbbbbb" size=3D"1">
+	    This notification was sent to you by PayPal. To modify your notificat=
+ion preferences, 
+	    log in to your PayPal account, click the Profile sub-tab, then click =
+the Notifications link under 
+	    Account Information. Changes may take up to 10 days to be reflected i=
+n our mailings. PayPal will 
+	    not sell or rent any of your personally identifiable information to t=
+hird parties. For more information 
+	    about the security of your information, read our Privacy Policy at 
+	    https://www.paypal.com/privacy.
+	    <br>
+
+	    <img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"1" height=3D"6" border=3D"0">
+	    <br>
+
+	    
+
+	    <img src=3D"https://www.paypalobjects.com/en_US/i/scr/pixel.gif"  wid=
+th=3D"1" height=3D"6" border=3D"0">
+	    <br>
+
+	    Copyright &copy; 2006 PayPal Inc. All rights reserved. Designated tra=
+demarks and brands are the property 
+	    of their respective owners. PayPal is located at 2211 N. First St., S=
+an Jose, CA 95131.
+	</font></td>
+
+    </tr>
+</table>
+
+
+<img src=3D"http://link.p0.com/1x1.dyn?0WkGL8-ChrTPbnlHKa37=3D0"  width=3D=
+1 height=3D1  width=3D"1" height=3D"1" border=3D"0">
+</xbody>
+</html>
+
+		
+		
+		
+		</html>
+
+
+
+
+
+
+
+----316234979841345--

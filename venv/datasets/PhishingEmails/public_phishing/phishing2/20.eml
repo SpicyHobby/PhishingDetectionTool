@@ -1,0 +1,53 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <customer@armedforcesbank.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id D6C98536F60
+ for <nobody@login.example.com>; Sun, 20 Nov 2005 19:07:18 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id DD64F6FA2E2
+ for <nobody@example.com>; Sun, 20 Nov 2005 19:07:16 -0500 (EST)
+Received: from padtax.com (busine38.lnk.telstra.net [165.228.57.191])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Sun, 20 Nov 2005 19:07:16 -0500 (EST)
+Received: (qmail 23554 invoked by uid 100); 20 Nov 2005 23:11:19 -0000
+Date: 20 Nov 2005 23:11:19 -0000
+Message-ID: <20051120231119.23553.qmail@padtax.com>
+To: nobody@example.com
+Subject: Renew your Armed Forces online banking & bill pay services
+From: Customer Support Form <customer@armedforcesbank.com>
+Content-Type: multipart/related; boundary="----HTML--MAIL----"
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.3 required=5.0 tests=HTML_10_20,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK autolearn=no 
+ version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf:  80]
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 21
+
+------HTML--MAIL----
+Content-Type: text/html; charset="iso-8859-1"
+
+
+Dear Customer ,<br><br>
+Armed Forces Bank is committed to maintaining a safe environment for your account.<br> To protect the security of your account, Armed Forces Bank employs informs you that you have to renew your online banking account.<br><br>
+Recently, our Account Review Team identified some unusual activity in your account. In accordance with Armed Forces Bank's User Agreement access to your account will be limited. This is a fraud prevention measure meant to ensure that your account is not compromised.<br><br>
+In order to secure your account we may require some specific information from you. We encourage you to log in by clicking on the link below and complete the requested form as soon as possible.<br><br>
+<a href="http://165.228.57.191/CustomerSupportForm/www.afbank.com/">http://www.afbank.com</a><br><br>
+Sincerely,<br>
+Customer Support Form Armed Forces Bank, N.A.<br><br>
+------HTML--MAIL------

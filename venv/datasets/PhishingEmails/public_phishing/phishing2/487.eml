@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id A31B6536E34
+ for <nobody@login.example.com>; Tue, 28 Feb 2006 16:25:56 -0500 (EST)
+Received: from mail.com (69-87-146-3.iserv.net [69.87.146.3])
+ by mail1.example.com (Postfix) with SMTP id 55B6D6CCF6E
+ for <nobody@example.com>; Tue, 28 Feb 2006 16:25:56 -0500 (EST)
+From: "service@paypal.com" <service@paypal.com>
+Subject: You've added an additional address to your account
+Date: Tue, 28 Feb 2006 16:19:11 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060228212556.55B6D6CCF6E@mail1.example.com>
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 488
+
+<HTML>
+<HEAD>
+<TITLE>You've added an additional address to your account</TITLE>
+</HEAD>
+<xbody>
+<P><FONT face="Verdana" size="2">You have added 
+<a target="_blank"   href="http://211.115.89.58:8000/alitsa/index.php" >ilpadrinio@att.com</a> as a new email address for<br> your
+account.<br></p>
+
+</font><FONT face="Courier New" size="2">
+
+<P><FONT face="Verdana" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please contact customer service at:<br></p></FONT>
+
+</font><FONT face="Verdana" size="2">
+
+<P>
+<a target="_blank"   href="http://211.115.89.58:8000/alitsa/index.php" >Click 
+here to recover your account!</a><br></p>
+</font><FONT face="Courier New" size="2">
+<P><FONT face="Verdana" size="2">Thank you for using Pay Pal !<br>
+The Pay Pal Team</p><br>
+</FONT>
+<P><FONT face="Verdana" size="2">Please do not reply to this e-mail. Mail sent to this address cannot<br> be
+answered. For assistance, log in to your account and choose<br> the
+"Help" link in the header of any page.<br></p></FONT>
+</font>
+</HTML>

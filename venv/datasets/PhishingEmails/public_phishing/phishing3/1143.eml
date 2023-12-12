@@ -1,0 +1,62 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <root@freebsd167.cost.it>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 6D0F2469BF
+ for <user@login.example.com>; Fri, 10 Nov 2006 11:40:06 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 57BEC131F99B
+ for <user@example.com>; Fri, 10 Nov 2006 11:40:06 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Score: 7.674
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.674 tagged_above=-100 required=4
+ tests=[DCC_CHECK=4, HTML_BACKHAIR_8=0.13, HTML_MESSAGE=0.001,
+ HTML_MIME_NO_HTML_TAG=0.512, HTML_OBFUSCATE_30_40=2.48,
+ MIME_HTML_ONLY=0.001, NO_REAL_NAME=0.55]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id Uqx1TGCq+ZIA for <user@example.com>;
+ Fri, 10 Nov 2006 11:39:59 -0500 (EST)
+X-Greylist: delayed 504 seconds by postgrey-1.27 at mail.example.org;
+ Fri, 10 Nov 2006 11:39:59 EST
+Received: from freebsd167.cost.it (freebsd167.cost.it [213.156.62.167])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Fri, 10 Nov 2006 11:39:59 -0500 (EST)
+Received: (qmail 58901 invoked by uid 2527); 10 Nov 2006 16:31:32 -0000
+Date: 10 Nov 2006 16:31:32 -0000
+Message-ID: <20061110163132.58900.qmail@freebsd167.cost.it>
+To: user@example.com
+Subject: Barclays Bank Security Alert
+From: <service@ibankbarclays.co.uk>
+Reply-To: service@ibankbarclays.co.uk
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 438
+
+
+<table>
+<tr>
+<td><pre>
+D<font></font>ea<font></font>r user@example.com,<br><br>
+W<font></font>e rec<font></font>ently noti<font></font>ed o<font></font>ne or more<font></font> atte<font></font>mpts to lo<font></font>g in to yo<font></font>ur Ba<font></font>rcl<font></font>ays I<font></font>Ba<font></font>nk a<font></font>cco<font></font>unt
+fr<font></font>om a dif<font></font>ferent I<font></font>P add<font></font>ress.<br><br>
+If you recen<font></font>tly ac<font></font>cesse<font></font>d your ac<font></font>co<font></font>unt while travel<font></font>ing, the unusu<font></font>al lo<font></font>g in
+at<font></font>tempts may have been init<font></font>iated by you. Howev<font></font>er, if you di<font></font>d not init<font></font>iate
+th<font></font>e log ins, ple<font></font>ase visit Ba<font></font>rcla<font></font>ys I<font></font>Ban<font></font>k as so<font></font>on as pos<font></font>sible to chec<font></font>k-up y<font></font>our
+ac<font></font>cou<font></font>nt in<font></font>forma<font></font>tion:<br><br>
+<a href='http://idesoft.ktown.ne.kr/intra/zeroboard/data/eun_data/htyuytrw.php?usrtr=user@example.com'>ht<font></font>tps://iba<font></font>nk.ba<font></font>rclay<font></font>s.co.uk<font></font>/olb/p/Logi<font></font>nMemb<font></font>er.do</a><br><br>
+Th<font></font>anks for yo<font></font>ur patien<font></font>ce.<br><br>
+Si<font></font>ncerely,<br>
+Bar<font></font>clays Cen<font></font>tre<br><br>
+-------------<font></font>---------------------------------------------------<br><br>
+Pl<font></font>ease do not r<font></font>eply to this e-<font></font>mail. Mail sent to this ad<font></font>dress ca<font></font>nnot be answe<font></font>red.<br><br>
+</pre>
+</td></tr></table>
+
+

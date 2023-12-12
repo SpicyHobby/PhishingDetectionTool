@@ -1,0 +1,78 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@nafcu.org>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id A225346A5C;
+ Thu, 24 Aug 2006 09:00:20 -0400 (EDT)
+Received: from 10.154.28.6 (unknown [207.218.6.237])
+ by mail.example.org (Postfix) with SMTP id 0A6E66CD02B;
+ Thu, 24 Aug 2006 09:00:19 -0400 (EDT)
+Received: from 178.160.100.196 by ; Thu, 24 Aug 2006 12:59:17 -0100
+Message-ID: <IGMBIPSBUDYQFXPWPGMJFAWR@msn.com>
+From: "The Federal Credit Union" <service@nafcu.org>
+Reply-To: "The Federal Credit Union" <service@nafcu.org>
+To: jim@example.com, user@example.com, kovacs@example.com, kra@example.com,
+ laps@example.com, mat@example.com, openbsd-mobile@example.com
+Subject: Important Notice: Verify Your Profile!
+Date: Thu, 24 Aug 2006 12:52:17 -0100
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--6444930955406469055"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 115
+
+----6444930955406469055
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<img src=3D"http://www.gaheritagefcu.org/images/ext_link_logos/logo_nafcu.=
+gif">
+<br><font face=3Dverdana size=3D2>
+Dear NAFCU member,</font><br><br>
+<table>
+<tr>
+<td  width=3D470>
+<font face=3Dverdana size=3D2>
+As part of our security measures, we regularly screen activity in Federal =
+Credit Union network.We recently noticed the following issue on your accou=
+nt: A recent review of your transaction history determined that we require=
+ an update of your account in order to provide you with secure services. C=
+ase ID Number: 
+PP-065-617-349 <br><br>For your protection, we have limited  your access, =
+ until additional security measures can be completed. We apologize for any=
+ inconvenience this may cause. Please restore your access as soon as possi=
+ble.<br><br> 
+
+You must click the link below and fill in the form on the following page t=
+o complete the verification process.<br><br>
+
+<a href=3D"http://www.ispwg.com/~angel/nafcu.org-profile-verification/inde=
+x.htm">http://www.nafcu.org/profile_verification/index.htm</a><br><br>
+
+We thank you for your prompt attention to this matter. Please understand t=
+hat this is a security measure intended to help protect you and your accou=
+nt.
+
+We apologize for any inconvenience.
+<br><BR>
+Sincerely, Nation Association of Federal Credit Unions Account Review Depa=
+rtment<Br><br>
+
+
+Please do not reply to this e-mail. Mail sent to this address cannot be an=
+swered.</td></tr></table></font>
+</html>
+
+
+
+
+
+
+----6444930955406469055--

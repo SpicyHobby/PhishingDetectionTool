@@ -1,0 +1,83 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <nobody@sh58.surpasshosting.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C53B146A7A
+ for <user@login.example.com>; Sun,  3 Dec 2006 22:10:11 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id BBABE131FF8B
+ for <user@example.com>; Sun,  3 Dec 2006 22:10:11 -0500 (EST)
+Received: from sh58.surpasshosting.com (unknown [72.29.74.74])
+ by mail.example.org (Postfix) with ESMTP id C02F66FA5B4
+ for <user@example.com>; Sun,  3 Dec 2006 22:10:11 -0500 (EST)
+Received: from nobody by sh58.surpasshosting.com with local (Exim 4.52)
+ id 1Gr4DV-0000GL-1t
+ for user@example.com; Sun, 03 Dec 2006 22:10:05 -0500
+To: user@example.com
+Subject: Please review your account.
+From: eBay Account Review <ar_team@server1.ebay.com>
+Content-Type: text/html
+Message-Id: <E1Gr4DV-0000GL-1t@sh58.surpasshosting.com>
+Date: Sun, 03 Dec 2006 22:10:05 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sh58.surpasshosting.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - sh58.surpasshosting.com
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: sim-php.info:/public_html/p2puk2006/albums/temp/spamebay
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 470
+
+
+<html>
+<head>
+<title>Dear eBay Community Member</title>
+<style>
+<!--
+.style1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+}
+-->
+</style>
+</head>
+<body>
+<table width="496" border="0">
+  <tr>
+    <td width="490" style="font-family: arial; font-size: 10pt"><img src="http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif" border="0"></td>
+  </tr>
+  <tr>
+    <td height="169" valign="top" style="font-family: arial; font-size: 10pt"><p class="style1">
+	<span class="treb">Dear eBay Customer, <br>
+	<br>
+	We are contacting you to inform that our Account Review Team identified some 
+	unusual activity in your account. <br><br>
+	Our team found a stolen credit card information on your account.<br><br>
+	In accordance with our rules and to ensure that your account has not been 
+	compromised, access to your account was suspended. Your account access will 
+	remain suspended until this issue is resolved. <br>
+	<br>
+	To secure your account and quickly restore full access we will require some 
+	additional information from you and, you need to replace the stolen information with yours.<br>
+	<br>
+	Please, click the link bellow in order to fulfill the Security Team 
+	requirements: <br>
+	<br>
+	<a href="http://www.modela-lisa.com/ws/redirect.php">eBay - Customer Service</a><br>
+	<br>
+	The process is mandatory, and if not completed, your account will be subject 
+	to temporary suspension. <br>
+	<br>
+	Sincerely Yours,<br>
+	Raymundo Hurley<br>
+	eBay Inc - Billing. </span></p>      </td>
+  </tr>
+</table>
+</body>
+</html>

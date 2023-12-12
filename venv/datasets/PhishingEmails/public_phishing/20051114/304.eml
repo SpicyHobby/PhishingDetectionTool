@@ -1,0 +1,117 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <service@amazon.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id BCFFB536E12
+ for <username@login.domain.com>; Sat,  8 Oct 2005 13:04:03 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id BE81D6FA282
+ for <username@domain.com>; Sat,  8 Oct 2005 13:04:01 -0400 (EDT)
+Received: from 192.168.3.4 (unknown [69.57.156.83])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Sat,  8 Oct 2005 13:04:01 -0400 (EDT)
+Received: from z2.7j6d.org ([0.180.95.73]) by 192.168.3.4 with ESMTP id
+ 06DE54E2A24; Sat, 08 Oct 2005 22:02:59 +0400
+Message-ID: <1ed316$4-c-6-8$xi0h550n@02ozf.6jxq>
+From: "Amazon" <service@amazon.com>
+To: <username@domain.com>
+Subject: Revision to Your Amazon.com Information
+Date: Sat, 08 Oct 05 22:02:59 GMT
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="E.5.FB_8._DD_..D_7B.E9"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.1 required=5.0 tests=DATE_IN_FUTURE_03_06,
+ DATE_SPAMWARE_Y2K,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,
+ FORGED_OUTLOOK_TAGS,HTML_40_50,HTML_IMAGE_ONLY_20,HTML_MESSAGE,
+ HTML_TAG_EXIST_TBODY,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_RANDY,NORMAL_HTTP_TO_IP,
+ RCVD_BY_IP,RCVD_HELO_IP_MISMATCH,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 3.9 DATE_SPAMWARE_Y2K Date header uses unusual Y2K formatting
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.8 DATE_IN_FUTURE_03_06 Date: is 3 to 6 hours after Received: date
+ *  0.9 RCVD_ILLEGAL_IP Received: contains illegal IP address
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.9 MSGID_RANDY Message-Id has pattern used in spam
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+X-UID: 323
+Status: RO
+Content-Length: 2132
+Lines: 56
+
+This is a multi-part message in MIME format.
+
+--E.5.FB_8._DD_..D_7B.E9
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<HTML>
+<BODY>
+
+<br><br><table style=3D"width:900px" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" align=3D"center">
+	<tr>
+<img SRC=3D"http://g-images.amazon.com/images/G/01/nav/amazon/amzn-logo-11=
+8w.gif"  BORDER=3D0 height=3D23 width=3D100>
+	</tr>
+
+<P><BR><BR>
+<P class=3Dstyle6>
+<P class=3Dstyle4 align=3Dleft><SPAN class=3Dstyle7>At the last reviewing =
+at your amazon account we discovered that your information is inaccurate. =
+We apologize for this but because most frauds are possible because we don'=
+t have enough information about our clients, we require this verification.=
+ Please login and reenter  your personal information</SPAN>. 
+<P class=3Dstyle2 align=3Dcenter>
+<P class=3Dstyle7 align=3Dleft>Please follow this link to update your pers=
+onal information: 
+<P class=3Dstyle2 align=3Dleft><BR>
+<P>
+<P class=3Dstyle2 align=3Dleft><A class=3Dstyle3 href=3D"http://202.44.8.4=
+0/work/amazon.com/exec/obidos?home.html/104-2497720-5229513" target=3D"_bl=
+ank" > http://www.amazon.com/exec/obidos/sign-in.html</A> 
+<P class=3Dstyle5 align=3Dleft>(To complete the verification process you m=
+ust fill in all the required fields) 
+<P>
+<P>
+<P>
+<P><SPAN class=3Dstyle3>Please note: </SPAN><SPAN class=3Dstyle7>If you do=
+n't update your information within next 48 hours , we will be forced to su=
+spend your account untill you have the time to contact us by phone</SPAN>.=
+ 
+<P>
+<P>We apreciate your support and understanding, as we work together to kee=
+p amazon market a safe place to trade. Thank you for your attention on thi=
+s serious matter and we apologize. <BR>
+<P>
+<TABLE cellSpacing=3D0 cellPadding=3D0>
+</TD></TR></TBODY></TABLE>
+<HR align=3Dleft SIZE=3D1>
+<SPAN class=3Dstyle10>This message was generated automatically, please do =
+not reply to it. Amazon treats your personal information with the utmost c=
+are, and our Privacy Policy is designed to protect you and your informatio=
+n.</SPAN> 
+<HR noShade SIZE=3D1>
+</TD></TR></TABLE>
+
+--E.5.FB_8._DD_..D_7B.E9--

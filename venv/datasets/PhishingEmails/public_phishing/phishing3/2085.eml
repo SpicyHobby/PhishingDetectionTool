@@ -1,0 +1,278 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <payment-update@amazon.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B85B3468EA
+ for <user@login.example.com>; Mon, 11 Jun 2007 09:28:15 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 12239131FA09
+ for <user@example.com>; Mon, 11 Jun 2007 09:28:14 -0400 (EDT)
+Received: from deswood.com (mail.deswood.com [64.162.7.226])
+ by mail.example.org (Postfix) with ESMTP id A13B36FA1C5
+ for <user@example.com>; Mon, 11 Jun 2007 09:28:13 -0400 (EDT)
+Received: from User ([64.166.222.185]) by deswood.com with Microsoft
+ SMTPSVC(6.0.3790.1830); Mon, 11 Jun 2007 06:25:35 -0700
+Reply-To: <no.replay@amazon.com>
+From: "Amazon Customer Service"<payment-update@amazon.com>
+Subject: Important Notice: Your Amazon.com Order (#002-5081318-3276061).
+Date: Mon, 11 Jun 2007 06:26:41 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+Message-ID: <DESIGN-SBSXsNQptgFr00000145@deswood.com>
+X-OriginalArrivalTime: 11 Jun 2007 13:25:35.0421 (UTC)
+ FILETIME=[FE59AED0:01C7AC2B]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1382
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Important Notice: Your Amazon.com Order (#002-5081318-3276061)</title>
+<style type="text/css">
+<!--
+#branding {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 45px;
+}
+#content {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        line-height: normal;
+        font-weight: normal;
+        font-variant: normal;
+        margin-left: auto;
+        margin-right: auto;
+        width: 600px;
+        margin-top: 13px;
+}
+#copyright {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        font-style: normal;
+        line-height: normal;
+        font-weight: normal;
+        font-variant: normal;
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        color: #999999;
+        margin-bottom: 10px;
+}
+#logo {
+        background-image: url(http://g-images.amazon.com/images/G/04/icons/amazon-logo.gif);
+        width: 255px;
+        height: 40px;
+        margin-right: auto;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        font-weight: normal;
+        font-variant: normal;
+        background-repeat: no-repeat;
+        margin-top: 20px;
+        display: block;
+        text-indent: -9999px;
+        margin-bottom: 10px;
+}
+#branding .logo h1 {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+}
+#blue {
+        background-image: url();
+        background-repeat: repeat-x;
+        background-color: #EEEECC;
+        height: 29px;
+}
+html {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+body {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+}
+.ppl_link {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        line-height: normal;
+        font-weight: normal;
+        font-variant: normal;
+        display: block;
+        width: 400px;
+        height: 20px;
+        margin-top: 10px;
+        text-align: center;
+        background-color: #EEEECC;
+        border: 1px solid #EEEECC;
+        padding-top: 10px;
+}
+#right {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        width: 251px;
+        float: right;
+        border: 1px solid #CCCCCC;
+        display: block;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        overflow: auto;
+}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+/*ul {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        display: block;
+        width: 95px;
+        height: 99px;
+        list-style-type: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+}
+*/
+#right #protect {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: bold;
+        font-variant: normal;
+        color: #000000;
+        display: block;
+        background-color: #DBDBDB;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 22px;
+        text-align: center;
+}
+#content #right #nota {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #000000;
+        display: block;
+        margin: 10px;
+}
+li {
+        font-family: Arial, Helvetica, sans-serif;
+        background-image: url(http://www.aksi.net/site-security-info/verisign-logo.gif);
+        width: 95px;
+        height: 99px;
+        display: block;
+        background-repeat: no-repeat;
+        margin: 5;
+}
+ul {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        display: block;
+        width: 95px;
+        height: 99px;
+        list-style-type: none;
+        position: relative;
+        margin-right: 42px;
+        float: inherit;
+}
+#nav {
+        font-family: Arial, Helvetica, sans-serif;
+}
+#content #right #nav #repplace {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        display: block;
+        width: 95px;
+        height: 99px;
+        background-image: url(http://www.aksi.net/site-security-info/verisign-logo.gif);
+        margin-left: auto;
+        margin-right: auto;
+}
+.a {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        height: 99px;
+        width: 95px;
+        float: left;
+        display: block;
+        background-image: url(http://www.aksi.net/site-security-info/verisign-logo.gif);
+        background-repeat: no-repeat;
+        text-indent: -9999px;
+}
+
+
+-->
+</style>
+</head>
+
+<body>
+<div class="branding" id="branding">
+  <div class="logo" id="logo">
+    <h1><a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://tzutzu.octopis.com/mylove.php" target="_blank">Amazon</a></h1>
+  </div>
+</div>
+
+<div class="blue" id="blue"></div>
+
+
+
+<div class="content" id="content">
+
+
+<div align=center><span class="heading" >Greetings from Amazon.com.</span></div>
+  <p><span class="style1">We have not yet received a valid method of payment and thus are unable to
+proceed with your order (#002-5081318-3276061). Your order remains open.
+
+<br />
+    <br />
+    Your credit card payment for the above transaction could not be completed.
+An issuing bank will often decline an attempt to charge a credit card if the name, expiration date, or ZIP Code you entered at Amazon.com does not exactly match the bank's information.
+<br />
+
+
+    &nbsp;&nbsp;&nbsp;<br />
+    To verify and/or update payment information for this order, please visit the
+following page: </span></p>
+<div align=center> <p class="ppl_link" id="ppl_link"><a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://tzutzu.octopis.com/mylove.php">https://www.amazon.com/gp/css/account/payment-update</a></p></div>
+  <p><span class="style1">
+  Please note that if we do not receive payment from you within the next 3 days, your order will be canceled.
+<br /><br />
+If you would like to cancel the above order (#002-5081318-3276061) now, please visit the following page:
+<br />
+<a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://tzutzu.octopis.com/mylove.php">https://www.amazon.com/gp/css/homepage/order-summary</a>
+<br /><br />
+
+  This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted. Amazon and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail. <br />
+    <br />
+    You can view our privacy policy and contact information at: <br />
+<a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://tzutzu.octopis.com/mylove.php">http://www.amazon.com/gp/help/customer/policy_privacy</a> &nbsp;&nbsp;<br />
+  &nbsp;<br />
+    </span><span class="style1">
+      Thank you for shopping at Amazon.com.<br />
+      Sincerely,<br/>
+      Amazon.com Customer Service</span><br />
+  </p>
+</div><div class="copyright" id="copyright">
+  <hr width="590" size="1" class="dotted" />
+  <p class="xptFooter">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, <a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://tzutzu.octopis.com/mylove.php" target="_blank">log in</a> to your Amazon account and choose the Help link located in the top right corner of any Amazon page.<br />
+      <br class="h10" />
+  To receive email notifications in plain text instead of HTML, update your preferences <a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://tzutzu.octopis.com/mylove.php" target="_blank">here</a>.<br />
+  <span class="xptFooter"><br />
+</span></p>
+  </div>
+</body>
+</html>

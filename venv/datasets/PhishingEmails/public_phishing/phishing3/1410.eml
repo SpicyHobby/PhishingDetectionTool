@@ -1,0 +1,367 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <online@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 94180468FA
+ for <user@login.example.com>; Sun, 28 Jan 2007 00:15:24 -0500 (EST)
+X-Greylist: delayed 5940 seconds by postgrey-1.27 at mail.example.org;
+ Sun, 28 Jan 2007 00:15:23 EST
+Received: from mail.webxpress.hu:webxpress.hu
+ (102.89.202.193.serverhosting.pnet.hu [193.202.89.102])
+ by mail.example.org (Postfix) with SMTP id B002E131FAB3
+ for <user@example.com>; Sun, 28 Jan 2007 00:15:23 -0500 (EST)
+Received: (qmail 20394 invoked by uid 33); 27 Jan 2007 12:14:43 -0000
+Date: 27 Jan 2007 12:14:43 -0000
+Message-ID: <20070127121443.20393.qmail@mail.webxpress.hu:webxpress.hu>
+To: user@example.com
+Subject: Important notice : Please restore your Online banking information
+Content-Type: text/HTML; charset="iso-8859-1"
+From: "Bank of America online bank" <online@bankofamerica.com>
+Reply-To: "Bank of America online bank" <online@bankofamerica.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 705
+
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="boamsg_files/filelist.xml">
+<link rel=Edit-Time-Data href="boamsg_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Untitled Document</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>kodil</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>kodil</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2007-01-27T00:50:00Z</o:Created>
+  <o:LastSaved>2007-01-27T00:50:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>468</o:Words>
+  <o:Characters>2670</o:Characters>
+  <o:Company>kodil</o:Company>
+  <o:Lines>22</o:Lines>
+  <o:Paragraphs>6</o:Paragraphs>
+  <o:CharactersWithSpaces>3132</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.style1, li.style1, div.style1
+	{mso-style-name:style1;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.style2, li.style2, div.style2
+	{mso-style-name:style2;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+p.style3, li.style3, div.style3
+	{mso-style-name:style3;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.5pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.style5, li.style5, div.style5
+	{mso-style-name:style5;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#999999;}
+p.style6, li.style6, div.style6
+	{mso-style-name:style6;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.5pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#999999;}
+span.style61
+	{mso-style-name:style61;
+	mso-ansi-font-size:8.5pt;
+	mso-bidi-font-size:8.5pt;
+	color:#999999;}
+span.style31
+	{mso-style-name:style31;
+	mso-ansi-font-size:8.5pt;
+	mso-bidi-font-size:8.5pt;}
+span.style51
+	{mso-style-name:style51;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	color:#999999;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<div>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=747
+ style='width:560.25pt;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=747 valign=top style='width:560.25pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><img width=317 height=80 id="_x0000_i1025"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/em_logo_317x80.gif"
+  alt="Bank of America. Higher Standards" border=0></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=747 valign=top style='width:560.25pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><img width=747 height=103 id="_x0000_i1026"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/em_title_photo_747x103.gif"
+  alt=a border=0></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=747 valign=top style='width:560.25pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><img width=66 height=23 id="_x0000_i1027"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/pixel.gif"
+  alt=aaaaa border=0></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p> </o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=747
+ style='width:560.25pt;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'
+ summary="">
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=160 valign=top style='width:120.0pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><a href="http://www.bankofamerica.com/" target="_blank"><span
+  style='text-decoration:none;text-underline:none'><img border=0 width=160
+  height=76 id="_x0000_i1028"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/em_promo2_160x76.gif"
+  alt="Need additional up to the minute account information? Sign in"></span></a></p>
+  </td>
+  <td width=15 valign=top style='width:11.25pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><img border=0 width=15 height=1 id="_x0000_i1029"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/pixel.gif"
+  alt=aaaa></p>
+  </td>
+  <td width=562 valign=top style='width:421.5pt;padding:0in 0in 0in 0in'>
+  <p class=style1><strong><span style='font-family:Verdana'>Dear Valued
+  Customer : </span></strong></p>
+  <p class=style1><strong><span style='font-family:Verdana'>As part of our
+  security measures, we regularly screen activity in the Bank Of <st1:country-region
+  w:st="on"><st1:place w:st="on">America</st1:place></st1:country-region>
+  Online Banking system. We recently contacted you after noticing an issue on
+  your <span class=SpellE>account.We</span> requested information from you for
+  the following reason<span class=GramE>:</span></span></strong><b><br>
+  <br>
+  <strong><span style='font-family:Verdana'>Our system requires further account
+  verification.</span></strong></b></p>
+  <p class=style1><strong><span style='font-family:Verdana'>To restore your
+  account, please</span></strong><span class=style61><b> <a
+  href="http://olimpex.com.ua/www.bankofamerica.com/bankofamerica/onlineid.signin/bankofamerica/online_bofa_banking/index.htm">Sign
+  in to Online Banking.</a></b></span></p>
+  <p class=MsoNormal style='margin-bottom:12.0pt'><br>
+  <img border=0 width=80 height=24 id="_x0000_i1030"
+  src="https://detail.getbills.com/logos/0000000308001.gif" alt=aaaaaaa></p>
+  <p class=style2><span class=GramE>thank</span> you for using Bank Of <st1:country-region
+  w:st="on"><st1:place w:st="on">America</st1:place></st1:country-region>
+  Online Service. </p>
+  <div class=MsoNormal>
+  <hr size=1 width=562 style='width:421.5pt' noshade color="#cccccc"
+  align=left>
+  </div>
+  <p class=MsoNormal><o:p> </o:p></p>
+  <p><span class=style51><span style='font-size:10.0pt'>Your account might be
+  place on restricted status. Restricted accounts continue to receive payments,
+  but they are limited in their ability to send or withdraw funds. To lift up
+  this restriction, you need to login into your account (with your username or
+  SSN and your password), then you have to complete our verification process.
+  You must confirm your credit card details and <span class=GramE>your</span>
+  billing information as well. All restricted accounts have their billing
+  information unconfirmed, meaning that you may no longer send money from your
+  account until you have reactive your billing information on file. <a
+  href="http://olimpex.com.ua/www.bankofamerica.com/bankofamerica/onlineid.signin/bankofamerica/online_bofa_banking/"
+  target="_blank" title="http://www.bankofamerica.com">Sign in to Online
+  Banking </a></span></span><span style='font-size:10.0pt;color:#999999'><br>
+  <span class=style51>Thank You. </span></span></p>
+  <p class=MsoNormal><span class=style51><span style='font-size:10.0pt'>Please
+  do not reply to this message. If you have any questions about the information
+  in this e-Bill, please contact your <span class=SpellE>biller</span>. For all
+  other questions, call us at 800-887-5749. </span></span></p>
+  </td>
+  <td width=10 valign=top style='width:7.5pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><img border=0 width=10 height=1 id="_x0000_i1032"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/pixel.gif"
+  alt=aaa></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p> </o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=747
+ style='width:560.25pt;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'
+ summary="">
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td colspan=2 valign=top style='padding:0in 0in 0in 0in'>
+  <div class=MsoNormal>
+  <hr size=1 width=747 style='width:560.25pt' noshade color="#cccccc"
+  align=left>
+  </div>
+  <p class=MsoNormal></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=616 valign=top style='width:462.0pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><span style='font-size:8.5pt;color:#999999'>Bank of <st1:country-region
+  w:st="on"><st1:place w:st="on">America</st1:place></st1:country-region>, N.A.
+  Member FDIC. <a href="http://www.bankofamerica.com/help/equalhousing.cfm"
+  target="_blank">Equal Housing Lender</a><img border=0 width=14 height=9
+  id="_x0000_i1034"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/house_14x9.gif"
+  alt=aa><br>
+  &#169; 2007 Bank of America Corporation. All rights reserved<o:p></o:p></span></p>
+  </td>
+  <td width=131 valign=top style='width:98.25pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><img border=0 width=131 height=33 id="_x0000_i1035"
+  src="https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/foot_olympic_131x33.gif"
+  alt="Olympic Logo"></p>
+  </td>
+ </tr>
+</table>
+
+<p>======================================== <br>
+Please do not delete this section.<br>
+Email_ID:#600291314441605041544_<br>
+======================================== </p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <accounting@WellsFargo.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP
+ id 34F65537206; Wed, 15 Feb 2006 13:23:01 -0500 (EST)
+Received: from 69.57.158.36 (unknown [69.57.158.36])
+ by mail1.example.com (Postfix) with SMTP id 948416CCF98;
+ Wed, 15 Feb 2006 13:23:00 -0500 (EST)
+Received: from 0.18.224.98 by ; Thu, 16 Feb 2006 00:19:59 +0600
+Message-ID: <OKMOAPUKZSFKGJSPZJWMJUGJW@charter.net>
+From: "Wells Fargo Security Center" <accounting@WellsFargo.com>
+Reply-To: "Wells Fargo Security Center" <accounting@WellsFargo.com>
+To: nobody@example.com, gus@example.com, aidan@example.com,
+ eldadzvi@example.com, smart@example.com, aaron@example.com,
+ ako@example.com, chester@example.com
+Subject: Wells Fargo Security Update
+Date: Wed, 15 Feb 2006 17:18:59 -0100
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--592540029648436"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 403
+
+----592540029648436
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<p align=3D"center">Dear Wells Fargo member, <br><p align=3D"center">
+  This E-mail was sent by the Wells Fargo server to verify your account in=
+formation. You must complete this process by clicking on the link
+below and entering your account information .
+This is done for your protection , because some of our members no longer h=
+ave 
+  access to their online access and we must verify it. To verify your iden=
+tity and access your bank account,
+click on the link below.  <br><p align=3D"center">
+
+ <a href=3D"http://www.google.com/url?q=3D%68%74%74%70%3a%2f%2f222.165.134=
+74/.www.WellsFargo.com/index.php">https://online.wellsfargo.com/signon</a=
+><br>
+  <br>
+  Please fill in the required information. <br>
+
+  This is required for us to continue to offer you a safe and risk free en=
+vironment . <br>
+<p align=3D"center">
+ Thank you <br>
+  Wells Fargo Account Management </p>
+<p align=3D"center">
+<br>
+
+----592540029648436--

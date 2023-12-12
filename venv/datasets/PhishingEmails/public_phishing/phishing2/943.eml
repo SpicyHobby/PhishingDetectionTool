@@ -1,0 +1,47 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <apache@web-73.blueweb.co.kr>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 77A64CAB4A4
+ for <nobody@login.example.com>; Mon, 15 May 2006 18:33:56 -0400 (EDT)
+Received: from web-73.blueweb.co.kr (web-73.blueweb.co.kr [211.202.2.73])
+ by mail2.example.com (Postfix) with ESMTP id 0614D6FA327
+ for <nobody@example.com>; Mon, 15 May 2006 18:33:55 -0400 (EDT)
+Received: from web-73.blueweb.co.kr (localhost.localdomain [127.0.0.1])
+ by web-73.blueweb.co.kr (8.12.8/8.12.8) with ESMTP id k4FMXqqd002014
+ for <nobody@example.com>; Tue, 16 May 2006 07:33:53 +0900
+Received: (from apache@localhost)
+ by web-73.blueweb.co.kr (8.12.8/8.12.8/Submit) id k4FMXqRJ002012;
+ Tue, 16 May 2006 07:33:52 +0900
+Date: Tue, 16 May 2006 07:33:52 +0900
+Message-Id: <200605152233.k4FMXqRJ002012@web-73.blueweb.co.kr>
+To: nobody@example.com
+Subject: ANZ Account Security Measures
+From: <service@anz.com>
+Reply-To: service@anz.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear nobody@example.com,<br><br> 
+We recently noticed one or more attempts to log in to your TradeMe account 
+from a different IP addresses.<br><br> 
+If you recently accessed your account while traveling, the unusual log in 
+attempts may have been initiated by you. However, if you did not initiate 
+the log ins, please visit TradeMe as soon as possible to check-up your 
+account information:<br><br> 
+<a
+href="http://www.sunrise.cc/bbs/anz.php"><font>ht</font><font>tp</font><font>://w</font><font>ww.</font><font>anz</font><font>.co</font><font>m/i</font><font>net</font><font>bank</font><font>/bankmain</font><font>.asp</font></a><br><br> 
+Thanks for your patience.<br><br> 
+Sincerely, 
+ANZ Security Department<br><br> 
+----------------------------------------------------------------<br><br> 
+Please do not reply to this e-mail. Mail sent to this address cannot be 
+answered.<br><br> 
+Email ID 376223
+
+

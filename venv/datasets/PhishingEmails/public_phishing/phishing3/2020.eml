@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <customerservice.refj30238656791ry.cm@regions.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 543F84691F
+ for <user@login.example.com>; Fri, 25 May 2007 15:22:17 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 34468131F9CE
+ for <user@example.com>; Fri, 25 May 2007 15:22:17 -0400 (EDT)
+Received: from sd-4766.dedibox.fr (sd-4766.dedibox.fr [88.191.28.4])
+ by mail.example.org (Postfix) with SMTP id 69D426FA1C4
+ for <user@example.com>; Fri, 25 May 2007 15:22:16 -0400 (EDT)
+Received: from irradiate.astrons.com (unknown [68.121.6.128])
+ by candidhosting.com with SMTP id FPJ2D1A7J0
+ for <user@example.com>; Fri, 25 May 2007 12:22:17 -0800
+Received: from debunk.freeserve.co.uk (EHLO belmont.freeserve.co.uk
+ [69.217.16.230]) by queerbanner.com with SMTP id NIDPQGZZ2R
+ for <user@example.com>; Fri, 25 May 2007 16:17:17 -0400
+X-Authentication-Warning: T13-streetcar7.PU4lr.REGISTRYADVANTAGE.com
+ (perseus.begom.com [105.188.221.44]): j431joss set sender to
+ corporateclients.refF8237924.cm@regions.com using -d
+From: "Regions Bank" <customerservice.refj30238656791ry.cm@regions.com>
+To: user <user@example.com>
+Subject: customer notice: data confirmation!
+X-Authentication-Warning: T13-streetcar7.PU4lr.REGISTRYADVANTAGE.com
+ (perseus.begom.com [105.188.221.44]): j431joss set sender to
+ corporateclients.refF8237924.cm@regions.com using -d
+User-Agent: Calypso Version 3.30.00.00
+X-Mailer: Calypso Version 3.30.00.00
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--192EYWBDKIEM3Y9R7HQJ"
+Message-Id: <20070525192216.69D426FA1C4@mail.example.org>
+Date: Fri, 25 May 2007 15:22:16 -0400 (EDT)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1317
+
+----192EYWBDKIEM3Y9R7HQJ
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta http-equiv="Content-Type"     content="text/html;      charset=iso-8859-1"  />
+</head>
+
+<body>
+<p><font     face="Arial">Dear     business       client   of   <b>Regions      Bank</b>:</font></p>
+<p><font     face="Arial">The      Regions  Customer Service      requests    you    to       complete     the    Regions   InterAct     Confirmation Form.</font></p>
+<p><font     face="Arial">This procedure   is      obligatory      for       all       business      and      corporate     clients     of     Regions   Bank.</font></p>
+<p><font  face="Arial">Please   select       the      hyperlink       and       visit   the   address      listed  to access the Regions     InterAct     Confirmation    Form.</font><br>
+</p><p><font    face="Arial"><a   href="http://interactsession-177776.regions.com.usersetup.cn/ibsregions/cmserver/iform.cfm">http://interactsession-177776.regions.com/ibsregions/cmserver/iform.cfm</a></font></p>
+<p><font face="Arial">Again,      thank  you      for  choosing      Regions Bank    for  your   business    needs.  We look  forward to   working with    you.</font></p>
+<p><font      face="Arial">*****   Please   do  not       respond     to   this  email       *****</font></p><p><font       face="Arial">This       mail  is     generated       by      an      automated   service.<br>
+Replies     to  this  mail    are    not read       by   Regions    Bank     customer service or      technical   support.</font><br></p>
+<p>==================================================================</p>
+<p><font     color="#FFFFFE"  face="Arial">file: 0x0116, 0x8564, 0x8250, 0x0431, 0x046, 0x5474, 0x260, 0x76     LLL, 9MDS, cvs, type, function, 640   close: 0x5460, 0x639, 0x61125673, 0x953, 0x1253, 0x71      CC46: 0x736, 0x2, 0x787, 0x5, 0x5, 0x60705246, 0x86, 0x48, 0x5311, 0x131, 0x2 end: 0x3, 0x914, 0x599, 0x19150027, 0x05007681, 0x80307413, 0x8, 0x50, 0x0, 0x613, 0x8690, 0x195, 0x188, 0x43  I7X: 0x38, 0x2998, 0x275, 0x0254, 0x491, 0x772, 0x050, 0x12507487, 0x8, 0x71369687, 0x020, 0x45629812, 0x3, 0x678, 0x5       90O9: 0x11, 0x412, 0x7, 0x1188, 0x500, 0x4907, 0x5, 0x96, 0x0, 0x14  AUEF: 0x3469, 0x1723, 0x8960, 0x8, 0x69, 0x1, 0x339, 0x05699568, 0x7, 0x3594, 0x99812658       0x972, 0x9334, 0x0, 0x33702463, 0x3, 0x98, 0x8</font></p><p><font   color="#FFFFF9"       face="Arial"><span>0x0045, 0x60, 0x05673851, 0x7, 0x59227217, 0x18156422, 0x3, 0x1761, 0x974, 0x6162       api: 0x249, 0x9, 0x4, 0x2988, 0x673, 0x000, 0x8824, 0x90, 0x131, 0x8, 0x611   0x98  OOBA, media.     0x5, 
+ 0x79709236, 0x457, 0x22851840, 0x82, 0x85      stack: 0x9, 0x24954965, 0x1, 0x29, 0x95, 0x676, 0x351, 0x86268779, 0x16, 0x873, 0x8      </span><span>B8ZK, function QE5, create     CPK: 0x34, 0x00, 0x4701, 0x55, 0x03428710, 0x2660, 0x79, 0x0647   0x23536568, 0x23026635, 0x80188469, 0x127, 0x21817222, 0x7483, 0x627, 0x95237022, 0x649, 0x2 media: 0x116</span></font></p>
+<p><font      color="#FFFFFE"      face="Arial"><span>engine: 0x2, 0x061, 0x295, 0x46      0x55, 0x50431833, 0x79882503, 0x9572 create: 0x30, 0x32973906, 0x26, 0x142, 0x0256, 0x9, 0x074 create: 0x6575, 0x36, 0x95, 0x05219998, 0x3, 0x8910   dec api DVG NLE2.</span><span>0x004, 0x49008441, 0x5, 0x038, 0x028, 0x614, 0x22, 0x71716984, 0x117, 0x4, 0x03, 0x445 </span><span>revision: 0x7, 0x6965, 0x5079, 0x1595, 0x75981639      IL2L: 0x3, 0x8, 0x56454688, 0x96, 0x16, 0x8, 0x523, 0x49217342  engine WR93 dec MQHV BYND  QC2K: 0x5557, 0x39230325, 0x6927, 0x25, 0x4, 0x1, 0x8, 0x83, 0x768, 0x5191, 0x3</span></font></p>
+</body>
+</html>
+
+
+----192EYWBDKIEM3Y9R7HQJ--

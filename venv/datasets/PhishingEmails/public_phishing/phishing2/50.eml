@@ -1,0 +1,178 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <acc-overview@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 4F1085370A8
+ for <nobody@login.example.com>; Tue, 29 Nov 2005 18:31:26 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id BDD456FA384
+ for <nobody@example.com>; Tue, 29 Nov 2005 18:31:23 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Tue, 29 Nov 2005 18:31:23 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id B3CBD1BC4D; Wed, 30 Nov 2005 00:31:18 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id A0D3F1BC1B
+ for <foobee@example.com>; Tue, 29 Nov 2005 23:31:16 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 11175-10 for <foobee@example.com>;
+ Wed, 30 Nov 2005 00:30:49 +0100 (CET)
+Received: from 192.168.19.253 (unknown [209.33.63.248])
+ by lujan.example.com (Postfix) with SMTP id D83EF1BBE8
+ for <foobee@example.com>; Wed, 30 Nov 2005 00:30:42 +0100 (CET)
+Received: from 80.176.210.38 by ; Wed, 30 Nov 2005 03:24:41 +0400
+Message-ID: <HFWEPABKJZJXFZNEIBDNHA@charter.net>
+From: "PayPal Email ID PP321" <account@paypal.com>
+Reply-To: "PayPal Email ID PP321" <account@paypal.com>
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] PayPal Email ID PP321
+Date: Wed, 30 Nov 2005 00:29:41 +0100
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--967140983882071"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.7 required=5.0 tests=FORGED_MUA_EUDORA,
+ HTML_30_40,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.0 HTML_30_40 BODY: Message is 30% to 40% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  0.0 FORGED_MUA_EUDORA Forged mail pretending to be from Eudora
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 51
+
+----967140983882071
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<div id=3Dmessage>
+
+
+<!-- type =3D text -->
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+
+<title>Dear PayPal User</title>
+</head>
+
+<xbody>
+
+<p>Dear PayPal User,<br>
+<br>
+We recently noticed one or more attempts to log in to your PayPal <br>
+account from a foreign IP address.<br>
+<br>
+If you recently accessed your account while traveling, the unusual log <br=
+>
+in attempts may have been initiated by you. However, if you did not <br>
+initiate the log ins, please visit PayPal as soon as possible to update <b=
+r>
+your account:<br>
+<br>
+<a   href=3D"http://anket.anod.mn/.us/index.php?MfcISAPICommand=3DSignInFP=
+P" onclick=3D"return ShowLinkWarning()" onfiltered=3D"return ShowLinkWarni=
+ng()"
+>
+https://www.paypal.com/us/cgi-bin/webscr?cmd=3D_login-run</a><br>
+<br>
+Changing your password is a security measure that will ensure that you <br=
+>
+are the only person with access to the account.<br>
+<br>
+Thanks for your patience as we work together to protect your account.<br>
+<br>
+Sincerely,<br>
+PayPal <br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+PROTECT YOUR PASSWORD<br>
+<br>
+NEVER give your password to anyone, including PayPal employees. Protect <b=
+r>
+yourself against fraudulent websites by opening a new web browser (e.g. <b=
+r>
+Internet Explorer or Netscape) and typing in the PayPal URL every time <br=
+>
+you log in to your account.<br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+<br>
+<br>
+Please do not reply to this email. This mailbox is not monitored and <br>
+you will not receive a response. For assistance, log in to your PayPal <br=
+>
+account and click the Help link located in the top right corner of any <br=
+>
+PayPal page.<br>
+<br>
+PayPal Email ID PP321<br>
+<br>
+<br>
+&nbsp;</p>
+
+</xbody>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+<!-- toctype =3D X-unknown -->
+
+<!-- toctype =3D text -->
+<!-- text -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</html>
+
+
+----967140983882071--

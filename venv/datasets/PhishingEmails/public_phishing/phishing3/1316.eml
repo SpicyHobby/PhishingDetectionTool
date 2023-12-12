@@ -1,0 +1,101 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <wamu@email.wamu.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 14337468D8
+ for <user@login.example.com>; Fri, 12 Jan 2007 20:25:46 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id B8429131F704
+ for <user@example.com>; Fri, 12 Jan 2007 20:25:45 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+ id ABDB51C2BF; Sat, 13 Jan 2007 02:25:43 +0100 (CET)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 76B331C297
+ for <umeet@uninet.edu>; Sat, 13 Jan 2007 02:25:43 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 66E06760
+ for <umeet@uninet.edu>; Sat, 13 Jan 2007 02:25:43 +0100 (CET)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 27893-05 for <umeet@uninet.edu>;
+ Sat, 13 Jan 2007 02:25:34 +0100 (CET)
+Received: from rocinante.compendium.com.ar (unknown [200.69.230.3])
+ by lujan.uninet.edu (Postfix) with ESMTP id D3D511C236
+ for <umeet@uninet.edu>; Sat, 13 Jan 2007 02:25:33 +0100 (CET)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.compendium.com.ar (Postfix) with ESMTP id 951F750005D
+ for <umeet@uninet.edu>; Fri, 12 Jan 2007 22:25:32 -0300 (ART)
+Received: from rocinante.compendium.com.ar ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 29864-05 for <umeet@uninet.edu>;
+ Fri, 12 Jan 2007 22:25:30 -0300 (ART)
+Received: from 72.4.175.239 (72-4-175-239.ptr.primarydns.com [72.4.175.239])
+ by rocinante.compendium.com.ar (Postfix) with SMTP id 3D5E8500041
+ for <umeet@uninet.edu>; Fri, 12 Jan 2007 22:25:28 -0300 (ART)
+Received: from 148.224.212.24 by ; Fri, 12 Jan 2007 19:22:27 -0600
+Message-ID: <divisible@yahoo.com>
+From: "Washington Mutual" <wamu@email.wamu.com>
+Reply-To: "Washington Mutual" <wamu@email.wamu.com>
+To: umeet@uninet.edu
+Subject: Your Washington Mutual Online Access Account
+Date: Fri, 12 Jan 2007 22:24:27 -0300
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--120427839456985372"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 at uninet.edu
+X-Spam-Status: Yes, hits=13.5 tagged_above=0.0 required=5.0 tests=AWL,
+ BAYES_95, HTML_10_20, HTML_MESSAGE, HTML_MIME_NO_HTML_TAG,
+ MIME_BOUND_DD_DIGITS, MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI,
+ MISSING_MIMEOLE, MPART_ALT_DIFF, MSGID_SPAM_LETTERS,
+ NORMAL_HTTP_TO_IP
+X-Spam-Level: *************
+X-Spam-Flag: YES
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 611
+
+----120427839456985372
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+Dear Washington Mutual Cardholder,<br><br>
+
+We regret to inform you that at our recent account verification we couldn'=
+t update your information because they were missing or they were incorrect=
+  For the User Agreement, Section 9,  we may immediately issue a warning,=
+  temporarily suspend,  indefinitely suspend or terminate your membership =
+and  refuse to  provide  our services to you if we believe that your actio=
+ns may cause financial loss or legal liability for you, our users or us.
+
+<br><br>To restore your card account access, please take the following ste=
+p, to ensure that your account has not been compromised:
+
+<br><br>- Login to your Online Service, complete your Washington Mutual Ac=
+cess form with your correct information  and check your account profile to=
+ make sure no changes have been made.
+
+<br><br>To get started, please follow the link below:
+
+<b>
+<a target=3D"_blank" href=3D"http://64.221.27.156.ptr.us.xo.net/index.html=
+">Click Here</a></b>          
+
+<br><br>We apologize for any inconvenience this may cause, and appreciate =
+your 
+assistance in helping us maintain the integrity of the entire Washington M=
+utual system. Thank you for your attention to this matter.
+
+<br><br>Thank You,		
+<br>Washington Mutual Security Center
+
+<br><br>Please do not reply to this message.
+<br>Copyright 2007 Washington Mutual Inc. All rights reserved.
+
+----120427839456985372--

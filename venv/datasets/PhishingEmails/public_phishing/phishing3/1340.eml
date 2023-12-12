@@ -1,0 +1,381 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <nobody@svr01.netskin.net>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 27290468DA
+ for <user@login.example.com>; Thu, 18 Jan 2007 02:20:07 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 42D23131FC38
+ for <user@example.com>; Thu, 18 Jan 2007 02:20:07 -0500 (EST)
+Received: from svr01.netskin.net (82.51.344a.static.theplanet.com
+ [74.52.81.130])
+ by mail.example.org (Postfix) with ESMTP id 1FC186FA1C4
+ for <user@example.com>; Thu, 18 Jan 2007 02:20:07 -0500 (EST)
+Received: from nobody by svr01.netskin.net with local (Exim 4.63)
+ (envelope-from <nobody@svr01.netskin.net>) id 1H7RYW-0006VU-8i
+ for user@example.com; Thu, 18 Jan 2007 08:19:28 +0100
+To: user@example.com
+Subject: Online Bank Account Update!
+From: Halifax Bank Plc <Online Service@Halifax.co.uk>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1H7RYW-0006VU-8i@svr01.netskin.net>
+Date: Thu, 18 Jan 2007 08:19:28 +0100
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - svr01.netskin.net
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - svr01.netskin.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 635
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="rbc%20mail_files/filelist.xml">
+<link rel=Edit-Time-Data href="rbc%20mail_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><o:SmartTagType
+ namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="Street"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="address"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>by_jeef</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Alh.Olalekan</o:LastAuthor>
+  <o:Revision>24</o:Revision>
+  <o:TotalTime>13</o:TotalTime>
+  <o:Created>2005-12-21T15:49:00Z</o:Created>
+  <o:LastSaved>2006-04-11T02:37:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>205</o:Words>
+  <o:Characters>1169</o:Characters>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1372</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1289362077;
+	mso-list-template-ids:-1818474392;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=588
+ style='width:441.0pt;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=550 style='width:412.5pt;padding:0in 0in 0in 0in'>
+  <p><span style='font-size:10.0pt;font-family:Arial;color:black'><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" alt="" style='width:228.75pt;
+   height:51pt'>
+   <v:imagedata src="http://halifax.co.uk/home/graphics/home_banner_left_020502.gif" o:href="http://halifax.co.uk/home/graphics/home_banner_left_020502.gif"/>
+  </v:shape><![endif]--><![if !vml]><img width=305 height=68
+  src="http://halifax.co.uk/home/graphics/home_banner_left_020502.gif" border=0 v:shapes="_x0000_i1025"><![endif]></span></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>Dear Customer,</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'> </span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>Our Technical Service
+  department has recently updated our online banking</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>software, and due to this
+  upgrade we kindly ask you to follow the</span><o:p></o:p></p>
+  <p class=MsoNormal><span class=GramE><span style='font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>link</span></span><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> given below to confirm your online account details.
+  Failure to</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>confirm the online banking
+  details will suspend you from accessing your</span><o:p></o:p></p>
+  <p class=MsoNormal><span class=GramE><span style='font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>account</span></span><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> online.</span><o:p></o:p></p>
+  <p><b><span style='font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+  "\@SimSun";color:black'><a
+  href="http://www.adult4adult.co.uk/chat/inc/cmses/Halifax-online.co.uk"><span
+  style='color:#00A8DC'>https://www.halifax-online.co.uk/_mem_bin/formslogin.asp</span></a></span></b>.</p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>We use the latest security
+  measures to ensure that your online banking</span><o:p></o:p></p>
+  <p class=MsoNormal><span class=GramE><span style='font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>experience</span></span><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> is safe and secure. The administration asks you to accept
+  our</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>apologies for the <span
+  class=SpellE>inconvience</span> caused and expresses gratitude for</span><o:p></o:p></p>
+  <p class=MsoNormal><span class=GramE><span style='font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>cooperation</span></span><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'>.</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'> </span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>Regards,</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'> </span><o:p></o:p></p>
+  <p class=MsoNormal><st1:City w:st="on"><st1:place w:st="on"><span
+    style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+    Arial;color:navy'>Halifax</span></st1:place></st1:City><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> Online Technical Support</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'> </span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>--</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'> </span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>Please do not reply to this
+  email address as it is not monitored and we</span><o:p></o:p></p>
+  <p class=MsoNormal><span class=GramE><span style='font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>will</span></span><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> be unable to respond.</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>For assistance, log in to
+  your Halifax Online Bank account and choose</span><o:p></o:p></p>
+  <p class=MsoNormal><span class=GramE><span style='font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>the</span></span><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> "Help" link on any page.</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'> </span><o:p></o:p></p>
+  <p class=MsoNormal><sup><span style='font-size:10.0pt;font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>©</span></sup><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> Halifax plc, Registered in <st1:country-region w:st="on"><st1:place
+   w:st="on">England</st1:place></st1:country-region> No. 2367076. Registered
+  Office:</span><o:p></o:p></p>
+  <p class=MsoNormal><st1:address w:st="on"><st1:Street w:st="on"><span
+    style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+    Arial;color:navy'>Trinity Road</span></st1:Street><span style='font-family:
+   Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;
+   color:navy'>, <st1:City w:st="on">Halifax</st1:City></span></st1:address><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'>, <st1:place w:st="on">West Yorkshire</st1:place> HX1 2RG. <span
+  class=SpellE>Authorised</span> and regulated</span><o:p></o:p></p>
+  <p class=MsoNormal><span class=GramE><span style='font-family:Georgia;
+  mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:Arial;color:navy'>by</span></span><span
+  style='font-family:Georgia;mso-fareast-font-family:"\@SimSun";mso-bidi-font-family:
+  Arial;color:navy'> the Financial Services Authority. Represents only the <st1:City
+  w:st="on"><st1:place w:st="on">Halifax</st1:place></st1:City></span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>Financial Services
+  Marketing Group for the purposes of advising on and</span><o:p></o:p></p>
+  <p class=MsoNormal><span style='font-family:Georgia;mso-fareast-font-family:
+  "\@SimSun";mso-bidi-font-family:Arial;color:navy'>selling life assurance</span><o:p></o:p></p>
+  <p><o:p> </o:p></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p> </o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+
+

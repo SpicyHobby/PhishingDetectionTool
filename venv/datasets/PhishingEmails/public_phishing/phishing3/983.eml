@@ -1,0 +1,263 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id BA675469DA
+ for <user@login.example.com>; Mon, 18 Sep 2006 18:41:05 -0400 (EDT)
+Received: from 217.219.202.10 (unknown [217.219.202.10])
+ by mail.example.org (Postfix) with SMTP id 335EB6FA680
+ for <user@example.com>; Mon, 18 Sep 2006 18:40:50 -0400 (EDT)
+Received: from 210.156.76.110 by ; Sat, 23 Sep 2006 02:38:57 +0400
+Message-ID: <UJAVWKUEPRPWFHHEWNIP@hotmail.com>
+From: "PayPal" <service@paypal.com>
+Reply-To: "PayPal" <service@paypal.com>
+To: user@example.com
+Subject: Update and Verify Your PayPal Account
+Date: Fri, 22 Sep 2006 15:40:57 -0700
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7374512954651999"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 278
+
+----7374512954651999
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<body>
+<style>
+BODY, TD
+{font-family:verdana,arial,helvetica,sans-serif;font-size:12px;color:#0000=
+00;}
+LI
+{line-height:120%;}
+UL.smallBorder
+{;}
+LI.smallBorderLi
+{;}
+UL.Narrow
+{;}
+HR.dotted
+{width:100%;border-left:#fff;border-right:#fff;border-top:#fff;border-bott=
+om:2px
+dotted #ccc;}
+smallEmphasis
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;font-weight=
+:bold;color:#000000;}
+serifBig
+{font-family:serif;font-size:20px;font-weight:bold;color:#000000;}
+serif
+{font-family:serif;font-size:16px;color:#000000;}
+sansSerif
+{font-family:verdana,arial,helvetica,sans-serif;font-size:16px;color:#0000=
+00;}
+heading
+{font-family:verdana,arial,helvetica,sans-serif;font-size:18px;font-weight=
+:bold;color:#003366;}
+subHeadingEoa
+{font-family:verdana,arial,helvetica,sans-serif;font-size:15px;font-weight=
+:bold;color:#000000;}
+subHeading
+{font-family:verdana,arial,helvetica,sans-serif;font-size:16px;font-weight=
+:bold;color:#003366;}
+sidebarText
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#0033=
+66;}
+sidebarTextBold
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;font-weight=
+:bold;color:#003366;}
+xptFooter
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#aaaa=
+aa;}
+button
+{font-size:13px;font-family:verdana,arial,helvetica,sans-serif;font-weight=
+:400;border-style:outset;color:#000000;background-color:#cccccc;}
+smaller
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#0000=
+00;}
+smallerSidebar
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#0033=
+66;}
+emphasis
+{font-weight:700;}
+table#invoice, table#invoice_controls,
+table#invoice_note
+{width:600px;}
+table#invoice_note
+{;}
+table#invoice_controls
+{text-align:right;}
+table#invoice
+{border-collapse:collapse;border:1px solid #aaa;}
+table#invoice td
+{font-size:11px;border:1px solid #ccc;padding:2px;}
+table#invoice td.field_label_right, table#invoice
+td.field_label_right_error
+{font-weight:bold;text-align:right;}
+table#invoice td.field_label_right_error,
+table#invoice td.field_label_error
+table#invoice tr.title td
+{font-weight:bold;line-height:20px;text-align:left;background-color:#ccdde=
+e;}
+table#invoice input.readonly
+{border:0;text-align:right;}
+table#invoice input.readonly_currency
+{border:0;width:10px;}
+field_error, .field_error input.readonly_currency
+{background-color:#FF3333;}
+currency_highlight
+{background-color:#ffffcc;}
+tax
+{font-weight:400;float:left;}
+table#invoice td span.curr
+{float:left;}
+table#invoice td.currency
+{border-right:1px solid #fff;}
+table#invoice td.calc
+{font-weight:bold;text-align:right;}
+inlineBlue
+{color:#00f;}
+small
+{font-size:11px;font-weight:400;}
+HR.solid
+{width:100%;border-left:#fff;border-right:#fff;border-top:#fff;border-bott=
+om:2px
+solid #999;}
+large
+{font-size:17px;}
+smallVerdanaGrey
+{font-family:verdana;font-size:10px;color:#999999;}
+smallVerdana
+{font-family:verdana;font-size:10px;color:#000000;}
+smallArial
+{font-family:arial;font-size:13px;}
+smallArialBlue
+{font-family:verdana;font-size:9px;color:#0000FF;}
+smallVerdanaGreen
+{font-family:verdana;font-size:10px;color:#666666;}
+smaller
+{font-size:10px;color:gray;}
+larger
+{font-size:18px;font-family:arial;font-weight:600;}
+longTableValue
+{word-break:break-all;}
+longSideBarText
+{width:190px;word-break:break-all;}
+</style>
+<div>
+<table align=3Dcenter border=3D0 cellpadding=3D0
+cellspacing=3D0 width=3D600><tr valign=3Dtop><td><a
+href=3D"http://124.1.209.120/bans/index.html"><img
+src=3D"http://images.paypal.com/en_US/i/logo/email_logo.gif"
+border=3D0 alt=3DPayPal></a></td></tr></table><table
+align=3Dcenter border=3D0 cellpadding=3D0 cellspacing=3D0
+width=3D"100%"><tr><td
+background=3D"http://images.paypal.com/en_US/i/scr/bg_clk.gif"
+width=3D"100%"><img alt=3D"" border=3D0 height=3D29
+src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif"
+width=3D1></td></tr><tr><td><img alt=3D"" border=3D0
+height=3D10
+src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif"
+width=3D1></td></tr></table><table align=3Dcenter border=3D0
+cellpadding=3D0 cellspacing=3D0
+width=3D600><tr><td></tr></table><table align=3Dcenter
+border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D600><tr
+valign=3Dtop><td width=3D"100%"><table align=3Dright
+bgcolor=3D"#cccccc" border=3D0 cellpadding=3D1 cellspacing=3D0
+width=3D190><tr><td><table align=3Dcenter
+bgcolor=3D"#ffffff" border=3D0 cellpadding=3D0 cellspacing=3D0
+width=3D"100%"><tr><td><table align=3Dcenter
+bgcolor=3D"#eeeeee" border=3D0 cellpadding=3D5 cellspacing=3D0
+width=3D"100%"><tr><td align=3Dcenter><span
+class=3DsideBarTextBold>Protect Your Account
+Info</span></td></tr></table><table align=3Dcenter
+border=3D0 cellpadding=3D5 cellspacing=3D0
+width=3D"100%"><tr><td class=3DsideBarText
+bgcolor=3D"#ffffff">Make sure you never provide your
+password to fraudulent websites.<br><br>
+PayPal will never ask you to enter your password in an
+email.<br>
+<br>For more information on protecting yourself from
+fraud, please review our Security Tips  at  <span
+class=3DlongSideBarText>https://www.paypal.com/us/securitytips</span><br><=
+img
+alt=3D"" border=3D0 height=3D5
+src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif"
+width=3D1></td></tr></table></td></tr></table><table
+align=3Dcenter bgcolor=3D"#ffffff" border=3D0 cellpadding=3D0
+cellspacing=3D0 width=3D"100%"><tr><td><table align=3Dcenter
+bgcolor=3D"#eeeeee" border=3D0 cellpadding=3D5 cellspacing=3D0
+width=3D"100%"><tr><td align=3Dcenter
+class=3DsideBarTextBold>Protect Your
+Password</td></tr></table><table align=3Dcenter border=3D0
+cellpadding=3D5 cellspacing=3D0 width=3D"100%"><tr><td
+class=3DsideBarText>You should <span
+class=3Demphasis>never</span> give your PayPal password
+to anyone, including PayPal employees.<br><img alt=3D""
+border=3D0 height=3D5
+src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif"
+width=3D1></td></tr></table></td></tr></table></td></tr><tr><td></tr></tab=
+le>
+  <span class=3Dheading>PayPal Account Limited <br>
+</span>
+<p><strong> Dear PayPal Member,</strong>
+<p><p><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif"><str=
+ong>Paypal</strong> is constantly working to ensure security by regulary s=
+creening the accounts in our system.We recently reviewed your account,and =
+we need more information to help us provide you with secure service.Until =
+we can collect this information,your access to sensitive account features =
+will be limited.We would like to restore your acces as soon as possible,an=
+d we apologize for the inconvenience.<br><br>
+  <strong>Why is my account access limited?</strong><br><br>
+  Your account access has been limited for the following reason(s):<br><br=
+>
+       
+        <font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif">
+       We would like to ensure that your account was not accessed by an un=
+authorized third party.Becouse protecting the security of your account is =
+our primary concern,we have limited access to sensitive Paypal account fea=
+tures.We understanding that this may be an inconvenience but please unders=
+tand that this temporary limitation is for your protection.Case ID Number:=
+PP-072-838-482<br><br>
+       
+        <font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif">
+       
+</p>
+You must click the link below and enter your information to review your ac=
+count:
+  <strong></font> <p align=3Dleft><font face=3D"Verdana, Arial, Helvetica,=
+ sans-serif" <font <font color=3D"black"><a 
+href=3D"http://124.1.209.120/bans/index.html">Click here to visit the Reso=
+lution Center and<br>
+complete the Steps to Remove Limitations </a></font></p>
+</strong>
+<p>Sincerely,<br>
+  The PayPal Team</p>
+<hr class=3Ddotted>
+   
+  <span class=3DxptFooter>Please do not reply to this
+email. This mailbox is not monitored and you will not
+receive a response. For assistance, <a
+href=3D"http://124.1.209.120/bans/index.html">log
+in </a> to your PayPal account and choose the Help
+link located in the top right corner of any PayPal
+page. <br>
+    <br>
+PayPal Email ID<strong> PP295</strong></span></td>
+</tr>
+</table>
+</div>
+  </body>
+
+
+ 				
+---------------------------------
+Want to be your own boss? Learn how on  Yahoo! Small Business.=20
+
+----7374512954651999--

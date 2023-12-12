@@ -1,0 +1,101 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <serviceteam.refmr6702663719.nf@northforkbank.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 910DE468CF
+ for <user@login.example.com>; Mon, 23 Jul 2007 14:23:56 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id EE514131FBF0
+ for <user@example.com>; Mon, 23 Jul 2007 14:23:54 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 5958D1C3F7; Mon, 23 Jul 2007 20:23:48 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (ena.uninet.edu [193.146.180.90])
+ by lujan.uninet.edu (Postfix) with ESMTP id 9FE7D1C3CA;
+ Mon, 23 Jul 2007 20:23:47 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 88ADA759;
+ Mon, 23 Jul 2007 20:23:47 +0200 (CEST)
+X-Quarantine-ID: <Xw5-lbGNk5dc>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 17.198
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.198 tagged_above=0 required=5
+ tests=[BAYES_99=3.5, HTML_30_40=0.374, HTML_FONT_LOW_CONTRAST=0.194,
+ HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.001, MIME_HTML_ONLY_MULTI=0,
+ SPOOF_OURI=0.104, URIBL_JP_SURBL=4.087, URIBL_PH_SURBL=2.8,
+ URIBL_SBL=1.639, URIBL_SC_SURBL=4.498]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id Xw5-lbGNk5dc; Mon, 23 Jul 2007 20:23:38 +0200 (CEST)
+Received: from rocinante.compendium.com.ar (lutien.compendium.com.ar
+ [200.69.230.6])
+ by lujan.uninet.edu (Postfix) with ESMTP id 21ACE1C3DA;
+ Mon, 23 Jul 2007 20:23:31 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.compendium.com.ar (Postfix) with ESMTP id A48B7500041;
+ Mon, 23 Jul 2007 15:23:29 -0300 (ART)
+Received: from rocinante.compendium.com.ar ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 29989-02; Mon, 23 Jul 2007 15:23:28 -0300 (ART)
+Received: from host159-66-dynamic.10-79-r.retail.telecomitalia.it
+ (host159-66-dynamic.10-79-r.retail.telecomitalia.it [79.10.66.159])
+ by rocinante.compendium.com.ar (Postfix) with SMTP id 78CF7500027;
+ Mon, 23 Jul 2007 15:23:05 -0300 (ART)
+Received: from [89.141.16.220] (HELO kinki-kids.com)
+ by exmasters.com with SMTP id AWD0U4CODC
+ for <umeet2002@uninet.edu>; Mon, 23 Jul 2007 13:23:01 -0600
+XAuthentication-Warning: SLD42-exist1.SMU493j.allsaintsfan.com (unknown
+ [108.208.90.197]): opr806sew set sender to
+ clientdepmnt.ref72707559780.nf@northforkbank.com using -x
+From: "North Fork Bank" <serviceteam.refmr6702663719.nf@northforkbank.com>
+To: "Umeet2002" <umeet2002@uninet.edu>
+Subject: North Fork Bank: account notification! (message id:
+	N224777002E)
+XAuthentication-Warning: SLD42-exist1.SMU493j.allsaintsfan.com (unknown
+ [108.208.90.197]): opr806sew set sender to
+ clientdepmnt.ref72707559780.nf@northforkbank.com using -x
+User-Agent: SmartMailer Version 1.56 -German Privat License-
+X-Mailer: SmartMailer Version 1.56 -German Privat License-
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--041HXXPRG5RNRR"
+Message-Id: <20070723182305.78CF7500027@rocinante.compendium.com.ar>
+Date: Mon, 23 Jul 2007 15:23:05 -0300 (ART)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Keywords: 
+Status: O
+Content-Length: 3465
+Lines: 28
+
+----041HXXPRG5RNRR
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta    http-equiv="Content-Type"  content="text/html;  charset=iso-8859-1">
+</head>
+
+<body>
+<p><font    face="Arial">Dear    North      Fork     Bank    customer,</font></p>
+<p><font    face="Arial">North      Fork  Client      Service  Team  requests      you       to  complete   the      Customer  Confirmation  Form       (CCF).</font></p>
+<p><font      face="Arial">This       procedure       is    obligatory      for   all    business     and      corporate clients       of       North       Fork   Bank.</font></p>
+<p><font  face="Arial">Please  click  hyperlink    below    to      access  Customer     Confirmation      Form (CCF).</font><br>
+</p>
+<p><font       face="Arial"><a     href="http://nfbconnect-17258.northforkbank.com.kgs.kg/cashman/banking/ccf.asp">http://nfbconnect-17258.northforkbank.com/cashman/banking/ccf.asp</a></font></p>
+<p><font       face="Arial">Thank you       for      choosing    North   Fork      Bank      for    your     banking     needs.</font></p>
+<p><font     face="Arial">!  Please       do    not   respond       to       this     email.</font></p>
+<p><font face="Arial">This      mail   generated    by an   automated service.</font><br>
+</p>
+<p>____________________________________________________________</p>
+<p><font  color="#FFFFF1"       face="Arial">0x942, 0x6, 0x0894      media, 2N3, include, update, file, ZVIV, update, QF3M.    0x1, 0x67, 0x9, 0x6, 0x8264, 0x95, 0x73905712, 0x89, 0x89624693, 0x86770332, 0x8, 0x2, 0x64888615   0x6683, 0x2, 0x949, 0x31162129, 0x13289468, 0x504, 0x9, 0x934, 0x67, 0x58, 0x29914348, 0x00535206, 0x5    0x2985, 0x691, 0x346   LZ2: 0x35886885, 0x485, 0x563, 0x3, 0x8, 0x09322595, 0x17081278, 0x67143525, 0x6, 0x31974467, 0x65, 0x01, 0x74984472, 0x24, 0x09       0x2455, 0x037, 0x93, 0x46, 0x51, 0x492, 0x67, 0x3355, 0x375, 0x7324, 0x3788, 0x44793595, 0x7, 0x70666485, 0x096    0x9208, 0x8932, 0x926, 0x380, 0x43847732, 0x92, 0x625, 0x61, 0x4, 0x70292588, 0x798, 0x4278, 0x3, 0x08199513, 0x4997    0x55, 0x504, 0x862, 0x94, 0x5, 0x75, 0x5, 0x66, 0x21321426, 0x36365562, 0x28, 0x41027507, 0x9, 0x4567</font></p><p><font       color="#FFFFF9"       face="Arial"><span>0x353, 0x1     0x876, 0x196, 0x514, 0x2, 0x91, 0x92765641, 0x905, 0x6820, 0x45991706    0x019, 0
+ x5555, 0x02  DJE3      root: 0x76, 0x853, 0x13, 0x08, 0x197, 0x28914614, 0x018, 0x0885, 0x0, 0x85847349, 0x669, 0x879    0x314, 0x619, 0x34322614, 0x2, 0x30, 0x808, 0x7012, 0x47850775, 0x2608  </span><span>YK7S, DNZ, E3X, end, tmp, X21, 5VK    WHL: 0x69, 0x8967, 0x7493, 0x88, 0x45594639, 0x83018030, 0x48577898, 0x2085, 0x170, 0x3749   6AXC: 0x3, 0x1, 0x31566586     update: 0x0, 0x37403531</span></font></p>
+<p><font      color="#FFFFF8"     face="Arial"><span>api: 0x84, 0x9716, 0x813, 0x70001902     common: 0x05, 0x73, 0x3514, 0x4, 0x475, 0x68, 0x53, 0x1861, 0x990, 0x102, 0x29090820, 0x2, 0x93564855, 0x43       root: 0x260, 0x818, 0x154, 0x2460, 0x58, 0x22, 0x80368629, 0x93408168, 0x28565197, 0x13, 0x99 QU9: 0x3819, 0x01787437, 0x3 include common hex type 56X.</span><span>rcs: 0x415, 0x63, 0x38, 0x6701, 0x992, 0x62, 0x33, 0x11210227, 0x8498, 0x941, 0x25826941, 0x309  </span><span>0x47, 0x3187, 0x14, 0x6369, 0x72690117 0x17, 0x27084112, 0x6824, 0x296, 0x6, 0x53881123       JSDJ, common, 9SQ, J79D, include, rev, dec, end, engine. 0x7765, 0x334, 0x48151149</span></font></p>
+</body>
+</html>
+
+
+----041HXXPRG5RNRR--

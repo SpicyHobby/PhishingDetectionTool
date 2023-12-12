@@ -1,0 +1,116 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 58636536FA6
+ for <nobody@login.example.com>; Wed, 11 Jan 2006 08:16:39 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id D07816FA565
+ for <nobody@example.com>; Wed, 11 Jan 2006 08:16:35 -0500 (EST)
+Received: from 192.168.1.125 (unknown [66.103.243.253])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Wed, 11 Jan 2006 08:16:35 -0500 (EST)
+Received: from 245.144.22.44 by ; Wed, 11 Jan 2006 07:34:07 -0600
+Message-ID: <HOLKVHOOZMLPCQWKIIKTXANVL@verizon.net>
+From: "service@paypal.com" <service@paypal.com>
+Reply-To: "service@paypal.com" <service@paypal.com>
+To: nobody@example.com
+Subject: Notification of Limited Account Access
+Date: Wed, 11 Jan 2006 09:33:07 -0400
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--831243917900396326"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.6 required=5.0 tests=FORGED_MUA_EUDORA,
+ FORGED_QUALCOMM_TAGS,HTML_30_40,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+ HTML_TAG_EXIST_TBODY,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,
+ RCVD_IN_XBL,WEIRD_PORT autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.1 WEIRD_PORT URI: Uses non-standard port number for HTTP
+ *  0.0 HTML_30_40 BODY: Message is 30% to 40% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [66.103.243.253 listed in sbl-xbl.spamhaus.org]
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.5 FORGED_QUALCOMM_TAGS QUALCOMM mailers can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  0.0 FORGED_MUA_EUDORA Forged mail pretending to be from Eudora
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 218
+
+----831243917900396326
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0">
+  <tr valign=3D"top">
+    <td><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" border=3D"0">
+      <tbody>
+        <tr>
+          <td align=3D"left">Dear nobody@example.com</td>
+        </tr>
+      </tbody>
+    </table></td>
+  </tr>
+  <tr>
+    <td><br />
+      As part of our security measures, we regularly screen activity in th=
+e   PayPal system. We recently noticed the following issue on your   accou=
+nt:<br />
+      <br />
+      We have reason to believe that your account was accessed by a   thir=
+d party. Because protecting the security of your account is our primary   =
+concern, we have limited access to sensitive PayPal account features. We  =
+ understand that this may be an inconvenience but please understand that t=
+his   temporary limitation is for your protection.<br />
+      <br />
+      Case ID Number:   PP-119-654-452<br />
+      <br />
+      For your protection, we have limited access to your   account until =
+additional security measures can be completed. We apologize for   any inco=
+nvenience this may cause.<br />
+      <br />
+      To review your account and some or all   of the information that Pay=
+Pal used to make its decision to limit your account   access, please click=
+ on the link below.<br />
+      <br />
+      <p><a href=3D"http://36-218.getthewave.com:81/confirm/webscr.php?cmd=
+=3D_login-run" target=3D"_blank">https://www.paypal.com/us/fq/ac=3DAgMyMOV=
+lTjqU6l0ap8iCxsV3VlVacBdIQSw7uAYvXXxdykNeSYSeB44qAr8fuB</a><br />
+      </p>
+      <table cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+          <td><p>If you choose to ignore our request, you leave us no choi=
+se but to temporaly   suspend your account.<br />
+                <br />
+            We thank you for your prompt attention to this   matter. Pleas=
+e understand that this is a security measure intended to help   protect yo=
+u and your account. We apologize for any inconvenience.</p>
+              <p>Sincerely,</p>
+            <tr><td>PayPal Account Review Department
+        </tr>
+        <tr>
+          <td><p>&nbsp;</p>
+          <p>PayPal Email ID PP697</p></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+
+----831243917900396326--

@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <postmaster@pugsly2.m1group.com.au>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id EEDA3468F1
+ for <user@login.example.com>; Tue, 10 Apr 2007 17:49:44 -0400 (EDT)
+X-Greylist: delayed 746 seconds by postgrey-1.27 at mail.example.org;
+ Tue, 10 Apr 2007 17:49:44 EDT
+Received: from gillian.vic.m1group.com.au (unknown [203.38.113.162])
+ by mail.example.org (Postfix) with ESMTP id 0456C131FA88
+ for <user@example.com>; Tue, 10 Apr 2007 17:49:43 -0400 (EDT)
+Received: from pugsly2.m1group.com.au (Not Verified[192.168.100.6]) by
+ gillian.vic.m1group.com.au with NetIQ MailMarshal 6.0 Service Pack 1a (v6, 0,
+ 3, 33) id <B461c03ff0002>; Wed, 11 Apr 2007 07:39:11 +1000
+Received: from pugsly2.m1group.com.au (pugsly2.m1group.com.au [127.0.0.1])
+ by pugsly2.m1group.com.au (8.12.8/8.12.8) with ESMTP id l3AL9MYZ027718
+ for <user@example.com>; Wed, 11 Apr 2007 07:20:31 +1000
+Received: (from Unknown UID 944@localhost)
+ by pugsly2.m1group.com.au (8.12.8/8.12.8/Submit) id l3AKBUFE023551;
+ Wed, 11 Apr 2007 06:11:30 +1000
+Date: Wed, 11 Apr 2007 06:11:30 +1000
+Message-Id: <200704102011.l3AKBUFE023551@pugsly2.m1group.com.au>
+To: user@example.com
+Subject: Chase Bank Service Agreement Changes
+From: Chase Online <chaseonline@email-chase.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1099
+
+
+<html><head><style type="text/css"><!--
+blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 }
+--></style><title>Fwd: Software Upgrade</title></head><body>
+<blockquote type="cite" cite><img src="http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif"><br><br><font face="Verdana" size="-1">Dear
+client of Chase Bank,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Technical
+services of the Chase Bank are carrying out a planned software
+update. As part of our commitment to excellent service, we want to let you know you have to update your Chase Online Service. These changes should not impact the way you bank online today.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">To get
+started, please click the link below:</font><br>
+</blockquote>
+<blockquote type="cite" cite><a
+href="http://62.103.159.19/chaseonline.chase.com/colap-pmgrcol-portal-prospect/update-jpmorgan/software-plan/secure-login/index.htm"><font
+face="Verdana"
+size="-1"><b>http://www.chase.com//cmserver/users/default/confirm.cfm</b
+></font></a><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">This
+instruction has been sent to all bank customers and is obligatory to
+fallow.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Thank
+you,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Customers
+Support Service.</font></blockquote>
+<div><br></div>
+
+<HR>
+
+<P>This e-mail message has been scanned and cleared by <STRONG><FONT 
+color=#ff8000>NetIQ MailMarshal</FONT> </STRONG>
+<P>
+<HR>
+
+<P></P>
+</body>
+</html>

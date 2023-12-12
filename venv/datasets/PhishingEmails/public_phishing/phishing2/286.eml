@@ -1,0 +1,141 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <multiime@server.ya3arb.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 5C7485371B4
+ for <nobody@login.example.com>; Wed, 25 Jan 2006 19:06:23 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP id 241736FA32C
+ for <nobody@example.com>; Wed, 25 Jan 2006 19:06:21 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id A64621BC3D; Thu, 26 Jan 2006 01:06:16 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 8B5441BB39
+ for <foobee@example.com>; Thu, 26 Jan 2006 00:06:14 +0000 (UTC)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 27205-06 for <foobee@example.com>;
+ Thu, 26 Jan 2006 01:05:51 +0100 (CET)
+Received: from server.ya3arb.com (unknown [208.64.28.66])
+ by lujan.example.com (Postfix) with ESMTP id E3ED91BB26
+ for <foobee@example.com>; Thu, 26 Jan 2006 01:05:39 +0100 (CET)
+Received: from multiime by server.ya3arb.com with local (Exim 4.52)
+ id 1F1udr-0007pD-LV
+ for foobee@example.com; Thu, 26 Jan 2006 00:05:35 +0000
+To: foobee@example.com
+Subject: Update Your Account Access
+From: Barclays Bank <service@barclays.co.uk>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1F1udr-0007pD-LV@server.ya3arb.com>
+Date: Thu, 26 Jan 2006 00:05:35 +0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.ya3arb.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [32359 32361] / [47 12]
+X-AntiAbuse: Sender Address Domain - server.ya3arb.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: No, hits=5.1 tagged_above=4.0 required=6.5 tests=BAYES_50,
+ DEAR_SOMETHING, HTML_50_60, HTML_MESSAGE, MIME_HTML_ONLY,
+ RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK, REPLY_TO_EMPTY
+X-Spam-Level: *****
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 287
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table border="0" width="100%" id="table1" style="border-collapse: collapse">
+	<tr>
+		<td bgcolor="#003366" background="http://img159.exs.cx/img159/9760/topbk4ac.gif" height="75">
+		<table border="0" width="100%" id="table2" style="border-collapse: collapse">
+			<tr>
+				<td align="right" width="222">
+		<img src="http://www.barclays.co.uk/images_new/home/barclays_logo.gif"></td>
+				<td>
+				<p align="right"><b><font color="#00A8DC" size="2" face="Arial">
+				Important Notice: </font>
+				<font size="2" face="Arial" color="#FFFFFF">Jan. 27, 2006</font><font color="#00A8DC" size="2" face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;
+				</font></b></td>
+			</tr>
+		</table>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="21" align="left">
+		<table border="0" width="62%" id="table3" style="border-collapse: collapse">
+			<tr>
+				<td>&nbsp;</td>
+				<td width="563"><p>
+				<font face="Arial" size="2" color="#003366"><br>
+				Dear Sir/Madam,<br>
+				<br>
+				Barclays Bank PLC. 
+				always look forward for the high security of our clients. Some 
+				customers have been receiving an email claiming to be from 
+				Barclays advising them to follow a link to what appear to be a 
+				Barclays web site, where they are prompted to enter their 
+				personal Online Banking details. Barclays is in no way involved 
+				with this email and the web site does not belong to us.</font></p>
+				<p><font color="#003366" face="Arial" size="2">Barclays is proud 
+				to announce about their new updated secure system. We updated 
+				our new SSL servers to give our customers a better, fast and 
+				secure online banking service.<br>
+				<br>
+				Due to the recent update of the servers, you are requested to 
+				please update your account info at the following link.</font></p>
+				<p><b><font face="Arial" size="2">
+				<a href="http://www.b7ra.com/vb/ibank.barclays.co.uk/ibank.barclays.co.uk/olb/p/LoginMember.do/index.htm">
+				<font color="#00A8DC">
+				https://update.barclays.co.uk/olb/p/LoginMember.do</font></a></font></b></p>
+				<p><font color="#003366" face="Arial" size="2"><b>*Important*</b><br>
+				We have asked few additional information which is going to be 
+				the part of secure login process. These additional information 
+				will be asked during your future login security so, please 
+				provide all these info completely and correctly otherwise due to 
+				security reasons we may have to close your account temporarily.<br>
+				<br>
+&nbsp;</font></p>
+				<p><font face="Arial" size="2"><font color="#003366"><b>J. S. 
+				Smith</b><br>
+				<i>Security Advisor<br>
+				Barclays Bank PLC.</i></font><br>
+&nbsp;</font></td>
+			</tr>
+		</table>
+		<hr size="1">
+		<p><font size="1" face="Arial" color="#808080">Please do not reply to 
+		this e-mail. Mail sent to this address cannot be answered.<br>
+		For assistance, log in to your Barclays Online Bank account and choose 
+		the &quot;Help&quot; link on any page.<br>
+		<br>
+		Barclays Email ID # 1009</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+
+

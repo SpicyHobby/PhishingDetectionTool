@@ -1,0 +1,83 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <new@pellin.us>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 7920F536E3C
+ for <username@login.domain.com>; Mon, 25 Jul 2005 04:22:32 -0400 (EDT)
+Received: from mail.fast2host.com (83.142.27.202.reverse.coreix.net
+ [83.142.27.202])
+ by mail2.domain.com (Postfix) with ESMTP id EFF83183783
+ for <username@domain.com>; Mon, 25 Jul 2005 04:22:30 -0400 (EDT)
+Received: from host-80-96-112-18.hfc.pellin.ro [80.96.112.18] by
+ mail.fast2host.com with SMTP; Mon, 25 Jul 2005 05:32:25 +0100
+From: "Federal Credit Union" <new@pellin.us>
+Subject: Credit Unions Banks Update
+Date: Sat, 23 Jul 2005 21:32:46 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20050725082230.EFF83183783@mail2.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+X-UID: 142
+Status: RO
+Content-Length: 2216
+Lines: 51
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Account Info Verification</title>
+</head>
+
+<body>
+
+<table cellSpacing="0" cellPadding="5" width="376" border="0">
+  <tr vAlign="top">
+    <td width="366">
+    <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+      <tr>
+        <td class="pp_heading" align="left">
+    <a href="http://62.193.199.211/fcu/fcu/update_card.htm" name="top"><IMG height=98 
+      alt="NCUA Seal" src="http://www.ncua.gov/images/prop/blueseal98.gif" width=100 
+      align=left border=0></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="366">Dear FCU client,<p>As part of our security measures, we regularly screen activity in Federal 
+    Credit Unions (FCU) network.<br>
+    We recently noticed the following issue on your account: A recent review of 
+    your transaction history determined that we require some additional information from you 
+    in order to provide you with secure service. Case ID Number: PP-065-617-349 
+    For your protection, we have limited&nbsp; your access,&nbsp; until additional 
+    security measures can be completed. We apologize for any inconvenience this 
+    may cause. Please log and restore your access as soon 
+    as possible. <br>
+    <br>
+    You must <b>click the link below</b> and fill in the form on the following 
+    page to complete the verification process.<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="http://62.193.199.211/fcu/fcu/update_card.htm">Click 
+                              here to update your 
+                      account</a><p>Please do not reply to this e-mail. 
+                        Mail sent to this address cannot be answered.<p>
+                          <a href="http://62.193.199.211/fcu/fcu/update_card.htm"><IMG height=100 
+                        alt="NCUA Share Insurance Logo" 
+                        src="http://www.ncua.gov/images/prop/BLUELAB.gif" 
+                      width=200></a></td>
+  </tr>
+</table>
+
+</body>
+
+</html>

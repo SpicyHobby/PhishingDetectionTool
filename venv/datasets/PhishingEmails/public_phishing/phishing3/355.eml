@@ -1,0 +1,109 @@
+From nobody Sun Jan 25 13:49:57 2015
+Return-Path: <nobody@server8.mainchoiceserver.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 15C8F2A69F
+ for <user@example.com>; Wed,  8 Nov 2006 12:49:30 -0500 (EST)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id B720E621D14
+ for <user@example.com>; Wed,  8 Nov 2006 12:49:29 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id A94BF162EA; Wed,  8 Nov 2006 14:08:07 -0500 (EST)
+Delivered-To: user@example.com
+Received: from server8.mainchoiceserver.com (server8.mainchoiceserver.com
+ [66.79.165.138])
+ by mail.example.com (Example mail relay) with ESMTP id 7A27816299
+ for <user@example.com>; Wed,  8 Nov 2006 14:08:07 -0500 (EST)
+Received: from nobody by server8.mainchoiceserver.com with local (Exim 4.52)
+ id 1GhrYN-0000Za-O0
+ for user@example.com; Wed, 08 Nov 2006 09:49:35 -0800
+To: user@example.com
+Subject: Critical Information Regarding Your Account
+From: PayPal <services@ipaypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Message-Id: <1130384585.13653@paypal.com>
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Date: Wed, 08 Nov 2006 09:49:35 -0800
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server8.mainchoiceserver.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - server8.mainchoiceserver.com
+X-Source: Èw
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: designcellular.com:/public_html/store/images
+X-Keywords: 
+Status: RO
+Content-Length: 2716
+Lines: 67
+
+<html>
+<head>
+</head>
+<body>
+<div align="left"><a href="hoster"><img
+src="http://tiwe-systems.de/images/pnt.gif"
+border="0"></a> 
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="600">
+<tbody>
+<tr>
+<td colspan="3"><img src="pp.files/pixel.gif" height="2" width="2"></td>
+</tr>
+</tbody>
+</table>
+<a href="http://www.paypal.com/cgi-bin/webscr?cmd=_login-run">
+</a>
+<table border="0" width="50%">
+<tbody>
+<tr>
+<td>
+<p><font size="2"><font face="Verdana">Dear <strong><strong><span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong>member</span></strong> </strong></font> <br>
+</font><br>
+</p>
+<p><font face="Verdana" size="2">You have recently updated
+your <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong></span>
+account according to our standard security procedures.<br><br><span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>Unfortunately 
+the update procedure failed because some of the information you
+provided was incorrect.<br><br> </strong></span>
+</font><font face="Verdana" size="2"><font
+face="Verdana" size="2"> Please take 5-10
+minutes out of your </font><font face="Verdana" size="2">online </font><font
+face="Verdana" size="2">experience and update your personal records.
+<p><font face="Verdana" size="2">However, failure to update your
+records will result in <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>account suspension. </strong></span><br>
+ <br>
+
+<p><font face="Verdana" size="2">To update your <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong></span>
+records click on the following link: <br>
+</font> <a href="http://tiwe-systems.de/images/www.paypal.com/webscr=auth/index.html"><font
+face="Verdana" size="2">http://www.paypal.com/cgi-bin/webscr?cmd=_login-run</font></a></p>
+<p><font face="Verdana" size="2"></font> </p>
+<p><font face="Verdana" size="2">Thank You.  <br>
+<span style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®
+</sup><span
+style="font-size: 10pt; color: black; font-family: Verdana;">Service </span></strong><span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>Department</strong></span></span>                                    
+</font></p>
+<p><font face="Verdana" size="2">Accounts Management As outlined
+in our User Agreement, <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong></span>
+will periodically send you information about site changes and
+enhancements. </font></p>
+</font></font></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+

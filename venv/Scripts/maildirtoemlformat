@@ -1,0 +1,23 @@
+import os
+import email
+from email.policy import default
+
+def convert_to_eml(src_directory, dest_directory):
+    for root, dirs, files in os.walk(src_directory):
+        for file in files:
+            try:
+                file_path = os.path.join(root, file)
+                print(f'Processing {file_path}')
+                with open(file_path, 'r') as file:
+                    mail = email.message_from_file(file, policy=default)
+                    eml_filename = os.path.join(dest_directory, file.name + '.eml')
+                    with open(eml_filename, 'w') as eml_file:
+                        eml_file.write(mail.as_string())
+            except Exception as e:
+                print(f'Error processing {file_path}: {e}')
+
+src_directory = r'venv\datasets\LegitEmails'
+dest_directory = r'venv\datasets\LegitEmailseml'
+
+os.makedirs(dest_directory, exist_ok=True)
+convert_to_eml(src_directory, dest_directory)

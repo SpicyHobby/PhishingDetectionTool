@@ -1,0 +1,133 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <services@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id A2450536E19; Thu, 17 Nov 2005 21:47:05 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id CE8576FA2CF;
+ Thu, 17 Nov 2005 21:47:00 -0500 (EST)
+Received: from 10.3.4.5 (unknown [221.165.199.137])
+ by mail2.example.com (Postfix) with SMTP;
+ Thu, 17 Nov 2005 21:47:00 -0500 (EST)
+X-Message-Info: 5yyqul4jP/ubeYSlkYVoGTnAF94Hmxx
+Received: from 208.20.142.68 by 221.165.199.137;
+ Fri, 18 Nov 2005 04:46:01 +0200
+Message-ID: <PUPAOFZEVQARFPXAAMEIZemv@example.com>
+From: "PayPal Services" <services@paypal.com>
+Reply-To: "PayPal Services" <services@paypal.com>
+To: emv@example.com
+Subject: PayPal Account Security Measures ID#2726
+Date: Fri, 18 Nov 2005 00:47:01 -0200
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--3748613845035330687"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *********************************
+X-Spam-Status: Yes, score=33.0 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_30_40,HTML_MESSAGE,
+ MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MPART_ALT_DIFF,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ RCVD_BY_IP,RCVD_DOUBLE_IP_SPAM,RCVD_HELO_IP_MISMATCH,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_DSBL,RCVD_IN_XBL,RCVD_NUMERIC_HELO,
+ X_MESSAGE_INFO autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ * 4.2 X_MESSAGE_INFO Bulk email fingerprint (X-Message-Info)
+ found *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_30_40 BODY: Message is 30% to 40% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf:  77]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?221.165.199.137>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?221.165.199.137>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [221.165.199.137 listed in sbl-xbl.spamhaus.org]
+ *  4.1 RCVD_DOUBLE_IP_SPAM Bulk email fingerprint (double IP) found
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 9
+
+----3748613845035330687
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<A href="http://193.227.1.9/fhtW4_3/english/.ssl/paypal/index.html">
+<IMG src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border=0 width="255" height="35"></A>&nbsp;
+<P><FONT face=Verdana size="2">Dear valued <STRONG><SPAN style="FONT-SIZE: 10pt;">PayPal<SUP>®</SUP></SPAN></STRONG> member:</FONT> <BR>
+<BR></P>
+<P><FONT face=Verdana size=2><SPAN style="FONT-SIZE: 10pt;"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN></FONT><tt><font face="Verdana"> 
+is committed to maintaining a safe environment for its community of <br>
+buyers and sellers. To protect the security of your account, PayPal employs <br>
+some of the most advanced security systems in the world and our anti-fraud <br>
+teams regularly screen the PayPal system for unusual activity. <br>
+<br>
+Recently, our Account Review Team identified some unusual activity in your <br>
+account. In accordance with PayPal's User Agreement and to ensure that your <br>
+account has not been compromised, access to your account was limited. Your <br>
+account access will remain limited until this issue has been resolved. This <br>
+is a fraud prevention measure meant to ensure that your account is not <br>
+compromised. <br>
+<br>
+In order to secure your account and quickly restore full access, we may <br>
+require some specific information from you for the following reason: <br>
+<br>
+We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your account <br>
+is our primary concern, we have limited access to sensitive PayPal account <br>
+features. We understand that this may be an inconvenience but please <br>
+understand that this temporary limitation is for your protection. <br>
+<br>
+Case ID Number: PP-289-283-878 <br>
+<br>
+We encourage you to log in and restore full access as soon as possible. <br>
+Should access to your account remain limited for an extended period of <br>
+time, it may result in further limitations on the use of your account.</font></tt><FONT face=Verdana size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P>However, failure to restore your records will result in account suspension.&nbsp;<BR>Please update your records on or before <FONT color=red><STRONG>November 
+26, 2005</STRONG>.</FONT><BR>
+<BR>
+Once you have updated your account records, your PayPal session will not be <BR>
+interrupted and will continue as normal. </P>
+<P>To verify and/or update your account records click on the following link:&nbsp;<BR>
+<A href="http://193.227.1.9/fhtW4_3/english/.ssl/paypal/index.html" target=_self>https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</A></P>
+<br>
+</FONT><FONT face=Verdana>
+<P align="left"><tt><font face="Verdana">Thank you for your prompt attention to this matter. 
+Please understand that <br>
+this is a security measure meant to help protect you and your account. We <br>
+apologize for any inconvenience. <br></p>
+<br>
+<br>
+Sincerely, <br>
+</font></tt>
+<STRONG>PayPal<SUP>®</SUP></STRONG>
+Account Review Department<tt> <br>
+<br>
+<br>
+<br>
+PayPal Email ID PP4006 <br>
+</tt></FONT><FONT face=Verdana size=2><br>
+<P>Visit our Privacy Policy and User Agreement if you have any questions.&nbsp;<BR>
+<A href="http://193.227.1.9/fhtW4_3/english/.ssl/paypal/index.html">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside</A>
+</P>
+</FONT></FONT>
+</HTML>
+
+----3748613845035330687--

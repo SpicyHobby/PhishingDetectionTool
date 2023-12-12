@@ -1,0 +1,107 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <support@ncua.gov>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id BDC09536E76
+ for <nobody@login.example.com>; Sat, 10 Dec 2005 23:28:17 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 981206FA2F3
+ for <nobody@example.com>; Sat, 10 Dec 2005 23:28:15 -0500 (EST)
+Received: from 10.3.4.5 (cpe-24-221-14-2.az.sprintbbd.net [24.221.14.2])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Sat, 10 Dec 2005 23:28:15 -0500 (EST)
+Received: from dk7n3.hznmjz.net [117.253.248.121] by 10.3.4.5 with ESMTP id
+ D48B2C96A5F; Sun, 11 Dec 2005 07:08:21 +0100
+Message-ID: <a4kq8gg2919ng@lyjmk9bj>
+From: "National Credit Union Administration" <support@ncua.gov>
+To: <nobody@example.com>
+Subject: Credit Union Services: update your account records
+Date: Sun, 11 Dec 05 07:08:21 GMT
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="CF728.034.CD84DEB"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.9 required=5.0 tests=DATE_SPAMWARE_Y2K,
+ FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,HTML_40_50,HTML_MESSAGE,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_RANDY,RCVD_BY_IP,RCVD_HELO_IP_MISMATCH,RCVD_IN_BL_SPAMCOP_NET,
+ RCVD_IN_XBL,RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: * 3.9 DATE_SPAMWARE_Y2K Date header uses unusual Y2K formatting
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?24.221.14.2>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [24.221.14.2 listed in sbl-xbl.spamhaus.org]
+ *  1.9 MSGID_RANDY Message-Id has pattern used in spam
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 114
+
+This is a multi-part message in MIME format.
+
+--CF728.034.CD84DEB
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1=
+">
+<META content=3D"MSHTML 6.00.2900.2668" name=3DGENERATOR></HEAD>
+<body>
+
+<p>
+
+<p style=3D"margin-top: 0; margin-bottom: 0" align=3D"right"><b>
+<font face=3D"Arial" size=3D"2" color=3D"#FF0000">0000-3748-PSI-0934</font=
+></b></p>
+<p align=3D"left" style=3D"margin-top: 0; margin-bottom: 0">
+<font face=3D"Arial" size=3D"2">Dear Credit Union Member,<br>
+<br>
+This Notice informs you that your Credit Union bank has joined our Federal=
+ Credit Union (FCU) network. <br>
+For both, our and your security, we are asking you to activate an online a=
+ccount on our database. <br>
+<br>
+You must visit the FCU activation page and fill in the form to activate yo=
+ur online account.  </font></p>
+<p align=3D"left" style=3D"margin-top: 0; margin-bottom: 0"> </p>
+<font face=3D"Arial" size=3D"2">
+<p style=3D"margin-top: 0; margin-bottom: 0">
+<font size=3D"2" style=3D"font-size: 100%" face=3D"Arial">To activate your=
+ online account 
+records please <a href=3D"http://www.ncua.gov.fcu-ssl.info?/cgi-bin/encryp=
+ted_session/0000-3748-PSI-0934">click here.</a></font><br>
+<br>
+In accordance with NCUA User Agreement, you can use your online account in=
+ 24 hours after activation. <br>
+We thank you for your prompt attention to this matter. Please understand t=
+hat this is a <br>
+ security measure intended to help protect you and your account.
+<br>
+<br>
+We apologize for any inconvenience.
+<br>
+<br>
+Sincerely, NCUA Account Review Department</font></p>
+<p> </p>
+
+</body></HTML>
+
+--CF728.034.CD84DEB--

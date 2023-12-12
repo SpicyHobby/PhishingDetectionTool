@@ -1,0 +1,93 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 4108846A3C
+ for <nobody@login.example.com>; Sun, 25 Jun 2006 15:36:10 -0400 (EDT)
+Received: from 192.168.0.103 (c-24-16-102-208.hsd1.mn.comcast.net
+ [24.16.102.208])
+ by mail2.example.com (Postfix) with SMTP id DFF306FA35C
+ for <nobody@example.com>; Sun, 25 Jun 2006 15:36:14 -0400 (EDT)
+Received: from 72.156.236.162 by ; Sun, 25 Jun 2006 23:32:46 +0300
+Message-ID: <NHQOXMOOBGJQNXZZBIGEPKJ@earthlink.net>
+From: "PayPal Email ID PP321" <service@email.paypal.com>
+Reply-To: "PayPal" <service@paypal.com>
+To: nobody@example.com
+Subject: Notification of Limited Account Access
+Date: Sun, 25 Jun 2006 22:33:46 +0200
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--30436326269994479"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: R
+X-Status: 
+X-Keywords: 
+
+----30436326269994479
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<div id=3Dmessage>
+
+
+
+
+<BR>Dear Sir,<BR><BR>PayPal is committed to maintaining a safe environment=
+ for its
+community of<BR>buyers and sellers.
+To protect the security of your account, PayPal employs<BR>some of the mos=
+t advanced
+security systems in the world and
+our anti-fraud<BR>teams regularly screen the PayPal system for unusual
+activity.<BR><BR>Recently, our Account Review
+Team identified some unusual activity in your<BR>account. In accordance wi=
+th PayPal's User
+Agreement and to ensure that
+your<BR>account has not been compromised, access to your account was limit=
+ed.
+Your<BR>account access will remain
+limited until this issue has been resolved. This<BR>is a fraud prevention =
+measure meant to
+ensure that your account is
+ not<BR>compromised.<BR><BR>In order to secure your account and quickly re=
+store full
+access, we may<BR>require some
+specific information from you for the following reason: <BR><BR>We would l=
+ike to ensure
+that your account was not
+accessed by an<BR>unauthorized third party. Because protecting the securit=
+y of your
+account<BR>is our primary concern,
+we have limited access to sensitive PayPal account<BR>features. We underst=
+and that this
+may be an inconvenience but
+please<BR>understand that this temporary limitation is for your protection=
+ <BR><BR>Case
+ID Number:
+PP-046-631-789<BR>We encourage you to log in and restore full access as so=
+on as
+possible.<BR>Should access to your
+account remain limited for an extended period of<BR>time, it may result in=
+ further
+limitations on the use of your
+account or<BR>may result in eventual account closure.<BR><BR>Thank you for=
+ your prompt
+attention to this matter. Please
+understand that<BR>this is a security measure meant to help protect you an=
+d your
+ account. We<BR>apologize for any inconvenience.<BR><BR>
+<BR>To keep your account active, click here:<BR>
+<a target=3D"_blank"  HREF=3Dhttp://24.106.59.147:81/zilebu/index.php?MfcI=
+SAPICommand=3DSignInFPP
+target=3D"_self">
+http://www.paypal.com/cgi-bin/webscr?cmd=3Dp/gen/accounts-outside</a><BR><=
+BR><BR>Sincerely,<BR>PayPal
+Account Review Department<BR><BR><BR><BR>PayPal Email ID PP576<BR></DIV>
+
+</div>
+
+
+----30436326269994479--

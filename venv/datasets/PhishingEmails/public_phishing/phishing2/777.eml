@@ -1,0 +1,80 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <aw-confirm@chase.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id DA030536E4E; Thu, 13 Apr 2006 02:21:44 -0400 (EDT)
+Received: from 192.168.10.10 (adsl-068-213-030-162.sip.asm.bellsouth.net
+ [68.213.30.162])
+ by mail2.example.com (Postfix) with SMTP id 4E4A46FA30F;
+ Thu, 13 Apr 2006 02:21:44 -0400 (EDT)
+Received: from 122.157.118.130 by ; Thu, 13 Apr 2006 01:20:45 -0600
+Message-ID: <NLZMKXTTHXDXYBCJFBQFESZLY@aol.com>
+From: "Chase Online Banking" <aw-confirm@chase.com>
+Reply-To: "Chase Online Banking" <aw-confirm@chase.com>
+To: nobody@example.com, provos@example.com, dugsong@example.com,
+ nelson@example.com, rose@example.com, dugsong@example.com
+Subject: Reactivate Your Chase Account
+Date: Thu, 13 Apr 2006 11:19:45 +0400
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--118625730003800711"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 779
+
+----118625730003800711
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width=3D"673" border=3D"0">
+  <tr>
+    <td><div align=3D"right"><a href=3D"http://adsl-068-016-101-060.sip.as=
+m.bellsouth.net:81/chase/" target=3D"_blank"><img src=3D"http://www.chase.=
+com/ccpmweb/shared/image/chaseNewlogo.gif" width=3D"138" height=3D"27" bor=
+der=3D"0" /></a></div></td>
+  </tr>
+</table>
+<table width=3D"673" height=3D"232" border=3D"0">
+  <tr>
+    <td><p>Your online credit card account has high-risk activity status. =
+We are contacting you to remind that on April 18 2006 our Account Review T=
+eam identified some unusual activity in your account. In accordance with C=
+hase Bank User Agreement and to ensure that your account has not been comp=
+romised, access your account was limited. Your account access will remain =
+limited until this issue has been resolved.</p>
+    <p>We encourage you to log in and perform the steps necessary to resto=
+re your account access as soon as possible. Allowing your account access t=
+o remain limited for an extended period of time may result in further limi=
+tations on the use of your account and possible account closure.<br />
+    </p>
+    <p>Login to your limit account and restore online access:<br />
+      <a href=3D"http://adsl-068-016-101-060.sip.asm.bellsouth.net:81/chas=
+e/" target=3D"_blank">https://www.chase.com/asp/services/update.php?accoun=
+t313985</a></p>
+    <p>This notification is part of the All-Electronic Program you enrolle=
+d in to receive your activity report online.<br />
+    </p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
+
+
+----118625730003800711--

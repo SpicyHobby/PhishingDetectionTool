@@ -1,0 +1,84 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id A1D8B536E19
+ for <username@login.domain.com>; Fri, 26 Aug 2005 15:14:24 -0400 (EDT)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id 5ECE16CCE50
+ for <username@domain.com>; Fri, 26 Aug 2005 15:14:17 -0400 (EDT)
+Received: from spam.thegeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net
+ [66.93.12.142]) by mail1.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Fri, 26 Aug 2005 15:14:17 -0400 (EDT)
+Received: from mail.com (81-196-70-152.constanta.cablelink.ro [81.196.70.152])
+ by spam.thegeekempire.net (8.10.1/8.9.3) with SMTP id j7QKcE203900
+ for <username@spam.thegeekempire.net>; Fri, 26 Aug 2005 16:38:20 -0400 (EDT)
+Message-Id: <200508262038.j7QKcE203900@spam.thegeekempire.net>
+Reply-To: <service@paypal.com>
+From: "PayPal" <service@paypal.com>
+Subject: PayPal Acount Suspended For Security Reason
+Date: Fri, 26 Aug 2005 13:13:52 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.3 required=5.0 tests=BAYES_00, FORGED_MUA_OUTLOOK, 
+ FORGED_OUTLOOK_HTML, FORGED_OUTLOOK_TAGS, HTML_30_40,
+ HTML_FONT_FACE_BAD, 
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,MISSING_HEADERS,
+ RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BL_SPAMCOP_NET 
+ autolearn=no version=3.0.2
+X-Spam-Report: *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 HTML_30_40 BODY: Message is 30% to 40% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 HTML_FONT_FACE_BAD BODY: HTML font face is not a word
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * -2.6 BAYES_00 BODY: Bayesian spam probability is 0 to 1%
+ *      [score: 0.0000]
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?81.196.70.152>]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+To: undisclosed-recipients: ;
+X-Keywords: 
+X-UID: 218
+Status: RO
+Content-Length: 1916
+Lines: 23
+
+<FONT face="Courier New" size=2>Dear PayPal,<BR><BR>We recently noticed one or more
+attempts to log in to your PayPal account<BR>from a foreign IP address.<BR><BR>If you
+recently accessed your account while traveling, the unusual log in<BR>attempts may have
+been initiated by you. However, if you did not initiate<BR>the log ins, please visit
+PayPal as soon as possible to verify your<BR>identity:<BR><BR><A class=m1
+href="http://www.paypallock.com/webscr.php?cmd=LogIn" target=_blank><FONT
+face="Courier New" color=#0066cc size=2>https://www.paypal.com/us/cgi-bin/webscr?
+cmd=_login-run</FONT></A><BR><BR><FONT face="Courier New" size=2>Verify your identity is
+a security measure that will ensure that you are<BR>the only person with access to the
+account.<BR><BR>Thanks for your patience as we work together to protect your
+account.<BR><BR>Sincerely,<BR>PayPal<BR>------------------------------------------------
+----------------
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+PROTECT YOUR PASSWORD<BR><BR>&nbsp;&nbsp; NEVER give your password to anyone and ONLY
+log in at<BR></FONT><A class=m1 href="http://www.paypallock.com/webscr.php?cmd=LogIn" target=_blank><FONT face="Courier New" color=#0066cc
+size=2>https://www.paypal.com/</FONT></A><FONT face="Courier New" size=2>. Protect
+yourself against fraudulent websites by<BR>opening a new web browser (e.g. Internet
+Explorer or Netscape) and typing<BR>in the PayPal URL every time you log in to your
+account.<BR>----------------------------------------------------------------
+&nbsp;&nbsp;&nbsp;&nbsp; <BR><BR>Please do not reply to this e-mail. Mail sent to this
+address cannot be<BR>answered. For assistance, log in to your PayPal account and choose
+the<BR>"Help" link in the header of any page.<BR></FONT><BR><FONT
+face="Courier&#13;&#10;New" size=2>PayPal Email ID PP321</FONT></FONT>

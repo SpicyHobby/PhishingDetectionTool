@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <test@server01.mac-lab.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 57293536EA3
+ for <username@login.domain.com>; Sun,  9 Oct 2005 10:36:04 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id A1DA76FA366
+ for <username@domain.com>; Sun,  9 Oct 2005 10:36:02 -0400 (EDT)
+Received: from server01.mac-lab.net (62-2-85-254.business.cablecom.ch
+ [62.2.85.254]) by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Sun,  9 Oct 2005 10:36:02 -0400 (EDT)
+Received: by server01.mac-lab.net (Postfix, from userid 1026)
+ id 8B0EA316F26; Sun,  9 Oct 2005 15:39:45 +0200 (CEST)
+To: username@domain.com
+Subject: Reactivate Your PayPal Account!
+From: service@paypal.com <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20051009133945.8B0EA316F26@server01.mac-lab.net>
+Date: Sun,  9 Oct 2005 15:39:45 +0200 (CEST)
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.5 required=5.0 tests=ACCEPT_CREDIT_CARDS,
+ HTML_MESSAGE,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BL_SPAMCOP_NET 
+ autolearn=no version=3.0.2
+X-Spam-Report: *  0.4 ACCEPT_CREDIT_CARDS BODY: Accepting credit cards
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?62.2.85.254>]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+X-UID: 326
+Status: O
+Content-Length: 8972
+Lines: 59
+
+
+<html><head><title>PayPal</title></head><body><style type="text/css">BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+
+LI {line-height: 120%;}
+UL.smallBorder {margin:10px 5px 10px 20px;}
+LI.smallBorderLi {margin:0px 0px 5px 0px;}
+UL.Narrow {margin:10px 5px 0px 40px;}
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.smallEmphasis {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;}
+.serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;}
+.serif{font-family: serif;font-size: 16px;color: #000000;}
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+.subHeadingEoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;}
+.subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;}
+.sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;}
+.sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;}
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+.button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;}
+.smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;}
+.smallerSidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+.emphasis {font-weight: 700;}
+table#invoice, table#invoice_controls, table#invoice_note {	width: 600px;}
+table#invoice_note {margin-top:10px; margin-bottom:10px;}
+table#invoice_controls {text-align: right;}
+table#invoice {border-collapse: collapse; border:1px solid #aaa; }
+table#invoice td {font-size:11px; border:1px solid #ccc;	padding:2px;}
+table#invoice td.field_label_right, table#invoice td.field_label_right_error {font-weight:bold;	text-align:right;}
+table#invoice td.field_label_right_error, table#invoice td.field_label_error {color:red;}
+table#invoice tr.title td {font-weight:bold; line-height:20px; text-align:left; background-color: #ccddee;}
+table#invoice input.readonly {border:0; text-align:right;}
+table#invoice input.readonly_currency {border:0; width:10px;}
+.field_error, .field_error input.readonly_currency {background-color:#FF3333;}
+.currency_highlight {background-color: #ffffcc;}
+.tax {font-weight: 400; float: left;}
+table#invoice td span.curr {float: left;}
+table#invoice td.currency {border-right:1px solid #fff;}
+table#invoice td.calc {font-weight:bold; text-align:right;}
+.inlineBlue {color: #00f;}
+.small {font-size: 11px; font-weight: 400;}
+HR.solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid #999;}
+.large {font-size: 17px;} 
+.smallVerdanaGrey{font-family: verdana; font-size: 10px; color: #999999;} 
+.smallVerdana {font-family: verdana; font-size: 10px; color :#000000;} 
+.smallArial {font-family: arial; font-size: 13px; } 
+.smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;} 
+.smallVerdanaGreen{font-family: verdana; font-size: 10px; color: #666666;} 
+.smaller {font-size: 10px; color: gray;} 
+.larger {font-size: 18px; font-family: arial; font-weight: 600; }  
+.longTableValue{word-break:break-all;} 
+.longSideBarText{width:190px; word-break: break-all;} 
+</style>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top"><td><a href="http://mail.american.hu/travel/ws/secure_site/paypal.com/us/index.htm"><img src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border="0" alt="PayPal"/></a></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td background="http://images.paypal.com/en_US/i/scr/bg_clk.gif" width="100%"><img alt="" border="0" height="29" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1"/></td></tr><tr><td><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1"/></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr><td/></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top"><td width="100%"><table align="right" bgcolor="#cccccc" border="0" cellpadding="1" cellspacing="0" width="190"><tr
+ ><td><table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><table align="center" bgcolor="#eeeeee" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td align="center"><span class="sideBarTextBold">Protect Your Account Info</span></td></tr></table><table align="center" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td class="sideBarText">Make sure you never provide your password to fraudulent websites.<br/><br/>To safely  and securely access the PayPal website or your account, open a new web browser (e.g. Internet Explorer or Netscape) and type in the PayPal URL to be sure you are on the real PayPal website.<span class="longSideBarText">https://www.paypal.com/us</span>/)  to be sure you are on the real PayPal site.<br/><br/>PayPal will never ask you to enter your password in an email.<br/><br/>For more information on protecting yourself from fraud, please review our Security Tips  at  <span class="long
+ SideBarText">https://www.paypal.com/us/securitytips</span><br/><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1"/></td></tr></table></td></tr></table><table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><table align="center" bgcolor="#eeeeee" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td align="center" class="sideBarTextBold">Protect Your Password</td></tr></table><table align="center" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td class="sideBarText">You should <span class="emphasis">never</span> give your PayPal password to anyone, including PayPal employees.<br/><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1"/></td></tr></table></td></tr></table></td></tr><tr><td/></tr></table><span class="heading">Activate Your Account!<br/><br/></span>Dear Paypal User,<br/><br/><p>To complete your <span clas
+ s="emphasis">PayPal Premier account</span>, you must <span class="emphasis">click the link below</span> and enter your password on the following page to confirm your email address.<br/><br/></p><table align="left" bgcolor="#FFE65C" border="0" cellpadding="1" cellspacing="0" width="300"><tr><td><table align="center" bgcolor="#FFFECD" border="0" cellpadding="4" cellspacing="0" width="100%"><tr><td align="center" class="sansSerif"><a href="http://mail.american.hu/travel/ws/secure_site/paypal.com/us/index.htm">Click here to activate your account</a></td></tr></table></td></tr></table><br/><br/><br/>Your new PayPal account makes sending online payments fast, easy, and secure. With over 71 million members, it's the best way to:<ul><li>Buy from an online auction</li><li>Pay on a merchant website</li><li>Send money to anyone with an email address</li></ul>Confirm your email now to make sure you can use your PayPal account the next time you make a purchase.<br/><br/>After you confirm
+  your email address, you can send money for FREE, accept unlimited credit card and bank account payments, use special tools for sellers, and receive exclusive customer service hotline help 7 days a week.  You will be subject to a low fees for receiving payments.<br/><br/>You can also confirm your email address by logging into your PayPal account at <a href="http://mail.american.hu/travel/ws/secure_site/paypal.com/us/index.htm">https://www.paypal.com/us</a>. Click on the "Confirm email" link in the Activate Account box and then enter this confirmation number: 0327-5626-9907-4758-9977<br/><br/>Thank you for using PayPal!<br/>The PayPal Team<hr class="dotted"/><br/><p class="xptFooter">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, <a href="http://mail.american.hu/travel/ws/secure_site/paypal.com/us/index.htm">log in</a> to your PayPal account and choose the Help link located in the top right corner of any P
+ ayPal page.<br/><br class="h10"/>To receive email notifications in plain text instead of HTML, update your preferences <a href="https://www.paypal.com/us/PREFS-NOTI">here</a>.</p><br/><br/><span class="xptFooter"/><br/><span class="xptFooter">PayPal Email ID PP785</span></td></tr></table></body></html>

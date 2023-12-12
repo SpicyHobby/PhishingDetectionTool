@@ -1,0 +1,62 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 197CF46A43
+ for <nobody@login.example.com>; Fri, 30 Jun 2006 09:57:06 -0400 (EDT)
+Received: from 192.168.5.31 (unknown [67.138.113.1])
+ by mail2.example.com (Postfix) with SMTP id A301C6FA36F
+ for <nobody@example.com>; Fri, 30 Jun 2006 09:57:08 -0400 (EDT)
+Received: from 91.118.32.90 by ; Fri, 30 Jun 2006 10:04:43 -0500
+Message-ID: <BKAEAHOGBSSFFDXYIIOHYJXW@yahoo.com>
+From: "service@paypal.com" <service@paypal.com>
+Reply-To: "service@paypal.com" <service@paypal.com>
+To: nobody@example.com
+Subject: Your Account is Limited
+Date: Fri, 30 Jun 2006 17:05:43 +0200
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--3542662369161286976"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+----3542662369161286976
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<P><IMG height=3D50 src=3D"https://www.paypal.com/en_US/i/logo/paypal_logo=
+gif" width=3D200 border=3D0> </P>
+<P><FONT size=3D2><FONT face=3DVerdana>Dear valued <STRONG><SPAN style=3D"=
+FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">PayPal<SUP>=AE</SUP><=
+/SPAN> </STRONG>member</FONT>: <BR></FONT><BR><FONT face=3DVerdana size=3D=
+2>It has come to our attention that your <SPAN style=3D"FONT-SIZE: 10pt; C=
+OLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>=AE</SUP></STRONG></=
+SPAN> account information needs to be <BR>updated as part of our continuin=
+g commitment to protect your account and to <BR>reduce the instance of fra=
+ud on our website. If you could please take 5-10 minutes <BR>out of your o=
+nline experience and update your personal records you will not run into <B=
+R>any future problems with the online service. <BR>&nbsp;</P>
+<P>However, failure to update your records will result in account suspensi=
+on. <BR>Please update your records on or before&nbsp;<FONT color=3Dred><ST=
+RONG><FONT color=3D#ff0000>July</FONT> 1, 2006</STRONG>.</FONT> <BR><BR>On=
+ce you have updated your account records, your <SPAN style=3D"FONT-SIZE: 1=
+0pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>=AE</SUP></STR=
+ONG></SPAN> session will not be <BR>interrupted and will continue as norma=
+l. </P>
+<P>To update your <SPAN style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMIL=
+Y: Verdana"><STRONG>PayPal<SUP>=AE</SUP></STRONG></SPAN> records click on =
+the following link: <BR><A href=3D"http://gvarza.edu.sk/ipstats/..=
+%20%20%20/www.paypal.com/" target=3D_blank><FONT face=3DVerdana color=3D#0=
+03399 size=3D2>http://www.paypal.com/cgi-bin/webscr?cmd=3D_login-run</FONT=
+></A></P>
+<P>&nbsp;</P>
+<P>Thank You. <BR><SPAN style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMIL=
+Y: Verdana"><STRONG>PayPal<SUP>=AE </SUP>UPDATE TEAM</STRONG></SPAN> </P><=
+/FONT>
+
+----3542662369161286976--

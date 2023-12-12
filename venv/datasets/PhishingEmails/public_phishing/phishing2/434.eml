@@ -1,0 +1,159 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <customerservice7@mastercardconfirm.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id DC65A536F22
+ for <nobody@login.example.com>; Mon, 20 Feb 2006 17:09:46 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP id 2C3D36FA2F7
+ for <nobody@example.com>; Mon, 20 Feb 2006 17:09:45 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 882F81BC43; Mon, 20 Feb 2006 23:09:47 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (localhost [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id BF44F1BBFC
+ for <foobee@example.com>; Mon, 20 Feb 2006 23:09:46 +0100 (CET)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 05500-03 for <foobee@example.com>;
+ Mon, 20 Feb 2006 23:09:26 +0100 (CET)
+Received: from boso (acwc20.neoplus.adsl.tpnet.pl [83.11.134.20])
+ by lujan.example.com (Postfix) with SMTP id 06F931BB0B
+ for <foobee@example.com>; Mon, 20 Feb 2006 23:09:21 +0100 (CET)
+Message-ID: <000d01c6366a$354f6cce$030aa8c0@boso>
+From: "MasterCard Customer Support" <customerservice7@mastercardconfirm.com>
+To: <foobee@example.com>
+Subject: [*** POSIBLE SPAM***] MasterCard - urgent security notice (Ref: 217)
+Date: Mon, 20 Feb 2006  23:08:41 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related; type="multipart/alternative";
+ boundary="----=_NextPart_000_0009_01C63672.970EF7B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: Yes, hits=13.7 tagged_above=4.0 required=6.5 tests=BAYES_60,
+ HTML_FONT_LOW_CONTRAST, HTML_IMAGE_ONLY_16, HTML_MESSAGE,
+ INVALID_DATE, MIME_QP_LONG_LINE, NO_DNS_FOR_FROM,
+ RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK, RCVD_IN_BL_SPAMCOP_NET,
+ URG_BIZ, URIBL_SC_SURBL, WEIRD_PORT
+X-Spam-Level: *************
+X-Spam-Flag: YES
+Content-Length: 4876
+Lines: 109
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 435
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0009_01C63672.970EF7B0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_001_000A_01C63672.970EF7B0"
+
+
+------=_NextPart_001_000A_01C63672.970EF7B0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+ 3D"Homepage"
+
+   ---------------------------------------------------------------------
+
+   Dear Valued Customer,
+
+   - Our new security system will help you to avoid frequently fraud
+   transactions and to keep your Credit/Debit Card details in safety.
+
+   - Due to technical update we recommend you to reactivate your card.
+
+   Please click on the link below to proceed: Update MasterCard
+
+
+   We appreciate your business. It's truly our pleasure to serve you.
+
+   MasterCard Customer Care
+
+
+   This email is for notification purposes only.
+
+   msg-id: 90895468
+   obrallztvraryqgud
+
+   Copyright © 2006  MasterCard  All rights reserved.
+
+------=_NextPart_001_000A_01C63672.970EF7B0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2900.2722" name=3DGENERATOR>
+<STYLE></STYLE>
+<TITLE>MasterCard Confirmation</TITLE>
+</HEAD>
+<BODY>
+<div>
+<a href=3D"http://www.mastercard.com/" target=3D"_parent">
+<img src=3D"cid:000801c6366a$354aa81a$030aa8c0@boso" alt=3D"Homepage" border=3D"0" height=3D"48" vspace=3D"0" width=3D"80">
+</a></div><table width=3D"500" height=3D"71" border=3D"0" cellpadding=3D"5" cellspacing=3D"0" align=3D"left">
+<td valign=3D"top" class=3D"text">
+<strong><hr noshade color=3D"#E4E4E4"></strong>
+<div style=3D"font-family: Helvetica,sans-serif;font-size:13px;color:#000000;">
+Dear Valued Customer,<br><br>
+- Our new security system will help you to avoid frequently fraud transactions and to keep your Credit/Debit Card details in safety.<br>
+<br>
+- Due to technical update we recommend you to reactivate your card.<br>
+<br>
+Please click on the link below to proceed: <a href=3D"http://ww43.mastercardupdate.com:8081/int/personal/en/security/index.htm">Update MasterCard</a>
+<br><br><br>
+We appreciate your business. It's truly our pleasure to serve you.<br><br>
+MasterCard Customer Care<br><br><br>
+This email is for notification purposes only.<br><br>msg-id: 90895468<br>
+<font color=3D"#FFFFF3">obrallztvraryqgud</font></td>
+</tr><tr><td height=3D"20" align=3D"center" bgcolor=3D"#ffab00"><font color=3D"#0023a0">
+Copyright &copy; 2006&nbsp;&nbsp;<strong>MasterCard </strong>&nbsp;All rights reserved.</font></td></tr></table><br>
+</div></body></html>
+
+------=_NextPart_001_000A_01C63672.970EF7B0--
+
+------=_NextPart_000_0009_01C63672.970EF7B0
+Content-Type: image/gif;
+	name="ysx538.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <000801c6366a$354aa81a$030aa8c0@boso>
+
+R0lGODlhUAAuANUAAMwAAJORuvV8ADUqbf/EbDMAM//pydpKS+JCAOHi73x5rMwzM/+ZM8p8il9b
+mX5JOMvH2Z4CD+60s////7eMnvTNyZoqMnZIdLpwHv+ZALi93c8YF9kqAf3NhP359diqc+lYAIRi
+hf+3S//jtHIFL2ItUt1eWenr9cSouf7y5umPkKWpzeSCA5teLPrg38vS6r1ic/7Xnb6QZNMEAuZ5
+d/+mA+bb3+BnaOdiL+30+7u2zN1VVdQmJ//p2dri9f///yH5BAUUAD8ALAAAAABQAC4AAAb/wIlw
+SCwaj8ikcslsKj0VFe22O5huKonL4xymRh0CQSQSxwzcrtor2W0A8Lh8tqBVmIYOI8Pv+zMMIjFp
+a0spKjxyiosAMwcSSCMif5SUDB2EhUUeEm+Mn4o7LkQpk5WnfwwxmkUuO6CwihsqQjE1qLh/Iims
+ExWJscFxNAS5xn4MBpqdws0zILfH0jUjaxWezcECt9HSxjXKTi7A2bEzCOgcAt7HDLxNB+Xyjevs
+uSJNKvOwzwgg/ujq2cO1SokLbPsWQavBsGG3gafcKaGR8NMMARgzaoSIi0CSgxUZzWg0smQcaBwr
+STyiL6Q8DilPFTQSz6UcdRpzYoxZCZ8R/5AADty4EW/GFSojmy10yJQhHwYEYsQgsIddmUnviEho
+RCKBkAoALgwBG4yHChU4AKJD928tiAwfsk7owK7FibkZqhVpWeLuBAkRAgxRMWMHDRU3PPHAQmNB
+CCE0Ri5uDGfDgQUbTMjw++LFBKoEOnQwRSbQpDIMQuSYMKmDkRtwxAqRQMKzEBgUiBzcQYiCgiEL
+TBBRESG3CxcrNAj58KBEiA+ZOmCwMQHNh4I5IAjZ47HIqwi/uUgQ6/fCihfJhVDQfkIDhBCCJ9iA
+wUWDcg8WVgwJcDdGhlssOIDeCl6lEIIPQtiAghAnpJHCLT4RccAMgU0AwQkQCKZcChaQQP+CBQN4
+tsJdKJAQQW0TlKiDLyQMcFcIK3qgwG+s9cHCAy20cMFvBq72ggJ32VCCA0IYwEeEQ0xIgnIBvJBA
+dvpdQ8MWQyigHSc8kHAXDSQgmEIF1E0QgmeAhVfVUyN4oKZ8NMrwWI0lIOhfBkgKscMMXU5gpRAK
+KCdBAxN48IJ2E1zgYoKqTXBACavl4GgOJ4SwJXhCdFMDLz5ocFeGgWIgWAp7PHBXMXS+BgCjhXrm
+wQWe6eBZAyQQmUKWA/yWg34TbNCXmAX0SoJsB0RA5Gd8sPApBiVoh4JgBngaaA0s5FZjBt0NF1ag
+JZCJKn8TNEadCybsYIGthKrA6gSuCNX/AI88RDDAah7E0EEF2pXywWoBKDcCBsOC4VdVrhVRJroo
+miCbA4QOMSgRENAo5rBDLIvuDDMU4PAECVzMJ3UdsDAAgqQIwoBeuoGngQokKACYAxpIUMIAGqCn
+gA4BNNkZCiCeB8ECBThw3qA7ntwIAgP43JkEtXamQAAV+AzBJA/AjF6+etgi1xA7eAjAiREA4GEE
+eH5t4okemkjh1zNwYEEJzVmwgQUWcCD3Oi08gGMGNz6AAQYt7N13H3X3nSMLRyJBWEkUk4Q4xUkp
+3jjjAvEkzUytIGQTSpK3czURFNkUR9pyhx46Apn7Ue0RQHkOC+aZr5RES6oDAMLstM9ehnofY/Sw
+RE2qc9DUQ5KLYEAyS4wTOwAIbHQ7ILysucQ1x8dB+u3grMHM8axLPrImv8ROzO3Es+KKTbPUAjxE
+u/QyxPX7iBJySqqoX8Qh5AjjCCRHSGLPJZnIz4Yb/KjDHZaQhzNFRARp8t8SoCAFKljhBjTQQiFS
+IC8xkMEMaFCgBjeoiSAAADs=qepJcRtpuCJkkRE
+
+------=_NextPart_000_0009_01C63672.970EF7B0--

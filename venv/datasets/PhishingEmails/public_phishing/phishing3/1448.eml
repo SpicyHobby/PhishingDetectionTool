@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <confirm@no-paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id D565846932
+ for <user@login.example.com>; Sat,  3 Feb 2007 05:12:30 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id C99C4131FC14
+ for <user@example.com>; Sat,  3 Feb 2007 05:12:30 -0500 (EST)
+Received: from virtualhosts.ari.es (unknown [194.149.220.26])
+ by mail.example.org (Postfix) with ESMTP id C39BF6FA1A8
+ for <user@example.com>; Sat,  3 Feb 2007 05:12:30 -0500 (EST)
+Received: from service (flemingco.net [68.105.243.216])
+ by virtualhosts.ari.es (Postfix) with ESMTP id 8BC6EE41F0;
+ Sat,  3 Feb 2007 11:09:57 +0100 (CET)
+From: "PayPal Inc."<confirm@no-paypal.com>
+Subject: Profile Update - PayPal Inc. -
+Date: Sat, 3 Feb 2007 02:10:01 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070203100957.8BC6EE41F0@virtualhosts.ari.es>
+To: undisclosed-recipients:;
+Content-Length: 1986
+Lines: 30
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 743
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p>&nbsp;</p>
+<p>Dear <strong>PayPal Inc. user, </strong></p>
+<p align="left"> This email is to inform you, that we had to block your PayPal Inc. Account access because we had to upgrade our servers in order to remove online fraud.</p>
+<p align="left"> Our terms and conditions you agreed to state that your account must always be under your control or those you designate at all times. We have noticed some unusual activity related to our servers that indicates that other parties may have access and, or control of your informations in your account. <br>
+  <br>
+<span style="font-family: arial,helvetica,sans-serif;"><span
+ style="font-weight: bold;"><small><big>Please follow this link to confirm your account access information </big></small></span></span><big>:</big></p>
+<p align="left"><big><FONT face="Courier New" size=2><a href="http://211.22.24.11/platforms.html"><FONT
+face="Courier New" color=#0066cc size=2>              >>> Click here <<< </FONT></a></FONT></big></p>
+<p align="left"> <font color="#FF0000">Please be aware that until we can verify 
+  your identity no further access to your account will be allowed and we will 
+  have no other liability for your account or any transactions that may have occurred 
+  as a result of your failure to upgrade your account as instructed above. </font></p>
+<p align="left">&nbsp;&nbsp;&nbsp; Thank you for your time and consideration in this matter .<br>
+</p>
+<p align="left">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Sincerely,<br>
+&nbsp;&nbsp;&nbsp; PayPal Inc.  Account Departement. </p>
+<p align="left">&nbsp;</p>
+<p align="center"><font face="verdana, sans serif" style="font-size:10px" size="1">&copy;&nbsp;Copyright 2007, PayPal Inc. . All Rights Reserved.</font></p>
+</body>
+</html>

@@ -1,0 +1,156 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <account@cuna.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id B6A0353701F
+ for <nobody@login.example.com>; Tue, 20 Dec 2005 09:27:20 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id A17E76FA380
+ for <nobody@example.com>; Tue, 20 Dec 2005 09:27:17 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Tue, 20 Dec 2005 09:27:17 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 56C801BC4F; Tue, 20 Dec 2005 15:27:08 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id CA2B01BB1E
+ for <foobee@example.com>; Tue, 20 Dec 2005 14:27:07 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 06966-03 for <foobee@example.com>;
+ Tue, 20 Dec 2005 15:26:48 +0100 (CET)
+Received: from 216.117.143.98 (unknown [216.117.143.98])
+ by lujan.example.com (Postfix) with SMTP id 694FE1BB3E
+ for <foobee@example.com>; Tue, 20 Dec 2005 15:26:43 +0100 (CET)
+Received: from 32.52.46.249 by ; Tue, 20 Dec 2005 07:21:11 -0700
+Message-ID: <XOMQBEYJOAPCEEENIJNIYHM@aol.com>
+From: "C.U.N.A. Security Department" <confirm@cuna.org>
+Reply-To: "C.U.N.A. Security Department" <confirm@cuna.org>
+To: conaganat@example.com, foobee@example.com
+Subject: [*** POSIBLE SPAM***] WARNING: BILLING UPDATE
+Date: Tue, 20 Dec 2005 12:23:11 -0200
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7084495946093938"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.3 required=5.0 tests=FORGED_MUA_AOL_FROM,
+ HOT_NASTY,HTML_50_60,HTML_MESSAGE,HTML_NONELEMENT_00_10,
+ MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,
+ RCVD_NUMERIC_HELO,SUBJ_ALL_CAPS autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.7 SUBJ_ALL_CAPS Subject is all capitals
+ *  0.1 HOT_NASTY BODY: Possible porn - Hot, Nasty, Wild, Young
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.1 HTML_50_60 BODY: Message is 50% to 60% HTML
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  1.5 FORGED_MUA_AOL_FROM Forged mail pretending to be from AOL (by From)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 161
+
+----7084495946093938
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+</head>
+<style type=3D"text/css">
+<!--
+#message,#message p,#message td,#message div,#message li,#message ul,#mess=
+age input { font-family:Arial, Helvetica,
+
+sans-serif;font-size:12px;color:#666;}
+-->
+</style>
+<xbody>
+<table width=3D"99%" border=3D0 cellpadding=3D0 cellspacing=3D0 >
+  <tr>
+    <td colspan=3D"2"><div align=3D"right"></div>
+
+    </td>
+  </tr>
+  <tr>
+    <td width=3D"18%"  valign=3Dtop>
+  <tr>
+    <td >&nbsp;</td>
+    <td width=3D"82%" ><h2 >Credit Union National Association
+
+</h2>
+    </td>
+
+  </tr>
+  <tr class=3D"Outline">
+    <td colspan=3D"2"  ><div  class=3D"OutlineArea"
+
+align=3D"center"></div></td>
+
+  </tr>
+</table><br>
+<strong>Dear Credit Union Member,</strong>
+<p>During our regulary schedule account maintenance and
+
+verification we have detected a slight error in<br>
+  your billing information on file with CUNA. This might be due to
+
+either following reasons:</p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A recent
+
+change in your personal information (i.e. change of address)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Submitting
+
+invalid information during the initial sign up process.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - An inability to
+
+accurately verify your selected option of payment due an internal
+
+error<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;within
+
+our processors.</p>
+<table width=3D"597" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td width=3D"13" bgcolor=3D"">&nbsp;</td>
+    <td width=3D"571"><strong>Your credit card on file with
+
+CUNA</strong>:<br>
+    Card number: XXXX-XXXX-XXXX-XXXX (Not shown for security
+
+purposes)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Expiration date: XX/XX</td>
+    <td width=3D"13" bgcolor=3D"">&nbsp;</td>
+  </tr>
+</table>
+<p>Please update your billing information here:</p>
+<p><a
+target=3D"_blank"  
+href=3D"http://211.97.60.218/usage/.CREDIT-UNION/update.php" >http://updat=
+e.cuna.org/cgi-bin/BillingUpdate.htm</a></p>
+<p>If your account information is not updated, your credit/debit
+card access will become restricted.</p>
+<p>Thank you.<br>
+  Credit Union National Association, Inc.</p>
+</xbody>
+</html>
+
+----7084495946093938--

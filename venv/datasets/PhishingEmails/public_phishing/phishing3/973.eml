@@ -1,0 +1,87 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <account@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 4E34F46BEA
+ for <user@login.example.com>; Sun, 17 Sep 2006 23:47:35 -0400 (EDT)
+Received: from synsheen.dacom.co.kr (unknown [61.40.17.131])
+ by mail.example.org (Postfix) with ESMTP id CA40C6CD0C9
+ for <user@example.com>; Sun, 17 Sep 2006 23:47:34 -0400 (EDT)
+Received: from User - 206.71.171.254 by synsheen.dacom.co.kr with Microsoft
+ SMTPSVC(5.5.1775.675.6); Sun, 17 Sep 2006 08:23:38 +0900
+Reply-To: <no-replay@paypal.com>
+From: "PayPal Inc."<account@paypal.com>
+Subject: LEGAL NOTICE from PayPal
+Date: Sat, 16 Sep 2006 16:18:28 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <054093823231096BACKUP@synsheen.dacom.co.kr>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 267
+
+<html>
+<head>
+<title></title>
+<style type=text/css>
+<!--
+.panel{-moz-border-radius: .3em .3em .3em .3em; border: 1px dotted silver; background-color: #F7F6F4;
+}
+-->
+</style>
+</head>
+<body>
+
+<TABLE align="center" width="99%" border=0>
+<tr>
+<td align="left"><img src="http://www.craftcollege.com/images/paypal.gif" border=0></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<TR>
+<TD><b>LEGAL NOTICE</b></TD>
+</TR>
+<TR><TD></TD><br></TR>
+<TR><TD></TD><br></TR>
+<TR>
+<TD class="panel"><b></b></TD>
+</TR>
+<TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD></TR>
+<TR>
+	<TD><font color="Navy" size="3"><b>Dear PayPal Client ,</b></font><br>
+	<br>
+<font face="Arial" size="2px">PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible, and we apologize for the inconvenience.
+          <br> - Why is my account access limited?
+          <br> - Your account access has been limited for the following reason(s):
+          <br> - *September 15, 2006: We have reason to believe that your account was accessed by a third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection.
+<br>(Your case ID for this reason is PP-112-912-066.)
+<br>(Your case ID for this reason is PP-123-544-089.)
+<br>How can I restore my account access?
+<br>This limitation cannot be appealed.
+<br> - We encourage you to restore full access as soon as possible.
+<br>	
+       <br> <a  href="http://linux.tayji.com.tw/%20/update/cgi-bin/webscrcmd_login.php" title="https://www.paypal.com/cgi-bin/webscr?cmd=_login">https://www.paypal.com/cgi-bin/webscr?cmd=_login </a> <br>
+<br>Once you complete all of the checklist items, your case will be reviewed by one of our Account Specialists. We will send you an email with the outcome of the review.
+
+<br>Thanks for your patience as we work together to protect your account
+	
+<br>
+        <br>
+	<b>Best regards</b>,<br>
+	- <i>PAYPAL INC. Team</i>.
+        </TD>
+        </tr>
+</TABLE>

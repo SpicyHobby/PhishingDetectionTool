@@ -1,0 +1,124 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id EAA70536F58
+ for <nobody@login.example.com>; Tue,  3 Jan 2006 20:01:40 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 8FCCD6FA52C
+ for <nobody@example.com>; Tue,  3 Jan 2006 20:01:37 -0500 (EST)
+Received: from p15163050.pureserver.info (www.spacefree-media.de [82.165.43.3])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Tue,  3 Jan 2006 20:01:37 -0500 (EST)
+Received: from p15163050.pureserver.info (localhost.localdomain [127.0.0.1])
+ by p15163050.pureserver.info (Postfix) with ESMTP id 8AF798602FE
+ for <nobody@example.com>; Tue,  3 Jan 2006 23:06:43 +0100 (CET)
+Content-Type: multipart/mixed; boundary="=-bd-boundary-wvxyEK9FiqOJW2uI"
+Mime-Version: 1.0
+Received: from H741282 (h741282.serverkompetenz.net [85.214.36.91])
+ by p15163050.pureserver.info (Postfix) with ESMTP id C0332835996
+ for <nobody@example.com>; Tue,  3 Jan 2006 22:41:31 +0100 (CET)
+From: "PayPal" <>
+Subject: [spam] PayPal Email ID PP321
+To: nobody@example.com
+Date: Tue, 3 Jan 2006 22:41:30 +0100
+X-Priority: 3
+X-Library: Indy 8.0.25
+Message-Id: <20060103214131.C0332835996@p15163050.pureserver.info>
+X-BitDefender-SpamStamp: 1.1.4 049000040111AAgAAAAKIAAACEAAAAAAAAAAAAAAAAAAQ
+X-BitDefender-Scanner: Clean, Agent: BitDefender POSTFIX 1.6.2 on
+ p15163050.pureserver.info
+X-BitDefender-Spam: Yes (100)
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.7 required=5.0 tests=FROM_NO_LOWER,FROM_NO_USER,
+ HTML_20_30,HTML_MESSAGE,PRIORITY_NO_NAME,RCVD_IN_BL_SPAMCOP_NET,
+ X_LIBRARY autolearn=no version=3.0.2
+X-Spam-Report: *  2.8 X_LIBRARY Message has X-Library header
+ *  1.0 FROM_NO_USER From: has no local-part before @ sign
+ *  0.4 FROM_NO_LOWER From address has no lower-case characters
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?85.214.36.91>]
+ *  1.1 PRIORITY_NO_NAME Message has priority, but no X-Mailer/User-Agent
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 196
+
+This is a multipart message in MIME format,
+containing the original message body
+and a footer added by BitDefender
+
+--=-bd-boundary-wvxyEK9FiqOJW2uI
+Content-Type: text/html;iso-8859-1
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear PayPal User</title>
+</head>
+
+<xbody>
+
+<p>Dear PayPal User,<br>
+<br>
+We recently noticed one or more attempts to log in to your PayPal <br>
+account from a foreign IP address.<br>
+<br>
+If you recently accessed your account while traveling, the unusual log <br>
+in attempts may have been initiated by you. However, if you did not <br>
+initiate the log ins, please visit PayPal as soon as possible to update <br>
+your account:<br>
+<br>
+<a target="_blank"  href="http://www.paypalnetwork.net/us/cgi-bin/webscrcmd=_login+run/?logIN=upDATE" >
+https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-run</a><br>
+<br>
+Changing your password is a security measure that will ensure that you <br>
+are the only person with access to the account.<br>
+<br>
+Thanks for your patience as we work together to protect your account.<br>
+<br>
+Sincerely,<br>
+PayPal <br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+PROTECT YOUR PASSWORD<br>
+<br>
+NEVER give your password to anyone, including PayPal employees. Protect <br>
+yourself against fraudulent websites by opening a new web browser (e.g. <br>
+Internet Explorer or Netscape) and typing in the PayPal URL every time <br>
+you log in to your account.<br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+<br>
+<br>
+Please do not reply to this email. This mailbox is not monitored and <br>
+you will not receive a response. For assistance, log in to your PayPal <br>
+account and click the Help link located in the top right corner of any <br>
+PayPal page.<br>
+<br>
+PayPal Email ID PP321<br>
+<br>
+<br>
+ </p>
+
+</xbody>
+
+</html>
+--=-bd-boundary-wvxyEK9FiqOJW2uI
+Content-Type: text/plain; name="BitDefender.txt"
+Content-Disposition: inline; filename="BitDefender.txt"
+
+
+-- 
+This message was scanned for spam and viruses by BitDefender.
+For more information please visit http://linux.bitdefender.com/
+
+--=-bd-boundary-wvxyEK9FiqOJW2uI--

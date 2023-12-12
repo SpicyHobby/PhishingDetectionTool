@@ -1,0 +1,425 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <member@eBay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 97DC446A20
+ for <user@login.example.com>; Fri, 22 Sep 2006 19:17:45 -0400 (EDT)
+Received: from 10.0.0.90 (static-70-107-237-148.ny325.east.verizon.net
+ [70.107.237.148])
+ by mail.example.org (Postfix) with SMTP id 0E7F86CD19E
+ for <user@example.com>; Fri, 22 Sep 2006 19:17:45 -0400 (EDT)
+Received: from 82.2.98.112 by ; Fri, 22 Sep 2006 20:18:45 -0400
+Message-ID: <TOTBNQOVUMBISMOBKQWMPYG@earthlink.net>
+From: "eBay Inc." <member@eBay.com>
+Reply-To: "eBay Inc." <member@eBay.com>
+To: user@example.com
+Subject: IMPORTANT: Alert from eBay
+Date: Sat, 23 Sep 2006 01:19:45 +0100
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--12930854402406104782"
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 12009
+Lines: 394
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 305
+
+----12930854402406104782
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<!--eBay V3- msxml 4.0 XXXXXXXXXXXXXXXXXXXXXXXXXX-->
+<!--srcId: MemberToMemberContactEmail-->
+<title>Message from eBay Member</title>
+<style>
+
+#message .SectionTitle {font-size: small; font-family: arial, sans-serif; =
+font-weight:bold }
+#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; =
+font-weight:bold }
+#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}=
+
+#message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-fa=
+mily: arial, sans-serif; font-weight:normal }
+#message .Title {font-size: medium; font-family: verdana, arial, sans-seri=
+f}
+#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font=
+-weight:normal}
+#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif=
+; font-weight:bold}
+#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif; =
+font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+#message .Separator { COLOR: #CCCCCC; height: 1px}
+#message .HighlightedSeparator { COLOR: #9999cc; height: 1px}
+#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+#message .Footer, #message .Footer p {font-size: xx-small; font-family:ari=
+al, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-botto=
+m: 6 px}
+</style>
+<style>
+#message .ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font=
+-weight:bold }
+#message .sectiontitle{font-size:small;font-weight:bold;}
+#message .pagetitle {font-size:medium;font-weight:bold;}</style>
+
+</head>
+<xbody bgcolor=3D"#FFFFFF">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr>
+<td width=3D"100%" style=3D"word-wrap: break-word;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%" xmlns:x=3D"urn:schemas-microsoft-com:xslt">
+<tr>
+<td>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" border=3D"0">
+<tr>
+<td width=3D"1" rowspan=3D"3"></td>
+<td></td>
+<td width=3D"1" rowspan=3D"3"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100=
+%">
+
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%" bgcolor=3D"white">
+<tr>
+<td width=3D"1%" nowrap>
+<img src=3D"http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrLeft_1=
+3x39.gif" width=3D"13" height=3D"39" ></td>
+
+<td nowrap width=3D"98%" background=3D"http://pics.ebaystatic.com/aw/pics/=
+email/syiSessions/imgSpan_5x39.gif" ><span class=3D"SectionTitle"><font si=
+ze=3D"4"><b>eBay My Messages -- 1 Alert Message</b></font></span></td>
+<td valign=3D"bottom" width=3D"1%" nowrap>
+<img src=3D"http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrRight_=
+90x39.gif"  alt=3D"eBay" width=3D"90" height=3D"39"></td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%">
+<tr>
+<td><img height=3D"1" src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  wi=
+dth=3D"10"></td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%">
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td><img height=3D"10" src=3D"http://pics.ebaystatic.com/aw/pics/s.gif" ><=
+/td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=
+%">
+
+<tr>
+<td><img height=3D"1" src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  wi=
+dth=3D"10"></td>
+<td valign=3D"top">
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100=
+%">
+<tr>
+<td valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+<tr>
+<td>
+<table cellspacing=3D"0" cellpadding=3D"1" width=3D"100%" align=3D"center"=
+ border=3D"0" bgcolor=3D"#9999cc">
+<tr height=3D"26" bgcolor=3D"#9999cc">
+<td>
+<font color=3D"#ffffff"> <span class=3D"SectionTitle">Alert from eBay</spa=
+n></font>
+</td>
+</tr>
+
+<tr><td><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" bgcolor=3D"#eeeef8" border=3D"0">
+<tr><td width=3D"20"><img height=3D"4" src=3D"http://pics.ebaystatic.com/a=
+w/pics/s.gif"  width=3D"1"></td></tr>
+<tr><td><img height=3D"4" src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"=
+  width=3D"1"></td></tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center"=
+ border=3D"0">
+<tr bgcolor=3D"#ffffff">
+<td>
+<table cellspacing=3D"0" cellpadding=3D"4">
+<tr>
+<td width=3D"75%" valign=3D"top">
+<font size=3D"2" face=3D"Arial, Verdana">These message contain important i=
+nformation about your account and require your immediate attention. Alerts=
+ can't be deleted until they've been acted upon.<br/></font>
+</td>
+
+<td width=3D"22%" align=3D"center" valign=3D"top"><table cellspacing=3D"0"=
+ cellpadding=3D"0" width=3D"100%" bgcolor=3D"#eeeef8" border=3D"1" borderc=
+olor=3D"#999999">
+<tr>
+<td>
+<table cellspacing=3D"3" cellpadding=3D"3" width=3D"100%">
+<tr>
+<td align=3D"center"><font size=3D"2" face=3D"Arial, Verdana"><b>Read this=
+ alert in My Messages.</b></font>
+</td>
+</tr>
+<tr>
+<td align=3D"center">
+<a target=3D"_blank" href=3D"http://ltf131.chi.us.siteprotect.com/.www.eba=
+y.com/ebay.com/index.php?cat_id=3Dtrueportlet_logon_1_actionOverrideFchase=
+onlineFlogonFverifyDetails_windowLabel_portlet_logon_pageLabel_page_logon"=
+>
+<img src=3D"http://pics.ebaystatic.com/aw/pics/email/message/btnRespondNow=
+gif"  border=3D"0" alt=3D"Respond Now" width=3D"105" height=3D"22"></a></=
+td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+
+<td width=3D"3%"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  width=3D"1"=
+ height=3D"8" border=3D"0"></td></tr>
+<tr><td><font size=3D"2" face=3D"Arial, Verdana">Thank you for using eBay!=
+</font></td></tr>
+
+<tr><td><font size=3D"2" face=3D"Arial, Verdana"><a target=3D"_blank"  hre=
+f=3D"http://www.ebay.com/" >http://www.ebay.com/</a></font></td></tr>
+<tr><td><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  width=3D"1"=
+ height=3D"10" border=3D"0"></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" width=3D"10"><img src=3D"http://pics.ebaystatic.com/aw/=
+pics/s.gif"  width=3D"10"></td>
+<td width=3D"188" align=3D"right" valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"BORDER: #=
+6b7b91 1px solid;">
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td bgcolor=3D"#CAD2DD"><img src=3D"http://pics.ebaystatic.com/aw/pics/sec=
+urityCenter/imgShield_25x25.gif"  border=3D"0" width=3D"25" height=3D"25" =
+alt=3D"Marketplace Safety Tip"></td>
+<td bgcolor=3D"#CAD2DD" nowrap>
+<font size=3D"-1" face=3D"Arial, Helvetica, Verdana, sans-serif"><b><a tar=
+get=3D"_blank"  href=3D"http://pages.ebay.com/securitycenter"  style=3D"te=
+xt-decoration: none; color: #000000">Marketplace Safety Tip</a></b></font>=
+
+</td>
+<td bgcolor=3D"#CAD2DD"><img src=3D"http://pics.ebaystatic.com/aw/pics/sec=
+urityCenter/imgTabCorner_25x25.gif"  border=3D"0" width=3D"25" height=3D"2=
+5" title=3D"" alt=3D" "></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"5" cellspacing=3D"0">
+
+<tr>
+<td>
+<font size=3D"2" face=3D"Arial, Verdana">
+If this message is an offer to sell an item without winning it on the eBay=
+ Web site (including Second Chance Offers sent through My Messages) please=
+ do not respond to the sender. These "outside of eBay" transactions are un=
+safe and not covered by eBay purchase protection programs.
+<br><br>
+Never pay for your eBay item through instant wire transfer services such a=
+s <a target=3D"_blank"  href=3D"http://pages.ebay.com/help/confidence/isgw=
+-fraud-sending-payments.html" >Western Union</a> or <a target=3D"_blank"  =
+href=3D"http://pages.ebay.com/securitycenter/mrkt_safety/instantcashtransf=
+er.html" >MoneyGram</a>. These payment methods are unsafe when paying some=
+one you do not know.
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr><td height=3D"5" bgcolor=3D"#c9d2dc"><img src=3D"http://pics.ebaystati=
+c.com/aw/pics/s.gif"  width=3D"1" height=3D"5"></td></tr>
+</table>
+</td></tr></table>
+</td>
+</tr>
+<tr>
+<td><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  width=3D"1" hei=
+ght=3D"10"></td>
+</tr>
+<tr>
+<td>
+<table cellSpacing=3D"0" cellPadding=3D"5" width=3D"100%" border=3D"0" sty=
+le=3D"BORDER: #c6c6c6 1px solid;">
+<tr>
+<td>
+<font size=3D"2" face=3D"Arial, Verdana">
+Is this email inappropriate? Does it violate <a target=3D"_blank"  href=3D=
+"http://pages.ebay.com/help/policies/rfe-unwelcome-email-misuse.html" >eBa=
+y policy</a>? Help protect the community by <a target=3D"_blank"  href=3D"=
+http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?ReportEmailAbuseshow&amp;reporte=
+ruserid=3Dlouisss00112233&amp;reporteduserid=3Dfomocoace&amp;emaildate=3D2=
+005/11/21:12:39:48&amp;emailtype=3D1&amp;emailtext=3Dtralalalalala&amp;tra=
+ckId=3D1519872969" >reporting it</a>.					
+
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3D"3"><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  w=
+idth=3D"1" height=3D"10"></td>
+</tr>
+</table>
+<table width=3D"100%" bgcolor=3D"#CCCCCC" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tr>
+<td height=3D"1"></td>
+</tr>
+
+</table>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" border=3D"0">
+<tr>
+<td><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  width=3D"1" hei=
+ght=3D"5"></td>
+</tr>
+<tr>
+<td>
+<font face=3D"Arial, Verdana" size=3D"1" color=3D"#666666">
+Learn how you can protect yourself from spoof (fake) emails at:<br><a targ=
+et=3D"_blank"  href=3D"http://pages.ebay.com/education/spooftutorial" >htt=
+p://pages.ebay.com/education/spooftutorial</a> </font>
+</td>
+</tr>
+<tr>
+<td><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  width=3D"1" hei=
+ght=3D"5"></td>
+</tr>
+
+<tr>
+<td>
+<font face=3D"Arial, Verdana" size=3D"1" color=3D"#666666">
+This eBay notice was sent to jaf_84@yahoo.com on behalf of another eBay me=
+mber through the eBay platform and in accordance with our Privacy Policy. =
+If you would like to receive this email in text format, change your <a tar=
+get=3D"_blank"  href=3D"http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginSh=
+ow"  onfiltered=3D"return openNonHelpWindow(this.href);">notification pref=
+erences</a>.
+</font>
+</td>
+</tr>
+<tr>
+<td><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  width=3D"1" hei=
+ght=3D"5"></td>
+</tr>
+<tr>
+<td>
+<font face=3D"Arial, Verdana" size=3D"1" color=3D"#666666">
+See our Privacy Policy and User Agreement if you have questions about eBay=
+'s communication policies.<br>
+
+Privacy Policy: <a target=3D"_blank"  href=3D"http://pages.ebay.com/help/p=
+olicies/privacy-policy.html" >http://pages.ebay.com/help/policies/privacy-=
+policy.html</a><br>
+User Agreement: <a target=3D"_blank"  href=3D"http://pages.ebay.com/help/p=
+olicies/user-agreement.html" >http://pages.ebay.com/help/policies/user-agr=
+eement.html</a> </font>
+</td>
+</tr>
+<tr>
+<td><img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  width=3D"1" hei=
+ght=3D"5"></td>
+</tr>
+<tr>
+<td>
+<font face=3D"Arial, Verdana" size=3D"1" color=3D"#666666">			
+Copyright =A9 2006 eBay, Inc. All Rights Reserved.<br>
+
+Designated trademarks and brands are the property of their respective owne=
+rs.<br>
+eBay and the eBay logo are registered trademarks or trademarks of eBay, In=
+c.<br>				
+eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125.
+</font>
+</td>
+</tr>
+</table><br><br><img src=3D"http://us.ebayobjects.com/1a/ebay.us.ebay.us.c=
+em/home;tile=3D1;sz=3D1x1;ord=3D1570773650?" ></td>
+<td><img height=3D"1" src=3D"http://pics.ebaystatic.com/aw/pics/s.gif"  wi=
+dth=3D"10"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+</xbody>
+</html>
+
+----12930854402406104782--

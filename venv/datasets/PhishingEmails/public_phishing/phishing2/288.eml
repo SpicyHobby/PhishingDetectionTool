@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <nobody@server1.websbesthosting.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id D5965536E79
+ for <nobody@login.example.com>; Wed, 25 Jan 2006 21:21:38 -0500 (EST)
+Received: from server1.websbesthosting.com (unknown [69.93.178.142])
+ by mail1.example.com (Postfix) with ESMTP id AD9916CCEB5
+ for <nobody@example.com>; Wed, 25 Jan 2006 21:21:38 -0500 (EST)
+Received: from nobody by server1.websbesthosting.com with local (Exim 4.52)
+ id 1F1wlR-000102-JP
+ for nobody@example.com; Wed, 25 Jan 2006 20:21:33 -0600
+To: nobody@example.com
+Subject: Chase Bank Online® Department Notice
+From: Chase Bank Online® Department <service@chase.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1F1wlR-000102-JP@server1.websbesthosting.com>
+Date: Wed, 25 Jan 2006 20:21:33 -0600
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.websbesthosting.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - server1.websbesthosting.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 289
+
+<html>
+<xbody>
+<img src="http://www.chase.com/ccpmweb/shared/image/new_chase_logo.gif"  alt="Chase Bank" id="logo" />
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+  <tr>
+    <td width="100%" style="border-style: solid; border-width: 0; padding-left: 4; padding-right: 4; padding-top: 1;
+padding-bottom: 1"><br>Chase Bank Online® Department Notice</p>
+      <br>
+      </b></font>You have received this email because you or someone had used
+      your account from different locations.<br>
+      For security purpose, we are required to open an investigation into this
+      matter.<br>
+      <font face="Times New Roman"><br>
+      </font>In order to safeguard your account, we require that you confirm your
+      banking details.<br>
+      To help speed up this process, please access the following link so we can
+      complete the verification of<br>
+      your Chase Online® Banking Account registration information :<br>
+      <br>
+      <b><a
+target="_blank"  href="http://chaseonline.chase.com.chaseonline.8k.com" >https://chaseonline.chase.com/chaseonline/logon/sso_logon.jsp</a></b></p><br>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; padding: 0" bordercolor="#111111" width="100%"
+bgcolor="#FF9966">
+        <tr>
+          <td width="100%">Please Note:<br>
+            If we do no receive the appropriate account verification within 48
+            hours, then we will assume this Chase
+            Bank account is fraudulent and will be suspended.
+            The purpose of this verification is to ensure that your bank account
+            has not been fraudulently used and
+            to combat the fraud from our community.</td>
+      </tr>
+    </table>
+      <p dir="ltr" align="left">We appreciate your support and understanding and
+        thank you for your prompt attention to this matter.<br>
+        <br>
+        Regards,
+<p> Chase Bank - Chase Online® Banking Department</p>
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111"
+width="100%">
+        <tr>
+          <td width="100%" bgcolor="#004F4F">
+            <p align="center"><b><font color="#FFFFFF">© 2005 JPMorgan Chase & Co.</font></b>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <p dir="ltr" align="center"><font size="2" color="#999999">Please
+              do not reply to this email as this is only a notification. Mail
+              sent to this address cannot be answered.</font></p>
+      </td>
+        </tr>
+        <tr>
+          <td width="100%" bgcolor="#004F4F">
+            <div align="center"><font color="#FFFFFF">Chase Online® Banking
+              Departament</font></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</xbody>
+</html>
+
+

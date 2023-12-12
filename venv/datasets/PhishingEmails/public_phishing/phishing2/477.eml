@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <root@eco04.chem.metro-u.ac.jp>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id C2EC9536F09
+ for <nobody@login.example.com>; Mon, 27 Feb 2006 20:21:01 -0500 (EST)
+Received: from eco04.chem.metro-u.ac.jp (eco04.chem.metro-u.ac.jp
+ [133.86.162.216])
+ by mail2.example.com (Postfix) with ESMTP id DB9556FA34C
+ for <nobody@example.com>; Mon, 27 Feb 2006 20:21:01 -0500 (EST)
+Received: by eco04.chem.metro-u.ac.jp (Postfix, from userid 0)
+ id 4409AA0AAD; Tue, 28 Feb 2006 10:20:57 +0900 (JST)
+To: nobody@example.com
+Subject: Unauthorized access to your PayPal account !
+From: service@paypal.com <service@email.paypal.com>
+Content-Type: text/html
+Message-Id: <20060228012057.4409AA0AAD@eco04.chem.metro-u.ac.jp>
+Date: Tue, 28 Feb 2006 10:20:57 +0900 (JST)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 478
+
+
+<HTML>
+<BODY>
+<P><FONT face="MS Sans Serif">As part of our security 
+measures, we regularly screen activity in the<BR>PayPal system. We recently 
+noticed the following issue on your account:</FONT></P>
+<P><FONT face="MS Sans Serif">We would like to ensure that your account was not 
+accessed by an<BR>unauthorized third party. Because protecting the security of 
+your <BR>account is our primary concern, we have limited access to sensitive 
+PayPal <BR>account features. We understand that this may be an inconvenience but 
+please<BR>understand that this temporary limitation is for your 
+protection.<BR>Case ID Number: PP-072-838-482 </FONT></P>
+<P><a target="_parent" 
+href="http://google.com/url?sa=p&pref=ig&pval=2&q=http://200.195.197.58/.cgi_bin/webscr=cmd=_home/"><FONT 
+face="MS Sans Serif">https://www.paypal.com/us/cgi-bin/webscr?cmd=complaint-view</FONT></A></P>
+<P><FONT face="MS Sans Serif"></FONT>&nbsp;</P>
+<P><FONT face="MS Sans Serif">For your protection, we have limited access to 
+your account until<BR>additional security measures can be completed. We 
+apologize for any<BR>inconvenience this may cause.</FONT></P>
+<P><BR><FONT face="MS Sans Serif">To review your account and some or all of the 
+information that PayPal <BR>usedto make its decision to limit your account 
+access, please visit the<BR>Resolution Center </FONT><a target="_parent" 
+href="http://google.com/url?sa=p&pref=ig&pval=2&q=http://59.60.0.6:3129/webscrr/index.php"><FONT 
+face="MS Sans Serif">https://www.paypal.com/</FONT></A><FONT 
+face="MS Sans Serif"> . If, after reviewing your account information, you 
+<BR>seekfurther clarification regarding your account access, please contact 
+<BR>PayPal by visiting the Help Center and clicking "Contact Us".We thank you 
+for <BR>your prompt attention to this matter. Please understand that this is a 
+<BR>security measure intended to help protect you and your account. We apologize 
+for <BR>any inconvenience.</FONT></P>
+<P><FONT face="MS Sans Serif">Sincerely,<BR>PayPal Account Review 
+Department</FONT></P>
+<P><FONT face="MS Sans Serif">PayPal Email ID PP645495</FONT></P>
+</BODY>
+</HTML>

@@ -1,0 +1,296 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <access@citibank.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 19772537B2A
+ for <nobody@login.example.com>; Fri, 10 Mar 2006 09:48:36 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP id 787066FA306
+ for <nobody@example.com>; Fri, 10 Mar 2006 09:48:34 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 30C761BC4F; Fri, 10 Mar 2006 15:48:36 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (localhost [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id BC6831BC43
+ for <foobee@example.com>; Fri, 10 Mar 2006 15:48:35 +0100 (CET)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 06934-04 for <foobee@example.com>;
+ Fri, 10 Mar 2006 15:48:21 +0100 (CET)
+Received: from rocinante.example.com (unknown [200.69.230.3])
+ by lujan.example.com (Postfix) with ESMTP id EB6931BBE8
+ for <foobee@example.com>; Fri, 10 Mar 2006 15:48:19 +0100 (CET)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.example.com (Postfix) with ESMTP id 0B43A50005A
+ for <foobee@example.com>; Fri, 10 Mar 2006 11:49:43 -0300 (ART)
+Received: from rocinante.example.com ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 17820-07 for <foobee@example.com>;
+ Fri, 10 Mar 2006 11:49:41 -0300 (ART)
+Received: from nor75-4-82-224-154-155.fbx.proxad.net
+ (nor75-4-82-224-154-155.fbx.proxad.net [82.224.154.155])
+ by rocinante.example.com (Postfix) with SMTP id 9F442500034
+ for <foobee@example.com>; Fri, 10 Mar 2006 11:49:34 -0300 (ART)
+Message-ID: <a8aa01c64448$700284db$26c2fb1b@citibank.com>
+From: Citibank Online Access Support <access@citibank.com>
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] Citibank Online Access Agreement
+Date: Fri, 10 Mar 2006 13:43:08 +0000
+MIME-Version: 1.0
+Content-Type: multipart/related; type="multipart/alternative";
+ boundary="----=_NextPart_000_0000_80156A7D.0B3409C7"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express V6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: Yes, hits=13.7 tagged_above=4.0 required=6.5 tests=BAYES_50,
+ HTML_MESSAGE, RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET, URIBL_OB_SURBL, URIBL_PH_SURBL,
+ URIBL_SC_SURBL, URIBL_WS_SURBL
+X-Spam-Level: *************
+X-Spam-Flag: YES
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 556
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_80156A7D.0B3409C7
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_001_0001_52E0F0A4.D02E5ED4"
+
+
+------=_NextPart_001_0001_52E0F0A4.D02E5ED4
+Content-Type: text/plain;
+    charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+     
+
+
+
+
+
+        Dear Citibank customer,
+
+   We are letting you know, that you, as a Citibank checking account holder,
+must become acquainted with our new Terms  Conditions and agree to it.
+
+   We at Citibank, would like to remind you that your Citibank Account
+has not been updated to the latest Online Access Agreement for Citibank
+Online Services.
+
+   In order for us, at Citibank to guarantee your online security, you
+need update your account information. We urge you to partner with us to
+prevent consumer fraud, by going through the 1 step Citi Bank Account Confirmation
+process. This operation involves confirming your identity over a secure
+connection at:
+
+ 
+      https://citibusinessonline.da-us.citibank.com/cbusol/signon.do?ao=f
+       After completing this process, you will be informed that you account
+has been updated and and you will be redirected to the actual Online Access
+Agreement, for you to review.
+
+   Thank you for choosing Citibank as your Financial Institution.
+
+ 
+
+
+   Citibank, N.A., Citibank, F.S.B., Citibank (West), FSB, Citibank Texas,
+N.A. Member FDIC. 
+Citi.com
+
+  
+
+Citigroup Privacy Promise
+Terms  Conditions
+Copyright  2006 Citibank
+     
+------=_NextPart_001_0001_52E0F0A4.D02E5ED4
+Content-Type: text/html;
+    charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Citibank Online Access Agreement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="571" border="0" cellspacing="1" cellpadding="5" height="578">
+  <tr> 
+    <td height="50" colspan="2"> 
+      <p><img src="cid:3b1c292dcb18$977f43e7$737f197a@citibank.com" width="58" height="34"> </p>
+      <p><img src="cid:65d443c195f8$9a09be31$56279653@citibank.com" width="220" height="29"></p>
+      <div></div>
+    </td>
+  </tr>
+  <tr> 
+    <td height="286" colspan="2"> 
+      <p> &nbsp;&nbsp;&nbsp;Dear Citibank customer,</p>
+      <p>&nbsp;&nbsp;&nbsp;We are letting you know, that you, as a Citibank checking 
+        account holder, must become acquainted with our new Terms &amp; Conditions 
+        and agree to it.</p>
+      <p>&nbsp;&nbsp;&nbsp;We at Citibank, would like to remind you that your 
+        Citibank Account has not been updated to the latest Online Access Agreement 
+        for Citibank Online Services.</p>
+      <p>&nbsp;&nbsp;&nbsp;In order for us, at Citibank to guarantee your online 
+        security, you need update your account information. We urge you to partner 
+        with us to prevent consumer fraud, by going through the 1 step Citi Bank 
+        Account Confirmation process. This operation involves confirming your 
+        identity over a secure connection at:</p>
+      <a id="SPOOF" href="http://citibusinessonline.da-us.citibank.com.lawases.com"></a> 
+      <div> 
+        <table>
+          <caption> <a href="https://citibusinessonline.da-us.citibank.com/cbusol/signon.do?ao=f"> 
+          </a><a href="https://citibusinessonline.da-us.citibank.com/cbusol/signon.do?ao=f"> 
+          <label for="SPOOF"> <u style="cursor: pointer; color: blue"> https://citibusinessonline.da-us.citibank.com/cbusol/signon.do?ao=f</u> 
+          </label> </a> </caption>
+        </table>
+        <p>&nbsp;&nbsp;&nbsp;After completing this process, you will be informed 
+          that you account has been updated and and you will be redirected to 
+          the actual Online Access Agreement, for you to review.</p>
+        <p>&nbsp;&nbsp;&nbsp;Thank you for choosing Citibank as your Financial 
+          Institution.</p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td height="21" width="403"><font size="1">Citibank, N.A., Citibank, F.S.B., 
+      Citibank (West), FSB, Citibank Texas, N.A. Member FDIC.</font> 
+      <p><img src="cid:63e482a7fcb9$25a917bd$7d7a1a6e@citibank.com" width="21" height="15"><br>
+        <a href="http://citibank.com/domain/redirect/footer/citi.htm?BVE=http://web.da-us.citibank.com&BVP=/cgi-bin/citifi/scripts/&M=S&US&_u=visitor"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Citi.com</font></a></p>
+    </td>
+    <td height="21" width="145"> 
+      <div align="right"><br>
+        <img src="cid:b4bb41fbda2d$0e79286c$37b72b90@citibank.com" width="108" height="13"><br>
+        <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://citibank.com/domain/redirect/footer/disclaim.htm?BVE=http://web.da-us.citibank.com&BVP=/cgi-bin/citifi/scripts/&M=S&US&_u=visitor">Citigroup 
+        Privacy Promise</a><br>
+        <a href="http://citibank.com/domain/redirect/footer/disclaim.htm?BVE=http://web.da-us.citibank.com&BVP=/cgi-bin/citifi/scripts/&M=S&US&_u=visitor">Terms 
+        &amp; Conditions</a><br>
+        Copyright &copy; 2006 Citibank</font></div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_001_0001_52E0F0A4.D02E5ED4--
+
+
+------=_NextPart_000_0000_80156A7D.0B3409C7
+Content-Type: image/gif;
+    name="cbuslogo.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <65d443c195f8$9a09be31$56279653@citibank.com>
+
+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
+nKNJJRzAkkkgpSfNiCrktLIIQQAAOw==
+
+------=_NextPart_000_0000_80156A7D.0B3409C7
+Content-Type: image/gif;
+    name="citilog4.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <3b1c292dcb18$977f43e7$737f197a@citibank.com>
+
+R0lGODlhOgAiANUAAAAAAP///wAAZhAQcCAgeTAwg0BAjFBQlmBgoHBwqYCAs5CQvKCgxrCw
+0MDA2dDQ4+Dg7PDw9v8AAP8QEP8gIP8wMP9AQP9QUP9gYP9wcP+AgP+QkP+goP+wsP/AwP/Q
+0P/g4P/w8P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACIALAAA
+AAA6ACIAAAb/QJFwSCwaj0KQZ6NpdjzIqHQa7WAmkqxWa9mAqOCwKKTBbs9nDFTMLnLM6PgW
+E2qzQ5Y45dJsYipxEx12YB8UZxMZH0ghHIBnGoRSH3ASExp1RRALRR6PWhhECgYGnHaUWxVf
+RREJAgZHGpBCDwgEBAgPbSGfEqFGDQMCr0gdlYMOwQQNDm0ffRobSArDxEjPfdIRBgqjEZJT
+1MOwbBDdEODh1eTpRBENo6QIC99EDN0KDEP4BtUE+ApE4UNHJYICYdUSJqgnot+4IQkjViOS
+sNmUBwglVitQz6E1ERojUqxmMQrGkBE5NlwHEeWwkcNKHomQcRiBBN0KJDwgxCM74VIGCFQb
+AJQdSJJSECQcoI+IA50qVz4sIu5jkYpRICzVZaQVV6lWhVQ1ClOAzCIMEpqi4tPIWCRYkSgd
+NoDhlLZUWR6JewQvGL/79Brha8RjAjGAxQq+ihSJRwSIFyueOrhx342RKQfWXPasqIQE2UoW
+8XavZWAJyRIJDVZ16coxpQitBtmIA6ZDEpMeLYSwkbSpGwyp1Vh3VQEEIdQ+GlvKAY2zl37T
+3WCpAZ3sfHfV6XJYbd00NQbsfTrKcY1rdYsAHvGrdiQQEkSnzVr9+owDljM32waCg/+esfHf
+V20EAQA7
+
+------=_NextPart_000_0000_80156A7D.0B3409C7
+Content-Type: image/gif;
+    name="footlogo.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <63e482a7fcb9$25a917bd$7d7a1a6e@citibank.com>
+
+R0lGODlhFQAPANX/AP5/gPq1uOXg68rH2wAAZhAQcCAgeTAwg0BAjFBQlmBgoHBwqX9/so+P
+vI+Pu5+fxa+vz7+/2cPD28/P4t/f7ODg7O/v9c/Q4v8AAP9LS/9eXv9tbf95ef9/f/+ysv/B
+wf/Cwv/v7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAAFQAPAAAG
+lkCRcEgsGo/I5PGzwTgxm49SFGpiMh1OxrkJJbcZ6cAhAoGRHk1nSEAMAZrAcMJgXEQCSYUS
+IRwiFhYRFEIWCASIBHWKDIkEEX0MQgsEBQ0MBQmNDBGNBgx8iiITBQQTQhQWm0JtQpEijW5E
+qyKtIq+NB0W0tq8XBgQPQg90orWyryIQiAcHfrxtCcnKwAQGxZKwiA+vQQA7
+
+------=_NextPart_000_0000_80156A7D.0B3409C7
+Content-Type: image/gif;
+    name="mem_citi.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <b4bb41fbda2d$0e79286c$37b72b90@citibank.com>
+
+R0lGODlhbAANAPcAAAAAAAgICDAwMEBAQFBQUGBgYICAgJiYmKCgoLCwsLi4uMDAwMjIyNDQ
+0NjY2ODg4Ojo6PDw8P///6igoMC4uCAYGIhgYCgQENgAAP/Q0IAgEPDQyGBIQOCwoLBIINBw
+SKh4YOiYcP+YYP+oeP/QuP/w6NCIYP9gAP+IQGg4GP94IP+AMP+weJhwUHBQOLiIYP/ImIiA
+eLCooJCAcDgwKCggGHhgSODIsOioaJhwQIhYIIBoSODIqHBIEHhwYIiAaEA4IMCgQPDo0FhI
+GMigIJiAEMCgEOjAEHBgEJCIMMjAQPDoWPDoMHh4cFBQSEBAONDQyEhIOCAgGDAwIJiYYMjI
+mFBQIODgsMjIYNDQeLjIcIiwCEhQQGCASEBIQHiIeHCIcKDAoJC4kAC4IEhgUFiIcJCgoODo
+6Ojw8NDo6ODw8PD//0iwyDC42GjA2DigwADI/6DY8IjI6DCIuMjg8KDI6ChwqGCg2DiI0Hiw
+4FCY2Ki4yODo8MjY6NDg8DB4wMDY8DCA0HCo4Ii46CB40BBw0Gig4IigwCBYoFiY6IiYsLjI
+4Iiw8JCo0EBosAgweHiIqMDI2GB4qHCIuICYyFh4uGCAwIig0LDA4Njg8ChAcDhgsDBYqCBQ
+qBhAkBA4iBBAoAg4mOjw/yhQqCBIoBhAmAAogAAwmGBwmJio0HCIwEhosFBwuHiQyEBgsDhY
+qBhAoAgocAAgaGiAwAggYAgwmJiguEhYiDhIeAggaIiQsLjA4MDI6BgoaHiAqJigyLjA6AgY
+YBAgeDhIwBAYWAgQcBAYuIiIoNjY4KCguFBQeLi40Ojo8JCQuGBgmKioyICAsJiYwHBwqIiI
+uLCw0NjY6Hh4sGhoqMjI4FBQkLi42EhIiFBQmDAwYDg4cEhIkMDA4NDQ6ODg8EBAiDg4iCgo
+aDAwgCgogCAgeBAQcAgIaAgIcAAASAAAYAAAgPDw/2hgkLiw2DAgYIh4sCggOKCIwJCImODY
+6NDI0Ojg6P8gMP8AEP+IkNgIEP8IEP9ASCwAAAAAbAANAAAI/gAlCBxIsKDBgwgTKlzIsOHB
+EiE+SOzgsKLFixgzCvzgr6NHfxQ1NowQQWOEcPfeibzI8eNHFgSbleO1kqAzaiUxSjvXLOdB
+XtKq1RTIwqXRDAO5taOmcmA4ZhLEhcvJjJdPceLeMatWUtqvcFkFSvWJUuVJqBK8+pTwlKA0
+cuEIbvVZtWRZhOJulJBwI0OHDEglZNgrARw5btLuCXQm7JwwcueKOWP2q/G5cM3ORXb8+J60
+YuWKWWMGzTG5e4yFcRPHS3Oxeak0pyoJ7ly7dta4kSNXrN05aufANRN2ux3j285st1MGvOcv
+ctKI344nOETggtKaGaaZVhqzZnAb/pCjRo66NGvQuIWLF1wCOXDO5jELdy4VN3ASuDVz5kyc
+QG7QMCNOcDeVxMxu8UCT2znxcFNfa8kcFo4zkgnjDDjcCJPKcIz1ZJ81wljTmjLVZBACYQRF
+QE4y74ynkjQ4/SLNA/Q950x60kADjVTqubffLyWRk9yN0HGDk0DvIRmPM7NJUBl1Ar0VjpT0
+ZYZfZYzhJ6R/kBXjHGLC4Celif4V1FpxyijmDJDJBFgjOdqBc88vO4rjTFzk/MINkO45kyc4
+vECwZ07lKblmSckIw1SUcFHJ02/vYBlmn1xG1lMz3GSZFlx+oThQdlCFk6RadErFoItWlRpO
+j3A6410qk+UlaVWB/40GK1BHqijML/zpNiWc7JG3Im+aftbMZ/Oco8xz50RnDXDcfNCBdQaR
+k0pTeUagVio70gdObe0UQ80v1mB1p3u8EudlBMO1I8yEfEpw4G1MHSqQYbelB9eZVqZCnDAV
+4scMN72lCU1vxZAD4m3FVMPRiUNFLHFBJfjqUGX4TazxxhL4W0yTDekZ10IBAQA7
+
+
+------=_NextPart_000_0000_80156A7D.0B3409C7--
+ 

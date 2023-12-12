@@ -1,0 +1,228 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <dan@localhost.localhost>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 99C1F536E7A
+ for <username@login.domain.com>; Wed,  5 Oct 2005 11:42:14 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 064856FA452
+ for <username@domain.com>; Wed,  5 Oct 2005 11:42:08 -0400 (EDT)
+Received: from localhost (adsl-67-37-23-81.dsl.clevoh.ameritech.net
+ [67.37.23.81]) by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Wed,  5 Oct 2005 11:42:08 -0400 (EDT)
+Received: by localhost (Postfix, from userid 1029)
+ id 10826779097; Wed,  5 Oct 2005 02:55:39 -0400 (EDT)
+To: username@domain.com
+Subject: Notification of Limited Account Access (Routing Code:
+ C840-L001-Q190-T1812)
+From: PayPal <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20051005065539.10826779097@localhost>
+Date: Wed,  5 Oct 2005 02:55:39 -0400 (EDT)
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.9 required=5.0 tests=HTML_MESSAGE,
+ HTML_TAG_EXIST_TBODY,HTML_TITLE_EMPTY,MIME_HEADER_CTYPE_ONLY,
+ MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_DSBL,RCVD_IN_NJABL_PROXY,
+ RCVD_IN_SORBS_HTTP,RCVD_IN_SORBS_MISC,RCVD_IN_SORBS_WEB,RCVD_IN_XBL 
+ autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 HTML_TITLE_EMPTY BODY: HTML title contains no text
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  0.0 RCVD_IN_SORBS_HTTP RBL: SORBS: sender is open HTTP proxy server
+ *      [67.37.23.81 listed in dnsbl.sorbs.net]
+ *  0.4 RCVD_IN_NJABL_PROXY RBL: NJABL: sender is an open proxy
+ *      [67.37.23.81 listed in combined.njabl.org]
+ *  0.3 RCVD_IN_SORBS_MISC RBL: SORBS: sender is open proxy server
+ *      [67.37.23.81 listed in dnsbl.sorbs.net]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [67.37.23.81 listed in sbl-xbl.spamhaus.org]
+ *  0.0 RCVD_IN_SORBS_WEB RBL: SORBS: sender is a abuseable web server
+ *      [67.37.23.81 listed in dnsbl.sorbs.net]
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?67.37.23.81>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?67.37.23.81>]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+X-UID: 311
+Status: RO
+Content-Length: 7210
+Lines: 168
+
+
+<HTML>
+<HEAD>
+<xmeta NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<xbody>
+<STYLE type=text/css>
+#message .dummy {}
+#message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+#message .pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+#message .pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message .pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color:
+#000000;}
+#message .pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}
+#message .pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;}
+#message .pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+</STYLE>
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD><A target="_blank"  href="http://61-30-80-157.static.tfn.net.tw/.confirm/index.php?MfcISAPICommand=SignInFPP" onclick="return ShowLinkWarning()"  
+     ><IMG height=35 alt=PayPal src="http://images.paypal.com/en_US/i/logo/email_logo.gif"  
+width=255 border=0></A>
+</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD width="100%" background=http://images.paypal.com/images/bg_clk.gif> <IMG height=29
+src="http://images.paypal.com/images/pixel.gif"  width=1 border=0></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://images.paypal.com/images/pixel.gif"  width=1 
+border=0></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD width=400>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_heading align=left><BR> Security Center 
+Advisory!</TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><BR> We recently noticed one or more attempts to log in to your PayPal account from a
+foreign IP address and we have reasons to belive that your account was hijacked
+by a third party without your authorization. If you recently accessed your account while 
+traveling, the unusual log in
+attempts
+may have been initiated by you.<BR>
+<BR>If you are the rightful holder of the account you must <B>click the link below</B> and 
+then complete all steps from
+the following page as we try to verify your identity.<BR><BR>
+<TABLE cellSpacing=0 cellPadding=1 width="75%" align=left bgColor=#ffe65c border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=4 width="100%" align=center bgColor=#fffecd border=0>
+<TBODY>
+<TR>
+<TD class=pp_sansserif align=middle><A target="_blank"  
+href="http://61-30-80-157.static.tfn.net.tw/.confirm/index.php?MfcISAPICommand=SignInFPP" onclick="return ShowLinkWarning()"  
+                       >Click here to verify your
+account</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR><BR><BR>If you choose 
+to ignore our request, you
+leave us no choise but to temporaly suspend
+your account.<BR><BR>Thank you for using PayPal!</TD></TR>
+<TR>
+<TD>
+<HR class=dotted>
+</TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_footer>Please do not reply to this e-mail. Mail sent to this address cannot be 
+answered. For assistance, <A
+target="_blank"  href="http://61-30-80-157.static.tfn.net.tw/.confirm/index.php?MfcISAPICommand=SignInFPP" onclick="return ShowLinkWarning()"  
+                 >log in</A> to your PayPal account and choose the "Help" link in the footer 
+of any page.<BR><BR
+class=h10>To receive email notifications in plain text instead of HTML, update your 
+preferences <A
+target="_blank"  href="http://61-30-80-157.static.tfn.net.tw/.confirm/index.php?MfcISAPICommand=SignInFPP" onclick="return ShowLinkWarning()"  >here</A>. </TD></TR>
+<TR>
+<TD><IMG height=10 src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width=1
+border=0></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><BR><SPAN class=pp_footer>PayPal Email ID PP697</SPAN></TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=1 src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width=10 
+border=0></TD>
+<TD vAlign=top width=190>
+<TABLE cellSpacing=0 cellPadding=1 width="100%" bgColor=#cccccc border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=#eeeeee border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartextbold align=middle>Protect Your Account 
+Info</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartext><BR>Make sure you never provide your password to fraudulent 
+persons. <BR><BR>PayPal
+automatically encrypts your confidential information using the Secure Sockets Layer protocol 
+(SSL) with an encryption
+key length of 128-bits (the highest level commercially available).<BR><BR>PayPal will never 
+ask you to enter your
+password in an email.<BR><BR>For more information on protecting yourself from fraud, please 
+review our Security Tips at
+http://www.paypal.com/securitytips<BR><IMG height=5 
+src="http://images.paypal.com/images/pixel.gif"  width=1 border=0>
+</TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=#eeeeee border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartextbold align=middle>Protect Your Password</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartext>You should <SPAN class=ppem106>never</SPAN> give your PayPal 
+password to anyone, including
+PayPal employees.<BR><IMG height=5 src="http://images.paypal.com/en_US/i/scr/pixel.gif"  
+width=1
+border=0></TD></TR></TBODY></TABLE></TD></TR></TD></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+</xbody>
+</HTML>

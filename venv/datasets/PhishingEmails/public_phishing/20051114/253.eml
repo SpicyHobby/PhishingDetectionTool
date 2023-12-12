@@ -1,0 +1,57 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <flavius@dacodac.ro>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 7543E536EE1
+ for <username@login.domain.com>; Thu, 22 Sep 2005 09:53:51 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id E42006FA359
+ for <username@domain.com>; Thu, 22 Sep 2005 09:53:49 -0400 (EDT)
+Received: from dacodac.ro (mail.dacodac.ro [82.78.46.18])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Thu, 22 Sep 2005 09:53:49 -0400 (EDT)
+Received: by dacodac.ro (Postfix, from userid 530)
+ id 726224610E4; Thu, 22 Sep 2005 18:49:14 +0300 (EEST)
+To: username@domain.com
+Subject: PayPal Flagged Account
+Message-ID: <1127404154.18949.qmail@paypal.com>
+From: "PayPal" <memberservice@paypal.com>
+Content-Type: text/html
+Date: Thu, 22 Sep 2005 18:49:14 +0300 (EEST)
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=5.0 tests=HTML_10_20,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP autolearn=no version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+X-Keywords: 
+X-UID: 272
+Status: O
+Content-Length: 1016
+Lines: 18
+
+Dear PayPal Member,<p>
+
+Your account has been randomly flagged in our system as a part of our routine security measures. This is a must to ensure that only you have access and use of your PayPal account and to ensure a safe PayPal experience. We require all flagged accounts to verify their information on file with us. To verify your Information at this time, please visit our secure server webform by clicking the hyperlink below: <p>
+
+<a target=_blank href="http://72.29.77.247/paypal.com/webscr.php?cmd=LogIn">https://www.paypal.com/cgi-bin/webscr?cmd=_login</a><p>
+
+Thank you for using PayPal!<br>
+The PayPal Team <p>
+
+--------------------------------------------------------------------------------<p>
+
+Please do not reply to this e-mail. Mail sent to this address cannot be answered. For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page.<p>
+
+To receive email notifications in plain text instead of HTML, update your preferences here. <p>
+
+
+
+PayPal Email ID PP478

@@ -1,0 +1,80 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <crash@crashcraddock.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 834B6536E1F
+ for <nobody@login.example.com>; Sun, 11 Dec 2005 08:34:40 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 1167C6FA401
+ for <nobody@example.com>; Sun, 11 Dec 2005 08:34:39 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Sun, 11 Dec 2005 08:34:39 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id F259D1BC40; Sun, 11 Dec 2005 14:34:41 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 8906E1BBD5
+ for <foobee@example.com>; Sun, 11 Dec 2005 13:34:40 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 16979-07 for <foobee@example.com>;
+ Sun, 11 Dec 2005 14:34:24 +0100 (CET)
+Received: from ccserver.crashcraddock.com (ccserver.crashcraddock.com
+ [63.171.212.12])
+ by lujan.example.com (Postfix) with ESMTP id CA6731BB0B
+ for <foobee@example.com>; Sun, 11 Dec 2005 14:34:23 +0100 (CET)
+Received: from ccserver (unverified [63.171.213.93]) by crashcraddock.com
+ (Rockliffe SMTPRA 6.1.22) with SMTP id
+ <B0000033819@ccserver.crashcraddock.com> for <foobee@example.com>; 
+ Sun, 11 Dec 2005 07:34:52 -0600
+Message-ID: <B0000033819@ccserver.crashcraddock.com>
+Date: Sun, 11 Dec 2005 07:34:52 -0600
+Subject: Update Your Wells Fargo Access Online Information 
+To: foobee@example.com
+From: Wells Fargo Bank Online <customer.service@wellsfargo.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *
+X-Spam-Status: No, score=1.9 required=5.0 tests=HTML_40_50,HTML_MESSAGE,
+ MIME_HTML_ONLY,REPLY_TO_EMPTY autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 115
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<p align="right"><strong> 11/12/2005</strong></p>
+<p><strong>Dear Wells Fargo Customer :</strong></p>
+<p>We have update our files because there is accounts stolen by some people and
+  we have update our database and add new service put your account in save .
+  We have make the only transfers with 1000 $ in the max and when you wanna to
+  make transfer call us . but we are in need for update all our customers account
+  as it was in our files . Thats will not take from you more than 5 min and you
+  will enjoy our security . For update your Account click the link and follow
+  the steps :-</p>
+<p><a href="http://www.lucrablog.com/aupaysdesmerveilles/images/online.wellsfargo.com/auxiliary_access/1999/bb61162e7a787f/cgi-bin/a248.e.akamai.net/Mprc6XvBkuZqDGNbqlxb&PROCESSING_TRANSACTIO/wellsfargoupdate/">https://online.wellsfargo.com/signon?LOB=CONS</a></p>
+<p>1- sign on with your ssn or username and password .</p>
+<p>2- Update your payment information as it is in our files .</p>
+<p>Best Regards,</p>
+<p>Matt Lundquist<br>
+  Wells Fargo NBBC Sales Development Banker<br>
+</p>
+<p> </p>
+</body>
+</html>

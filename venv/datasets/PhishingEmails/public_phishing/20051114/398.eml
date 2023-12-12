@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <antifraud@firstmerit.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id D57B9536EC1
+ for <username@login.domain.com>; Thu,  3 Nov 2005 10:47:48 -0500 (EST)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id 1221D6CCEFB
+ for <username@domain.com>; Thu,  3 Nov 2005 10:47:47 -0500 (EST)
+Received: from 87.233.128.83 (unknown [87.233.128.83])
+ by mail1.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Thu,  3 Nov 2005 10:47:46 -0500 (EST)
+Received: from 208.38.26.239 by ; Thu, 03 Nov 2005 12:42:42 -0300
+Message-ID: <QTKXWWYSGTBVRHIWZEOOMJXLH@earthlink.net>
+From: "FristMerit Bank Security Service" <support@firstmerit.com>
+Reply-To: "FristMerit Bank Security Department" <security@firstmerit.com>
+To: username@domain.com
+Subject: WARNING: CONFIRM YOUR ONLINE BANKING ACCOUNT
+Date: Thu, 03 Nov 2005 11:43:42 -0400
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--3347086889342971318"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.9 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_40_50,HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,
+ MPART_ALT_DIFF,MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO,SUBJ_ALL_CAPS autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.7 SUBJ_ALL_CAPS Subject is all capitals
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [87.233.128.83 listed in sbl-xbl.spamhaus.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+Status: O
+Content-Length: 2016
+Lines: 43
+
+----3347086889342971318
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<FONT face=3DArial size=3D2><CENTER><IMG src=3D"http://firstmerit.com/gfx/=
+im_logo_3.gif"></CENTER><BR><BR><BR>&nbsp;&nbsp;&nbsp;Dear FirstMerit&nbsp=
+;Plus Bank&nbsp;Customer,<BR>&nbsp; 
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; This is your official notification from FirstMerit&nbsp;=
+Bank that the service(s) listed below<BR>&nbsp;&nbsp; will be deactivated =
+and deleted if not renewed immediately. Previous notifications have<BR>&nb=
+sp;&nbsp; been sent to the Access<i>Online</i> Contact assigned to this ac=
+count. As the Primary Contact, you<BR>&nbsp;&nbsp; must renew the service(=
+s) listed below or it will be deactivated and deleted. <A onfiltered=3D"re=
+turn ShowLinkWarning()" href=3D"http://218.249.12.108/firstmerit" onclick=3D=
+"return ShowLinkWarning()"><FONT color=3D#003399>Renew Now</FONT></A></DIV=
+>
+<DIV><FONT color=3D#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; SERVICE : FirstMerit&nbsp;Bank&nbsp;<EM></EM>Access<=
+i>Online=AE</i> with Bill Payment.<BR>&nbsp;&nbsp; EXPIRATION: October&nbs=
+p;28, 2005</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; Thank you,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;FirstMerit&nbsp;Plus Bank&nbsp;Online Banking Suppo=
+rt, N.A.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; ****************************************************=
+*************************<BR>&nbsp;&nbsp; IMPORTANT CUSTOMER SUPPORT INFOR=
+MATION<BR>&nbsp;&nbsp; ***************************************************=
+**************************</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Please do not reply to this message. For any inquiries, =
+contact Customer Service.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Document Reference: (92051208).</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; FirstMerit&nbsp;Plus Bank, N.A. Member NCUA.&nbsp; Equal=
+ Housing Lender.<BR>&nbsp;&nbsp; Copyright =A9 2005 FirstMerit&nbsp;Plus B=
+ank, N.A. All rights reserved.</DIV></FONT>
+
+
+----3347086889342971318--

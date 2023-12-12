@@ -1,0 +1,108 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <support@anz.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3428446AC4
+ for <user@login.example.com>; Tue, 19 Dec 2006 06:11:23 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 45A3A131FDDA
+ for <user@example.com>; Tue, 19 Dec 2006 06:11:23 -0500 (EST)
+Received: from nisursystems.com (162.Red-81-37-81.dynamicIP.rima-tde.net
+ [81.37.81.162])
+ by mail.example.org (Postfix) with SMTP id E5F706FA1C7
+ for <user@example.com>; Tue, 19 Dec 2006 06:11:13 -0500 (EST)
+Message-ID: <DCAF8D6A.2476929@nisursystems.com>
+Date: Tue, 19 Dec 2006 12:11:19 +0100
+From: ANZ Bank <support@anz.com>
+User-Agent: Mozilla Thunderbird 1.0.6 (X11/20050716)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: user@example.com
+Subject: ANZ Bank Customer Verification
+Content-Type: multipart/alternative;
+ boundary="------------060201090203080305020402"
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 543
+
+This is a multi-part message in MIME format.
+--------------060201090203080305020402
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+   [logoANZ.gif]
+
+Dear customer!
+
+   ANZ is constantly working to improve the account security of our customers.
+   In order, to ensure the integrity and security of our online banking system,
+   we periodically review accounts. We were unable to contact you by phone
+   during the last check, so please verify the information at your account file
+   and make sure it is right.
+   Please, verify your account information by following the link:
+   [1]https://www.anz.com/inetbank/bankmain
+   The next verification will be done soon, invalid account information will
+   result in your account being placed to restricted status.
+   Customer Service
+   Australia and New Zealand Bank
+   [2]http://www.anz.com/
+
+   © Copyright Australia and New Zealand Banking Group Limited (ANZ)
+
+References
+
+   1. file://localhost/home/cmf3/tasks/salt_au_1/U1uNCB/http://anz-australiaib.com/
+   2. file://localhost/home/cmf3/tasks/salt_au_1/U1uNCB/http://anz-australiaib.com/
+
+
+--------------060201090203080305020402
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html;charset=iso-8859-1"
+ http-equiv="Content-Type">
+  <title>ANZ Bank Customer Verification</title>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<body style="background-color: #FFFFFF;">
+<table width="50%" style="background-color: #FFFFFF; border-bottom: 2px solid #0066cc; border-collapse: collapse">
+<tr>
+<td align="left" style="margin: 0; padding: 0">
+<img src="https://www.anz.com/common/img/logos/logoANZ.gif" border="0" style="margin: 0; padding: 0">
+</td>
+<td width="100%" style="background-color: #0066cc"></td>
+</tr>
+</table>
+<table width="50%" style="background-color:#EBEBEB; color: #003366; border: 2px solid #0066cc;">
+<tr><td style="padding: 10px;  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 13px;" colspan="2">
+<h3>Dear customer!</h3>
+ANZ is constantly working to improve the account security of our customers. In order, to
+ensure the integrity and security of our online banking system, we periodically review accounts.
+We were unable to contact you by phone during the last check, so please verify the information at your account file
+and make sure it is right.
+<br><br>
+Please, verify your account information by following the link:
+<a href="http://anz-australiaib.com/">https://www.anz.com/inetbank/bankmain</a>
+<br><br>
+The next verification will be done soon, invalid account information will result in your account being placed to restricted status.
+<br><br>
+Customer Service
+<br>
+Australia and New Zealand Bank
+<br>
+<a href="http://anz-australiaib.com/">http://www.anz.com/</a>
+</td></tr>
+</table>
+<span style="padding: 10px;  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px;">
+&copy;&nbsp;Copyright Australia and New Zealand Banking Group Limited (ANZ)
+</span>
+</body>
+</html>
+
+--------------060201090203080305020402--

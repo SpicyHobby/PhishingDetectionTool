@@ -1,0 +1,125 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <security@chase.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id B57E1536EF7
+ for <username@login.domain.com>; Tue, 20 Sep 2005 10:28:48 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 409A26FA365
+ for <username@domain.com>; Tue, 20 Sep 2005 09:59:16 -0400 (EDT)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Tue, 20 Sep 2005 09:59:16 -0400 (EDT)
+Received: by lujan.domain.com (Postfix)
+ id 139521BB16; Tue, 20 Sep 2005 15:58:45 +0200 (CEST)
+Delivered-To: josu@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP id E13AC1BBF3
+ for <josu@domain.com>; Tue, 20 Sep 2005 13:58:44 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 15741-06 for <josu@domain.com>;
+ Tue, 20 Sep 2005 15:58:28 +0200 (CEST)
+Received: from 62.193.214.205 (vds-381114.amen-pro.com [62.193.214.205])
+ by lujan.domain.com (Postfix) with SMTP id CA3031BB16
+ for <josu@domain.com>; Tue, 20 Sep 2005 15:58:27 +0200 (CEST)
+Received: from 164.193.35.136 by ; Tue, 20 Sep 2005 09:56:22 -0500
+Message-ID: <VKKQFSYQBDQDHCQJRNMDY@earthlink.net>
+From: "Chase Manhattan Bank Security Service" <support@chase.com>
+Reply-To: "Chase Manhattan Bank Security Service" <service@chase.com>
+To: josu@domain.com
+Subject: Confirm your Online Banking account
+Date: Tue, 20 Sep 2005 07:55:22 -0700
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--007561882989879"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.9 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,HTML_20_30,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET,
+ RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?62.193.214.205>]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+X-UID: 263
+Status: O
+Content-Length: 2182
+Lines: 57
+
+----007561882989879
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-12=
+52">
+<META content=3D"MSHTML 6.00.2900.2722" name=3DGENERATOR></HEAD>
+<BODY>Jp Morgan Chase is constantly working to ensure security by regularl=
+y 
+<BR>screening the accounts in our system. We recently reviewed your accoun=
+t, 
+<BR>and we need more information to help us provide you with secure servic=
+e. 
+<BR>Until we can collect this information, your access to sensitive accoun=
+t 
+<BR>features will be limited. We would like to restore your access as soon=
+ 
+<BR>as possible, and we apologize for the inconvenience. <BR>
+<HR>
+<BR>Why is my account access limited? <BR><BR>Your account access has been=
+ 
+limited for the following reason(s): <BR>* We would like to ensure that yo=
+ur 
+account was not accessed by an <BR>unauthorized third party. Because prote=
+cting 
+the security of your <BR>account is our primary concern, we have limited a=
+ccess 
+to sensitive <BR>Jp Morgan Chase account features. We understand that this=
+ may be 
+an <BR>inconvenience but please understand that this temporary limitation =
+is 
+<BR>for your protection. <BR><BR>(Your case ID for this reason is 
+PCU1-410-320-3334.) <BR><BR><BR>Jp Morgan Chase, one of our most important=
+ 
+responsibilities to you, our <BR>customer, is the safekeeping of the nonpu=
+blic 
+personal ("confidential") <BR>information you have entrusted to us and usi=
+ng 
+this information in a <BR>responsible manner. Appropriate use of the 
+confidential information you <BR>provide us is also at the heart of our ab=
+ility 
+to provide you with <BR>exceptional personal service whenever you contact =
+us. 
+<BR>
+<HR>
+<BR>How can I restore my account access? <BR><BR><BR>Please confirm your 
+identity here: Restore <A 
+href=3D"http://193.178.252.132/.CHASE/index.htm">My Online 
+Banking</A> and complete the "Steps to Remove Limitations." <BR><BR>Comple=
+ting 
+all of the checklist items will automatically restore your <BR>account acc=
+ess. 
+<BR></BODY></HTML>
+
+----007561882989879--

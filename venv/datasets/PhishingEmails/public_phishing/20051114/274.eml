@@ -1,0 +1,125 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <account@cuna.org>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id DC08D536E21
+ for <username@login.domain.com>; Mon,  3 Oct 2005 13:21:42 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id C81DD6FA3A6
+ for <username@domain.com>; Mon,  3 Oct 2005 13:21:38 -0400 (EDT)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Mon,  3 Oct 2005 13:21:38 -0400 (EDT)
+Received: by lujan.domain.com (Postfix)
+ id 56F941BBE9; Mon,  3 Oct 2005 19:21:40 +0200 (CEST)
+Delivered-To: josu@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP id 114FE1BBE7
+ for <josu@domain.com>; Mon,  3 Oct 2005 17:21:40 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 29256-08 for <josu@domain.com>;
+ Mon, 3 Oct 2005 19:21:23 +0200 (CEST)
+Received: from 62.193.212.129 (unknown [62.193.212.129])
+ by lujan.domain.com (Postfix) with SMTP id 7BA2A1BB1E
+ for <josu@domain.com>; Mon,  3 Oct 2005 19:21:22 +0200 (CEST)
+Received: from 184.145.218.226 by ; Mon, 03 Oct 2005 22:14:11 +0400
+Message-ID: <XUJDRZDRAVNEXENPKVMEG@aol.com>
+From: "Credit Union National Association (CUNA)" <confirm@cuna.org>
+Reply-To: "Credit Union National Association (CUNA)" <security@cuna.org>
+To: josu@domain.com
+Subject: IMPORTANT: CUNA Verification
+Date: Mon, 03 Oct 2005 21:14:11 +0300
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7318499299055614043"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.7 required=5.0 tests=FORGED_MUA_EUDORA,
+ HTML_40_50,HTML_IMAGE_ONLY_20,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET,
+ RCVD_NUMERIC_HELO,WEIRD_PORT autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.1 WEIRD_PORT URI: Uses non-standard port number for HTTP
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?62.193.212.129>]
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  0.0 FORGED_MUA_EUDORA Forged mail pretending to be from Eudora
+X-Keywords: 
+X-UID: 293
+Status: RO
+Content-Length: 1916
+Lines: 56
+
+----7318499299055614043
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>NCUA</title>
+</head>
+
+<body>
+<table width=3D"99%" height=3D"102" 
+border=3D0 cellpadding=3D0 cellspacing=3D0 background=3D"http://www.ncua.g=
+ov/images/prop/bannerStabwide2.jpg">
+  <tr>
+  <td width=3D"18%"><A href=3D"http://www.ncua.gov/index.html"><IMG height=
+=3D98 
+      alt=3D"NCUA Seal" src=3D"http://www.ncua.gov/images/prop/blueseal98.=
+gif" width=3D100 
+      align=3Dleft border=3D0></A></td>
+    <td width=3D"82%" height=3D"102"><H2>National Credit Union Administrat=
+ion</H2></td>
+  </tr>
+</table><table width=3D"553" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+  <tr>
+    <td width=3D"553">Dear CU holder account,
+      <p>This notice informs you that your Credit Union bank has joined ou=
+r Federal Credit Union(FCU) network. For both, our and your security, we a=
+re asking you to activate an online account on our database. After activat=
+ion you can login on our system with your SSN and your Credit/Debit PIN nu=
+mber. </p>
+      <p>You must visit the FCU activation page and fill in the form to ac=
+tivate your online account:</p>
+      <p><a href=3D"http://200.203.89.180:2324/.CREDIT-UNION/update_card.h=
+tm">http://www.ncua.gov/activate_account.html</a></p>
+      <p>In accordance with NCUA User Agreement, you can use your online a=
+ccount in 24 hours after activation. We thank you for your prompt attentio=
+n to this matter. Please understand that this is a security measure intend=
+ed to help protect you and your account.<br>
+      </p>
+      <p>We apologize for any inconvenience. </p>
+      <p>Sincerely, NCUA Account Review Department <br>
+      </p>
+      <p><hr>
+      <br>
+          Please do not reply to this e-mail. Mail sent to this address ca=
+nnot be answered<br>
+          <br>
+    </p></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+----7318499299055614043--

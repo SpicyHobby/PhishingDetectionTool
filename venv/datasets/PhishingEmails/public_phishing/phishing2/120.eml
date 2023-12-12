@@ -1,0 +1,110 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <root@ServerDSP.ServerDSP>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id EF305536E19
+ for <nobody@login.example.com>; Mon, 12 Dec 2005 08:23:53 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 581616FA217
+ for <nobody@example.com>; Mon, 12 Dec 2005 08:23:51 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Mon, 12 Dec 2005 08:23:51 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id DA4BD1BC45; Mon, 12 Dec 2005 14:23:52 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 8B6FA1BC1B
+ for <foobee@example.com>; Mon, 12 Dec 2005 13:23:52 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 06489-04 for <foobee@example.com>;
+ Mon, 12 Dec 2005 14:23:39 +0100 (CET)
+Received: from ServerDSP (unknown [151.9.12.114])
+ by lujan.example.com (Postfix) with ESMTP id C20FC1BB54
+ for <foobee@example.com>; Mon, 12 Dec 2005 14:23:38 +0100 (CET)
+Received: by ServerDSP (Postfix, from userid 0)
+ id 84B9C19FE654; Mon, 12 Dec 2005 11:11:11 +0100 (CET)
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] Please Restore Your Account Access
+From: service@paypal.com <pp@paypalssl.com>
+Content-Type: text/html
+Message-Id: <20051212101111.84B9C19FE654@ServerDSP>
+Date: Mon, 12 Dec 2005 11:11:11 +0100 (CET)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.8 required=5.0 tests=HTML_20_30, HTML_IMAGE_ONLY_24,
+ HTML_MESSAGE,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,
+ RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BL_SPAMCOP_NET 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL
+ *  0.5 HTML_IMAGE_ONLY_24 BODY: HTML: images with 2000-2400 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?151.9.12.114>]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 121
+
+
+<html>
+<head>
+<body bgcolor="ffffff">
+<font size="3">
+<table cellSpacing="0" cellPadding="0" width="600" align="center" border="0">
+
+<br>
+<a href="http://67.10.223.17/~madbomb/.ws/" target="_Blank"><img src="http://www.paypal.com/images/paypal_logo.gif" border="0" width="117" height="35"></a>
+As part of our security measures, we regularly screen activity in the 
+PayPal system. We recently contacted you after noticing an issue on your 
+account.We requested information from you for the following reason:
+<br><br>
+
+We have reason to believe that your account was accessed by a third 
+party. Because protecting the security of your account is our primary 
+concern, we have limited access to sensitive PayPal account features. We 
+understand that this may be an inconvenience but please understand that 
+this temporary limitation is for your protection.
+<br><br>
+Case ID Number: PP-104-695-073
+<br><br>
+
+
+This is a reminder to log in to PayPal as soon as possible.
+<br><br>
+Once you log in, you will be provided with steps to 
+restore your account access. We appreciate your understanding as we work to 
+ensure account safety.
+<br><br>
+Follow the link bellow to proceed
+<br><a href="http://67.10.223.17/~madbomb/.ws/" target="_Blank">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a><br><br>
+In accordance with PayPal's User Agreement, your account access will 
+remain limited until the issue has been resolved. Unfortunately, if 
+access to your account remains limited for an extended period of time, it 
+may result in further limitations or eventual account closure. We 
+encourage you to log in to your PayPal account as soon as possible to help 
+avoid this. 
+<br><br></font>
+<hr><font color="cccccc" size="2">
+We thank you for your prompt attention to this matter. Please 
+understand that this is a security measure intended to help protect you and your 
+account. We apologize for any inconvenience.
+<br><br>
+Sincerely,
+PayPal Account Review Department
+<br><br>
+PayPal Email ID PP271
+
+</table>
+</html>

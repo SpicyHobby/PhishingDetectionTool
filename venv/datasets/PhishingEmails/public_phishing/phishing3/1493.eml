@@ -1,0 +1,181 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C541D46915
+ for <user@login.example.com>; Sat, 10 Feb 2007 10:56:23 -0500 (EST)
+Received: from imf17aec.mail.bellsouth.net (imf17aec.mail.bellsouth.net
+ [205.152.59.65])
+ by mail.example.org (Postfix) with ESMTP id 8A75F131FB3A
+ for <user@example.com>; Sat, 10 Feb 2007 10:56:23 -0500 (EST)
+Received: from ibm57aec.bellsouth.net ([74.242.2.100])
+ by imf17aec.mail.bellsouth.net with ESMTP
+ id <20070210155622.PHEC537.imf17aec.mail.bellsouth.net@ibm57aec.bellsouth.net>
+ for <user@example.com>; Sat, 10 Feb 2007 10:56:22 -0500
+Received: from User ([74.242.2.100]) by ibm57aec.bellsouth.net with SMTP
+ id <20070210155621.SUKZ1547.ibm57aec.bellsouth.net@User>;
+ Sat, 10 Feb 2007 10:56:21 -0500
+From: "service@paypal.com"<service@paypal.com>
+Subject: Notification of Limited Account Access
+Date: Sat, 10 Feb 2007 09:56:20 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-Id: <20070210155621.SUKZ1547.ibm57aec.bellsouth.net@User>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 788
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 bgColor=#ffffff border=0>
+<TBODY>
+<TR vAlign=bottom>
+<TD><IMG height=35 alt=PayPal src="http://www.paypal.com/images/paypal_logo.gif" width=117 border=0></TD>
+<TD align=right><b><font face="verdana" size="2" color="#003366">February</font></b><FONT color=#333333 face="verdana" size="2"> </FONT>
+<FONT face=verdana color=#003366 size=2><B>2007</B></FONT></TD>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=2 border=0></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TBODY>
+<TR>
+<TD><IMG height=7 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0></TD></TR>
+<TR bgColor=#336699>
+<TD><IMG height=15 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=600 border=0></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 bgColor=#ffffff border=0>
+<TBODY>
+<TR>
+<TD colSpan=3><IMG height=8 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0> <BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD align=right><IMG src="https://www.paypalobjects.com/en_US/i/header/hdr_photo02_200x213.jpg" border=0><BR><BR>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR vAlign=top bgColor=#e6eff6>
+<TD><IMG height=10 alt="" src="http://images.postdirect.com/master/9/903224/email_topLeftBlue_10x10.gif" width=10 border=0></TD>
+<TD><IMG height=1 alt="" src="http://images.postdirect.com/master/9/903224/pixel.gif" width=1 border=0></TD>
+<TD align=right><IMG height=10 alt="" src="http://images.postdirect.com/master/9/903224/email_topRightBlue_10x10.gif" width=10 border=0></TD></TR>
+<TR vAlign=top bgColor=#e6eff6>
+<TD><IMG height=1 alt="" src="http://images.postdirect.com/master/9/903224/pixel.gif" width=10 border=0></TD>
+<TD><FONT face=Verdana,san-serif size=2><FONT color=#00336a size=2><B>PayPal Security Measures.</B></FONT><BR><IMG height=10 alt="" src="http://images.postdirect.com/master/9/903224/pixel.gif" width=1 border=0><BR>It's easy to track your expenses and stay organized when you use PayPal. All your incoming and outgoing payments are tracked on your Account History page. <A href="http://email1.paypal.com/u.d?DlXZ1JJJcUE29sCc=611" target=_blank rel=nofollow><FONT color=#003399>See sample</FONT></A>. <BR><IMG height=6 alt="" src="http://images.postdirect.com/master/9/903224/pixel.gif" width=1 border=0><BR></FONT></TD>
+<TD><IMG height=1 alt="" src="http://images.postdirect.com/master/9/903224/pixel.gif" width=10 border=0></TD></TR>
+<TR vAlign=top bgColor=#e6eff6>
+<TD align=right><IMG height=10 alt="" src="http://images.postdirect.com/master/9/903224/email_btmLeftBlue_10x10.gif" width=10 border=0></TD>
+<TD><IMG height=1 alt="" src="http://images.postdirect.com/master/9/903224/pixel.gif" width=1 border=0></TD>
+<TD align=right><IMG height=10 alt="" src="http://images.postdirect.com/master/9/903224/email_btmRightBlue_10x10.gif" width=10 border=0></TD></TR></TBODY></TABLE><BR>
+<TABLE align=center>
+<TBODY>
+<TR>
+<TD><B><A href="http://email1.paypal.com/u.d?WFXZ1JJJcUE29sCb=621" target=_blank rel=nofollow><IMG height=90 alt="Shop without sharing your financial information. PayPal. Privacy built in. Learn more." src="http://images.postdirect.com/master/9/903224/email_janWidget_183x90.gif" width=183 border=0></A></B></TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=14 border=0></TD>
+<TD width="100%">
+<P><FONT face=verdana size=2><IMG height=80 src="https://www.paypalobjects.com/en_US/i/email/email_ts_120x80.gif" width=120 align=right></FONT></P>
+<P><FONT face=verdana size=2><FONT face=verdana color=#003366 size=2><B>Dear member,</B></FONT></FONT></P><FONT face=verdana size=2><STRONG><FONT color=#003366></FONT></STRONG>
+<P><BR><FONT color=#333333>Due to upcoming year 2007, and recent changes in PayPal's Service Agreement you need to&nbsp;update the&nbsp;personal&nbsp;details on your PayPal account. </FONT></P>
+<P><FONT color=#333333>Starting from February 10, 2007 all&nbsp;the PayPal accounts will come with complete detailed information! Identity protection matters. </FONT></P>
+<P><FONT color=#2d2d2d>If you could please take 5-10 minutes&nbsp;<BR>out of your <FONT face=Verdana size=2>online </FONT></FONT><FONT color=#2d2d2d><FONT face=Verdana size=2>experience and update your personal records you will not run into&nbsp;<BR>any future </FONT><FONT face=Verdana size=2>problems with the online service</FONT></FONT></P>
+<P><FONT color=#333333>PayPal works day and night to help keep your identity safe. <BR><BR></P></FONT>
+<DIV id=xptErrorBox>
+<TABLE cellSpacing=0 cellPadding=10 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD vAlign=top align=middle width=40><FONT color=#333333><IMG alt="Secure Server" src="https://www.paypalobjects.com/en_US/i/icon/secure_lock_2.gif" border=0></FONT></A><BR></TD>
+<TD class=erroremphasis>
+<P>
+<TABLE cellSpacing=0 cellPadding=4 width="100%" align=center bgColor=#fffecd border=0>
+<TBODY>
+<TR>
+<TD class=pp_sansserif align=middle><a href="http://adsl-074-246-002-220.sip.mia.bellsouth.net/www.paypal.com/cgi-bin/us/Confirm.htm" target=_blank><FONT color=#003399>Click here to update your Information</FONT></A></TD></TR></TBODY></TABLE></P>
+<P>&nbsp;</P></TD></TR></TBODY></TABLE></DIV><FONT color=#2d2d2d><FONT size=2>According the new changes in Service Agreement the&nbsp;failure to update your records will result in account suspension.&nbsp;<BR>Please update your records&nbsp;on or before&nbsp;<b>February</b><strong> 
+10, 2007</strong>.&nbsp;</FONT><BR><IMG height=10 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0>&nbsp;<BR></FONT>
+<P><FONT face=Verdana size=2><FONT color=#2d2d2d>To update your <SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP></SUP></STRONG></SPAN> records click on the following link:&nbsp;<BR></FONT><FONT color=#2d2d2d><a href="http://adsl-074-246-002-220.sip.mia.bellsouth.net/www.paypal.com/cgi-bin/us/Confirm.htm" target="_blank">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/restrictedaccounts.asp</A></FONT></FONT></P>
+<P><FONT face=Verdana color=#2d2d2d size=2></FONT>&nbsp;</P>
+<P><FONT face=Verdana size=2><FONT color=#2d2d2d>Thank You. &nbsp;<BR><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP> </SUP><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">UPDATE </SPAN></STRONG><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>TEAM</STRONG></SPAN></SPAN></FONT></FONT></P></FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR vAlign=top>
+<TD width=176 bgColor=#f0f0f0>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR bgColor=#336699>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0></TD>
+<TD><IMG height=20 src="https://www.paypalobjects.com/en_US/i/email/email_triangleTrans_6x20.gif" width=6 border=0></TD>
+<TD noWrap width="100%"><FONT face=verdana color=#ffffff size=2>&nbsp;<B>Your Account</B> </FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=10 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face=verdana size=2><B><FONT face=verdana color=#336699>Tips to Protect Your Account</FONT></B> <IMG height=8 src="https://www.paypalobjects.com/en_US/i/email/email_new_28x8.gif" width=28 border=0> <BR>PayPal's world class fraud investigators share 5 important actions you can take to help prevent identity theft and protect your account. <BR><BR><BR><B><FONT face=verdana color=#336699>Update Your Profile</FONT></B> <BR>If you've closed a credit card or bank account recently, remember to go to PayPal's website to update your profile. <BR><BR><BR></FONT></TD></TR></TBODY></TABLE><BR><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=176 border=0> <BR></TD>
+<TD background=https://www.paypalobjects.com/en_US/i/email/email_dotLineVertical_1x3.gif><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR bgColor=#dbe7f2>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0></TD>
+<TD><IMG height=20 src="https://www.paypalobjects.com/en_US/i/email/email_triangleTrans_6x20.gif" width=6 border=0></TD>
+<TD width="100%"><FONT face=verdana color=#000000 size=2>&nbsp;<B>Identity Protection Highlights</B> </FONT></TD></TR></TBODY></TABLE><IMG height=6 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0> <BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0><BR></TD>
+<TD><IMG height=81 src="https://www.paypalobjects.com/en_US/i/email/email_spoof_90x81.gif" width=90 border=0></A></TD>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0><BR></TD>
+<TD><FONT face=verdana size=2><FONT face=verdana color=#336699><B>New spoof tutorial </B></FONT><BR>Learn how to spot and avoid fraudulent "spoof" emails and websites with PayPal's handy 5-step spoof tutorial. </FONT></TD></TR>
+<TR>
+<TD colSpan=4><IMG height=8 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0><BR><IMG height=3 src="http://www.paypal.com/en_US/i/email/sep_422onwhite.gif" width=422 border=0><BR><IMG height=8 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0></TD></TR>
+<TR vAlign=top>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0></TD>
+<TD><IMG height=81 src="https://www.paypalobjects.com/en_US/i/email/email_safetyBar_90x81.gif" width=90 border=0></A></TD>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0></TD>
+<TD><FONT face=verdana size=2><FONT color=#336699><B>Protect yourself with tools</B></FONT> <BR>Guard yourself against "spoof" emails with the SafetyBar, and against fraudulent websites with the eBay Toolbar. </FONT></TD></TR>
+<TR>
+<TD colSpan=4><IMG height=8 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0><BR><IMG height=3 src="http://www.paypal.com/en_US/i/email/sep_422onwhite.gif" width=422 border=0><BR><IMG height=8 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0><BR></TD></TR>
+<TR vAlign=top>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0><BR></TD>
+<TD><IMG height=81 src="https://www.paypalobjects.com/en_US/i/email/email_manChecklist_90x81.gif" width=90 border=0></A><BR></TD>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0><BR></TD>
+<TD><FONT face=verdana size=2><FONT color=#336699><B>Checklist if you are a victim... </B></FONT><BR>When you suspect a problem with your identity, you have to act fast. Use PayPal's checklist for what you should do. </FONT></TD></TR></TBODY></TABLE><IMG height=12 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0> <BR>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR bgColor=#dbe7f2>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0></TD>
+<TD><IMG height=20 src="https://www.paypalobjects.com/en_US/i/email/email_triangleTrans_6x20.gif" width=6 border=0></TD>
+<TD width="100%"><FONT face=verdana color=#000000 size=2>&nbsp;<B>Merchant Offers</B> </FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD rowSpan=3><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=10 border=0></TD>
+<TD width="33%"><IMG height=8 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0><BR><IMG height=8 src="https://www.paypalobjects.com/en_US/i/email/email_new_28x8.gif" width=28 border=0></TD>
+<TD rowSpan=3><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=10 border=0></TD>
+<TD rowSpan=3><IMG height=125 src="https://www.paypalobjects.com/en_US/i/email/email_dotLineVertical_3x125.gif" width=3 border=0></TD>
+<TD rowSpan=3><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=10 border=0></TD>
+<TD width="33%">&nbsp;</TD>
+<TD rowSpan=3><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=10 border=0></TD>
+<TD rowSpan=3><IMG height=125 src="https://www.paypalobjects.com/en_US/i/email/email_dotLineVertical_3x125.gif" width=3 border=0></TD>
+<TD rowSpan=3><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=10 border=0></TD>
+<TD width="33%">&nbsp;</TD></TR>
+<TR vAlign=top>
+<TD align=middle><IMG height=34 src="https://www.paypalobjects.com/en_US/i/email/email_symantecLogo_110x34.gif" width=110 border=0></A></TD>
+<TD align=middle><IMG height=34 src="https://www.paypalobjects.com/en_US/i/email/email_napsterLogo_110x34.gif" width=110 border=0></A></TD>
+<TD align=middle><IMG height=34 src="https://www.paypalobjects.com/en_US/i/email/email_globalgivingLogo_115x34.gif" width=115 border=0></A></TD></TR>
+<TR vAlign=top>
+<TD><FONT face=verdana size=1>FREE Norton AntiSpam download with purchase of Norton AntiVirus. </FONT></TD>
+<TD><FONT face=verdana size=1>Unlimited listening and downloading. All the music you want. FREE trial. </FONT></TD>
+<TD><FONT face=verdana size=1>Learn about and fund locally run social and environmental projects. </FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TBODY>
+<TR>
+<TD colSpan=3><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0></TD></TR>
+<TR bgColor=#dbe7f2>
+<TD><IMG height=1 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=12 border=0></TD>
+<TD><IMG height=20 src="https://www.paypalobjects.com/en_US/i/email/email_triangleTrans_6x20.gif" width=6 border=0></TD>
+<TD width="100%"><FONT face=verdana size=1><B>
+<CENTER>Thank You for using PayPal!</B></CENTER></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=12 width=600 border=0>
+<TBODY>
+<TR>
+<TD><FONT face=verdana color=#bbbbbb size=1>This notification was sent to you by PayPal. To modify your notification preferences, log in to your PayPal account, click the Profile sub-tab, then click the Notifications link under Account Information. Changes may take up to 10 days to be reflected in our mailings. PayPal will not sell or rent any of your personally identifiable information to third parties. For more information about the security of your information, read our Privacy Policy at https://www.paypal.com/privacy. <BR><IMG height=6 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0> <BR><IMG height=6 src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=1 border=0> <BR>Copyright &nbsp;2007 PayPal Inc. All rights reserved. Designated trademarks and brands are the property of their respective owners. PayPal is located at 2211 N. First St., San Jose, CA 95131. </FONT></TD></TR>
+</TBODY></TABLE>

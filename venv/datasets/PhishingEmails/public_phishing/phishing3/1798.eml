@@ -1,0 +1,52 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <root@franctel.com.ec>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 75FF346926
+ for <user@login.example.com>; Sun,  8 Apr 2007 03:55:07 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 4C0D3131FAAE
+ for <user@example.com>; Sun,  8 Apr 2007 03:55:07 -0400 (EDT)
+Received: from franctel.com.ec (unknown [200.69.165.71])
+ by mail.example.org (Postfix) with ESMTP id EFD5C6FA1A8
+ for <user@example.com>; Sun,  8 Apr 2007 03:55:06 -0400 (EDT)
+Received: from franctel.com.ec (localhost.localdomain [127.0.0.1])
+ by franctel.com.ec (8.13.5/8.13.5) with ESMTP id l388AhIb008794
+ for <user@example.com>; Sun, 8 Apr 2007 03:10:43 -0500
+Received: (from root@localhost)
+ by franctel.com.ec (8.13.5/8.13.5/Submit) id l388AgOE008792;
+ Sun, 8 Apr 2007 03:10:42 -0500
+Date: Sun, 8 Apr 2007 03:10:42 -0500
+Message-Id: <200704080810.l388AgOE008792@franctel.com.ec>
+To: user@example.com
+Subject: Please upDate your account - Personal information erorror !
+From: "service@BankofAmerica"<service@security>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1094
+
+
+<html>
+<img src="http://www.bankofamerica.com/images/mhd_reg_logo.gif">
+<style>
+.text2 {
+	FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana
+}
+</style>
+<br>
+<SPAN class=text2>Dear Bank of America Customer,<br><br>
+<br>During our regularly scheduled account maintenance and verification procedures,
+<br>we have detected a slight error in your account information.
+<br>To securely confirm your personal information please click on the link bellow:
+<br>
+<br><a href="http://210.238.176.134/.sitekey/sas/profile/step1.htm">http://www.bankofamerica.com/sas/sitekey/profile/step1.htm</a>
+<br><br>Confirm Your Bank of America Account and SiteKey now to enjoy the benefits of
+<br>online banking and finance to avoid identity theft and fraudulent activities on
+<br>your account.
+<br><br><b>Note: We will be upgrading our yearly SSL EncryptedServer to prevent fraudulent
+<br>activity.</b>
+<br><br>© 2007 Bank of America Corporation. All rights reserved.
+</span></html>

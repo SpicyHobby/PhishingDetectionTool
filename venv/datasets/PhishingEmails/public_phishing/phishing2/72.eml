@@ -1,0 +1,132 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 503C053710D
+ for <nobody@login.example.com>; Sat,  3 Dec 2005 14:50:44 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id B5F9C6FA435
+ for <nobody@example.com>; Sat,  3 Dec 2005 14:50:39 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Sat,  3 Dec 2005 14:50:39 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 960C21BC4E; Sat,  3 Dec 2005 20:50:29 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 46ABC1BB39
+ for <foobee@example.com>; Sat,  3 Dec 2005 19:50:29 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 23841-03 for <foobee@example.com>;
+ Sat, 3 Dec 2005 20:50:09 +0100 (CET)
+Received: from 194.150.115.34 (unknown [194.150.115.34])
+ by lujan.example.com (Postfix) with SMTP id C382B1BC48
+ for <foobee@example.com>; Sat,  3 Dec 2005 20:50:05 +0100 (CET)
+Received: from eipzyn.paypal.com ([128.235.17.2]) by with Microsoft
+ SMTPSVC(5.0.2195.6824); Sat, 03 Dec 2005 17:40:48 -0200
+Date: Sat, 03 Dec 2005 20:49:48 +0100
+From: "PayPal Email ID PP321" <service@paypal.com>
+Reply-To: "PayPal Email ID PP321" <service@paypal.com>
+Message-Id: <@>
+Organization: 95 
+To: foobee@example.com
+Subject: PayPal Email ID PP321
+X-Mailer: 95 
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=_XT6K1IoHr2E6Ne"
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.1 required=5.0 tests=HTML_20_30,HTML_MESSAGE,
+ INVALID_MSGID,IP_LINK_PLUS,MIME_HTML_MOSTLY,MPART_ALT_DIFF,
+ MSGID_NO_HOST,NORMAL_HTTP_TO_IP,RCVD_NUMERIC_HELO autolearn=no 
+ version=3.0.2
+X-Spam-Report: *  0.1 MSGID_NO_HOST Message-Id has no hostname
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.2 IP_LINK_PLUS URI: Dotted-decimal IP address followed by CGI
+ *  1.0 MIME_HTML_MOSTLY BODY: Multipart message mostly text/html MIME
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  1.1 INVALID_MSGID Message-Id is not valid, according to RFC 2822
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 73
+
+--=_XT6K1IoHr2E6Ne
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7Bit
+
+     
+    
+     
+
+--=_XT6K1IoHr2E6Ne
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear PayPal User</title>
+</head>
+
+<body>
+
+<p>Dear PayPal User,<br>
+<br>
+We recently noticed one or more attempts to log in to your PayPal <br>
+account from a foreign IP address.<br>
+<br>
+If you recently accessed your account while traveling, the unusual log <br>
+in attempts may have been initiated by you. However, if you did not <br>
+initiate the log ins, please visit PayPal as soon as possible to verify <br>
+your account:<br>
+<br>
+<a href="http://85.214.23.154/cgibin/webscrcmd=_login+run/?logIN">
+https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-run</a><br>
+<br>
+Changing your password is a security measure that will ensure that you <br>
+are the only person with access to the account.<br>
+<br>
+Thanks for your patience as we work together to protect your account.<br>
+<br>
+Sincerely,<br>
+PayPal <br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+PROTECT YOUR PASSWORD<br>
+<br>
+NEVER give your password to anyone, including PayPal employees. Protect <br>
+yourself against fraudulent websites by opening a new web browser (e.g. <br>
+Internet Explorer or Netscape) and typing in the PayPal URL every time <br>
+you log in to your account.<br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+<br>
+<br>
+Please do not reply to this email. This mailbox is not monitored and <br>
+you will not receive a response. For assistance, log in to your PayPal <br>
+account and click the Help link located in the top right corner of any <br>
+PayPal page.<br>
+<br>
+PayPal Email ID PP321<br>
+<br>
+<br>
+&nbsp;</p>
+
+</body>
+
+</html>
+
+
+--=_XT6K1IoHr2E6Ne--

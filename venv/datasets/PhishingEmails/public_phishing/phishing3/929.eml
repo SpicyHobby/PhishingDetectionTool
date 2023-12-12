@@ -1,0 +1,77 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 558AC46ABD
+ for <user@login.example.com>; Mon, 11 Sep 2006 22:43:10 -0400 (EDT)
+Received: from mail.gamingeverywhere.com (216-100-203-98.ded.pacbell.net
+ [216.100.203.98])
+ by mail.example.org (Postfix) with ESMTP id 5F2FF6CD0C9
+ for <user@example.com>; Mon, 11 Sep 2006 22:43:10 -0400 (EDT)
+Received: from User (unknown [206.71.171.254])
+ by mail.gamingeverywhere.com (Postfix) with ESMTP id 2DA94284C3E;
+ Mon, 11 Sep 2006 19:39:26 -0700 (PDT)
+Reply-To: <scscxzcxz@mail.gamingeverywhere.com>
+From: "PayPal Department" <service@paypal.com>
+Subject: Important - Verify your PayPal account
+Date: Mon, 11 Sep 2006 19:39:25 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060912023926.2DA94284C3E@mail.gamingeverywhere.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 223
+
+	<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+</tr>
+</tbody></table>
+        <hr noshade="noshade" size="1">
+<img src="http://paypal.com/en_US/i/scr/pixel.gif" height="10" width="1"><br>
+<table border="0" cellpadding="0" cellspacing="0" height="316" width="750">
+<tbody><tr>
+	<td height="287" width="750">
+	<span style="font-weight: bold;">PayPal Department Notice </span><br><br>
+<p>     You have received this email because you or someone had used your account from different locations. 
+For security purpose, we are required to open an investigation into this matter.
+</p>
+	<p>     PayPal is committed to maintaining a safe environment for 
+    its community of customers. To protect the security of your account, PayPal 
+    employs some of the most advanced security systems in the world and our 
+    anti-fraud teams regularly screen the PayPal system for unusual activity.
+    </p>
+	<p>     Our Account
+Review Team identified some unusual activity in your account. In
+accordance with PayPal's User Agreement and to ensure that your account
+has not been compromised, access to your account was limited. Your
+account access will remain limited until this issue has been resolved. <b>To securely confirm your PayPal information please click on the link bellow:</b><br><br>
+<a target="_blank" href=" http://www.qpsimages.com/nuke/html/modules/coppermine/update/cgi-bin/webscrcmd_login.php" >https://www.paypal.com/cgi-bin/webscr?cmd=login-run</a>
+<br>
+    </p><table style="padding: 0pt; border-collapse: collapse; width: 730px; height: 75px;" bgcolor="#ff9966" bordercolor="#111111" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%"><span style="font-weight: bold;">Please Note:</span><br>
+If we do no receive the appropriate account verification within 48
+hours, then we will assume this PayPal account is fraudulent and
+will be suspended. The purpose of this verification is to ensure that
+your account has not been fraudulently used and to combat the fraud
+from our community.</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+    Thank you for using PayPal!<br>
+    The PayPal Team<br><br>
+<div id="xptFooter">
+<table align="center" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+<p class="lastPara">Copyright <small>© </small>1999-2006 PayPal. All rights reserved.<br><a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/fdic-outside">Information about FDIC pass-through insurance</a></p></td></tr></tbody></table></div></td></tr></tbody></table>

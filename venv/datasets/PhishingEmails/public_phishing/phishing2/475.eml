@@ -1,0 +1,74 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <account@ohiosavings.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP
+ id 2A38E537100; Mon, 27 Feb 2006 10:15:19 -0500 (EST)
+Received: from 213.171.223.24 (server213-171-223-24.live-servers.net
+ [213.171.223.24])
+ by mail1.example.com (Postfix) with SMTP id 3A1FE6CCF06;
+ Mon, 27 Feb 2006 10:15:18 -0500 (EST)
+Received: from 188.118.32.33 by ; Mon, 27 Feb 2006 09:15:18 -0600
+Message-ID: <FYFAKMZZKMBMFSYGIMBJENB@hotmail.com>
+From: "Ohio Savings Bank" <account@ohiosavings.com>
+Reply-To: "Ohio Savings Bank" <account@ohiosavings.com>
+To: openbsd-mobile@example.com
+Cc: openbsd-tech@example.com, owner-madinfo-outgoing@example.com,
+ nobody@example.com
+Subject: Confirm your Ohio Savings account status
+Date: Mon, 27 Feb 2006 16:15:18 +0100
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--25396277856295423"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 476
+
+----25396277856295423
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<FONT face=3DVerdana size=3D2>&nbsp;<img alt=3D"OhioSavings.com" src=3D"ht=
+tp://www.ohiosavings.com/images/ohiologo.gif" border=3D"0" hspace=3D"10" v=
+space=3D"14"></a></td>
+	<td width=3D"100%"><br><br>&nbsp;&nbsp;&nbsp;Dear Ohio Savings Customer,<=
+BR></div>&nbsp; 
+<DIV>&nbsp;
+<DIV>&nbsp;&nbsp; Due to recent fraudulent activities on some of Ohio Savi=
+ngs online <br>&nbsp;&nbsp;&nbsp;accounts we are launching a new security =
+system to make Ohio Savings<br>&nbsp;&nbsp;&nbsp;online accounts more secu=
+re and safe. Before we <br>&nbsp;&nbsp;&nbsp;can activate it we will be ch=
+ecking all Ohio Savings <br>&nbsp;&nbsp;&nbsp;online accounts to confirm t=
+he authenticity of the holder.</DIV>
+<DIV><FONT color=3D#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; We will require a confirmation that your account has=
+ not been <br>&nbsp;&nbsp;&nbsp;stolen or hacked. Your account has not bee=
+n suspended or frozen.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; To confirm your account status please <A href=3D"htt=
+p://222.56.20.48/www.ohiosavings.com/index.html">Login</A><BR><BR>&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;-complete the required information to authenti=
+cate and reset your account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-ma=
+ke sure your account balance has not been changed<BR><BR>&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;-make sure your details have not been changed<BR><BR>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-review recent transactions in your acco=
+unt history for any unauthorized transfer</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp;&nbsp;If you find any type of suspicious activities p=
+lease contact us immediately.<br>&nbsp;&nbsp; Please include in your messa=
+ge your account number, your account name<br>&nbsp;&nbsp; and the unauthor=
+ized transfer date & time.<BR><BR><BR></DIV>
+
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Please do not reply to this message. For any inquiries, =
+contact Customer Service.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Ohio Savings Copyright =A9 2006</DIV></FONT>
+
+
+----25396277856295423--

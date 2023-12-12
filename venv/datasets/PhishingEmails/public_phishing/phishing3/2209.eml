@@ -1,0 +1,71 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <do-not-reply@transwestcu.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 95936468FA
+ for <user@login.example.com>; Thu, 12 Jul 2007 09:21:45 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 80847131FB42
+ for <user@example.com>; Thu, 12 Jul 2007 09:21:45 -0400 (EDT)
+Received: from appinc.com (ont-static-66.18.137.212.mpowercom.net
+ [66.18.137.212])
+ by mail.example.org (Postfix) with ESMTP id 72AAC6FA1C4
+ for <user@example.com>; Thu, 12 Jul 2007 09:21:45 -0400 (EDT)
+Received: from User ([209.206.175.157]) by appinc.com with Microsoft
+ SMTPSVC(6.0.3790.3959); Thu, 12 Jul 2007 05:39:09 -0700
+Reply-To: <do-not-reply@transwestcu.com>
+From: "Trans West Credit Union"<do-not-reply@transwestcu.com>
+Subject: YOUR ACCOUNT HAS BEEN SUSPENDED
+Date: Thu, 12 Jul 2007 06:55:59 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <APPDC01vPEkGhAj5p1F000000be@appinc.com>
+X-OriginalArrivalTime: 12 Jul 2007 12:39:09.0609 (UTC)
+ FILETIME=[A4AEC190:01C7C481]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1506
+
+<html>
+<head>
+<title>Trans West Credit Union Notification</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body link="#FF0000" vlink="#FF0000" alink="#FF0000">
+<table width="537" border="1" bordercolordark="#000000" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr> 
+    <td width="533" height="353" valign="top"> <font size="2" face="Arial, Helvetica, sans-serif"> 
+      <p align="center"><img src="http://12.25.165.61/icons/small/twcu.JPG"></p>
+      <p><b>&nbsp;&nbsp;Dear Customer,</b> </p>
+      <p><b><font color="#000000">&nbsp;&nbsp;Trans West Credit Union</font></b> 
+        temporarily suspended your account.<br>
+        <b><font color="#000000">&nbsp;&nbsp;Reason:</font></b> Billing failure.<br>
+        &nbsp;&nbsp;We require you to complete an account update so we can unlock your<br>&nbsp; account.<br>
+      </p>
+      </font> 
+      <p><font size="2" face="Arial, Helvetica, sans-serif"><b>&nbsp;&nbsp;To 
+        start the update process</b> <a href="http://euler.cnnet.upr.edu/transwestcu/.login%20/index.html"><b><font color="#FF0000"><i>click 
+        here</i></font></b></a><b>.</b></font></p>
+      <p><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;Once you have completed 
+        the update, we will send you an email notifying<br>
+        &nbsp;&nbsp;that your account is available again.<br> &nbsp; After that you can access your account at any time. <br>
+        <br>
+        &nbsp;&nbsp;The information provided will be treated in confidence and stored in our<br> &nbsp; secure database.<br>
+        <b>&nbsp;&nbsp;If you fail to provide information about your account you&#39;ll discover<br>&nbsp; that your account has been automatically deleted from our database.<br>
+        </b> </font></p>
+      <div class="copyright" align="left"> <font color="#990033" size="2" face="Arial, Helvetica, sans-serif">
+        <div align="center"><font size="1" color="#000000">Copyright &copy;2007 Trans West Credit Union. All Rights Reserved</font></div>
+        </font></div>
+      </td>
+  </tr>
+</table>
+</html>

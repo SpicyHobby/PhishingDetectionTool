@@ -1,0 +1,71 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@intl.paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 2E78246AB6;
+ Fri,  1 Sep 2006 04:14:01 -0400 (EDT)
+Received: from 192.168.1.50 (unknown [72.17.203.212])
+ by mail.example.org (Postfix) with SMTP id 47B0F6FA54D;
+ Fri,  1 Sep 2006 04:13:56 -0400 (EDT)
+Received: from 84.204.88.138 by ; Fri, 01 Sep 2006 14:05:45 +0500
+Message-ID: <EMLXVJVIJTLBNTDBFILL@aol.com>
+From: "PayPal" <service@intl.paypal.com>
+Reply-To: "PayPal" <service@intl.paypal.com>
+To: emv@example.com, dugsong@example.com, dugsong@example.com,
+ jeremie@example.com, user@example.com
+Subject: IMPORTANT : Notification of Limited Account Access
+Date: Fri, 01 Sep 2006 13:12:45 +0400
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--97740217401769978703"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 173
+
+----97740217401769978703
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<strong>Dear PayPal Member</strong>,<br>
+<br>During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.<br> This might be due to either following reasons:
+<br>
+<br>- A recent change in your personal information (i.e. change of address=
+)
+<br>- Submitting invalid information during the initial sign up process.
+<br>- An inability to accurately verify your selected option of payment du=
+e an internal error within
+our processors.
+<br>
+<br>Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.<br><br>
+If this is not completed by <strong>September 3, 2006</strong>, we reserve=
+ 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href=3D"http://www.sharp-th.com/%20/.confirm/index.php?MfcISAPICommand=3DS=
+ignInFPP">https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-run</a>
+<br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+PayPal - Customer Service
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+<br>
+
+----97740217401769978703--

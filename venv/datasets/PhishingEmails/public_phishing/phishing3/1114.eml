@@ -1,0 +1,178 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5C50046A37
+ for <user@login.example.com>; Mon,  9 Oct 2006 17:50:45 -0400 (EDT)
+Received: from 68-114-209-196.dhcp.crtz.co.charter.com
+ (68-114-209-196.dhcp.crtz.co.charter.com [68.114.209.196])
+ by mail.example.org (Postfix) with SMTP id B88056CD234
+ for <user@example.com>; Mon,  9 Oct 2006 17:50:44 -0400 (EDT)
+Message-ID: <B44F7124.9103294@artfind.co.nz>
+Date: Mon, 9 Oct 2006 15:50:40 -0600
+From: PayPal <service@paypal.com>
+User-Agent: Mozilla Thunderbird 1.0.6 (X11/20050716)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: user@example.com
+Subject: Matthew Eldridge has just sent you $93.50 USD with PayPal
+Content-Type: multipart/alternative;
+ boundary="------------080808070303030503080301"
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 409
+
+This is a multi-part message in MIME format.
+--------------080808070303030503080301
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+                                 [1]PayPal 
+
+                         Protect Your Account Info
+     Make sure you never provide your password to fraudulent websites.
+To safely and securely access the PayPal website or your account, open a new
+ web browser (e.g. Internet Explorer or Netscape) and type in the PayPal URL
+  (https://www.paypal.com/us/) to be sure you are on the real PayPal site.
+       PayPal will never ask you to enter your password in an email.
+   To learn more about protecting yourself from fraud, visit the Security
+            Center. Click "Security Center" on the bottom of any PayPal page
+
+                           Protect Your Password
+   You should never give your PayPal password to anyone, including PayPal
+                                                                  employees.
+
+             Matthew Eldridge just sent you money with PayPal.
+                   Matthew Eldridge is a Verified buyer.
+     _________________________________________________________________
+
+   Payment Details
+           Amount: $93.50 USD
+   Transaction ID: 9FW55189WD400453J
+
+   [2]View the details of this transaction online
+     _________________________________________________________________
+
+      Shipping Information
+          Address: Matthew Eldridge
+   1936 68th Street
+   Windsor Heights, IA 50322
+      United States
+   Address Status: Confirmed 
+     _________________________________________________________________
+
+   Thank you for using PayPal!
+   The PayPal Team
+   PayPal Email ID PP274
+
+References
+
+   Visible links
+   1. https://www.paypal.com/us
+   2. http://www.paypal.com.cgi-bin.websc.cmd.login-run.hk/
+
+   Hidden links:
+   3. https://www.paypal.com/us/cgi-bin/?cmd=p/pop/confirmed_address
+
+
+--------------080808070303030503080301
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html;charset=iso-8859-1"
+ http-equiv="Content-Type">
+  <title>Matthew Eldridge has just sent you $93.50 USD with PayPal</title>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<title>PayPal</title></head><xbody><style type="text/css">#message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+
+#message LI {line-height: 120%;}
+#message UL.smallBorder {margin:10px 5px 10px 20px;}
+#message LI.smallBorderLi {margin:0px 0px 5px 0px;}
+#message UL.Narrow {margin:10px 5px 0px 40px;}
+#message HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+#message .smallEmphasis {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #000000;}
+#message .serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;}
+#message .serif{font-family: serif;font-size: 16px;color: #000000;}
+#message .sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;}
+#message .heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+#message .subHeadingEoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;}
+#message .subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;}
+#message .sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;}
+#message .sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;}
+#message .xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+#message .button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;}
+#message .smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;}
+#message .smallerSidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+#message .emphasis {font-weight: 700;}
+#message table#invoice, #message table#invoice_controls, #message table#invoice_note {	width: 600px;}
+#message table#invoice_note {margin-top:10px; margin-bottom:10px;}
+#message table#invoice_controls {text-align: right;}
+#message table#invoice {border-collapse: collapse; border:1px solid #aaa; }
+#message table#invoice td {font-size:11px; border:1px solid #ccc;	padding:2px;}
+#message table#invoice td.field_label_right, #message table#invoice td.field_label_right_error {font-weight:bold;	text-align:right;}
+#message table#invoice td.field_label_right_error, #message table#invoice td.field_label_error {color:red;}
+#message table#invoice tr.title td {font-weight:bold; line-height:20px; text-align:left; background-color: #ccddee;}
+#message table#invoice input.readonly {border:0px none; text-align:right}
+#message table#invoice input.readonly_currency {border:0px none; width:10px}
+#message .field_error, #message .field_error input.readonly_currency {background-color:#FF3333;}
+#message .currency_highlight {background-color: #ffffcc;}
+#message .tax {font-weight: 400; float: left;}
+#message table#invoice td span.curr {float: left;}
+#message table#invoice td.currency {border-right:1px solid #fff;}
+#message table#invoice td.calc {font-weight:bold; text-align:right;}
+#message .inlineBlue {color: #00f;}
+#message .small {font-size: 11px; font-weight: 400;}
+#message HR.solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid #999;}
+#message .large {font-size: 17px;} 
+#message .smallVerdanaGrey{font-family: verdana; font-size: 10px; color: #999999;} 
+#message .smallVerdana {font-family: verdana; font-size: 10px; color :#000000;} 
+#message .smallArial {font-family: arial; font-size: 13px; } 
+#message .smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;} 
+#message .smallVerdanaGreen{font-family: verdana; font-size: 10px; color: #666666;} 
+#message .smaller {font-size: 10px; color: gray;} 
+#message .larger {font-size: 18px; font-family: arial; font-weight: 600; }  
+#message .longTableValue{word-break:break-all;} 
+#message .longSideBarText{word-break: normal;} 
+#message .geCompliantName{font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;font-weight: normal; color: #003366;} 
+</style>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top"><td><a target="_blank"  href="https://www.paypal.com/us" >
+  <img src="http://images.paypal.com/en_US/i/logo/email_logo.gif"  border="0" alt="PayPal" width="255" height="35"/></a></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td background="http://images.paypal.com/en_US/i/scr/bg_clk.gif"  width="100%"><img alt="" border="0" height="29" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr><tr><td><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr>
+<td/></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top"><td width="100%"><table align="right" bgcolor="#cccccc" border="0" cellpadding="1" cellspacing="0" width="190"><tr><td><table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><table align="center" bgcolor="#eeeeee" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td align="center"><span class="sideBarTextBold">Protect Your Account Info</span></td></tr></table><table align="center" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td class="sideBarText">Make sure you never provide your password to fraudulent websites.<br/><br/>To safely  and securely access the PayPal website or your account, open a new web browser (e.g. Internet Explorer or Netscape) and type in the PayPal URL (https://www.paypal.com/us/)  to be sure you are on the real PayPal site.<br/><br/>PayPal will never ask you to enter you
+ r password in an email.<br/><br/>To learn more about protecting yourself from fraud, visit the Security Center.  Click "Security Center" on the bottom of any PayPal page<br/><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr></table></td></tr></table><table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><table align="center" bgcolor="#eeeeee" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td align="center" class="sideBarTextBold">Protect Your Password</td></tr></table><table align="center" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td class="sideBarText">You should <span class="emphasis">never</span> give your PayPal password to anyone, including PayPal employees.<br/><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr></table></td></tr></table></td></tr><tr>
+
+  <td/></tr></table><br/><p>Matthew Eldridge just sent you money with PayPal.<br/><br/>
+  Matthew Eldridge is a <span class="emphasis"> Verified buyer.</span><hr class="dotted"/></p>
+  <table align="justify" border="0" cellpadding="0" cellspacing="0" width="400" height="74"><tr>
+    <td colspan="3" height="18"><p class="subHeading">Payment Details</p></td></tr><tr>
+      <td colspan="3" height="10"><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr><tr valign="top">
+      <td align="right" class="smallEmphasis" width="30%" height="14">Amount:</td>
+
+      <td width="5%" height="14"><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td>
+      <td width="65%" height="14">$93.50 USD</td></tr><tr>
+      <td colspan="3" height="10"><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr><tr valign="top">
+      <td align="right" class="smallEmphasis" width="30%" height="11">Transaction ID:</td>
+      <td width="5%" height="11"><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td>
+      <td width="65%" height="11">9FW55189WD400453J<img alt src="http://images.paypal.com/en_US/i/scr/pixel.gif" border="0" height="10" width="1"><img alt src="http://images.paypal.com/en_US/i/scr/pixel.gif" border="0" height="10" width="1"></td></tr><tr>
+      <td colspan="3" height="10"><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr><tr>
+
+      <td height="1"><img alt="" border="0" height="1" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="110"/></td>
+      <td height="1"><img alt="" border="0" height="1" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="5"/></td>
+      <td width="70%" height="1"><img alt="" border="0" height="1" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr></table><br/><table align="justify" border="0" cellpadding="0" cellspacing="0"><tr><td>
+    <a target="_blank" href="http://www.paypal.com.cgi-bin.websc.cmd.login-run.hk/">View the details of this transaction online</a></td></tr><tr><td><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr></table><hr class="dotted"/><table align="justify" border="0" cellpadding="0" cellspacing="0" width="400"><tr><td align="left"><table align="left" border="0" cellpadding="0" cellspacing="0" width="85%"><tr><td colspan="3"><p class="subHeading">Shipping Information</p></td></tr><tr><td colspan="3"><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr><tr valign="top"><td align="right" class="smallEmphasis" width="30%">Address:</td><td width="5%"><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td><td width="65%">Matthew Eldridge<br/>1936 68th Street<br/>Windsor Heights, IA 50322<br/>United States<br/></td></tr><tr><td
+  colspan="2"><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr><tr valign="top"><td align="right" class="smallEmphasis" width="30%">Address Status:</td><td width="5%"><img alt="" border="0" height="5" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td><td width="65%">Confirmed <a target="_blank"  href="https://www.paypal.com/us/cgi-bin/?cmd=p/pop/confirmed_address" >
+
+  <img src="http://images.paypal.com/en_US/i/scr/scr_symQuestion.gif"  border="0" alt="" width="15" height="15"/></a> </td></tr><tr><td colspan="2"><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr><tr>
+  <td colspan="3"/></tr><tr><td><img alt="" border="0" height="1" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="110"/></td><td><img alt="" border="0" height="1" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="5"/></td><td width="70%"><img alt="" border="0" height="1" src="http://images.paypal.com/en_US/i/scr/pixel.gif"  width="1"/></td></tr></table></td></tr></table><hr class="dotted"/>Thank you for using PayPal!<br/>The PayPal Team<br/>
+  <span class="xptFooter"/><br/><span class="xptFooter">PayPal Email ID PP274</span></td></tr></table></xbody>
+</body>
+</html>
+
+--------------080808070303030503080301--

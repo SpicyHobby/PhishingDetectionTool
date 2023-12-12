@@ -1,0 +1,69 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <saint@brudas.kopernik.gliwice.pl>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by naughty.example.com (Postfix) with ESMTP id C49AB536EF1
+ for <nobody@login.example.com>; Tue,  4 Apr 2006 14:29:55 -0400 (EDT)
+Received: from brudas.kopernik.gliwice.pl (pragma.pl [67.19.30.114])
+ by mail1.example.com (Postfix) with ESMTP id C3A536CCE9D
+ for <nobody@example.com>; Tue,  4 Apr 2006 09:43:35 -0400 (EDT)
+Received: from saint by brudas.kopernik.gliwice.pl with local (Exim 4.52)
+ id 1FQqHH-0007vt-ET
+ for nobody@example.com; Tue, 04 Apr 2006 20:29:21 +0200
+To: nobody@example.com
+Subject: Pay Pal Security Measures!
+From: service@paypal.com <do-not-reply@paypal.com>
+Content-Type: text/html
+Message-Id: <E1FQqHH-0007vt-ET@brudas.kopernik.gliwice.pl>
+Date: Tue, 04 Apr 2006 20:29:19 +0200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - brudas.kopernik.gliwice.pl
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [32050 32051] / [47 12]
+X-AntiAbuse: Sender Address Domain - brudas.kopernik.gliwice.pl
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 735
+
+
+
+
+<html>
+<head>
+<title>MATA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<p><font color="#003399"><b><font size="4" color="#003366" face="Verdana, Arial, Helvetica, sans-serif">Pay Pal
+  Security Measures!</font></b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We are currently
+  performing regular maintenance of our security measures. Your account has been
+  randomly selected for this maintenance, and you will now be taken through a
+  series of identity verification pages.</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Protecting the
+  security of your Pay Pal account is our primary concern, and we apologize for
+  any inconvenience this may cause.</font><br>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Please click on
+  the link bellow, then fill in the correct information for that category to verify
+  your identity.</font></p>
+<P align=left><BR><A href="http://www.yung.co.kr/alitsa/index.php"><FONT face=Verdana size=2><STRONG>https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</STRONG></FONT></A></P>
+<p>&nbsp;</p>
+<div align="center"><font size="2" color="#999999">Please do not reply to this
+  e-mail. Mail sent to this address cannot be answered.<br>
+  For assistance, <a href="http://www.yung.co.kr/alitsa/primapagina.php" target="_blank">
+  log in</a> to your Pay Pal account and choose the "Help" link in the footer of
+  any page.<br>
+  To receive email notifications in plain text instead of HTML, update your preferences
+  <a href="http://www.blackgoldrental.com/rimapagina.html">here</a>. </font></div>
+<p align="left"><span class="pp_footer"></span></p>
+</body>
+</html>
+
+

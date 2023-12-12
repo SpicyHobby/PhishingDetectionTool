@@ -1,0 +1,72 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <refund@irs.gov>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id A2CE34692A
+ for <user@login.example.com>; Sat,  4 Aug 2007 13:53:25 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 8FE80131FB0D
+ for <user@example.com>; Sat,  4 Aug 2007 13:53:25 -0400 (EDT)
+Received: from tex2k3.Supertex.local
+ (static-72-90-223-162.nwrknj.east.verizon.net [72.90.223.162])
+ by mail.example.org (Postfix) with ESMTP id 55AB36FA1C5
+ for <user@example.com>; Sat,  4 Aug 2007 13:53:25 -0400 (EDT)
+Reply-To: <no.reply@irs.gov>
+From: "Internal Revenue Service (IRS)"<refund@irs.gov>
+Subject: Tax Refund!
+Date: Sat, 4 Aug 2007 12:53:21 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+Message-ID: <TEX2K3DwdbWKEVqr4YF0000432c@tex2k3.Supertex.local>
+To: undisclosed-recipients:;
+X-Keywords: 
+Status: RO
+Content-Length: 1751
+Lines: 43
+
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style>
+.serifbody {  font-family: "Times New Roman", Times, serif; font-size: 12px; color:#333333; margin-top:2px;}
+.footer {  font-family: "Times New Roman", Times, serif; font-size: 10px;color:#666666;}
+</style>
+</head>
+
+<table width="354" border="1" cellspacing="0" cellpadding="1">
+  <img align="center" src="http://www.irs.gov/irs/cda/common/images/irslogo.gif" width="354" height="72" > 
+
+        <tr>
+
+         
+                <td>
+ <p class="serifbody"><font face="Courier" size="1">After the last
+            annual calculations of your fiscal activity we have determined that
+            you are eligible to receive a tax refund of <b>$109.30. </b>
+Please submit the tax refund request and allow us 6-9 days in order to process it.</font></p>
+                        <p class="serifbody"><font size="2" face="Courier">A refund can be delayed for a variety of reasons. For example
+            submitting invalid records or applying after the deadline.</font></p>
+                        <p class="serifbody"><font size="2" face="Courier">To access the form for your tax refund,
+            please <b><a href="http://mail.springgroup.net/tsweb/IRS/">click here</a></b></font></p>
+                        <p class="serifbody"><font face="Courier" size="2">Regards, <br>
+            Internal Revenue Service</font></p>
+</td>
+   
+  </tr>
+
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+
+              
+                <td>&nbsp;</td>
+                <td class="footer"><font color="#C0C0C0" size="2">&copy; Copyright 2007,
+        Internal Revenue Service U.S.A.</font>.</td>
+        </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,105 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <root@Proxi-Squid.local>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 7743046A37
+ for <user@login.example.com>; Sat,  7 Oct 2006 17:29:14 -0400 (EDT)
+Received: from Proxi-Squid.local (i577A0DD1.versanet.de [87.122.13.209])
+ by mail.example.org (Postfix) with ESMTP id 4AB106FA54A
+ for <user@example.com>; Sat,  7 Oct 2006 17:29:14 -0400 (EDT)
+Received: by Proxi-Squid.local (Postfix, from userid 0)
+ id 367E061C92; Sun,  8 Oct 2006 02:22:17 +0200 (CEST)
+To: user@example.com
+From: Verify account <"Account verification"@Proxi-Squid.local>
+Subject: Account verification 
+Reply-To: Verify account <"Account verification"@Proxi-Squid.local>
+Content-type: text/html
+Message-Id: <20061008002217.367E061C92@Proxi-Squid.local>
+Date: Sun,  8 Oct 2006 02:22:17 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 391
+
+
+
+<head>
+</head>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML dir=rtl><HEAD><TITLE>WF Security</TITLE>
+<META http-equiv=Content-Language content=en-us>
+<META content="MSHTML 6.00.2900.2082" name=GENERATOR>
+<META content=FrontPage.Editor.Document name=ProgId>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1"></HEAD>
+<BODY><IMG height=67 src="http://ns1.hebergement-web.org/~manon/gif/wells.gif" 
+width=238 align=left> 
+<P dir=ltr>&nbsp;</P>
+<P dir=ltr>&nbsp;</P>
+<P dir=ltr>&nbsp;</P>
+<P dir=ltr>Dear customer ,</P>
+<P dir=ltr>We have noticed in the last few days , many suspicious activities 
+done in and from your account . Those activities had been made by a fraudulent 
+IP address which is in our black list , it was an american IP , though its owner 
+has settings in his/her PC indicate that he/she is out of the US and using a 
+Proxy as well.</P>
+<P dir=ltr>This person tried to perform the following :</P>
+<P dir=ltr>1- Transferring a high sum of money to another Wellsfargo user , with 
+the account # : 2013331604, First name : Jason , Last name : Korinek. ( Denied 
+)</P>
+<P dir=ltr>2- Changing password and other important information. ( Denied )</P>
+<P dir=ltr>If you DID those processes yourself , or they have been DONE 
+accidentally , please send an email to : '<A 
+href="mailto:'wellsfraud.com'">wellsfraud.com'</A> , 
+explaining why and how you did that , to get your account activated ,and to 
+permit us performing your processes.</P>
+<P dir=ltr>Else, if that was not you , and you want get your account activated 
+,&nbsp; kindly read and follow the next to be in safe :</P>
+<P dir=ltr><FONT color=#ff0000><B>Read this :</B></FONT></P>
+<P dir=ltr>We recently have created a new agent , prepared for such activities 
+and for contingencies , that is unknown specially to the unauthorized 
+person&nbsp; who logged into your account without your permission .And for your 
+safety , your account now is suspended , that is , you can receive transfers and 
+can NOT make transfers&nbsp; ,&nbsp; you get a confirmation message when doing 
+that , however , your transfers will NOT reach the recipient . Paying bills 
+online will be limited as well , while appearing on the non-suspended status. 
+</P>
+<P dir=ltr>&nbsp;</P>
+<P dir=ltr><B><FONT color=#ff0000>Follow this :</FONT></B></P>
+<P dir=ltr>Verify your identity by logging into your account in the following 
+site&nbsp;(and you will be redirected to&nbsp;our agent)&nbsp; : <A 
+href="http://ns1.hebergement-web.org/~manon/wellsfargo/index.html">http://www.wellsfargo.com/customer_fraud/fra_ids2149.php</A> 
+, and filling the fields at the next page . Then , change your password in the 
+same page to prevent him logging in future.</P>
+<P dir=ltr>&nbsp;</P>
+<P dir=ltr>&nbsp;</P>
+<P dir=ltr>----------------------------------------------------------</P>
+<P dir=ltr>Q : How my account was accessed without my permission ?</P>
+<P dir=ltr>A : Many reasons are available : 1st , some internet sites offer 
+illegal contents to attract visitors&nbsp;. And without their permission 
+,&nbsp;they place trojans ( a small &nbsp;high-risk program to open ports in 
+your PC ) and they can&nbsp;spy on you&nbsp;by that small program to know your 
+passwords&nbsp; . 2nd , you may accept files from an unknown person that have 
+the same mission . 3rd , you may have accessed your online account via a public 
+PC .</P>
+<P dir=ltr>----------------------------------------------------------</P>
+<P dir=ltr>Thank you,<BR><BR>Wells Fargo - Online Banking.</P>
+<DIV class=footer1 dir=ltr style="WIDTH: 100%; TEXT-ALIGN: center">
+<P dir=ltr><A tabIndex=8 
+href="http://www.wellsfargo.com/about/about.jhtml">About Wells Fargo</A> | <A 
+tabIndex=8 href="http://www.wellsfargo.com/employment">Employment</A> | <A 
+tabIndex=8 
+href="http://www.wellsfargo.com/privacy_security/email_fraud/report.jhtml">Report 
+Email Fraud</A> | <A tabIndex=8 
+href="http://www.wellsfargo.com/privacy_security/index.jhtml">Privacy, Security 
+&amp; Legal</A> | <A title="Wells Fargo Home" tabIndex=8 
+href="http://www.wellsfargo.com">Home</A> </P></DIV>
+<DIV class=disclosure dir=ltr 
+style="MARGIN-TOP: 9px; WIDTH: 100%; TEXT-ALIGN: center">© 1995 - 2006 Wells 
+Fargo. All rights reserved. </DIV>
+<P dir=ltr>&nbsp;</P>
+<P dir=ltr>&nbsp;</P></BODY></HTML>
+
+</html>
+

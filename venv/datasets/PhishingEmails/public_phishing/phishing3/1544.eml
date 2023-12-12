@@ -1,0 +1,123 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <support@bofa.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 2A36A4691A
+ for <user@login.example.com>; Sat, 17 Feb 2007 01:07:31 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 5D45F131FAF9
+ for <user@example.com>; Sat, 17 Feb 2007 01:07:33 -0500 (EST)
+Received: from 192.168.1.254 (host81-149-162-171.in-addr.btopenworld.com
+ [81.149.162.171])
+ by mail.example.org (Postfix) with SMTP id 1E0716FA1C1
+ for <user@example.com>; Sat, 17 Feb 2007 01:07:33 -0500 (EST)
+Received: from 32.22.104.46 by ; Sat, 17 Feb 2007 02:06:15 -0400
+Message-ID: <SOLCMLYOUWRKDKTEMWKZCWTFP@verizon.net>
+From: "Bank of America" <verification_ID2125464644@bankofamerica.com>
+Reply-To: "Bank Of America" <verification_ID2129030492@bankofamerica.com>
+To: user@example.com
+Subject: Online Banking Alert ( Your Account Has Been Blocked )
+Date: Fri, 16 Feb 2007 23:02:15 -0700
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--6830915265218128928"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 839
+
+----6830915265218128928
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<tr>
+<td colspan=3D"4" height=3D"80"> 
+<img src=3D"http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg=
+_logo.gif" alt=3D"Bank of America Higher Standards Online Banking" width=3D=
+"250" height=3D"69s" border=3D"0" align=3D"middle"> </td></tr> 
+
+<tr>
+
+
+<p>&nbsp; <font face=3Dverdana,arial,helvetica size=3D-1>Dear Bank of Amer=
+ica Customer,</font> <font face=3Dverdana,arial,helvetica size=3D-1></p>
+			<P><FONT FACE=3D"Helvetica, Arial, Times New Roman" SIZE=3D"2" STYLE=3D=
+"font-size: 9pt">&nbsp;For the User Agreement, Section 9, we may immediate=
+ly issue a
+            warning, temporarily suspend,<br> indefinitely suspend or term=
+inate your
+            membership and refuse to provide our services to you if we bel=
+ieve<br>
+            that your actions may cause financial loss or legal liability =
+for
+            you, our users or us</FONT></font><FONT size=3D2 STYLE=3D"font=
+-size: 9pt" face=3D"Helvetica, Arial, Times New Roman">.</FONT></P>
+			<UL>
+				<LI><P STYLE=3D"margin-bottom: 0in"><font face=3D"Arial" size=3D"2">Ou=
+r
+                  terms and conditions you agreed to state that your servi=
+ce
+                  must always be under your control<br> or those you desig=
+nate all
+                  times. We have noticed some unusual activity related to =
+your
+                  service that<br> indicates that other parties may have a=
+ccess and
+                  or control of your information's in your service.</font>=
+</P>
+				<LI><P STYLE=3D"margin-bottom: 0in"><font size=3D"2" face=3D"Arial">We=
+
+                  recently noticed one or more attempts to log in to your =
+Bank of America
+                  Account, service<br> from a foreign IP address. If you r=
+ecently
+                  accessed your service while traveling, the unusual log<b=
+r> in
+                  attempts may have been initiated by you. However, if you=
+ did
+                  not initiate the logins, please visit<br> Bank of Americ=
+a homepage as soon
+                  as possible to restore your account status.</font></P>
+				<LI><P STYLE=3D"margin-bottom: 0in"><font size=3D"2" face=3D"Arial">Th=
+e
+                  log in attempt was made from:<br>
+                  ISP host : </font>
+                  <font size=3D"2" face=3D"Arial">user-0cdf2ni.cable.minds=
+pring.com</font>
+				</P>
+			</UL>
+
+
+<P STYLE=3D"margin-bottom: 0in" align=3D""><b><font face=3DArial size=3D"2=
+">To
+restore your account status click the link below:</font></b>
+				</P>
+  </center><P STYLE=3D"margin-bottom: 0in" align=3D""><font face=3Dverdana=
+,arial,helvetica size=3D-1><a target=3D"_blank" href=3D"http://0xd3.0x93.0=
+x03.0x85/boa.html">http://www.<!-- reviewLink:0060558121:ARNU07N2YIKP1 -->=
+bankofamerica.com/cgi-bin/sso.login.controller/verification-IDjjsiureiowu2=
+734928473982</a></font>
+				</P>
+</td>
+<td height=3D"455" width=3D"1">
+
+<p align=3D"">
+
+</td>
+</tr></table>
+<img src=3D"http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg=
+_logo.gif" border=3D"0" width=3D"250" height=3D"69"></a> <br>
+  <font size=3D"2" face=3D"Arial, Helvetica, sans-serif">Bank of America, =
+N.A. Member FDIC. 
+  Equal Housing Lender<br>
+  &copy; 2007 Bank of America Corporation. All rights reserved. </font><br=
+>
+</HTML>
+
+
+
+----6830915265218128928--

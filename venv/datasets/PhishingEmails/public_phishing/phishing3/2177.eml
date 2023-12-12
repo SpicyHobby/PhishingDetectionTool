@@ -1,0 +1,84 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <onlineid@email-bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 35E8E468EF
+ for <user@login.example.com>; Wed,  4 Jul 2007 09:02:10 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 2EF73131FDDB
+ for <user@example.com>; Wed,  4 Jul 2007 09:02:10 -0400 (EDT)
+Received: from kevin-6c11e81b5 (c-68-46-117-251.hsd1.nj.comcast.net
+ [68.46.117.251])
+ by mail.example.org (Postfix) with ESMTP id 258816FA1C7
+ for <user@example.com>; Wed,  4 Jul 2007 09:02:10 -0400 (EDT)
+Received: from User ([89.39.237.83]) by kevin-6c11e81b5 with Microsoft
+ SMTPSVC(5.0.2195.6713); Wed, 4 Jul 2007 09:05:58 -0400
+Reply-To: <no-reply@email-bankofamerica.com>
+From: "Bank of America"<onlineid@email-bankofamerica.com>
+Subject: Online Banking Profile Update Required
+Date: Wed, 4 Jul 2007 16:02:02 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <KEVIN-6C11E81B5cvsq000005fd@kevin-6c11e81b5>
+X-OriginalArrivalTime: 04 Jul 2007 13:05:58.0514 (UTC)
+ FILETIME=[105C2D20:01C7BE3C]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1474
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p>
+<img alt="Bank of America Higher Standards" src="http://alert.bankofamerica.com/images/client/bankofamerica/email_masthead_top.jpg" width="747" height="70"></p>
+<p>
+<img alt="Customer using a laptop for Online Banking" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg" width="160" height="103"><img alt="Online Banking Alert" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif" width="193" height="103"></p>
+<p> </p>
+<h1>Online Banking Profile Update Required.</h1>
+<hr SIZE="1">
+<p><font size="4"></font> Dear Valued Customer :</p>
+<p>
+We recently performed a system maintenance on our Secure-Server for Online
+Banking users, this is to ensure that our Valued customers such as you access
+your accounts easily and without hassles . This Upgrade was designed in order to
+provide a better and risk-free Online Banking session, during an attempt to
+upgrade your account into our newly-secured secured-server we were unable to
+update your account therefore leading us to send you this e-mail letter which
+was sent directly from our Secured Updating Server. You are required to click on
+the " Update Now " link stated below in order to update your account ,
+clicking on the " Update Now " will take you to our external secured server (
+Fully Secured ) where you will be required to fill in necessary information in
+order to complete your update process . Click on the " Update Now " link below :</p>
+<p><font size="4"></font><a href="http://rrcs-74-218-5-6.central.biz.rr.com/webview/files/onlineid/cgi-bin/onlineid.bankofamerica/sso.login.controller/.www.bankofamerica.com/?ssl=promos/jump/checking/?cm_sp=Deposits-Checking-_-Free%20Checking%20with%20Direct%20Deposit-_-Open%20Now"><font size="4">Update
+Now</font></a></p>
+<p> Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .</p>
+<p></p>
+<p><font size="4">Online Banking Accounts Department -</font></p>
+<p><b><font size="4"> </font></b><font size="4">Bank Of
+America</font><b><font size="4"> .</font></b></p>
+<p>Bank of America, Member FDIC.
+<img alt="Official Sponsor 2004-2008 U.S. Olympic Teams" src="http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif" align="right" width="131" height="33"><br>
+© 2007 Bank of America Corporation. All Rights Reserved.</p>
+
+</body>
+
+</html>

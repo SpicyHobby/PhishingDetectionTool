@@ -1,0 +1,83 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <account@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 76EE04692D
+ for <user@login.example.com>; Tue,  3 Oct 2006 07:34:25 -0400 (EDT)
+Received: from spam.thegeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net
+ [66.93.12.142])
+ by mail.example.org (Postfix) with ESMTP id 2FD006CCFDA
+ for <user@example.com>; Tue,  3 Oct 2006 07:34:25 -0400 (EDT)
+Received: from compaqpres (54-167.126-70.tampabay.res.rr.com [70.126.167.54])
+ by spam.thegeekempire.net (8.10.1/8.9.3) with ESMTP id k93EF2q14733
+ for <user@spam.thegeekempire.net>;
+ Tue, 3 Oct 2006 10:15:12 -0400 (EDT)
+Received: from User ([71.158.76.201]) by compaqpres with Microsoft
+ SMTPSVC(5.0.2195.6713); Tue, 3 Oct 2006 07:46:09 -0400
+Reply-To: <noreply@paypal.com>
+From: "PayPal Department"<account@paypal.com>
+Subject: Update Your PayPal Account
+Date: Tue, 3 Oct 2006 04:52:15 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <COMPAQPRESGLoU2gOHp0000011a@compaqpres>
+X-OriginalArrivalTime: 03 Oct 2006 11:46:09.0384 (UTC)
+ FILETIME=[84A16E80:01C6E6E1]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 369
+
+	<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+</tr>
+</tbody></table>
+        <hr noshade="noshade" size="1">
+<img src="http://paypal.com/en_US/i/scr/pixel.gif" height="10" width="1"><br>
+<table border="0" cellpadding="0" cellspacing="0" height="316" width="750">
+<tbody><tr>
+	<td height="287" width="750">
+	<span style="font-weight: bold;">PayPal Department Notice </span><br><br>
+<p>     You have received this email because you or someone had used your account from different locations. 
+For security purpose, we are required to open an investigation into this matter.
+</p>
+	<p>     PayPal is committed to maintaining a safe environment for 
+    its community of customers. To protect the security of your account, PayPal 
+    employs some of the most advanced security systems in the world and our 
+    anti-fraud teams regularly screen the PayPal system for unusual activity.
+    </p>
+	<p>     Our Account
+Review Team identified some unusual activity in your account. In
+accordance with PayPal's User Agreement and to ensure that your account
+has not been compromised, access to your account was limited. Your
+account access will remain limited until this issue has been resolved. <b>To securely confirm your PayPal information please click on the link bellow:</b><br><br>
+    <a target="_blank" href="http://1021812232/www.paypal.com/">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run
+    </a>
+<br>
+    </p><table style="padding: 0pt; border-collapse: collapse; width: 730px; height: 75px;" bgcolor="#ff9966" bordercolor="#111111" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%"><span style="font-weight: bold;">Please Note:</span><br>
+If we do no receive the appropriate account verification within 48
+hours, then we will assume this PayPal account is fraudulent and
+will be suspended. The purpose of this verification is to ensure that
+your account has not been fraudulently used and to combat the fraud
+from our community.</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+    Thank you for using PayPal!<br>
+    The PayPal Team<br><br>
+<div id="xptFooter">
+<table align="center" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+<p class="lastPara">Copyright <small>© </small>1999-2006 PayPal. All rights reserved.<br><a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/fdic-outside">Information about FDIC pass-through insurance</a></p></td></tr></tbody></table></div></td></tr></tbody></table>

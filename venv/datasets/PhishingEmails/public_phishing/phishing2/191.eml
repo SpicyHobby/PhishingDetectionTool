@@ -1,0 +1,683 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <security@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id 6C85B536F24; Mon,  2 Jan 2006 21:26:25 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 123966FA3EA;
+ Mon,  2 Jan 2006 21:26:22 -0500 (EST)
+Received: from 10.65.1.182 (unknown [198.22.65.157])
+ by mail2.example.com (Postfix) with SMTP;
+ Mon,  2 Jan 2006 21:26:22 -0500 (EST)
+Received: from 112.84.152.219 by ; Tue, 03 Jan 2006 08:20:05 +0600
+Message-ID: <DTSIBBHGJLSBTPYGYYKIW@yahoo.com>
+From: "service@paypal.com" <service@email.paypal.com>
+Reply-To: "service@paypal.com" <service@email.paypal.com>
+To: nobody@example.com, provos@example.com
+Subject: IMPORTANT : UPDATE YOUR PAYPAL ACCOUNT
+Date: Tue, 03 Jan 2006 06:19:05 +0400
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--333741059165807829"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.7 required=5.0 tests=BLANK_LINES_70_80,
+ FORGED_MUA_EUDORA,FRONTPAGE,HTML_MESSAGE,HTML_TAG_EXIST_TBODY,
+ HTML_TITLE_EMPTY,IP_LINK_PLUS,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,MSGID_YAHOO_CAPS,NORMAL_HTTP_TO_IP,RAZOR2_CHECK,
+ RCVD_IN_XBL,SUBJ_ALL_CAPS autolearn=spam version=3.0.2
+X-Spam-Report: *  3.8 MSGID_YAHOO_CAPS Message-ID has ALLCAPS@yahoo.com
+ *  4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.7 SUBJ_ALL_CAPS Subject is all capitals
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.2 IP_LINK_PLUS URI: Dotted-decimal IP address followed by CGI
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 HTML_TITLE_EMPTY BODY: HTML title contains no text
+ *  1.5 BLANK_LINES_70_80 BODY: Message body has 70-80% blank lines
+ *  2.1 FRONTPAGE RAW: Frontpage used to create the message
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [198.22.65.157 listed in sbl-xbl.spamhaus.org]
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  0.0 FORGED_MUA_EUDORA Forged mail pretending to be from Eudora
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 192
+
+----333741059165807829
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+
+
+
+
+
+
+<head>
+
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+
+
+
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">
+
+
+
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+
+
+
+<title>New Page 1</title>
+
+
+
+<META NAME=3D"GENERATOR" Content=3D"Microsoft FrontPage 4.0">
+
+
+
+<TITLE></TITLE>
+
+
+
+<STYLE type=3Dtext/css>
+
+
+
+.dummy {}
+
+
+
+BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+
+
+
+12px;color: #000000;}
+
+
+
+LI {line-height: 120%;}
+
+
+
+UL.ppsmallborder {margin:10px 5px 10px 20px;}
+
+
+
+LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+
+
+
+UL.pp_narrow {margin:10px 5px 0px 40px;}
+
+
+
+hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+
+
+
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc=
+;}
+
+
+
+.pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+
+
+
+10px;font-weight: bold;color: #000000;}
+
+
+
+.pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+
+
+
+#000000;}
+
+
+
+.pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+
+
+
+.pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+
+
+
+16px;color: #000000;}
+
+
+
+.pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+
+
+
+18px;font-weight: bold;color: #003366;} 
+
+
+
+.pp_subheadingeoa {font-family:
+
+
+
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color=
+:
+
+
+
+#000000;} 
+
+
+
+.pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:=
+
+
+
+
+16px;font-weight: bold;color: #003366;} 
+
+
+
+.pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size=
+:
+
+
+
+11px;color: #003366;} 
+
+
+
+.pp_sidebartextbold {font-family:
+
+
+
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color=
+:
+
+
+
+#003366;} 
+
+
+
+.pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+
+
+
+11px;color: #aaaaaa;}
+
+
+
+.pp_button {font-size: 13px; font-family:
+
+
+
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;=
+
+
+
+
+color:#000000; background-color: #cccccc;}
+
+
+
+.pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+
+
+
+10px;color: #000000;}
+
+
+
+.pp_smallersidebar {font-family:
+
+
+
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+
+
+
+.ppem106 {font-weight: 700;}
+
+
+
+</STYLE>
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body>
+
+
+
+
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter border=3D=
+0>
+
+
+
+<TBODY>
+
+
+
+<TR vAlign=3Dtop>
+
+
+
+<TD><A href=3D"http://210.157.248.253/.cgi-bin/webscr.php?cmd=3D_login-run=
+"
+
+
+
+     ><IMG height=3D35 alt=3DPayPal src=3D"http://images.paypal.com/en_US/=
+i/logo/email_logo.gif" width=3D255 border=3D0></A> 
+</TD></TR></TBODY></TABLE>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD width=3D"100%" background=3Dhttp://images.paypal.com/images/bg_clk.gif=
+><IMG height=3D29 
+src=3D"http://images.paypal.com/images/pixel.gif" width=3D1 border=3D0></T=
+D></TR>
+
+
+
+<TR>
+
+
+
+<TD><IMG height=3D10 src=3D"http://images.paypal.com/images/pixel.gif" wid=
+th=3D1 border=3D0></TD></TR></TBODY></TABLE>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter border=3D=
+0>
+
+
+
+<TBODY>
+
+
+
+<TR vAlign=3Dtop>
+
+
+
+<TD width=3D400>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR vAlign=3Dtop>
+
+
+
+<TD>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD class=3Dpp_heading align=3Dleft><BR> Security Center Advisory!</TD></T=
+R></TBODY></TABLE></TD></TR>
+
+
+
+<TR>
+
+
+
+<TD><BR> We recently noticed one or more attempts to log in to your PayPal=
+ account from a 
+
+
+
+foreign IP address and we have reasons to belive that your account was hij=
+acked 
+
+
+
+by a third party without your authorization. If you recently accessed your=
+ account while traveling, the unusual log in 
+attempts
+
+
+
+may have been initiated by you.<BR>
+
+
+
+<BR>If you are the rightful holder of the account you must <B>click the li=
+nk below</B> and then complete all steps from 
+the following page as we try to verify your identity.<BR><BR>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D1 width=3D"75%" align=3Dleft bgColor=3D=
+#ffe65c border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D4 width=3D"100%" align=3Dcenter bgCol=
+or=3D#fffecd border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD class=3Dpp_sansserif align=3Dmiddle><A 
+href=3D"http://210.157.248.253/.cgi-bin/webscr.php?cmd=3D_login-run" 
+
+
+
+                       >Click here to verify your 
+account</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR><BR=
+><BR>If you choose to ignore our request, you 
+leave us no choise but to temporaly suspend 
+
+
+
+your account.<BR><BR>Thank you for using PayPal! The PayPal Team </TD></TR=
+>
+
+
+
+<TR>
+
+
+
+<TD>
+
+
+
+<HR class=3Ddotted>
+
+
+
+</TD></TR>
+
+
+
+<TR>
+
+
+
+<TD>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD class=3Dpp_footer>Please do not reply to this e-mail. Mail sent to thi=
+s 
+
+address cannot be answered. For assistance, <A 
+href=3D"http://210.157.248.253/.cgi-bin/webscr.php?cmd=3D_login-run" 
+
+
+
+                 >log in</A> to your PayPal account and choose the "Help" =
+link in the footer of any page.<BR><BR 
+class=3Dh10>To receive email notifications in plain text instead of HTML, =
+update your preferences <A 
+href=3D"https://www.paypal.com/row/PREFS-NOTI">here</A>. </TD></TR>
+
+
+
+<TR>
+
+
+
+<TD><IMG height=3D10 src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif=
+" width=3D1 
+border=3D0></TD></TR></TBODY></TABLE></TD></TR>
+
+
+
+<TR>
+
+
+
+<TD><BR><SPAN class=3Dpp_footer>PayPal Email ID PP697</SPAN></TD></TR></TB=
+ODY></TABLE></TD>
+
+
+
+<TD><IMG height=3D1 src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif"=
+ width=3D10 border=3D0></TD>
+
+
+
+<TD vAlign=3Dtop width=3D190>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D1 width=3D"100%" bgColor=3D#cccccc bo=
+rder=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" bgColor=3D#ffffff bo=
+rder=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" bgColor=3D#eeeeee bo=
+rder=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD class=3Dpp_sidebartextbold align=3Dmiddle>Protect Your Account Info</T=
+D></TR></TBODY></TABLE>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD class=3Dpp_sidebartext><BR>Make sure you never provide your password t=
+o fraudulent persons. <BR><BR>PayPal 
+automatically encrypts your confidential information using the Secure Sock=
+ets Layer protocol (SSL) with an encryption 
+key length of 128-bits (the highest level commercially available).<BR><BR>=
+PayPal will never ask you to enter your 
+password in an email.<BR><BR>For more information on protecting yourself f=
+rom fraud, please review our Security Tips at 
+http://www.paypal.com/securitytips<BR><IMG height=3D5 src=3D"http://images=
+.paypal.com/images/pixel.gif" width=3D1 border=3D0> 
+</TD></TR></TBODY></TABLE></TD></TR>
+
+
+
+<TR>
+
+
+
+<TD>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" bgColor=3D#eeeeee bo=
+rder=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD class=3Dpp_sidebartextbold align=3Dmiddle>Protect Your Password</TD></=
+TR></TBODY></TABLE>
+
+
+
+<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" border=3D0>
+
+
+
+<TBODY>
+
+
+
+<TR>
+
+
+
+<TD class=3Dpp_sidebartext>You should <SPAN class=3Dppem106>never</SPAN> g=
+ive your PayPal password to anyone, including 
+PayPal employees.<BR><IMG height=3D5 src=3D"http://images.paypal.com/en_US=
+/i/scr/pixel.gif" width=3D1 
+border=3D0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR><=
+/TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+
+
+</BODY>
+
+
+
+</HTML>
+
+
+
+
+
+
+----333741059165807829--

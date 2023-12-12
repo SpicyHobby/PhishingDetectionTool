@@ -1,0 +1,71 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <test2@macosxserver01.pods.binghamton.edu>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id E4669536E98
+ for <nobody@login.example.com>; Sat,  4 Feb 2006 14:59:52 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP id 43D766CCE29
+ for <nobody@example.com>; Sat,  4 Feb 2006 14:59:52 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id CC7021BC48; Sat,  4 Feb 2006 20:59:56 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 613ED1BB25
+ for <foobee@example.com>; Sat,  4 Feb 2006 19:59:56 +0000 (UTC)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 03075-02 for <foobee@example.com>;
+ Sat, 4 Feb 2006 20:59:43 +0100 (CET)
+Received: from macosxserver01.pods.binghamton.edu
+ (macosxserver01.pods.binghamton.edu [128.226.61.3])
+ by lujan.example.com (Postfix) with ESMTP id 2C6AD1B8EA
+ for <foobee@example.com>; Sat,  4 Feb 2006 20:59:40 +0100 (CET)
+Received: by macosxserver01.pods.binghamton.edu (Postfix,
+ from userid 1787071497)
+ id 0D97D128245; Sat,  4 Feb 2006 14:59:31 -0500 (EST)
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] Notification of Your Account Suspension.
+ ID#1139082654 
+Message-ID: <1139083171.781221.qmail@paypal.com>
+From: "PayPal" <id-1139083171@paypal.com>
+Content-Type: text/html
+Date: Sat,  4 Feb 2006 14:59:31 -0500 (EST)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: Yes, hits=6.7 tagged_above=4.0 required=6.5 tests=BAYES_50,
+ HTML_50_60, HTML_MESSAGE, MIME_HEADER_CTYPE_ONLY, MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP, NUMERIC_HTTP_ADDR, RAZOR2_CF_RANGE_51_100,
+ RAZOR2_CHECK, RCVD_IN_BL_SPAMCOP_NET, SUBJ_HAS_UNIQ_ID,
+ URI_REDIRECTOR
+X-Spam-Level: ******
+X-Spam-Flag: YES
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 344
+
+<html><title>PayPal Inc.</title>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<td height="33" width="105" background=http://www.paypal.com/images/paypal_logo.gif></td>
+<td width="420"><td>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<tr bgcolor="#336699"><td>&nbsp;</td></tr>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<td align=center><font size="2" face="verdana" color="#003366"><b><br>Issued on February 3, 2006</b>
+</font><br><br></td></table>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<font size="2" face="verdana" color="#000000">We regret to inform you that your online profile with PayPal was not successfully updated and your PayPal account has been temporary suspended. In order to regain access to your account you must update your profile in the next 48 hours or else your PayPal account will be deleted.</P>
+<P>To update your PayPal profile click on the following link:&nbsp;<BR></P>
+<P><A href="http://3343600152/0/?page=https://www.paypal.com/cgi-bin/webscr?cmd=_login-run" target=_blank>https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</A></P>
+<br>
+Regards,<br>
+<font color="#003366"><strong>PayPal Security Departament</strong></font><br><br>
+<tr bgcolor="#336699"><td></td></tr>
+</table><TABLE cellSpacing=0 cellPadding=0 width=600 border=0><td><P>
+<font color="#cccccc" size="1">
+Copyright &copy; 2006 PayPal Inc. All rights reserved. Designated trademarks and brands are the property of their respective owners. PayPal is located at 2211 N. First St., San Jose, CA 95131.
+</SPAN></SPAN>
+</FONT></P></td></TABLE></html>

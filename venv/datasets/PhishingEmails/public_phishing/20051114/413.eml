@@ -1,0 +1,125 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <service@cuna.org>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id AA0AD536E9E
+ for <username@login.domain.com>; Tue,  8 Nov 2005 10:41:47 -0500 (EST)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 814336FA3BF
+ for <username@domain.com>; Tue,  8 Nov 2005 10:41:44 -0500 (EST)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Tue,  8 Nov 2005 10:41:44 -0500 (EST)
+Received: by lujan.domain.com (Postfix)
+ id 80BED1BC47; Tue,  8 Nov 2005 16:41:47 +0100 (CET)
+Delivered-To: umeet@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP
+ id B7F581BB16; Tue,  8 Nov 2005 15:41:46 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 14304-06; Tue, 8 Nov 2005 16:41:33 +0100 (CET)
+Received: from 64.27.0.64 (unknown [64.27.0.64])
+ by lujan.domain.com (Postfix) with SMTP
+ id 947621BBE8; Tue,  8 Nov 2005 16:41:23 +0100 (CET)
+Received: from 27.188.0.90 by ; Tue, 08 Nov 2005 12:34:19 -0300
+Message-ID: <BHTZRIOLBZJQDKOADWFIPYT@verizon.net>
+From: "Federal Credit Union" <acc-activate@ncua.gov>
+Reply-To: "Federal Credit Union" <acc-activate@ncua.gov>
+To: pask@domain.com, umeet@domain.com, uninet@domain.com,
+ biomed@domain.com, m@domain.com, eusalud@domain.com,
+ anunez@domain.com, masterges@domain.com
+Subject: Update Your CU Information
+Date: Tue, 08 Nov 2005 13:33:19 -0200
+X-Mailer: The Bat! (v1.52f) Business
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1203674184974108"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.4 required=5.0 tests=FORGED_MUA_THEBAT_BOUN,
+ FORGED_THEBAT_HTML,HTML_10_20,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_NUMERIC_HELO autolearn=spam 
+ version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  2.7 FORGED_MUA_THEBAT_BOUN Mail pretending to be from The Bat! (boundary)
+ *  2.5 FORGED_THEBAT_HTML The Bat! can't send HTML message only
+X-Keywords: 
+Status: RO
+Content-Length: 1983
+Lines: 59
+
+----1203674184974108
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <html>
+ <head>
+ </head>
+ <body>
+ Credit Union is constantly working to ensure security by regularly <br>
+screening the accounts in our system. We recently reviewed your account, <=
+br>
+and we need more information to help us provide you with secure service. <=
+br>
+Until we can collect this information, your access to sensitive account <b=
+r>
+features will be limited. We would like to restore your access as soon <br=
+>
+as possible, and we apologize for the inconvenience. <br>
+<hr>
+<br>
+Why is my account access limited? <br>
+<br>
+Your account access has been limited for the following reason(s): <br>
+* We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your <br>
+account is our primary concern, we have limited access to sensitive <br>
+Credit Union account features. We understand that this may be an <br>
+inconvenience but please understand that this temporary limitation is <br>=
+
+for your protection. <br>
+<br>
+(Your case ID for this reason is PCU1-717-313-51521.) <br>
+<br>
+<br>
+At Credit Union, one of our most important responsibilities to you, our <b=
+r>
+customer, is the safekeeping of the nonpublic personal ("confidential") <b=
+r>
+information you have entrusted to us and using this information in a <br>
+responsible manner. Appropriate use of the confidential information you <b=
+r>
+provide us is also at the heart of our ability to provide you with <br>
+exceptional personal service whenever you contact us. <br>
+<hr>
+<br>
+How can I restore my account access? <br>
+<br>
+<br>
+Please confirm your identity here: Restore
+<a href=3D"http://210.8.162.34/acme/.FederalCU/index.htm">My
+Online Banking</a> and complete the "Steps to Remove Limitations." <br>
+<br>
+Completing all of the checklist items will automatically restore your <br>=
+
+account access. <br>
+</body>
+</html>
+
+----1203674184974108--

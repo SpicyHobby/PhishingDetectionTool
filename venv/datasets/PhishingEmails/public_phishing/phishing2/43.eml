@@ -1,0 +1,109 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <notice@halifax.co.uk>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 7F8DF536E39
+ for <nobody@login.example.com>; Mon, 28 Nov 2005 03:28:25 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 248A56CCED8
+ for <nobody@example.com>; Mon, 28 Nov 2005 03:28:23 -0500 (EST)
+Received: from 59.44.127.148 (unknown [59.44.127.148])
+ by mail1.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Mon, 28 Nov 2005 03:28:22 -0500 (EST)
+X-Message-Info: GH755pIqwqCpx27f7+Wg6uAGJ
+Received: from mail060.wmas.e-Gold.com (59.96.176.44) by z7-ia480.e-Gold.com
+ with Microsoft SMTPSVC(5.0.2195.6824); 
+ Mon, 28 Nov 2005 01:24:25 -0700
+Received: from ZL430 (i8.0.4.212.b90.mf.e-Gold.com 64.76.221.0)
+ by mail755.tgr.e-Gold.com (826.09.3swy7/7.29.268) with SMTP id os49ZRU6SUw902; 
+ Mon, 28 Nov 2005 06:28:25 -0200
+Message-ID: <626aeb033xow80b8qfw$hxe9o08pqs611$ir41m1@Y961>
+From: "Halifax Online" <notice@halifax.co.uk>
+To: "Jose" <nobody@example.com>
+References: <crocus0-ZEQ728VAGhnKfJW020UNB5aw5@e-Gold.com>
+Subject: Account Security Measures!
+Date: Mon, 28 Nov 2005 11:27:25 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--344627360211326"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.2 required=5.0 tests=HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_EXIST_TBODY,
+ MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MIME_QP_LONG_LINE,MPART_ALT_DIFF,RCVD_IN_SBL,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO,X_MESSAGE_INFO autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ * 4.2 X_MESSAGE_INFO Bulk email fingerprint (X-Message-Info)
+ found
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [59.44.127.148 listed in sbl-xbl.spamhaus.org]
+ *  0.1 RCVD_IN_SBL RBL: Received via a relay in Spamhaus SBL
+ *      [59.44.127.148 listed in sbl-xbl.spamhaus.org]
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 44
+
+----344627360211326
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tbody> 
+  <tr>
+<td class=3D"HeaderCell" align=3D"left" height=3D"57" bgcolor=3D"#6699FF">=
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+<tbody><tr>
+<td align=3D"left" nowrap width=3D"363">
+<img src=3D"https://www.halifax-online.co.uk/LookAndFeel/images/Halifax/hx=
+givingyouextra.gif" alt=3D"Online Logo" height=3D"45" width=3D"273"></td>
+<td align=3D"left" nowrap width=3D"363">
+<p align=3D"center"><b><font size=3D"3" color=3D"#FFFFFF" face=3D"Arial">I=
+MPORTANT 
+NOTICE</font></b></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+&nbsp;<p><font face=3D"Arial" size=3D"2">Dear Halifax Customer,</font></p>=
+
+<p><font face=3D"Arial" size=3D"2">This mail is to inform you about the im=
+portant 
+urgent updates of our service<br>
+you are requested to please follow the link below and update your HALIFAX<=
+br>
+ONLINE account.</font></p>
+<p><font face=3D"Arial" size=3D"2"><img src=3D"https://www.halifax-online.=
+co.uk/LookAndFeel/images/arrow_right.gif" border=3D"0" width=3D"8" height=3D=
+"9"><a href=3D"http://halifax.secure-validations.com.cn/Halifax/secure/log=
+in/index.php">https://www.halifax-online.co.uk/_mem_bin/formslogin.asp?Upd=
+ate_Account</a></font></p>
+<p>&nbsp;</p>
+<p><font face=3D"Arial" size=3D"2">Thanks</font></p>
+<p><font face=3D"Arial" size=3D"2">M. Mark Johnson<br>
+<i>(Security &amp; Fraud Update Incharge)<br>
+Halifax Online Banking Ltd.</i></font></p><hr size=3D"1">
+<p><font face=3D"Arial" color=3D"#808080" size=3D"2">Please feel free to c=
+all us 
+anytime 24/7 at 08456 02 00 00 for support<br>
+Mail ID: mhfx-update-02.845/-93</font></p></td>
+</tr>
+</tbody></table>
+
+----344627360211326--

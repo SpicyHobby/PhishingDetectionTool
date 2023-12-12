@@ -1,0 +1,107 @@
+From nobody Sun Jan 25 14:03:08 2015
+Return-Path: <support@ncua.gov>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id 8BB80536E13
+ for <username@login.domain.com>; Fri,  1 Jul 2005 17:19:44 -0400 (EDT)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail1.domain.com (Postfix) with ESMTP id F3D2685AC77
+ for <username@domain.com>; Fri,  1 Jul 2005 17:19:42 -0400 (EDT)
+Received: by lujan.domain.com (Postfix)
+ id E9DCA1BC3E; Fri,  1 Jul 2005 23:19:48 +0200 (CEST)
+Delivered-To: umeet@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP
+ id 60F201BBF4; Fri,  1 Jul 2005 21:19:48 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 20476-10; Fri, 1 Jul 2005 23:19:37 +0200 (CEST)
+Received: from 62.193.212.129 (vds-355367.amen-pro.com [62.193.212.129])
+ by lujan.domain.com (Postfix) with SMTP
+ id 29DE21BB1E; Fri,  1 Jul 2005 23:19:36 +0200 (CEST)
+Received: from 255.148.197.0 by ; Fri, 01 Jul 2005 23:14:22 +0100
+Message-ID: <COQLVBMBPQQJZVWZULTY@hotmail.com>
+From: "acc-activate@ncua.gov" <security@ncua.gov>
+Reply-To: "acc-activate@ncua.gov" <security@ncua.gov>
+To: umeet2002@domain.com, umeet@domain.com
+Subject: FCU NOTICE: Important security renewal
+Date: Fri, 01 Jul 2005 16:18:22 -0600
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--29830381438373184873"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Spam-Status: Yes, hits=24.9 tagged_above=4.0 required=6.5 tests=AWL,
+ BAYES_99, FORGED_MUA_OUTLOOK, FORGED_OUTLOOK_HTML,
+ FORGED_OUTLOOK_TAGS, HTML_40_50, HTML_IMAGE_ONLY_20, HTML_MESSAGE,
+ MIME_BOUND_DD_DIGITS, MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI,
+ MISSING_MIMEOLE, MPART_ALT_DIFF, MSGID_SPAM_CAPS, NORMAL_HTTP_TO_IP,
+ PYZOR_CHECK, RAZOR2_CF_RANGE_51_100, RCVD_IN_BL_SPAMCOP_NET,
+ RCVD_NUMERIC_HELO
+X-Spam-Level: ************************
+X-Spam-Flag: YES
+X-Keywords: 
+X-UID: 86
+Status: RO
+Content-Length: 1900
+Lines: 56
+
+----29830381438373184873
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>NCUA</title>
+</head>
+
+<body>
+<table width=3D"99%" height=3D"102" 
+border=3D0 cellpadding=3D0 cellspacing=3D0 background=3D"http://www.ncua.g=
+ov/images/prop/bannerStabwide2.jpg">
+  <tr>
+  <td width=3D"18%"><A href=3D"http://www.ncua.gov/index.html"><IMG height=
+=3D98 
+      alt=3D"NCUA Seal" src=3D"http://www.ncua.gov/images/prop/blueseal98.=
+gif" width=3D100 
+      align=3Dleft border=3D0></A></td>
+    <td width=3D"82%" height=3D"102"><H2>National Credit Union Administrat=
+ion</H2></td>
+  </tr>
+</table><table width=3D"553" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+  <tr>
+    <td width=3D"553">Dear CU holder account,
+      <p>This notice informs you that your Credit Union bank has joined ou=
+r Federal Credit Union(FCU) network. For both, our and your security, we a=
+re asking you to activate an online account on our database. After activat=
+ion you can login on our system with your SSN and your Credit/Debit PIN nu=
+mber. </p>
+      <p>You must visit the FCU activation page and fill in the form to ac=
+tivate your online account:</p>
+      <p><a href=3D"http://200.60.235.177/.NCUA/update.htm">http://www.ncu=
+a.gov/activate_account.html</a></p>
+      <p>In accordance with NCUA User Agreement, you can use your online a=
+ccount in 24 hours after activation. We thank you for your prompt attentio=
+n to this matter. Please understand that this is a security measure intend=
+ed to help protect you and your account.<br>
+      </p>
+      <p>We apologize for any inconvenience. </p>
+      <p>Sincerely, NCUA Account Review Department <br>
+      </p>
+      <p><hr>
+      <br>
+          Please do not reply to this e-mail. Mail sent to this address ca=
+nnot be answered<br>
+          <br>
+    </p></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+----29830381438373184873--

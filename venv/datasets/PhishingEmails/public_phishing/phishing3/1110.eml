@@ -1,0 +1,20 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E7ABD4699D
+ for <user@login.example.com>; Mon,  9 Oct 2006 13:28:08 -0400 (EDT)
+Received: from 74.52.208.42 (2a.d0.344a.static.theplanet.com [74.52.208.42])
+ by mail.example.org (Postfix) with SMTP id AC1AD6CD166
+ for <user@example.com>; Mon,  9 Oct 2006 13:28:08 -0400 (EDT)
+Received: from 151.216.134.231 by ; Mon, 09 Oct 2006 11:21:19 -0700
+Message-ID: <V[20
+Date: Mon,  9 Oct 2006 13:28:08 -0400 (EDT)
+From: aw-confirm@eBay.com
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 405
+

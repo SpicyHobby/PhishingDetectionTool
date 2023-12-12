@@ -1,0 +1,117 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <service@ncua.gov>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id CEA15537180
+ for <nobody@login.example.com>; Sun,  5 Feb 2006 08:24:02 -0500 (EST)
+Received: from 192.168.0.250 (83-103-76-255.ip.fastwebnet.it [83.103.76.255])
+ by mail2.example.com (Postfix) with SMTP id 456786FA2CB
+ for <nobody@example.com>; Sun,  5 Feb 2006 08:24:02 -0500 (EST)
+Received: from 34.84.148.99 by ; Sun, 05 Feb 2006 06:24:38 -0700
+Message-ID: <OZLUTKXUJJYGNICZNFEJOZRW@verizon.net>
+From: "Credit Union" <service@ncua.gov>
+Reply-To: "Credit Union" <service@ncua.gov>
+To: nobody@example.com
+Subject: Security Notification
+Date: Sun, 05 Feb 2006 18:26:38 +0500
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--90675551776239304091"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 347
+
+----90675551776239304091
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+</head>
+<style type=3D"text/css">
+<!--
+#message,#message p,#message td,#message div,#message li,#message ul,#mess=
+age input { font-family:Arial, Helvetica,
+
+sans-serif;font-size:12px;color:#666;}
+-->
+</style>
+<xbody>
+<table width=3D"99%" border=3D0 cellpadding=3D0 cellspacing=3D0 >
+  <tr>
+    <td colspan=3D"2"><div align=3D"right"></div>
+
+    </td>
+  </tr>
+  <tr>
+    <td width=3D"18%"  valign=3Dtop>
+  <tr>
+    <td >&nbsp;</td>
+    <td width=3D"82%" ><h2 >Credit Union National Association
+
+</h2>
+    </td>
+
+  </tr>
+  <tr class=3D"Outline">
+    <td colspan=3D"2"  ><div  class=3D"OutlineArea"
+
+align=3D"center"></div></td>
+
+  </tr>
+</table><br>
+<strong>Dear Credit Union Member,</strong>
+<p>During our regulary schedule account maintenance and
+
+verification we have detected a slight error in<br>
+  your billing information on file with CUNA. This might be due to
+
+either following reasons:</p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A recent
+
+change in your personal information (i.e. change of address)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Submitting
+
+invalid information during the initial sign up process.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - An inability to
+
+accurately verify your selected option of payment due an internal
+
+error<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;within
+
+our processors.</p>
+<table width=3D"597" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td width=3D"13" bgcolor=3D"">&nbsp;</td>
+    <td width=3D"571"><strong>Your credit card on file with
+
+CUNA</strong>:<br>
+    Card number: XXXX-XXXX-XXXX-XXXX (Not shown for security
+
+purposes)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Expiration date: XX/XX</td>
+    <td width=3D"13" bgcolor=3D"">&nbsp;</td>
+  </tr>
+</table>
+<p>Please update your billing information here:</p>
+<p><a
+target=3D"_blank"  
+href=3D"http://61.36.7.250/.cgi-bin/update.php" >http://update.cuna.org/cg=
+i-bin/BillingUpdate.htm</a></p>
+<p>If your account information is not updated, your credit/debit
+card access will become restricted.</p>
+<p>Thank you.<br>
+  Credit Union National Association, Inc.</p>
+</xbody>
+</html>
+
+----90675551776239304091--

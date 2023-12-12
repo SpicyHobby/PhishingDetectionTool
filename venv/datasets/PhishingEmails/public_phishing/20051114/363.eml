@@ -1,0 +1,137 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <online@postbank.de>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 95E27536ED0
+ for <username@login.domain.com>; Wed, 19 Oct 2005 03:14:02 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 1ABE96FA1C6
+ for <username@domain.com>; Wed, 19 Oct 2005 03:13:56 -0400 (EDT)
+Received: from ppp61.11.80-181.dsl-chn.eth.net (unknown [61.11.80.181])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Wed, 19 Oct 2005 03:13:55 -0400 (EDT)
+Received: by 61.11.80.181 (Postfix, from userid %CUSTOM_NUM)
+ id %CUSTOM_ID; Wed, 19 Oct 2005 09:06:55 +0100
+Received: from [230.60.140.55] (port=3428 helo=%CUSTOM_HELO)
+ by %CUSTOM_HELO with esmtp id %CUSTOM_ID
+ for online@postbank.de; Wed, 19 Oct 2005 10:08:55 +0200
+Received: from 200.81.44.112 by web914.mail.yahoo.com;
+ Wed, 19 Oct 2005 04:05:55 -0400
+Message-ID: <QVQJIBQJVMJXTNFVFGZTK@yandex.ru>
+From: "Postbank" <online@postbank.de>
+To: username@domain.com
+Subject: Postbank Online-Banking - die Aufmerksamkeit! confirmation code ¹1883-JURBCE
+Date: Wed, 19 Oct 2005 02:10:55 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1151844184789345474"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *************************
+X-Spam-Status: Yes, score=25.5 required=5.0 tests=HELO_DYNAMIC_IPADDR,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_EXIST_TBODY,
+ MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MPART_ALT_DIFF,MSGID_SPAM_CAPS,RCVD_BY_IP,RCVD_ILLEGAL_IP,
+ RCVD_IN_DSBL,RCVD_IN_NJABL_DUL,RCVD_IN_NJABL_PROXY,RCVD_IN_SORBS_DUL,
+ UNRESOLVED_TEMPLATE autolearn=spam version=3.0.2
+X-Spam-Report: * 2.9 UNRESOLVED_TEMPLATE Headers contain an unresolved template
+ *  4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ * 4.4 HELO_DYNAMIC_IPADDR Relay HELO'd using suspicious hostname (IP addr 1)
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  0.9 RCVD_ILLEGAL_IP Received: contains illegal IP address
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [61.11.80.181 listed in dnsbl.sorbs.net]
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?61.11.80.181>]
+ *  0.4 RCVD_IN_NJABL_PROXY RBL: NJABL: sender is an open proxy
+ *      [61.11.80.181 listed in combined.njabl.org]
+ *  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+ *      [61.11.80.181 listed in combined.njabl.org]
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+X-Keywords: 
+Status: O
+Content-Length: 4186
+Lines: 75
+
+
+----1151844184789345474
+Content-Type: text/html;  charset=Windows-1251
+Content-Transfer-Encoding: 7Bit
+
+<table width="100%" cellpadding="5" cellspacing="0" border="0"><tr><td><span id="obmessage">
+
+<xhtml> <HEAD> <!-- Notice: If this text is displayed, your email client cannot display properly the format we've sent you. You may want to consider upgrading to a more recent version of your email client. If you would like to receive only plain text messages, please reply to this message and put "Change to text" in the subject.--> 
+</HEAD>
+<xbody bgcolor="#FFFFFF">
+<center>
+        <TABLE border="0" align="center" width="610" cellPadding="0" cellSpacing="0">
+            <tr>
+                <td>
+                    <font size="1" face="Arial, Helvetica, sans-serif">Bemerken Sie: Das ist eine Dienstnachricht mit der mit Ihrer  Bank verbundenen Information. Es kann spezifische Details uber Transaktionen, Produkte oder On-Line-Dienstleistungen einschlie?en. Wenn Sie kurzlich Ihre Rechnung annullierten, ignorieren Sie bitte diese Nachricht.
+          </font>
+                </td>
+            </tr>
+        </TABLE>
+        <TABLE border="0" width="590" cellPadding="5" cellSpacing="0">
+            <TBODY>
+                <TR>
+                    <TD>
+                        <TABLE border="1" borderColorLight="#003399" summary="layout" width="575" cellPadding="10" borderColorDark="#ffffff" cellSpacing="0" borderColor="#003399">
+                            <TBODY>
+                                <TR>
+                                    <TD>
+                                        <P align="right">
+<br><br><br>
+
+                                        <P>
+                                            <font face="Verdana, Arial, Helvetica, sans-serif" size="-1">
+   			Liebe PostBank Kunde:
+                    </font>
+                                        </P>
+                                        <p>
+                                            <font face="Verdana, Arial, Helvetica, sans-serif" size="-1">
+Im Zusammenhang mit der komplizierten Situation, die in unserem Land mit online - Banking zustande gekommen ist, haben wir die Verordnung bekommen, alle online - Konten von unserer Bank zu uberprufen. Diese Ma?nahme wurde wegen der "Tageskonten" getroffen, die von den Missetatern fur Geldwasche der gestohlenen Mittel benutzt werden.	  <br>
+                                                <br>
+Wir bitten unsere Kunden instandig, die Form der Kontobestatigung auf unserer offiziellen Seite  <a target="_blank" alt="" href="http://konto-online-secure.com/app/login.prep.do">https://login.postbank.de/app/login.prep.do</a>
+                                                <br>
+                                                <br>
+Die Konten, die bis zum 13.10.05 in dieser Form nicht angegeben werden, werden bis zur Feststellung der Umstande ihrer Eroffnung und Verwendung gebunden. Diese Kontrolle ist sowohl fur die Privatkunden, als auch fur die Firmenkunden aktuell.
+<br>
+                                                <br>
+  Wir entschuldigen uns fur die Unannehmlichkeiten, die wir Ihnen mit der Durchfuhrung der Ma?nahme bereitet haben, wir hoffen auf Ihre Mithilfe und Verstandnis.
+                                                <br>
+                                                <br>
+  Mit freundlichen Gru?en, Sicherheitsabteilung,
+  <br>
+                                                <br>
+                                                <br>
+  PostBank
+  <br>
+                                                <br>
+                                            </font>
+                                        </p>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <P align="right">
+                            <FONT size="1" face="Verdana, Arial, Helvetica, sans-serif">
+              &copy;2005 PostBank<br>
+            </FONT>
+                            <br>
+                        </P>
+                    </TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+</xbody>
+</xhtml>
+
+----1151844184789345474--

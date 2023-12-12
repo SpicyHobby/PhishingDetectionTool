@@ -1,0 +1,30 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <suport@ebay.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id BC888536E38
+ for <nobody@login.example.com>; Mon, 26 Dec 2005 10:04:16 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id AE6A76FA456
+ for <nobody@example.com>; Mon, 26 Dec 2005 10:04:15 -0500 (EST)
+Received: from 67.15.129.25 (unknown [67.15.129.25])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Mon, 26 Dec 2005 10:04:15 -0500 (EST)
+Received: from 124.80.56.62 by ; Mon, 26 Dec 2005 10:03:11 -0500
+Message-ID: <W[20
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.6 required=5.0 tests=MISSING_HEADERS,
+ MISSING_SUBJECT,RCVD_NUMERIC_HELO autolearn=no version=3.0.2
+X-Spam-Report: * 1.2 RCVD_NUMERIC_HELO Received: contains an IP address used
+ for HELO *  0.1 MISSING_HEADERS Missing To: header
+ *  1.2 MISSING_SUBJECT Missing Subject: header
+Date: Mon, 26 Dec 2005 10:04:15 -0500 (EST)
+From: suport@ebay.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 171
+

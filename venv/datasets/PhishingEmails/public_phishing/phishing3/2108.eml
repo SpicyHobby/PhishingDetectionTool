@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <corporateclients.ref091884944692643.ib@pnc.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5AC184692C
+ for <user@login.example.com>; Sat, 16 Jun 2007 18:23:37 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 452BB131FA04
+ for <user@example.com>; Sat, 16 Jun 2007 18:23:36 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id E5E671C383; Sun, 17 Jun 2007 00:23:27 +0200 (CEST)
+Delivered-To: josu@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 7ACEC1C3B6
+ for <josu@uninet.edu>; Sun, 17 Jun 2007 00:23:24 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 245C58B7
+ for <josu@uninet.edu>; Sun, 17 Jun 2007 00:23:24 +0200 (CEST)
+X-Quarantine-ID: <juy7848Fmlmt>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 29.776
+X-Spam-Level: *****************************
+X-Spam-Status: Yes, score=29.776 tagged_above=0 required=5
+ tests=[BAYES_99=3.5, FROM_LOCAL_HEX=1.305, HTML_30_40=0.374,
+ HTML_FONT_LOW_CONTRAST=0.194, HTML_MESSAGE=0.001,
+ MIME_HTML_ONLY=0.001, MIME_HTML_ONLY_MULTI=0,
+ MSGID_DOLLARS_RANDOM=3.78, RAZOR2_CF_RANGE_51_100=0.5,
+ RAZOR2_CF_RANGE_E8_51_100=1.5, RAZOR2_CHECK=12,
+ RCVD_IN_WHOIS_BOGONS=2.43, SPOOF_OURI=0.104, URIBL_JP_SURBL=4.087]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id juy7848Fmlmt for <josu@uninet.edu>;
+ Sun, 17 Jun 2007 00:23:18 +0200 (CEST)
+Received: from rocinante.compendium.com.ar (lutien.compendium.com.ar
+ [200.69.230.6])
+ by lujan.uninet.edu (Postfix) with ESMTP id 4E06F1C383
+ for <josu@uninet.edu>; Sun, 17 Jun 2007 00:23:15 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.compendium.com.ar (Postfix) with ESMTP id CB1E950005E
+ for <josu@uninet.edu>; Sat, 16 Jun 2007 19:23:14 -0300 (ART)
+Received: from rocinante.compendium.com.ar ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 07706-07 for <josu@uninet.edu>;
+ Sat, 16 Jun 2007 19:23:13 -0300 (ART)
+Received: from dslb-084-058-031-070.pools.arcor-ip.net
+ (dslb-084-058-031-070.pools.arcor-ip.net [84.58.31.70])
+ by rocinante.compendium.com.ar (Postfix) with SMTP id 03877500058
+ for <josu@uninet.edu>; Sat, 16 Jun 2007 19:23:12 -0300 (ART)
+Received: from [36.212.81.37] (HELO search.com)
+ by kiberso.com with SMTP id 1HYI92ES2J
+ for <josu@uninet.edu>; Sat, 16 Jun 2007 15:23:10 -0800
+Received: from arkansas.net (EHLO arkansas.net.damsites.com [12.163.138.144])
+ by netwisp.com with SMTP id TAY3VKFRAZ
+ for <josu@uninet.edu>; Sat, 16 Jun 2007 20:15:10 -0300
+X-Message-ID: <65q3o1$nl9tv87gx72$84ey457huy82@CRL147498464>
+From: "PNC Bank" <corporateclients.ref091884944692643.ib@pnc.com>
+To: "Josu" <josu@uninet.edu>
+Subject: please update your details! (message id: 924414859077)
+X-Message-ID: <65q3o1$nl9tv87gx72$84ey457huy82@CRL147498464>
+User-Agent: Pegasus Mail for Win32 (v2.53/R1)
+X-Mailer: Pegasus Mail for Win32 (v2.53/R1)
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--OXMFEIY1TEE9DJLK5O7DO"
+Message-Id: <20070616222312.03877500058@rocinante.compendium.com.ar>
+Date: Sat, 16 Jun 2007 19:23:12 -0300 (ART)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1405
+
+----OXMFEIY1TEE9DJLK5O7DO
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta  http-equiv="Content-Type"       content="text/html;       charset=iso-8859-1">
+</head>
+
+<body>
+<p><font    face="Arial">Dear     PNC Bank corporate/business  online      client:</font></p>
+<p><font face="Arial">The     PNC   Customer Service requests    you    to   complete    the     PNC   PinacleWeb     Online Confirmation Form.</font></p>
+<p><font      face="Arial">This     procedure     is     obligatory   for   all       business      and   corporate     clients      of    PNC   Bank.</font></p>
+<p><font  face="Arial">Please     select      the     hyperlink     and    visit  the     address       listed   to    access  the PNC     PinacleWeb     Online      Confirmation    Form.</font><br>
+</p><p><font       face="Arial"><a  href="http://treasury-session9199834.pnc.com.litkvb.hk/esec/customercare/form.jsp">http://treasury-session9199834.pnc.com/esec/customercare/form.jsp</a></font></p>
+<p><font  face="Arial">Again,  thank you   for    choosing       PNC    Bank    for     your business needs. We      look    forward   to       working  with   you.</font></p>
+<p><font     face="Arial">Please do   not       respond       to    this    email.</font></p>
+<p><font       face="Arial">This    mail is  generated by   an   automated    service.<br>Replies      to this      mail    are not     read  by    PNC   Customer   Service     or    technical    support.</font><br>
+</p>
+<p>=========================================================================================</p>
+<p><font  color="#FFFFFC"   face="Arial">0x3, 0x94617011, 0x948, 0x8, 0x610, 0x0 function stack 0x74, 0x324, 0x8895, 0x292, 0x16336481 0x9464, 0x745, 0x0732, 0x198, 0x7, 0x67, 0x289, 0x4706, 0x753, 0x2, 0x2317, 0x8959, 0x71       0x8, 0x80 1FUV: 0x22894689, 0x80872920, 0x44, 0x6115, 0x2, 0x242, 0x2386, 0x9002, 0x5284, 0x18689962, 0x38, 0x17646672, 0x975, 0x2 6MV: 0x414, 0x4641, 0x0778, 0x92, 0x10908134, 0x1, 0x6820, 0x65187992, 0x8, 0x48, 0x4, 0x169, 0x048    0x6, 0x134, 0x4187, 0x6, 0x5605, 0x30726541, 0x881 0x8169</font></p><p><font       color="#FFFFF4"   face="Arial"><span>0x68, 0x667, 0x81081200, 0x7, 0x6366, 0x14, 0x56  0x03563141, 0x877, 0x856, 0x271, 0x80728241, 0x16, 0x11293776, 0x08, 0x32149884, 0x30, 0x6      K9HM: 0x168, 0x526, 0x28815294, 0x22584754, 0x854, 0x7760, 0x9872  UDF ZOS update type start GY47       0x379, 0x093, 0x2  0x1, 0x8, 0x634, 0x3, 0x77, 0x34003193, 0x992, 0x73327961, 0x6, 0x67, 0x681, 0x811, 0x7, 0x6329   </span><span>QH36 common start.    0x58
+ 0, 0x24731449, 0x6500  0x061, 0x576, 0x900, 0x54, 0x060, 0x3730, 0x64, 0x456, 0x41, 0x5796, 0x330, 0x387, 0x322  0x580, 0x4, 0x60606866, 0x786, 0x70, 0x73, 0x2522, 0x980, 0x07, 0x2191, 0x2949, 0x16, 0x9, 0x3865</span></font></p>
+<p><font    color="#FFFFFF"      face="Arial"><span>8AA: 0x8241    0x404, 0x8459, 0x75, 0x5, 0x9, 0x2100, 0x036, 0x817, 0x3, 0x63, 0x34816654, 0x31150689, 0x29, 0x8     close: 0x82246620, 0x100  AG44: 0x74, 0x538, 0x415, 0x754, 0x830, 0x86458929, 0x45370612, 0x66320833, 0x90, 0x751, 0x6969, 0x4, 0x28532198, 0x8876, 0x2   69G media rev create</span><span>0x79, 0x22222991, 0x5069, 0x922, 0x030, 0x396, 0x8843, 0x56122235, 0x0, 0x5     </span><span>0x1, 0x00, 0x926, 0x3300    0x718, 0x80, 0x22, 0x845, 0x1, 0x92372883, 0x901, 0x3433, 0x2461, 0x80174959, 0x14, 0x9050, 0x0811, 0x9      tmp end create EC9 type R4EG JC5G YMD engine.  0x65</span></font></p>
+</body>
+</html>
+
+
+----OXMFEIY1TEE9DJLK5O7DO--

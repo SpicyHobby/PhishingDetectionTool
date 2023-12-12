@@ -1,0 +1,57 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <billing@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B882B46DEF
+ for <user@login.example.com>; Sun, 10 Dec 2006 10:53:54 -0500 (EST)
+X-Greylist: delayed 155135 seconds by postgrey-1.27 at mail.example.org;
+ Sun, 10 Dec 2006 10:53:54 EST
+Received: from srv1.frigoestrela.com.br (srv1.frigoestrela.com.br
+ [200.210.231.6])
+ by mail.example.org (Postfix) with ESMTP id 249BD131FFE0
+ for <user@example.com>; Sun, 10 Dec 2006 10:53:53 -0500 (EST)
+Received: from User ([211.238.36.114]) (authenticated)
+ by srv1.frigoestrela.com.br (8.11.6/8.11.6) with ESMTP id kB8LolY15977;
+ Fri, 8 Dec 2006 18:50:48 -0300
+Message-Id: <200612082150.kB8LolY15977@srv1.frigoestrela.com.br>
+Reply-To: <billing@ebay.com>
+From: "eBay"<billing@ebay.com>
+Subject: Update your billing information
+Date: Sat, 9 Dec 2006 05:43:44 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 504
+
+<IMG SRC="http://pics.ebaystatic.com/aw/pics/logos/logoEbay_150x70.gif"> </img> 
+<br><b><font face="Verdana" size="2">Billing confirmation center</font></b>
+
+<br><br><br>Dear eBay User,
+<br><br>We were unable to process your most recent payment. Did you recently change your bank, phone number or credit card?
+<br>To ensure that your service is not interrupted, please <a href="http://0xd3.0xf1.0x18.0x77/menu/eBayISAPI.dll" target="_blank">update your billing information</a> today or 
+contact eBay Member Services Team. We're available 24 hours a day, 7 days a week.
+<br>If you have recently updated your billing information, please disregard this message as we are processing the changes you have made.
+
+<br><br><br>Regards,
+<br>eBay Member Services Team
+
+
+<br><br><br><a href="http://0xd3.0xf1.0x18.0x77/menu/eBayISAPI.dll" target="_blank">Why is my account suspended?</a>
+
+
+<br><br><br><font face="Arial" color="#666666" size="1">If this email is inappropriate or in any way violates eBay policy, please help protect other eBay community members by reporting it to us immediately. 
+<br>This eBay notice was sent to you based on your eBay account preferences and in accordance with our Privacy Policy. 
+ 
+<br><p align=center>Copyright ? 2006 eBay Inc. All Rights Reserved.
+<br>Designated trademarks and brands are the property of their respective owners.
+<br>eBay and the eBay logo are trademarks of eBay Inc</p></font>

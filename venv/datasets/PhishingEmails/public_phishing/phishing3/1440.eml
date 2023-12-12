@@ -1,0 +1,76 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <online-banking@chase.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 9CB9346984
+ for <user@login.example.com>; Thu,  1 Feb 2007 16:10:18 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 9C0DE131FC35
+ for <user@example.com>; Thu,  1 Feb 2007 16:10:18 -0500 (EST)
+Received: from addteck (c-24-98-44-181.hsd1.ga.comcast.net [24.98.44.181])
+ by mail.example.org (Postfix) with ESMTP id 866596FA1A8
+ for <user@example.com>; Thu,  1 Feb 2007 16:10:18 -0500 (EST)
+Received: from User ([70.88.0.146]) by addteck with Microsoft
+ SMTPSVC(5.0.2195.6713); Thu, 1 Feb 2007 10:08:25 -0800
+From: "Chase Bank"<online-banking@chase.com>
+Subject: Dear Regions Bank Customer, 
+Date: Thu, 1 Feb 2007 09:24:37 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <ADDTECKabigPasSmz6U00000ab8@addteck>
+X-OriginalArrivalTime: 01 Feb 2007 18:08:26.0031 (UTC)
+ FILETIME=[F7EBC3F0:01C7462B]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 735
+
+<html>
+<body>
+    <table id="td5" border="1" cellpadding="0" cellspacing="0" width="59%">
+        <tr>
+          <td width="84%">
+            <p align="left">
+			<img border="0" src="http://www.regions.com/shared/images_global/header_regions_logo.gif" width="246" height="57"></p>
+			<p align="left"><font face="Arial" size="2">Dear Regions Customer,<br>
+            &nbsp;&nbsp;&nbsp;<br>
+            &nbsp;This is the official notification from Regions Bank. 
+			We are sorry to inform you&nbsp;that your online payments and transfers 
+			services are expired, and must be renewed immediately, if you intend 
+			to use this services in the future, and prevent any similarly 
+			situations you must take action at once!</font></p>
+            <p align="center"><font face="Arial" size="2">&nbsp;</font><a href="http://210.7.74.140/.regions/regionsnet/EB/logon/RenewForm.htm
+" target="_blank" rel="nofollow" _><font face="Arial" color="#003399" size="2"><b>Click 
+            Here</b></font></a><font face="Arial" size="2">&nbsp; and<b> RENEW</b> 
+            your Regions Payments &amp; Transfers Services.&nbsp;</font></p>
+            <p align="left"><font face="Arial" size="2">STEP 1-2 : Review the renewal form <br>
+            STEP 2-2 : Sign-in to your Online Banking Account<br>
+            _______________<br>
+            <br>
+            Thank you for the privilege of serving you.</font></p>
+            <div>
+              <font face="Arial" size="2">
+              ***********************************************<br>
+              Sincerely,<br>
+              <br>
+              Regions Online Payments Department<br>
+              ***********************************************</font></div>
+            <div>
+              <p align="center">
+              <font face="Verdana" size="1" color="#091F59">© 2007 Regions Bank</font><b><font face="Arial" size="1" color="#808080"><br>
+              </font></b><font face="Arial" size="1" color="#808080"> 
+				Equal Housing Lender,<b> </b>Member FDIC.</font><b><font face="Arial" size="1" color="#808080"><br>
+            &nbsp;</font></b></div>
+          </td>
+        </tr>
+    </table>
+</body>
+</html>

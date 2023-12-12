@@ -1,0 +1,100 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <payment@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 40E4E536F31
+ for <nobody@login.example.com>; Wed, 15 Mar 2006 06:34:21 -0500 (EST)
+Received: from 10.1.128.102 (66-194-25-82.gen.twtelecom.net [66.194.25.82])
+ by mail1.example.com (Postfix) with SMTP id 1D1136CCDDA
+ for <nobody@example.com>; Wed, 15 Mar 2006 06:34:21 -0500 (EST)
+Received: from 56.38.86.44 by ; Wed, 15 Mar 2006 12:34:20 +0100
+Message-ID: <PZCHYPHTUHJHZTELSSBW@comcast.net>
+From: "PayPal" <payment@paypal.com>
+Reply-To: "PayPal" <payment@paypal.com>
+To: nobody@example.com
+Subject: Receipt of Your Payment
+Date: Wed, 15 Mar 2006 14:29:20 +0300
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--91863655979980466875"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 612
+
+----91863655979980466875
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<table>
+<tr width=3D100><td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbs=
+p&nbsp</td><td><img src=3D"http://www.paypalobjects.com/en_US/i/logo/paypa=
+l_logo.gif"></td><td width=3D40>&nbsp</td></tr>
+<tr width=3D100><td colspan=3D3 height=3D30 width=3D400 bgcolor=3D#006699>=
+</td></tr>
+
+<tr width=3D100><td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbs=
+p&nbsp</td><td>
+<font face=3D"Verdana" size=3D2>
+Dear Customer,<br><br>
+
+This email confirms that you have paid PHONEDEPOTUSA <br>(sales@phonedepot=
+usa.com) $239.95 USD 
+using PayPal.<br><br>
+
+This credit card transaction will appear on your bill as <br>"PAYPAL  PHON=
+EDEPOT*".<br>
+<font face=3D"Verdana" color=3D"#999999" size=3D2><b>.....................=
+.....................................................</font></b><br>
+<font face=3D"Verdana" color=3D"#003366" size=3D3><b>PayPal Shopping Cart =
+Contents</b></font><br><br>
+
+<table>
+<tr><td valign=3Dtop align=3Dright><font face=3D"Verdana" size=3D1><b>Item=
+ Name:</b></td><td>
+<font face=3D"Verdana" size=3D2>New MOTOROLA V3 PINK RAZR <br>RAZOR QUAD-B=
+AND CELL PHONE</td></tr>
+<tr><td align=3Dright><font face=3D"Verdana" size=3D1><b>
+Quantity:</b></td><td><font face=3D"Verdana" size=3D2>1</td></tr>
+<tr><td align=3Dright><font face=3D"Verdana" size=3D1><b>Total:</b></td><t=
+d><font face=3D"Verdana" size=3D2>$219.95 USD</td></tr>
+
+<tr><td align=3Dright><font face=3D"Verdana" size=3D1><b>Cart Subtotal:</b=
+></td><td><font face=3D"Verdana" size=3D2>$219.95 USD</td></tr>
+<tr><td align=3Dright><font face=3D"Verdana" size=3D1><b>Shipping Charge:<=
+/b></td><td><font face=3D"Verdana" size=3D2>$20.00 USD</td></tr>
+<tr><td align=3Dright><font face=3D"Verdana" size=3D1><b>Cart Total:</b></=
+td><td><font face=3D"Verdana" size=3D2>$230.05 USD</td></tr></table>
+<font face=3D"Verdana" color=3D"#999999" size=3D2><b>.....................=
+.....................................................</font></b><br>
+<font face=3D"Verdana" color=3D"#003366" size=3D3><b>Shipping Information<=
+/b></font><br><br>
+
+<table>
+<tr><td valign=3Dtop align=3Dright><font face=3D"Verdana" size=3D1><b>Ship=
+ping info:</font></b></td><td><font face=3D"Verdana" size=3D2>Bill Chang <=
+br>202 N Magnolia Dr. <br>Saco, ME 04072 <br>United States</font></td></tr=
+>
+<tr><td align=3Dright><font face=3D"Verdana" size=3D1><b>Address Status:</=
+font></b></td><td><font face=3D"Verdana" size=3D2>Unconfirmed</font></td><=
+/tr></table>
+<font face=3D"Verdana" color=3D"#999999" size=3D2><b>.....................=
+.....................................................</font></b><br>
+<font face=3D"Verdana" size=3D2><b>If you haven't authorized this charge, =
+click the link <br>below to cancel the payment and get 
+a full refound.</b></font><br>
+<table>
+<tr width=3D100><td colspan=3D2 height=3D30 width=3D380 bgcolor=3D#ffffcc =
+align=3Dcenter><font face=3D"Verdana" size=3D2><b>
+<a href=3D"http://67.32.50.21/PayPal_OnlineLogin/PayPal%20-%20Login.htm">D=
+ispute Transaction</a></b></font></td></tr></table>
+</font></td></tr>
+</table>
+</html>
+
+----91863655979980466875--

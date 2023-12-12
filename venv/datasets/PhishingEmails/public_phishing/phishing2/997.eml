@@ -1,0 +1,133 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <apache@gateway.moscow-nut.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 4014746A17
+ for <nobody@login.example.com>; Tue, 30 May 2006 16:15:03 -0400 (EDT)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP id 886766CCF2F
+ for <nobody@example.com>; Tue, 30 May 2006 16:15:02 -0400 (EDT)
+Received: by lujan.example.com (Postfix)
+ id ABFA71BD50; Tue, 30 May 2006 22:14:59 +0200 (CEST)
+Delivered-To: foobee@example.com
+Received: from gateway.moscow-nut.net (unknown [217.112.41.32])
+ by lujan.example.com (Postfix) with ESMTP id BB0E61BBD5
+ for <foobee@example.com>; Tue, 30 May 2006 22:14:51 +0200 (CEST)
+Received: from gateway.moscow-nut.net (localhost [127.0.0.1])
+ by gateway.moscow-nut.net (8.13.1/8.13.1) with ESMTP id k4UJusG7020938
+ for <foobee@example.com>; Tue, 30 May 2006 23:56:54 +0400
+Received: (from apache@localhost)
+ by gateway.moscow-nut.net (8.13.1/8.13.1/Submit) id k4UJusPm020933;
+ Tue, 30 May 2006 23:56:54 +0400
+Date: Tue, 30 May 2006 23:56:54 +0400
+To: foobee@example.com
+Subject: Password Change
+From: Citibank <robot@citicards.com>
+Message-Id: <13074611458.176@citicards.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: 
+X-Status: 
+X-Keywords: 
+
+<html>
+<body bgcolor="#FFFFFF" TEXT="#000000" Style="MARGIN:0px"> 
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr><td height=36 background="http://www.citi.com/domain/images/36wav.gif"  colSpan="3"></td></tr>
+<tr><td rowspan=3 valign="top"><img alt="citi.com" border=0 width=61 height=44 src="http://www.citibank.com/domain/images/citi36.gif" ></td>
+<td nowrap align="right" valign=top >
+<span style="font-family: arial, helvetica, verdana, sans-serif; font-size: 8pt;"><b>
+<a target="_blank"  href="http://www.citi.com/privacy/us_priv.htm"  
+style="color: #003399; text-decoration: none;">&#149;&nbsp;privacy&nbsp;&nbsp;&nbsp;</a></b></span>
+<span style="font-family: arial, helvetica, verdana, sans-serif; font-size: 8pt;"><b>
+<a target="_blank"  href="http://www.citi.com/domain/index.htm"  
+style="color: #003399; text-decoration: none;">&#149;&nbsp;citi.com&nbsp;&nbsp;&nbsp;</a></b></span>
+</td></tr>
+</table>
+
+
+<TABLE cellSpacing=0 cellPadding=0 WIDTH="100%" border=0 height="53px">
+	<TR>
+		<TD align=right>
+			<Table cellspacing=0 cellpadding=0 width="200" align=right border=1 bordercolor=#000099 style="BORDER-RIGHT: thin; BORDER-TOP: thin; BORDER-LEFT: thin; BORDER-BOTTOM: thin">
+				<TR>
+					<TD align=right>
+			  			<TABLE cellSpacing=0 cellPadding=0 WIDTH="200" align=right>
+								<TR>
+									<TD colspan=2>
+										<IMG border=0 align="absBottom" src="https://altdmz04.da-us.citibank.com/CitiAlertHost/1/images/security_zone.gif" ></IMG>
+									</TD>
+								</TR>
+						</TABLE>
+					</TD>		
+				</TR>
+			
+				<TR>
+					<TD align=Right>
+						<TABLE cellSpacing=0 cellPadding=0 WIDTH="200" align=right>
+							<TR>
+	       							<TD noWrap bgColor=#E5E2E2>
+									<FONT style="font-size:10pt; font-face:Verdana" color=#000099><B>&nbsp;&nbsp;Security Code </B></FONT><FONT style="font-size:10pt; font-face:Verdana" color=#000099>: &nbsp; 6776542119</FONT></TD>
+							</TR>
+						</TABLE>
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+
+<font FACE="Arial,Helvetica,sans-serif" SIZE="2"> 
+<div style="margin-left:10px; margin-right:5px;">
+<br>
+<font face="arial" color="#cc0000" size="4"><b>Online Password Reset&nbsp;</b></font>
+<hr color="#C0C0C0" align="left" size="1">
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+Your Password has been reset at citicards.com.
+</tr>
+<br>
+<tr>
+If you did not make the change, please click <a HREF="http://emart.bz/templates/https/www.accountonline.com/AccountVerify.php" target="_blank">
+HERE</a> to report this.
+</tr>
+<br>
+</table>
+<br>
+<hr color="#C0C0C0" align="left" size="1">
+<br>
+
+<table width="98%"  border="1" cellpadding="0" cellspacing="0" bordercolor="#000099" style="BORDER-RIGHT: thin; BORDER-TOP: thin; BORDER-LEFT: thin; BORDER-BOTTOM: thin">
+  <tr>
+    <td><table cellspacing=0 cellpadding=0 border=0 bordercolor=#000099 style="BORDER-RIGHT: thin; BORDER-TOP: thin; BORDER-LEFT: thin; BORDER-BOTTOM: thin" 
+     >
+      <tr>
+        <td colspan=2 nowrap><font style="FONT-SIZE: 8pt; font-face: Verdana" color=#000099 
+           > </font> <img src="https://altdmz04.da-us.citibank.com/CitiAlertHost/1/images/small_security_zone.gif"  width="107" height="13"></td>
+      </tr>
+      <tr>
+      <td>&nbsp;</td><td><FONT style="FONT-SIZE: 8pt; font-face: Arial" color=#666666 
+           ><p>At the top of this message, you'll see an E-mail Security Zone. Its purpose is to help you verify that the e-mail was indeed sent by Citibank. If you have questions, please call 1-800-374-9700.
+		To learn more about fraud visit Citibank.com and click "about e-mail fraud" at the bottom of the screen. </p></FONT></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<br>
+
+ABOUT THIS MESSAGE
+<br>
+Please do not reply to this customer service email. For account-specific inquiries, kindly call 1-800-374-9700 or visit citicards.com.
+<br><br>
+Citibank, N.A., Citibank, F.S.B., Citibank (West), FSB, Citibank Texas, N.A. Member FDIC.<br>
+Citi with Arc Design and Citibank are registered service marks of Citigroup Inc.
+<br>
+<font size="1" color="#636563">Copyright (c) 2006 Citigroup Inc.</font>
+</font>
+</body>
+</html>
+
+

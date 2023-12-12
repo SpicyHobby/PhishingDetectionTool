@@ -1,0 +1,55 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <root@hemi.chargertek.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (unknown [152.160.49.220])
+ by example.com (Postfix) with ESMTP id 5072F468DD
+ for <user@login.example.com>; Fri, 13 Oct 2006 22:11:56 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id A1AA3131F86C
+ for <user@example.com>; Fri, 13 Oct 2006 21:38:56 -0400 (EDT)
+X-Spam-Flag: YES
+X-Spam-Score: 5.851
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.851 tagged_above=-100 required=4
+ tests=[BAYES_50=0.001, DCC_CHECK=4, HTML_10_20=1.351,
+ HTML_IMAGE_ONLY_16=0.497, HTML_MESSAGE=0.001,
+ MIME_HEADER_CTYPE_ONLY=0, MIME_HTML_ONLY=0.001]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id mT6HQ5MDn5Cw for <user@example.com>;
+ Fri, 13 Oct 2006 21:38:56 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Fri, 13 Oct 2006 21:38:56 -0400 (EDT)
+Received: from hemi.chargertek.com (unknown [208.101.24.196])
+ by mail.example.org (Postfix) with ESMTP id 9434A6FA7BE
+ for <user@example.com>; Fri, 13 Oct 2006 21:38:56 -0400 (EDT)
+Received: from root by hemi.chargertek.com with local (Exim 4.52)
+ id 1GYYUK-0004QM-1T
+ for user@example.com; Fri, 13 Oct 2006 20:38:56 -0500
+To: user@example.com
+Subject: TKO NOTICE: eBay Suspension - Possible Unauthorized Account Use !
+From: eBay <service@eBay.com>
+Content-Type: text/html
+Message-Id: <E1GYYUK-0004QM-1T@hemi.chargertek.com>
+Date: Fri, 13 Oct 2006 20:38:56 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hemi.chargertek.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - hemi.chargertek.com
+X-Source: /usr/local/bin/php
+X-Source-Args: php -f eBay.php 
+X-Source-Dir: /tmp
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 421
+
+
+<HTML>
+<IMG src="http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif"><BR><BR>Dear eBay Member,<BR><BR>Due to recent activity, including possible unauthorized listings, we <BR>have temporarily suspended activity on your account in order to allow us <BR>to investigate this matter further. If you believe that this action may <BR>have been taken in error, or, if you feel that your account may have <BR>been tampered with, please click <A href="https://signin.ebay.u-uo.com/ws2/"><STRONG>here</STRONG></A><BR><BR>Please allow at least&nbsp;48 hours for an email reply. Emailing us prior to <BR>receiving our reply will result in an additional delay. In order to <BR>handle your concern as quickly and efficiently as possible, we encourage <BR>you to contact us through Live Help if you are able to do so.<BR><BR>If you received this notice and you are not the authorized account <BR>holder, please be aware that it is in violation of eBay policy to represent <BR>oneself as another eBay user. 
+ Such action may also be in violation of <BR>local, national, and/or international law. eBay is committed to assist <BR>law enforcement with any inquiries related to attempts to misappropriate <BR>personal information with the intent to commit fraud or theft. <BR>Information will be provided at the request of law enforcement agencies to <BR>ensure that perpetrators are prosecuted to the fullest extent of the law.<BR><BR>Regards,<BR><BR>Safeharbor Department<BR>eBay Inc.<BR>
+</HTML>

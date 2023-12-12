@@ -1,0 +1,58 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <untitled_1@redakcja.trybuna.com.pl>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id A42AF46972
+ for <user@login.example.com>; Mon, 25 Sep 2006 13:19:53 -0400 (EDT)
+Received: from redakcja.trybuna.com.pl (unknown [212.160.141.120])
+ by mail.example.org (Postfix) with ESMTP id 57F596CD219
+ for <user@example.com>; Mon, 25 Sep 2006 13:19:53 -0400 (EDT)
+Received: by redakcja.trybuna.com.pl (Postfix, from userid 1035)
+ id 4E57773F441C; Mon, 25 Sep 2006 19:19:50 +0200 (CEST)
+To: user@example.com
+Subject: New Unpaid Item Message
+From: eBay <aw-confirm@eBay.com>
+Content-Type: text/html
+Message-Id: <20060925171950.4E57773F441C@redakcja.trybuna.com.pl>
+Date: Mon, 25 Sep 2006 19:19:50 +0200 (CEST)
+Content-Length: 1456
+Lines: 33
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 317
+
+
+
+<P>
+<TABLE cellSpacing=0 cellPadding=0 width=600>
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" width=600>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" width=600>
+<TABLE cellSpacing=0 cellPadding=2 width="100%" bgColor=#eeeef8 border=0>
+<TBODY>
+<TR>
+<TD width=2><IMG src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width=2></TD>
+<TD><FONT face=Arial size=4>eBay New Unpaid Item Message from babyphat96: #8246157898 -- response required</FONT> </TD>
+<TD vAlign=center><A href="http://www.ebay.com/" target=_blank><IMG src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif" align=right border=0></A></TD></TR>
+<TR bgColor=#9999cc height=2>
+<TD colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE style="FONT-SIZE: x-small; FONT-FAMILY: arial, sans-serif" cellSpacing=0 cellPadding=0 width="94%" align=center border=0>
+<TBODY>
+<TR>
+<TD><BR><BR>
+Dear member, <BR>
+<BR></TD></TR>
+<TR>
+<TD>eBay member babyphat96 has left you a message regarding item #8246157898<BR>
+  <BR><A href="http://www.agriports.com/red.html?signin.ebay.comwseBayISAPI.dllSignIn&co_partnerId=2&pUserId=&siteid=0&pageType=&UsingSSL.SignIn.html.html" target=_blank><FONT color=#003399>View the dispute thread to respond</FONT></A>. <BR>
+  <BR></TD></TR>
+<TR>
+<TD>Regards, <BR><BR>eBay </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P>

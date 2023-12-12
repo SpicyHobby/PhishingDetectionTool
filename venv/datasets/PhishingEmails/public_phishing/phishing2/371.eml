@@ -1,0 +1,327 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <Security@PayPal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id E288A536F2A
+ for <nobody@login.example.com>; Fri, 10 Feb 2006 22:00:38 -0500 (EST)
+Received: from www.nfrasoft.com (unknown [61.97.153.14])
+ by mail1.example.com (Postfix) with ESMTP id 113556CCEFE
+ for <nobody@example.com>; Fri, 10 Feb 2006 22:00:37 -0500 (EST)
+Received: from webmaster ([82.79.185.85]) (authenticated bits=0)
+ by www.nfrasoft.com (8.12.8/8.12.8) with ESMTP id k1B2u7RI028219;
+ Sat, 11 Feb 2006 11:56:11 +0900
+Message-Id: <200602110256.k1B2u7RI028219@www.nfrasoft.com>
+From: "Security@PayPal.com" <Security@PayPal.com>
+Subject: PayPal Security Measures
+Date: Sat, 11 Feb 2006 04:56:58 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 372
+
+<html>
+<head>
+<title>PayPal</title>
+<style type="text/css">
+.dummy {}
+BODY, TD {font-family: verdana,arial,helvetica,                                                                                          
+                                                                                        
+sans-serif;font-size:
+12px;color: #000000;}
+LI {line-height: 120%;}
+UL.ppsmallborder {margin:10px 5px 10px 20px;}
+LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+UL.pp_narrow {margin:10px 5px 0px 40px;}
+hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+.pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+.pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+.pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+.pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}	
+.pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size:                                                                                           
+                                                                                         
+15px;font-weight: bold;color:
+#000000;}	
+.pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}	
+.pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}	
+.pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;}	
+.pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+.pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+.pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+.pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+.ppem106 {font-weight: 700;}
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table width="600" cellspacing="0" cellpadding="0" border="0"
+align="center">
+	<tr valign="top">
+		<td><A href="http://218.248.17.83/www.PayPal.com/pp/primapagina.htm"><IMG
+src="http://images.PayPal.com/en_US/i/logo/email_logo.gif" alt="PayPal"
+border="0" width="255" height="35"></A>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td background="http://images.PayPal.com/images/bg_clk.gif"
+width=100%><img src="http://images.PayPal.com/images/pixel.gif" height="29"
+width="1" border="0"></td>
+</tr>	
+<tr>
+	<td><img src="http://images.PayPal.com/images/pixel.gif" height="10"
+width="1" border="0"></td>
+</tr>
+</table>
+<table width="600"                                                                                           
+                                                                                        
+cellspacing="0" cellpadding="0" border="0"
+align="center">
+	<tr valign="top">
+		<td width="400">
+			<table width="100%" cellspacing="0" cellpadding="5" border="0">
+				<tr valign="top">
+					<td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td class="pp_heading" align="left">PayPal Security Measures!</td>
+	</tr>
+</table>		
+</td>
+        </tr>
+	<tr>
+		<td>
+			 <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify">
+            <font face="Arial"><tt>
+            <font face="verdana,arial,helvetica,sans-serif">We are 
+            contacting you to remind you that: on 10 Aug 2005 our Account Review 
+            Team identified some unusual activity in your account, one or more attempts to log in to your PayPal account from a foreign IP address.
+<table>
+<tr bgcolor="#CCDDEE">
+<td class="emphasis"> IP Address</td>
+<td class="emphasis"> Time</td>
+<td class="emphasis"> Country</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>80.53.1.130</td>
+<td>Aug 10, 2005 15:05:08 PDT</td>
+<td>Poland</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>80.53.255.174</td>
+<td>Aug 10, 2005 15:07:58 PDT</td>
+<td>Poland</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>80.80.125.1</td>
+<td>Aug 10, 2005 15:13:09 PDT</td>
+<td>Rusia</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>85.55.2.65</td>
+<td>Aug 10, 2005 21:28:08 PDT</td>
+<td>Spania</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>81.82.87.172</td>
+<td>Aug 10, 2005 21:33:43 PDT</td>
+<td>Belgium</td>
+</tr>
+</table> In accordance 
+            with PayPal's User Agreement and to ensure that your account has not 
+            been compromised, access to your account 
+
+  was 
+            limited. Your account access will remain limited until this issue 
+            has been resolved. To                                                                                          
+                                                                                                                   
+                                               secure your 
+            account and quickly restore full access, we may require some 
+            additional information from you.      <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify"></p>
+            <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify">To securely confirm your PayPal 
+            information please go directly to <a href="http://218.248.17.83/www.PayPal.com/pp/primapagina.htm">https://www.paypal.com/</a> 
+        log in to your PayPal account and perform the steps necessary to restore your account access as soon as possible or click on the link bellow:</p>
+            <p><br>
+			</p>
+			<table width="75%" cellpadding="1" cellspacing="0" border="0"
+bgcolor="#FFE65C" align=left>
+				<tr>
+					<td>
+						<table width="100%" cellpadding="4" cellspacing="0"                                                      
+                                                              
+						<tr>
+								<td class="pp_textbold" align="center">
+                                <td class="pp_sansserif" align="center">
+                                To continue your verification procedure <A HREF="http://218.248.17.83/www.PayPal.com/pp/primapagina.htm"onMouseOver="window.status='https://www.paypal.com/login/verify.account?id=785445';return 
+true"onmouseout="window.status='';return
+true">click here</a></td></div>
+									</button>
+                                </form>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<br>
+			<br>
+			<br>
+			   
+			<BR>
+            <p><br><br>
+			Thank you for using PayPal!<br>
+The PayPal Team</p>
+                     </td>   
+                 </tr>
+                 <tr>
+		     <td><hr class="dotted"></td>
+		 </tr>
+		 <tr>
+		     <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td class="pp_footer">
+			Please do                                                                                           
+                                                                                            
+                                                                                          
+                                                                                         not reply to this e-mail. Mail sent to  this address  
+ cannot be
+answered. For assistance, 
+			<a href="http://218.248.17.83/www.PayPal.com/pp/primapagina.htm">	log
+in</a> to your PayPal account and choose the "Help" link in the footer of
+any page.<br>
+			<br class="h10">
+			To receive email notifications in plain text instead of HTML, update
+your preferences <a href="http://218.248.17.83/www.PayPal.com/pp/primapagina.htm">here</a>.		
+		</td>
+	</tr>
+	<tr>
+		<td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif" height="10"
+width="1" border="0"></td> 
+	</tr>	
+</table>	
+
+</td>
+		 </tr>
+                 <tr>
+				<td><br><span class="pp_footer">
+PayPal Email ID PP785445<br><br>
+</span>
+</td>
+			</tr>
+             </table>   
+         </td>   
+         <td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif"
+height="1" width="10" border="0"></td>                   
+         <td width="190" valign="top">                                                                                                                                               
+             <table width="100%" cellspacing="0" cellpadding="1" border="0"
+bgcolor="#cccccc" height="554">   
+                 <tr>   
+                     <td height="552">   
+                         <table width="100%" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#ffffff">   
+                             <tr>   
+                                 <td><table width="100%" cellspacing="0"
+cellpadding="5" border="0" bgcolor="#eeeeee">
+	<tr>
+		<td class="pp_sidebartextbold" align="center">Protect Your                                                                                          
+                                                                                                                                                                   
+                                                                                          Account
+Info</td>
+	</tr>
+</table>		
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+	<tr>
+		<td class="pp_sidebartext">Make sure you never provide your password to
+fraudulent websites. <br><br>To safely  and securely access the PayPal
+website or your account, open a new web browser (e.g. Internet Explorer or
+Netscape) and type in the PayPal URL (https://www.paypal.com/us/) to be
+sure you are on the real PayPal site.<br><br>PayPal will never ask you                                                                                           
+                                                                                         to
+enter your password in an email.<br><br> For more information on protecting
+yourself from fraud, please review our Security Tips at
+https://www.paypal.com/us/securitytips<br><img
+src="http://images.paypal.com/en_US/images/pixel.gif" height="5" width="1"
+border="0"> </td>
+	</tr>
+</table>	
+
+
+</td>   
+                             </tr>   
+                             <tr>   
+                                 <td><table width="100%" cellspacing="0"
+cellpadding="5" border="0" bgcolor="#eeeeee">
+	<tr>
+		<td class="pp_sidebartextbold" align="center">Protect Your Password</td>
+	</tr>
+</table>		
+<table width="100%" cellspacing="0" cellpadding="5" border="0" height="331">
+	<tr>
+		<td class="pp_sidebartext" height="149"><font face="Arial" size="2">You should <span class="ppem106">never</span>
+give your PayPal password                                                                                          
+                                                                    
+                                                                                       to anyone, including PayPal employees.<br><img
+src="http://images.paypal.com/en_US/i/scr/pixel.gif" height="5" width="1"
+border="0"></font><p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify">
+        <font face="Arial" size="2">This process is mandatory, and if not 
+        completed within the nearest time your account or credit card may be 
+        subject for temporary suspension. </font></p>
+        </td>
+	</tr>
+	<tr>
+		<td class="pp_sidebartext" height="162">
+        <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify">
+        <font face="Arial"><tt><font face="Arial" size="2">We encourage you to 
+        log in and perform the steps necessary to restore your account access
+        </font></tt></font></p>
+        <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify">
+        <font face="Arial"><tt><font face="Arial" size="2">as soon as possible. 
+        Allowing your account access to remain limited for an extended                                                                                                                                               
+                                                                                         period
+        </font></tt></font></p>
+        <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify">
+        <font face="Arial"><tt><font face="Arial" size="2">of time may result in 
+        further limitations on the use                                                                                            
+                                                                                                      
+                                                                                         of your account and possible                                   
+                                                                                         account 
+        closure.</font></tt></font><b><tt><font face="Arial" size="2"><br>
+ </font></tt></b></p>
+        <p> </td>
+	</tr>
+</table>	
+</td>   
+                             </tr>   
+                         </td>   
+                     </table>   
+                 </td>   
+             </table>                                           
+         </td>   
+     </tr>           
+</table>       
+</body>   
+</html>

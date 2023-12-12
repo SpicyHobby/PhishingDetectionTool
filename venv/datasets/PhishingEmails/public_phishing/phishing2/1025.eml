@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id BA9C9469A1
+ for <nobody@login.example.com>; Wed,  7 Jun 2006 15:35:08 -0400 (EDT)
+Received: from 192.168.0.1 (host122-238.pool8175.interbusiness.it
+ [81.75.238.122])
+ by mail1.example.com (Postfix) with SMTP id B00326CD085
+ for <nobody@example.com>; Wed,  7 Jun 2006 15:35:08 -0400 (EDT)
+Received: from 41.180.180.116 by ; Wed, 07 Jun 2006 18:26:30 -0200
+Message-ID: <ANRTWHWNRPTETDBWGXRDFOPZD@hotmail.com>
+From: "Account Service" <service@paypal.com>
+Reply-To: "Account Service" <service@paypal.com>
+To: nobody@example.com
+Subject: Verify your PayPal Account
+Date: Wed, 07 Jun 2006 14:26:30 -0600
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--69625435726857347"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+----69625435726857347
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<BR><BR>We recently have determined that different computers have logged 
+into your PayPal account, and multiple password failures were present befo=
+re 
+the login. One of our Customer Service employees has already tryed to 
+reach you by phone. As our employee did not manage to reach you, this 
+email has been sent to your notice.<BR>Therefore your account has been tem=
+porary 
+suspended. We need you to confirm your identity in order to regain full 
+privileges of your account.<BR>If this is not completed by <STRONG>June 11=
+, 
+2006</STRONG>, we reserve the right to terminate all privileges of your ac=
+count 
+indefinitely, as it may have been used for fraudulent purposes. We thank y=
+ou for 
+your cooperation in this manner.<BR>To confirm your identity please follow=
+ the 
+link below:<BR><BR><A 
+href=3D"http://81.73.94.10:12506/www.paypal.com/">https://www.paypal.com/c=
+gi-bin/webscr.php?cmd=3D_login-run</A> 
+<BR><BR><BR><BR><BR>Thank you for your patience in this matter. <BR><BR>Pa=
+yPal - 
+Customer Service <BR><BR>Please do not reply to this e-mail as this is onl=
+y a 
+notification. Mail sent to this address cannot be answered. <BR></BODY></H=
+TML>
+
+
+----69625435726857347--

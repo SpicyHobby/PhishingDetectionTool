@@ -1,0 +1,72 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <accounts@ebayus.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id A211F5371E7
+ for <nobody@login.example.com>; Tue, 21 Feb 2006 15:45:17 -0500 (EST)
+Received: from dns.taking.com.tw (unknown [203.75.190.189])
+ by mail2.example.com (Postfix) with ESMTP id 4451B6FA2A4
+ for <nobody@example.com>; Tue, 21 Feb 2006 15:45:17 -0500 (EST)
+Received: from localhost (localhost.eztech.com.tw [127.0.0.1])
+ by dns.taking.com.tw (Postfix) with ESMTP
+ id 771D08D9F4; Wed, 22 Feb 2006 04:28:12 +0800 (CST)
+Received: from ebay.com (unknown [82.79.68.80])
+ by dns.taking.com.tw (Postfix) with ESMTP
+ id D0E2F8DA07; Wed, 22 Feb 2006 04:27:46 +0800 (CST)
+From: "eBay Security Center" <accounts@ebayus.com>
+Subject: Notification of Limited Account Access (Routing
+ Code:4C840-L001-Q190-T1836)
+Date: Tue, 21 Feb 2006 22:45:28 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060221202746.D0E2F8DA07@dns.taking.com.tw>
+To: undisclosed-recipients: ;
+X-Virus-Scanned: by AMaViS perl-11
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 442
+
+<html>
+<head>
+<title>eBay.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+<body>
+
+<table width="496" border="0">
+  <tr>
+    <td width="490"><a href="http://signin.ebay.com.signof.us/%20/errmsg/runame/ruparams/ruproduct/sid/favoritenav/migrateVisitor/UsingSSL/partnerId/signin.ebay.com/aw-cgi/eBayISAPI.dllSignIn-ssPageName-hhsin.php"><img src="http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="169" valign="top"><p class="style1">Dear eBay Community Member,</p>
+      <p class="style1">I'm writing to let you know that your account
+
+
+ have been indefinitely suspended from eBay because our records indicate your account was involved in activities that violate our policy governing seller non-performance.</p>
+      <p class="style1"> If you feel you have been suspended in error or want to appeal this decision by providing additional information, please <a href="http://signin.ebay.com.signof.us/%20/errmsg/runame/ruparams/ruproduct/sid/favoritenav/migrateVisitor/UsingSSL/partnerId/signin.ebay.com/aw-cgi/eBayISAPI.dllSignIn-ssPageName-hhsin.php">click here </a>.</p>
+      <p class="style1"> An email regarding this was sent to your email address on file with eBay. </p>
+      <p class="style1">Thank you for using eBay and we look forward to many more successful transactions!</p>
+      <p align="justify" class="style1">Sincerely, </p>
+      <p class="style1">Scott R. Shipman, CIPP <br>
+        Senior Counsel, Global Privacy Practices <br>
+      eBay Inc.</p>      </td>
+  </tr>
+</table>
+</body>
+</html>

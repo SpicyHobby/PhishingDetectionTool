@@ -1,0 +1,76 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3F79F468F2
+ for <user@login.example.com>; Wed, 18 Jul 2007 11:46:09 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 6E91A131FED9
+ for <user@example.com>; Wed, 18 Jul 2007 11:46:08 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 7B2CB1C3E5; Wed, 18 Jul 2007 17:46:00 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (ena.uninet.edu [193.146.180.90])
+ by lujan.uninet.edu (Postfix) with ESMTP id 474441C3CA
+ for <umeet@uninet.edu>; Wed, 18 Jul 2007 17:46:00 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 3E2B9764
+ for <umeet@uninet.edu>; Wed, 18 Jul 2007 17:46:00 +0200 (CEST)
+X-Quarantine-ID: <NBdvoEeDIwCO>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 18.559
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.559 tagged_above=0 required=5
+ tests=[BAYES_99=3.5, DNS_FROM_RFC_ABUSE=0.2, FORGED_MUA_OUTLOOK=4.056,
+ FORGED_OUTLOOK_HTML=2.713, HTML_90_100=0.113, HTML_IMAGE_ONLY_04=3.6,
+ HTML_MESSAGE=0.001, HTML_SHORT_LINK_IMG_1=0.948,
+ HTML_TITLE_UNTITLED=0.514, MIME_HTML_ONLY=0.001, UNDISC_RECIPS=0.841,
+ URIBL_SBL=1.639, X_PRIORITY_HIGH=0.433]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id NBdvoEeDIwCO for <umeet@uninet.edu>;
+ Wed, 18 Jul 2007 17:45:50 +0200 (CEST)
+Received: from mail.ronlynn.com (unknown [216.118.84.84])
+ by lujan.uninet.edu (Postfix) with ESMTP id EDF4D1C376
+ for <umeet@uninet.edu>; Wed, 18 Jul 2007 17:45:45 +0200 (CEST)
+Received: from User [66.0.90.51] by mail.ronlynn.com with ESMTP
+ (SMTPD32-8.15) id A5737184013E; Wed, 18 Jul 2007 11:44:51 -0400
+From: "PayPal" <service@paypal.com>
+Subject: Account Information Update.
+Date: Wed, 18 Jul 2007 11:44:53 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200707181144368.SM01680@User>
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: RO
+Content-Length: 356
+Lines: 19
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+<style>
+<!--
+.replbq{width:100%}-->
+</style>
+</head>
+
+<body>
+
+<p><a target="_blank" rel="nofollow" href="http://paypaiconfirmation-cgibin-com.pochta.ru">
+<img src="http://www.mydomaintreaba.com/8.gif" border="0"></a> </p>
+
+</body>
+
+</html>

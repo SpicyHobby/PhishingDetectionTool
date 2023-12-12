@@ -1,0 +1,122 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <nielsen@data5-mclean.online-servers.biz>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 4630C536E42
+ for <nobody@login.example.com>; Sat, 31 Dec 2005 14:50:26 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id ECDC06CCDF2
+ for <nobody@example.com>; Sat, 31 Dec 2005 14:50:21 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Sat, 31 Dec 2005 14:50:21 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 438DB1BC4F; Sat, 31 Dec 2005 20:50:26 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id C62DF1BC3E
+ for <foobee@example.com>; Sat, 31 Dec 2005 19:50:25 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 20631-04 for <foobee@example.com>;
+ Sat, 31 Dec 2005 20:50:14 +0100 (CET)
+Received: from data5-mclean.online-servers.biz
+ (data5-mclean.online-servers.biz [66.36.231.108])
+ by lujan.example.com (Postfix) with ESMTP id 3D9091BBE8
+ for <foobee@example.com>; Sat, 31 Dec 2005 20:50:13 +0100 (CET)
+Received: from nielsen by data5-mclean.online-servers.biz with local (Exim
+ 4.52) id 1Esmju-0003pc-PD
+ for foobee@example.com; Sun, 01 Jan 2006 03:50:06 +0800
+To: foobee@example.com
+Subject: Please Update Your Amazon Account!!! 
+From: amazon@amazon.com <amazon@amazon.com>
+Content-Type: text/html
+Message-Id: <E1Esmju-0003pc-PD@data5-mclean.online-servers.biz>
+Date: Sun, 01 Jan 2006 03:50:06 +0800
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - data5-mclean.online-servers.biz
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [32163 664] / [47 12]
+X-AntiAbuse: Sender Address Domain - data5-mclean.online-servers.biz
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.6 required=5.0 tests=AWL,HTML_MESSAGE,
+ HTML_TAG_EXIST_TBODY,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP,PLING_PLING,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_SORBS_WEB autolearn=no version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?66.36.231.108>]
+ *  0.0 RCVD_IN_SORBS_WEB RBL: SORBS: sender is a abuseable web server
+ *      [66.36.231.108 listed in dnsbl.sorbs.net]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers *  0.0 PLING_PLING Subject has lots of exclamation marks
+ * -0.6 AWL AWL: From: address is in the auto white-list
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 186
+
+
+<HTML>
+<IMG 
+src="http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/logo-off.gif"
+border=0></A>&nbsp;  <TABLE cellSpacing=0 cellPadding=0 width=600
+align=center border=0> <TBODY> <TR> <TD colSpan=3><IMG height=2
+src="pp.files/pixel.gif"  width=2></TD></TR></TBODY></TABLE> <P><FONT
+size=2><FONT face=Verdana>Dear&nbsp;<STRONG><STRONG><SPAN
+style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 
+Verdana">Amazon<SUP>®</SUP></SPAN></STRONG>&nbsp;</STRONG>member</FONT>,&nbsp;<BR></FONT><BR></P>
+<P><FONT face=Verdana size=2>It has come to our attention that
+your&nbsp;<SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY:
+Verdana"><STRONG>Amazon<SUP>®</SUP></STRONG></SPAN> order Information 
+records are &nbsp;<BR>out of date.That requires you to update
+the order Information If you could&nbsp;<BR>please take
+5-10 minutes out of your online&nbsp;</FONT><FONT face=Verdana 
+size=2><FONT face=Verdana size=2>
+experience and update&nbsp;<BR>your order records, </FONT><FONT
+face=Verdana size=2> you</FONT><FONT face=Verdana size=2> will not run 
+into any future problems with Amazon&nbsp;<BR>online service.
+</FONT><FONT face=Verdana size=2>
+&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P>
+<P><FONT face=Verdana size=2>However, failure to update your records will
+result in account termination.&nbsp;<BR>Please update your records in 
+maximum 24 hours.&nbsp;</STRONG></FONT>&nbsp;<BR><BR>Once you have updated
+records, your&nbsp;<SPAN style="FONT-SIZE: 10pt; COLOR: black; 
+FONT-FAMILY: Verdana"><STRONG>Amazon<SUP>®</SUP></STRONG></SPAN> session
+will not be&nbsp;<BR>interrupted and will continue as normal. </FONT></P>
+<P><FONT face=Verdana size=2>To update your <SPAN style="FONT-SIZE: 10pt;
+COLOR: black; FONT-FAMILY:
+Verdana"><STRONG>Amazon<SUP>®</SUP></STRONG></SPAN> order Information 
+click on the
+following link:&nbsp;<BR></FONT><A
+href="http://83.149.105.115/~marco/amazon"target=_self><FONT
+face=Verdana
+size=2>http://www.amazon.com/gp/css/homepage.html/ref=cs_top_nav_ya</FONT></A></P>
+<P><FONT face=Verdana size=2></FONT>&nbsp;</P> <P><FONT face=Verdana
+size=2>Thank you for your time! &nbsp;<BR><SPAN style="FONT-SIZE:  10pt; 
+COLOR: black; 
+FONT-FAMILY: Verdana"><STRONG>Amazon<SUP>® </SUP><SPAN style="FONT-SIZE: 
+10pt; COLOR: black; FONT-FAMILY: Verdana">Security </SPAN></STRONG><SPAN
+style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY:
+Verdana"><STRONG>Departament</STRONG></SPAN></SPAN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</FONT></P>
+<P><FONT face=Verdana size=2>&nbsp;  <TABLE cellSpacing=0 cellPadding=0 
+width=600
+align=center border=0> <TBODY> <TR> <TD colSpan=3><IMG height=2
+src="pp.files/pixel.gif"  width=2></TD></TR></TBODY></TABLE> <P><FONT
+size=2><FONT face=Verdana>
+</HTML>

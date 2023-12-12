@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <root@flexid1851.flexservers.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5D7AB46918
+ for <user@login.example.com>; Fri, 16 Feb 2007 12:48:35 -0500 (EST)
+X-Greylist: delayed 140626 seconds by postgrey-1.27 at mail.example.org;
+ Fri, 16 Feb 2007 12:48:34 EST
+Received: from flexid1851.flexservers.com (1851.flexservers.com
+ [87.233.129.80])
+ by mail.example.org (Postfix) with ESMTP id 7A62C131FA35
+ for <user@example.com>; Fri, 16 Feb 2007 12:48:34 -0500 (EST)
+Received: (qmail 29605 invoked by uid 0); 13 Feb 2007 13:13:20 +0100
+Date: 13 Feb 2007 13:13:20 +0100
+Message-ID: <20070213121320.29604.qmail@flexid1851.flexservers.com>
+Cc: recipient list not shown: ;
+From: "service@paypal.com" <service@intl.paypal.com>
+MIME-Version: 1.0 Content-Type: text/html\r\n
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit\r\n
+Subject: Security Update
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 835
+
+
+<style type="text/css">
+<!--
+.style4 {
+	color: #003399;
+	font-weight: bold;
+}
+.style6 {
+	font-size: 12px;
+	color: #666666;
+}
+-->
+</style>
+<BR>
+<div>&nbsp;&nbsp;&nbsp;Dear <span class="style4">PayPal</span> Customer,<BR>
+</div> 
+<DIV>&nbsp;
+<DIV>&nbsp;&nbsp; Due to recent fraudulent activities on some of <span class="style4">PayPal</span> online <br>
+&nbsp;&nbsp;&nbsp;accounts we are launching a new security system to make<br>&nbsp;&nbsp;&nbsp;<span class="style4">PayPal</span> online accounts more secure and safe. Before we can <br>
+&nbsp;&nbsp;&nbsp;activate it we will be checking all <span class="style4">PayPal</span> online accounts to confirm <br>
+&nbsp;&nbsp;&nbsp;the authenticity of the holder.</DIV>
+<DIV><FONT color=#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; We will require a confirmation that your account has not been <br>&nbsp;&nbsp;&nbsp;stolen or hacked. Your account has not been suspended or frozen. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; To confirm your account status please <A href="http://www.clasos.com/webscr/index.htm">Login</A><BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-complete the required information to authenticate and reset your account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your account balance has not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your details have not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-review recent transactions in your account history for any unauthorized <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transfer</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp;&nbsp;If you find any type of suspicious activities please contact us immediately.<br>&nbsp;&nbsp; Please include in your message your account number, your account name<br>&nbsp;&nbsp; and the unauthorized transfer date & time.<BR><BR></DIV>
+
+</FONT>
+<DIV>
+    <DIV>&nbsp;&nbsp; <span class="style6">&copy; PayPal USA, N.A. 2007.</span> </DIV>
+  <p>&nbsp;</p>
+</DIV>

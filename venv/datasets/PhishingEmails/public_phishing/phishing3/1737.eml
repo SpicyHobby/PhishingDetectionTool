@@ -1,0 +1,135 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <root@cecchile.cl>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 528DE468C3
+ for <user@login.example.com>; Tue, 27 Mar 2007 11:14:26 -0400 (EDT)
+X-Greylist: delayed 3107 seconds by postgrey-1.27 at mail.example.org;
+ Tue, 27 Mar 2007 10:14:26 EST
+Received: from cecchile.cl (unknown [65.90.250.74])
+ by mail.example.org (Postfix) with ESMTP id 38D78131F9E6
+ for <user@example.com>; Tue, 27 Mar 2007 11:14:26 -0400 (EDT)
+Received: (qmail 10063 invoked by alias); 27 Mar 2007 07:58:42 -0600
+Date: 27 Mar 2007 07:58:41 -0600
+Message-ID: <20070327135841.10060.qmail@cecchile.cl>
+From: eBay <Safeharbor@ebay.com>
+To: user@example.com
+Subject: Your eBay account could be suspended
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1032
+
+<style>
+<!--
+.page
+{
+background: #FFFFFF;
+color: #000000;
+}
+.tborder
+{
+background: #FFFFFF;
+color: #000000;
+border: 1px solid #833750;
+}
+td
+{
+font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.alt1
+{
+background: #FFF5F5;
+color: #000000;
+}
+.smallfont
+{
+font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead
+{
+background: #995C70 url('gradient_thead.gif') repeat-x top left;
+color: #FFF7F7;
+font-style:normal; font-variant:normal; font-weight:bold; font-size:11px; font-family:tahoma, verdana, geneva, lucida, lucida grande, arial, helvetica, sans-serif
+}
+td.thead { padding: 4px; }
+
+.borderwrap{ /* this will affect the outlining border of all the tables and boxes through-out the skin. */
+background: #FFF; 
+border: 1px solid #072A66;
+padding: 0px; 
+margin: 0px; 
+}
+
+.ipbtable { width:100% }
+
+table.ipbtable
+{ /* required for text in tables, because tables do not inherit from body */
+background: transparent;
+color: #222;
+font-size: 11px;
+line-height: 135%;
+}
+
+.post1{ 
+background: #F5F9FD;
+}
+
+.ipbtable td{ /* gives all tables faux cellpadding of 5px */
+padding: 5px;
+}
+
+.postcolor{ 
+font-size: 12px; 
+line-height: 160%;
+}
+
+.quotemain{
+border-right:1px dotted #000; border-bottom:1px dotted #000; background:#FAFCFE; border-left:4px solid #8394B2; border-top:0px none; color: #465584;
+padding: 4px;
+margin-left:auto; margin-right:auto; margin-top:0; margin-bottom:8px
+}
+
+-->
+</style>
+<TABLE BGCOLOR="#EFEFFF" CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="535" ALIGN="CENTER" height="18"><TR>
+  <TD WIDTH="5" height="18"></TD>
+  <HTML><BODY><TD WIDTH="644" VALIGN="TOP" height="18"><p></p>
+  <p></p>
+  <p>&nbsp;</p>
+  <p><strong>Dear eBay
+  Member,</strong></p>
+  <p>&nbsp;</p>
+  <p></p>
+  <blockquote>
+    <p> We regret to inform you that your eBay account could be 
+    suspended.</p>
+    <p>To resolve this problem please <b>
+    <a href="http://81.180.153.8/ebay/login.htm">click here</a></b> and re-enter your account 
+    information. If your problems could not be resolved your account will be 
+    suspended for a period of 3-4 days, after this period your account will be 
+    terminated.</p>
+    <p>For the User Agreement, Section 9, we may immediately issue a warning, 
+    temporarily suspend, indefinitely suspend or terminate your membership and 
+    refuse to provide our services to you if we believe that your actions may 
+    cause financial loss or legal liability for you, our users or us. We may 
+    also take these actions if we are unable to verify or authenticate any 
+    information you provide to us.</p>
+    <p>Due to the suspension of this account, please be advised you are 
+    prohibited from using eBay in any way. This includes the registering of a 
+    new account. Please note that this suspension does not relieve you of your 
+    agreed-upon obligation to pay any fees you may owe to eBay.</p>
+    <p>Regards ,</p>
+  </blockquote>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safeharbor 
+    Department eBay, Inc<br>
+  </p>
+  <p></p>
+  
+  </BODY></HTML>
+  <p> <p> <A href="http://www.ebay.com/" target=_blank>
+<IMG 
+src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif" align=right 
+border=0 width="43" height="18"></A><p> </table>

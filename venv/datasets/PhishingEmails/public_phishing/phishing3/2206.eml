@@ -1,0 +1,145 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <technical-department_id_861sr@northforkbank.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 2E9F346895
+ for <user@login.example.com>; Wed, 11 Jul 2007 15:46:41 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id DD859131FAFE
+ for <user@example.com>; Wed, 11 Jul 2007 15:46:40 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id B4E931C3F1; Wed, 11 Jul 2007 21:46:39 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (ena.uninet.edu [193.146.180.90])
+ by lujan.uninet.edu (Postfix) with ESMTP id 821D51C3D9
+ for <umeet@uninet.edu>; Wed, 11 Jul 2007 21:46:39 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 71F778B6
+ for <umeet@uninet.edu>; Wed, 11 Jul 2007 21:46:39 +0200 (CEST)
+X-Quarantine-ID: <Jt9VlJfkjKGu>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 7.788
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.788 tagged_above=0 required=5 tests=[BAYES_99=3.5, 
+ FROM_HAS_ULINE_NUMS=0.291, HTML_MESSAGE=0.001, SPOOF_OURI=0.104,
+ URIBL_OB_SURBL=3.008, URI_NOVOWEL=0.884]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id Jt9VlJfkjKGu for <umeet@uninet.edu>;
+ Wed, 11 Jul 2007 21:46:33 +0200 (CEST)
+Received: from rocinante.compendium.com.ar (lutien.compendium.com.ar
+ [200.69.230.6])
+ by lujan.uninet.edu (Postfix) with ESMTP id 58A551C3B0
+ for <umeet@uninet.edu>; Wed, 11 Jul 2007 21:46:32 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.compendium.com.ar (Postfix) with ESMTP id 0B30250005A
+ for <umeet@uninet.edu>; Wed, 11 Jul 2007 16:46:31 -0300 (ART)
+Received: from rocinante.compendium.com.ar ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 09042-04 for <umeet@uninet.edu>;
+ Wed, 11 Jul 2007 16:46:30 -0300 (ART)
+Received: from yaren (unknown [88.243.70.64])
+ by rocinante.compendium.com.ar (Postfix) with SMTP id EEF86500050
+ for <umeet@uninet.edu>; Wed, 11 Jul 2007 16:46:28 -0300 (ART)
+Message-ID: <001101c7c3f4$291c3720$0202a8c0@yaren>
+From: "NorthFork eCash Management Services'07"
+ <technical-department_id_861sr@northforkbank.com>
+To: <umeet@uninet.edu>
+Subject: Please Update Your NorthFork eCash Management Details
+Date: Wed, 11 Jul 2007 22:46:23 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_000E_01C7C40D.4E696F20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1503
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000E_01C7C40D.4E696F20
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+   NorthFork eCash Management_
+
+   Dear NorthFork Treasury Management Services user!
+
+   Our Technical Unit is doing a scheduled Internet Banking update
+
+   By following the link below you will open the procedure of the user
+   details confirmation:
+
+   http://nfbconnect.northforkbank.com.portal/confirm/cashman/banking/Confirm.asp
+
+   These instructions are to be mailed and followed by all customers of
+   the NorthFork Commercial
+
+   NorthFork eCash Management Services does apologize for the
+   inconveniences caused to you, and is very grateful for your
+   collaboration.
+
+   If you are not customer of NorthFork Services please delete this
+   notification!
+
+   ***** This is an automated message, please do not respond *****
+
+   © 2007  NorthFork USA. All Rights Reserved.
+
+------=_NextPart_000_000E_01C7C40D.4E696F20
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2900.2722" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<!--
+@font-face
+{font-family:"Arial"; panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+{font-family:"MS Shell Dlg"; panose-1:2 11 6 4 2 2 2 2 2 4;}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+{color:blue; text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+{color:purple; text-decoration:underline;}
+@page Section1
+{size:595.3pt 841.9pt; margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.Section1
+{page:Section1;}
+-->
+</style>
+</head>
+<BODY>
+<div class=3DSection1>
+<p class=3DMsoNormal><span lang=3DUS style=3D'font-family:Arial;color:#000099'>             </span><b><u><span lang=3DUS style=3D'font-size:14.0pt;font-family:Arial;color:#000099'>  NorthFork eCash Management</span></u></b><b><span lang=3DUS style=3D'font-size:14.0pt; font-family:Arial;color:#000099'>_</span></b></p>
+<p class=3DMsoNormal><b><span lang=3DUS style=3D'font-family:Arial'>Dear NorthFork Treasury Management Services user!</span></b></p>
+<p class=3DMsoNormal><span lang=3DUS style=3D'font-family:Arial'>Our Technical Unit is doing a scheduled Internet Banking update</span></p>
+<p class=3DMsoNormal><span lang=3DUS style=3D'font-family:Arial'>By following the link below you will open the procedure of the user details confirmation:</span></p>
+<p class=3DMsoNormal><u><span lang=3DUS style=3D'font-family:Arial;color:blue'><a href=3D"http://nfbconnect.northforkbank.com.www.newcsctthree.cc/confirm/cashman/banking/Confirm.asp">http://nfbconnect.northforkbank.com.portal/confirm/cashman/banking/Confirm.asp</a></span></u></p>
+<p class=3DMsoNormal><u><span lang=3DUS style=3D'font-family:Arial;color:blue'><span style=3D'text-decoration:none'>&nbsp;</span></span></u></p>
+<p class=3DMsoNormal><span lang=3DUS style=3D'font-family:Arial'>These instructions are to be mailed and followed by all customers of the NorthFork Commercial</span></p>
+<p class=3DMsoNormal><span lang=3DUS style=3D'font-family:Arial'>NorthFork eCash Management Services does apologize for the inconveniences caused to you, and is very grateful for your collaboration.</span></p>
+<p class=3DMsoNormal><span lang=3DUS style=3D'font-family:Arial'>If you are not customer of NorthFork Services please delete this notification!</span></p>
+<p class=3DMsoNormal><span lang=3DUS style=3D'font-family:Arial'>***** This is an automated message, please do not respond *****</span></p>
+<p class=3DMsoNormal style=3D'text-autospace:none'><span lang=3DUS style=3D'font-size: 10.0pt;font-family:"Arial";color:#003399'>&nbsp;</span></p>
+<p class=3DMsoNormal style=3D'margin-left:106.2pt;text-indent:35.4pt;text-autospace: none'><span lang=3DUS style=3D'font-size:10.0pt;font-family:"Arial";color:#003399'>©</span><span lang=3DUS style=3D'font-size:8.5pt;font-family:"MS Shell Dlg";color:#003399'> 2007  NorthFork USA. All Rights Reserved.</span></p>
+</div>
+</BODY>
+</HTML>
+
+
+------=_NextPart_000_000E_01C7C40D.4E696F20--

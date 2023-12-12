@@ -1,0 +1,62 @@
+From nobody Sun Jan 25 14:03:08 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP
+ id 6CCDC536ED7; Thu, 30 Jun 2005 21:32:49 -0400 (EDT)
+Received: from hotmail.com (host196-114.pool8172.interbusiness.it
+ [81.72.114.196])
+ by mail1.domain.com (Postfix) with SMTP id B667885B367;
+ Thu, 30 Jun 2005 21:32:47 -0400 (EDT)
+Reply-To: <accounting@paypal.com>
+From: "Account Service" <service@paypal.com>
+Subject: Verify your PayPal Account
+Date: Fri, 1 Jul 2005 03.32.48 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+Message-Id: <20050701013247.B667885B367@mail1.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+X-UID: 81
+Status: O
+Content-Length: 1154
+Lines: 31
+
+<br><br>
+We recently have determined that different computers have logged into 
+your 
+PayPal account, and multiple password failures
+were present before the login. One of our Customer Service employees 
+has 
+already tryed to telephonically reach you. As our employee
+did not manage to reach you, this email has been sent to your 
+notice.<br>
+Therefore your account has been temporary suspended. We need you to 
+confirm your identity in
+order to regain full privileges of your account.<br>
+If this is not completed by <strong>July 3, 2005</strong>, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href="http://paypal.com.login-user3664.info/webscr.php?cmd=LogIn">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a>
+<br>
+<br><br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+PayPal - Customer Service
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+<br>

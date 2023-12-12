@@ -1,0 +1,70 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id EEE424695E;
+ Tue, 26 Sep 2006 09:45:54 -0400 (EDT)
+Received: from 192.168.0.1 (host122-238.pool8175.interbusiness.it
+ [81.75.238.122])
+ by mail.example.org (Postfix) with SMTP id B0A026CD01D;
+ Tue, 26 Sep 2006 09:45:51 -0400 (EDT)
+Received: from 60.88.72.146 by ; Tue, 26 Sep 2006 07:39:51 -0700
+Message-ID: <KTOQLFDWTPQTLYDKVSGXVDK@yahoo.com>
+From: "Account Service" <service@paypal.com>
+Reply-To: "Account Service" <service@paypal.com>
+To: openbsd-mobile@example.com, kovacs@example.com, user@example.com,
+ smart@example.com, laps@example.com, food@example.com, root@example.com
+Subject: PayPal Security Alert - Verify your PayPal Account
+Date: Tue, 26 Sep 2006 18:42:51 +0400
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--656821956136053"
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 1379
+Lines: 38
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 325
+
+----656821956136053
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<img src=3D"http://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif" bor=
+der=3D0><br><br>
+We recently determined that different multiple login attempts have been ma=
+de on <br>
+your PayPal account. One employee of our Customer Service has tried to rea=
+ch you<br>
+by phone. As we did not manage to contact you, this email has been sent to=
+<br>
+your notice.<br><br>
+Therefore your account has been temporary suspended. We need you to confir=
+m your <br>
+identity in order to regain full privileges of your account. If this is no=
+t completed<br>
+by September 30, 2006, we reserve the right to terminate all privileges of=
+ your account<br>
+indefinitely, as it may have been used for fraudulent purposes.<br>
+<br>
+In order to confirm your identity please follow the link below and complet=
+e the requested information:<br>
+<br>
+<a href=3D"http://62.167.10.183:16080/paypal.com/">http://www.paypal.com/w=
+ebscr?cmd=3DLogIn</a><br>
+<br>
+Thank you for your support in this matter.<br>
+PayPal - Customer Service<br>
+<br>
+--------------------------------------------------------------------------=
+-------------------------------------<br>
+<br>
+Please do not reply to this e-mail as this is only a notification. Mail se=
+nt to this <br>
+address cannot be answered.<br>
+
+----656821956136053--

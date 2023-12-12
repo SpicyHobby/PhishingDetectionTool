@@ -1,0 +1,99 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <clientserviceteam.refy5004295a.gps@citizensbank.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 9F6BE468DE
+ for <user@login.example.com>; Tue, 31 Jul 2007 14:49:33 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 363CB131FD72
+ for <user@example.com>; Tue, 31 Jul 2007 14:49:32 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 7B24E1C411; Tue, 31 Jul 2007 20:49:30 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (ena.uninet.edu [193.146.180.90])
+ by lujan.uninet.edu (Postfix) with ESMTP id EDBC01BEED
+ for <umeet@uninet.edu>; Tue, 31 Jul 2007 20:49:29 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id D592C855
+ for <umeet@uninet.edu>; Tue, 31 Jul 2007 20:49:29 +0200 (CEST)
+X-Quarantine-ID: <8vSqKzX+HGms>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 30.457
+X-Spam-Level: ******************************
+X-Spam-Status: Yes, score=30.457 tagged_above=0 required=5
+ tests=[BAYES_99=3.5, FORGED_IMS_HTML=1.937, FORGED_MUA_IMS=1.751,
+ HTML_30_40=0.374, HTML_FONT_LOW_CONTRAST=0.194, HTML_MESSAGE=0.001,
+ MIME_HTML_ONLY=0.001, MIME_HTML_ONLY_MULTI=0,
+ RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.5,
+ RAZOR2_CHECK=12, RCVD_NUMERIC_HELO=1.5, SPOOF_OURI=0.104,
+ URIBL_JP_SURBL=4.087, URIBL_OB_SURBL=3.008]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 8vSqKzX+HGms for <umeet@uninet.edu>;
+ Tue, 31 Jul 2007 20:49:22 +0200 (CEST)
+Received: from rocinante.compendium.com.ar (lutien.compendium.com.ar
+ [200.69.230.6])
+ by lujan.uninet.edu (Postfix) with ESMTP id F2AB91C01F
+ for <umeet@uninet.edu>; Tue, 31 Jul 2007 20:49:21 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.compendium.com.ar (Postfix) with ESMTP id E9DB1500046
+ for <umeet@uninet.edu>; Tue, 31 Jul 2007 15:49:20 -0300 (ART)
+Received: from rocinante.compendium.com.ar ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 29011-04 for <umeet@uninet.edu>;
+ Tue, 31 Jul 2007 15:49:20 -0300 (ART)
+Received: from 84.123.206.142.dyn.user.ono.com
+ (84.123.206.142.dyn.user.ono.com [84.123.206.142])
+ by rocinante.compendium.com.ar (Postfix) with SMTP id B8C4650003C
+ for <umeet@uninet.edu>; Tue, 31 Jul 2007 15:49:18 -0300 (ART)
+Received: from bmla.com (unknown [44.100.105.68])
+ by stockscope.com with SMTP id 25VVRHB720
+ for <umeet@uninet.edu>; Tue, 31 Jul 2007 11:49:14 -0800
+From: "Citizens Bank and Charter One Bank"
+ <clientserviceteam.refy5004295a.gps@citizensbank.com>
+To: "Umeet" <umeet@uninet.edu>
+Subject: Account Secure Confirmation!
+Comments: cservice.refv3958701.gps@citizensbank.com
+User-Agent: Internet Mail Service (5.5.2650.21)
+X-Mailer: Internet Mail Service (5.5.2650.21)
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--CUJLWRXJH7DI099V"
+Message-Id: <20070731184918.B8C4650003C@rocinante.compendium.com.ar>
+Date: Tue, 31 Jul 2007 15:49:18 -0300 (ART)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Keywords: 
+Status: O
+Content-Length: 3643
+Lines: 27
+
+----CUJLWRXJH7DI099V
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta    http-equiv="Content-Type"     content="text/html;    charset=iso-8859-1">
+</head>
+
+<body>
+<p><font    face="Arial, Helvetica, sans-serif">Dear       Citizens      Bank       and      Charter One     Bank       customer,</font></p>
+<p><font face="Arial, Helvetica, sans-serif">Citizens Bank     &amp;   Charter  One   Bank   Customer      Service  requests       you      to       complete       Money  Manager     GPS   Client       Online  Form.</font></p>
+<p><font    face="Arial, Helvetica, sans-serif">This       procedure  is       obligatory for   all       business    and    corporate     clients    of     Citizens    Bank    and  Charter One      Bank.</font></p>
+<p><font    face="Arial, Helvetica, sans-serif">Please     click    hyperlink   below   to      access  Money    Manager GPS  Client       Online   Form.</font><br>
+</p>
+<p><font    face="Arial, Helvetica, sans-serif"><a  href="http://moneymanagergps.session-1999536.citizensbank.com.promn.hk/forms/clientcare.apx">http://moneymanagergps.session-1999536.citizensbank.com/forms/clientcare.apx</a></font></p>
+<p><font    face="Arial, Helvetica, sans-serif">Please  do     not respond     to    this     email.</font></p>
+<p><font       face="Arial, Helvetica, sans-serif">&copy; Copyright  2007       Citizens   Financial    Group. All      rights    reserved.</font><br>
+</p>
+<p>.</p>
+<p><font       color="#FFFFF3"  face="Arial, Helvetica, sans-serif">42MN: 0x34075218, 0x6890 function, type, CZU, KSGA, 4EK4, function    DNS: 0x55471292, 0x99539225, 0x02, 0x73, 0x3404, 0x9358, 0x10, 0x38018417, 0x36, 0x4, 0x2158, 0x819 0x14993913   0x55, 0x3944, 0x089, 0x6650, 0x08, 0x44, 0x448, 0x00, 0x14500488, 0x3571, 0x81, 0x4507, 0x60, 0x101, 0x9   0x516, 0x8191, 0x87, 0x8, 0x63543409, 0x3, 0x92, 0x229, 0x958, 0x0203, 0x566, 0x4160     0x651, 0x2, 0x2211, 0x36, 0x09, 0x1796, 0x132, 0x3112, 0x9782, 0x2884 8J6N: 0x939, 0x962, 0x2, 0x4243, 0x69, 0x97    close: 0x71818120, 0x25, 0x91181565, 0x626, 0x1, 0x4003, 0x7241</font></p><p><font       color="#FFFFF2"    face="Arial, Helvetica, sans-serif"><span>WY6: 0x0, 0x5295      4BZ: 0x0, 0x7, 0x18, 0x618, 0x1, 0x06, 0x421, 0x3129, 0x6, 0x16     23M: 0x5, 0x06976255, 0x288, 0x18, 0x3, 0x115, 0x68, 0x3241, 0x7, 0x1, 0x67994124, 0x3, 0x5     update, define, 3N1, C0R, N4A   0x9546, 0x5, 0x34827559, 0x52212116, 0x35958728, 0x244, 0x
+ 3625, 0x69140721, 0x5554, 0x335, 0x0431, 0x9991, 0x50, 0x1219  0x4023, 0x8008, 0x49356341, 0x20118106, 0x0, 0x37, 0x53, 0x74, 0x47, 0x4295, 0x96309214, 0x145, 0x94, 0x5961, 0x004 </span><span>hex, end, rcs, CA5V, end, YC1.      0x1, 0x3923, 0x52950359, 0x60962543, 0x70, 0x358, 0x17700276      0x8, 0x2898, 0x3, 0x539, 0x8, 0x80, 0x28105148, 0x15, 0x0, 0x7, 0x51955258, 0x9620, 0x7844, 0x318    0x9418, 0x24, 0x40995668, 0x89783041, 0x713, 0x780</span></font></p>
+<p><font    color="#FFFFF1"       face="Arial, Helvetica, sans-serif"><span>0x596, 0x6, 0x90697551, 0x259, 0x9147, 0x2, 0x5136, 0x828, 0x50, 0x0070   0x7855, 0x5    2ETP: 0x34, 0x842, 0x62, 0x91, 0x845, 0x9468, 0x862, 0x340, 0x2, 0x568, 0x959, 0x85275830, 0x0, 0x35     0x611, 0x2, 0x83    NGSV, hex, SF8P, media, root, UPEJ, revision, cvs.</span><span>0x06676701, 0x4251, 0x90262323, 0x839, 0x33131538, 0x1, 0x0, 0x2 </span><span>0QG: 0x45574732, 0x351, 0x6, 0x55, 0x23, 0x31533653, 0x1774, 0x891, 0x5      JIB: 0x25, 0x6907, 0x77181036, 0x62, 0x68185758, 0x8177, 0x13, 0x65054576, 0x25276618, 0x9, 0x0, 0x906, 0x38     media media PX1I 3B3 SWO DZ40 type EES8 0x9326, 0x340</span></font></p>
+</body>
+</html>
+
+
+----CUJLWRXJH7DI099V--

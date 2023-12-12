@@ -1,0 +1,77 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <root@vmhost5.ukbboss.co.uk>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 9F584468CC
+ for <user@login.example.com>; Thu, 26 Apr 2007 14:28:05 -0400 (EDT)
+X-Greylist: delayed 33376 seconds by postgrey-1.27 at mail.example.org;
+ Thu, 26 Apr 2007 14:28:04 EDT
+Received: from vmhost5.ukbboss.co.uk (unknown [82.108.177.182])
+ by mail.example.org (Postfix) with ESMTP id 6ABED131F9F2
+ for <user@example.com>; Thu, 26 Apr 2007 14:28:03 -0400 (EDT)
+Received: from vmhost5.ukbboss.co.uk (localhost [127.0.0.1])
+ by vmhost5.ukbboss.co.uk (8.13.1/8.13.1) with ESMTP id l3QINJ3T006049
+ for <user@example.com>; Thu, 26 Apr 2007 19:23:19 +0100
+Received: (from root@localhost)
+ by vmhost5.ukbboss.co.uk (8.13.1/8.13.1/Submit) id l3QINJ15006048;
+ Thu, 26 Apr 2007 19:23:19 +0100
+Date: Thu, 26 Apr 2007 19:23:19 +0100
+Message-Id: <200704261823.l3QINJ15006048@vmhost5.ukbboss.co.uk>
+To: user@example.com
+Subject: Please Update Your Profile - Personal Information Error
+From: Bank of America Service <service101@email-bankofamerica.com>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1175
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p>
+<img alt="Bank of America Higher Standards" src="http://alert.bankofamerica.com/images/client/bankofamerica/email_masthead_top.jpg" width="747" height="70"></p>
+<p>
+<img alt="Customer using a laptop for Online Banking" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg" width="160" height="103"><img alt="Online Banking Alert" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif" width="193" height="103"></p>
+<p> </p>
+<h1>Online Banking Profile Update Required.</h1>
+<hr SIZE="1">
+<p><font size="4"></font> Dear Valued Customer :</p>
+<p>
+We recently performed a system maintenance on our Secure-Server for Online
+Banking users, this is to ensure that our Valued customers such as you access
+your accounts easily and without hassles . This Upgrade was designed in order to
+provide a better and risk-free Online Banking session, during an attempt to
+upgrade your account into our newly-secured secured-server we were unable to
+update your account therefore leading us to send you this e-mail letter which
+was sent directly from our Secured Updating Server. You are required to click on
+the " Update Now " link stated below in order to update your account ,
+clicking on the " Update Now " will take you to our external secured server (
+Fully Secured ) where you will be required to fill in necessary information in
+order to complete your update process . Click on the " Update Now " link below :</p>
+<p><font size="4"></font><a href="http://h-68-165-177-171.lsanca54.covad.net/onlineid/cgi-bin/onlineid.bankofamerica/sso.login.controller/.www.bankofamerica.com/?ssl=promos/jump/checking/?cm_sp=Deposits-Checking-_-Free%20Checking%20with%20Direct%20Deposit-_-Open%20Now"><font size="4">Update
+Now</font></a></p>
+<p> Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .</p>
+<p></p>
+<p><font size="4">Online Banking Accounts Department -</font></p>
+<p><b><font size="4"> </font></b><font size="4">Bank Of
+America</font><b><font size="4"> .</font></b></p>
+<p>Bank of America, Member FDIC.
+<img alt="Official Sponsor 2004-2008 U.S. Olympic Teams" src="http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif" align="right" width="131" height="33"><br>
+© 2007 Bank of America Corporation. All Rights Reserved.</p>
+
+</body>
+
+</html>

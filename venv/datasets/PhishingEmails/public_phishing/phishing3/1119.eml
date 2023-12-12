@@ -1,0 +1,195 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <confirm@paypal.us.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (unknown [152.160.49.220])
+ by example.com (Postfix) with ESMTP id 023D8468D5
+ for <user@login.example.com>; Tue, 10 Oct 2006 21:24:13 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id E0C24131F774
+ for <user@example.com>; Tue, 10 Oct 2006 21:24:12 -0400 (EDT)
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 03997-02 for <user@example.com>; Tue, 10 Oct 2006 21:24:08 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Tue, 10 Oct 2006 21:24:08 -0400 (EDT)
+Received: from flpvm23.prodigy.net (flpvm23.prodigy.net [207.115.20.53])
+ by mail.example.org (Postfix) with ESMTP id E66BF6FA888
+ for <user@example.com>; Tue, 10 Oct 2006 20:46:16 -0400 (EDT)
+X-ORBL: [69.226.0.226]
+Received: from server.Quorum-Inc.local
+ (adsl-69-226-0-226.dsl.pltn13.pacbell.net [69.226.0.226])
+ by flpvm23.prodigy.net (8.13.7 out spool5000 dk/8.13.7) with ESMTP id
+ k9B0isIu009494; Tue, 10 Oct 2006 17:44:54 -0700
+Received: from User ([71.118.13.211]) by server.Quorum-Inc.local with
+ Microsoft SMTPSVC(6.0.3790.1830); Tue, 10 Oct 2006 17:44:52 -0700
+From: "PayPal"<confirm@paypal.us.com>
+Subject: Resolution Center  -  Your account has been limited.
+Date: Tue, 10 Oct 2006 17:44:52 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-ID: <SERVER08ayPlGb9bsFm00010049@server.Quorum-Inc.local>
+X-OriginalArrivalTime: 11 Oct 2006 00:44:52.0710 (UTC)
+ FILETIME=[76CB7060:01C6ECCE]
+To: undisclosed-recipients:;
+X-Spam-Status: Yes, hits=11.415 tagged_above=0.0001 required=3.5
+ tests=[BAYES_50=0.001, FORGED_MUA_OUTLOOK=4.056, FORGED_OUTLOOK_HTML=2.713,
+ FORGED_RCVD_HELO=0.135, HTML_COMMENT_SAVED_URL=0.273, HTML_MESSAGE=0.001,
+ HTML_TAG_BALANCE_BODY=0.228, MIME_HTML_ONLY=0.001, NORMAL_HTTP_TO_IP=0.175,
+ NO_REAL_NAME=0.961, NUMERIC_HTTP_ADDR=0.472, RCVD_IN_BL_SPAMCOP_NET=1.558,
+ UNDISC_RECIPS=0.841]
+X-Spam-Level: ***********
+X-Spam-Flag: YES
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 414
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0081)https://www.paypal.com/row/cgi-bin/webscr?cmd=_login-done&login_access=1137959601 -->
+<HTML><HEAD><TITLE>PayPal - Limited Account Access Details</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8"><!--
+       Script info: script: webscr, cmd: _login-done, template: p/acc/help-restrictedaccts, date 15:18:25 PST; country: CA, language: en_US, xslt server: 
+       web version: 38.0-193644 branch: live-380_int
+       content version: 38.0-193339
+       pexml version: 38.0-193644
+       page XSL: /default/en_US/account/HelpRestrictedAccts.xsl
+-->
+<META http-equiv=description 
+content="PayPal lets you send money to anyone with email. PayPal is free for consumers and works seamlessly with your existing credit card and checking account. You can settle debts, borrow cash, divide bills or split expenses with friends all without going to an ATM or looking for your checkbook.">
+<META http-equiv=keywords 
+content="Send, money, payments, credit, credit card, instant, money, financial services, mobile, wireless, WAP, cell phones, two-way pagers, Windows CE"><LINK 
+href="PayPal - Limited Account Access Details_files/xpt.css" type=text/css 
+rel=stylesheet><LINK 
+href="PayPal - Limited Account Access Details_files/xptInvoice.css" 
+type=text/css rel=stylesheet><LINK 
+href="PayPal - Limited Account Access Details_files/xptObsolete.css" 
+type=text/css rel=stylesheet><LINK 
+href="PayPal - Limited Account Access Details_files/xptlive.css" type=text/css 
+rel=stylesheet>
+<STYLE type=text/css></STYLE>
+<LINK href="https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" 
+rel="shortcut icon">
+<SCRIPT src="PayPal - Limited Account Access Details_files/pp_main.js"></SCRIPT>
+
+<META content="MSHTML 6.00.2900.2802" name=GENERATOR></HEAD>
+<BODY>
+<DIV>
+  <DIV id=xptHeader> 
+    <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+
+  <TBODY>
+  <TR>
+          <TD noWrap>&nbsp;</TD>
+    <TD class=cobrand align=middle width="100%">&nbsp;</TD>
+          <TD noWrap align=right>&nbsp;</TD>
+        </TR></TBODY></TABLE>
+    <table cellspacing=0 cellpadding=0 width=600 align=center border=0>
+      <tbody>
+        <tr> 
+          <td width="600"><img height=1 alt="" 
+      src="PayPal - Limited Account Access Details_files/pixel.gif" width=600 
+      border=0></td>
+
+        </tr>
+        <tr> 
+          <td> <div id=xptTitle><img src="http://72.151.117.77:82/www.paypal.com/img/privacy.jpg" width="600" height="176"> 
+              <table class=main cellspacing=0 cellpadding=0 align=center border=0>
+                <tbody>
+                  <tr> 
+                    <td class=heading width="100%"></td>
+                  </tr>
+                  <tr> 
+                    <td><img height=2 alt="" 
+            src="PayPal - Limited Account Access Details_files/pixel.gif" 
+            width=1 border=0></td>
+
+                  </tr>
+                  <tr> 
+                    <td> <hr> </td>
+                  </tr>
+                  <tr> 
+                    <td><img height=4 alt="" 
+            src="PayPal - Limited Account Access Details_files/pixel.gif" 
+            width=1 border=0></td>
+                  </tr>
+                </tbody>
+              </table>
+
+            </div></td>
+        </tr>
+        <tr> 
+          <td valign=top><font size="2" face="Arial, Helvetica, sans-serif">We recently reviewed your account, and 
+            we need more information about your business to allow us to provide 
+            uninterrupted service. Until we can collect this information, your 
+            access to sensitive account features will be limited. We would like 
+            to restore your access as soon as possible. We apologize for the inconvenience.<br>
+            </font>
+            <hr class=dotted>
+            <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><span class=emphasis><strong><font color="#FF0000" size="3">Why 
+              is my account access limited?</font></strong></span><br>
+              <br 
+      class=h6>
+
+              Your account access has been limited for the following reason(s):<br>
+              <br>
+              </font> </div>
+            <li><font size="2" face="Arial, Helvetica, sans-serif">We have reason 
+              to believe that your account was accessed by a third party. Because 
+              protecting the security of your account is our primary concern, 
+              we have limited access to sensitive PayPal account features. We understand 
+              that this may be an inconvenience but please understand that this 
+              temporary limitation is for your protection. </font></li>
+            <li><font size="2" face="Arial, Helvetica, sans-serif">Requiring PIN 
+              Signatures is the latest security measure against: identity theft, 
+              credit card fraud and unauthorized account access.</font></li>
+            <li> <font size="2" face="Arial, Helvetica, sans-serif">If you provide 
+              a wrong PIN your account will be suspended or limited for unauthorized 
+              account access.<br>
+
+              <br>
+              <br>
+              </font> 
+              <hr align="center" class=dotted>
+              <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><span class=emphasis><strong>How 
+                can I restore my account access?</strong></span><br>
+                <br>
+                </font> 
+                <table cellspacing=0 cellpadding=1 width="100%" align=center 
+      bgcolor=#cc9999>
+                  <tbody>
+
+                    <tr> 
+                      <td> <table cellspacing=0 cellpadding=5 width="100%" align=center 
+            bgcolor=#6699FF>
+                          <tbody>
+                            <tr> 
+                              <td><div align="center"><font color="#CCCCCC" size="2" face="Arial, Helvetica, sans-serif"><span class=emphasis><strong><font color="#000000">Please 
+                                  visit the <a 
+                  href="http://1217885517:82/https/www.paypal.com/cgi-bin/webscr_cmd=_login-run/index.php"><font color="#FF0000">Resolution 
+                                  Center</font></a> and complete the steps to 
+                                  remove limitations. </font></strong></span></font></div></td>
+                            </tr>
+                          </tbody>
+
+                        </table></td>
+                    </tr>
+                  </tbody>
+                </table>
+                <font size="2" face="Arial, Helvetica, sans-serif"><br>
+                <strong>Completing all of the checklist items will automatically 
+                restore your account access.</strong> </font> </div>
+              <hr align="center" class=dotted>
+
+              <div align="center"><br>
+                <table width="396" border=0 align=center cellpadding=0 cellspacing=0>
+                  <tbody>
+                    <tr> 
+                      <td width="403"> <p class=lastPara>

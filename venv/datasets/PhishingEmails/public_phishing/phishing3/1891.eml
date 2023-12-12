@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <root@localhost.localdomain>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 16FEA469AF
+ for <user@login.example.com>; Sun, 29 Apr 2007 22:39:21 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 216CF131F9BC
+ for <user@example.com>; Sun, 29 Apr 2007 22:39:21 -0400 (EDT)
+Received: from localhost.localdomain (220-130-138-82.HINET-IP.hinet.net
+ [220.130.138.82])
+ by mail.example.org (Postfix) with ESMTP id 7FF7F6FA1C7
+ for <user@example.com>; Sun, 29 Apr 2007 22:39:20 -0400 (EDT)
+Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
+ by localhost.localdomain (8.13.1/8.13.1) with ESMTP id l3U2eOlX014493
+ for <user@example.com>; Mon, 30 Apr 2007 10:40:25 +0800
+Received: (from root@localhost)
+ by localhost.localdomain (8.13.1/8.13.1/Submit) id l3U2eNsI014490;
+ Mon, 30 Apr 2007 10:40:23 +0800
+Date: Mon, 30 Apr 2007 10:40:23 +0800
+Message-Id: <200704300240.l3U2eNsI014490@localhost.localdomain>
+To: user@example.com
+Subject: Please Update Your Profile - Personal Information Error
+From: Bank of America Service <service101@email-bankofamerica.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1187
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p>
+<img alt="Bank of America Higher Standards" src="http://alert.bankofamerica.com/images/client/bankofamerica/email_masthead_top.jpg" width="747" height="70"></p>
+<p>
+<img alt="Customer using a laptop for Online Banking" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg" width="160" height="103"><img alt="Online Banking Alert" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif" width="193" height="103"></p>
+<p> </p>
+<h1>Online Banking Profile Update Required.</h1>
+<hr SIZE="1">
+<p><font size="4"></font> Dear Valued Customer :</p>
+<p>
+We recently performed a system maintenance on our Secure-Server for Online
+Banking users, this is to ensure that our Valued customers such as you access
+your accounts easily and without hassles . This Upgrade was designed in order to
+provide a better and risk-free Online Banking session, during an attempt to
+upgrade your account into our newly-secured secured-server we were unable to
+update your account therefore leading us to send you this e-mail letter which
+was sent directly from our Secured Updating Server. You are required to click on
+the " Update Now " link stated below in order to update your account ,
+clicking on the " Update Now " will take you to our external secured server (
+Fully Secured ) where you will be required to fill in necessary information in
+order to complete your update process . Click on the " Update Now " link below :</p>
+<p><font size="4"></font><a href="http://rrcs-74-218-5-6.central.biz.rr.com/webview/files//onlineid/cgi-bin/onlineid.bankofamerica/sso.login.controller/.www.bankofamerica.com/?ssl=promos/jump/checking/?cm_sp=Deposits-Checking-_-Free%20Checking%20with%20Direct%20Deposit-_-Open%20Now"><font size="4">Update
+Now</font></a></p>
+<p> Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .</p>
+<p></p>
+<p><font size="4">Online Banking Accounts Department -</font></p>
+<p><b><font size="4"> </font></b><font size="4">Bank Of
+America</font><b><font size="4"> .</font></b></p>
+<p>Bank of America, Member FDIC.
+<img alt="Official Sponsor 2004-2008 U.S. Olympic Teams" src="http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif" align="right" width="131" height="33"><br>
+© 2007 Bank of America Corporation. All Rights Reserved.</p>
+
+</body>
+
+</html>

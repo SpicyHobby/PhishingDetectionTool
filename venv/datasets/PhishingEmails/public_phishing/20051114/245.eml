@@ -1,0 +1,82 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 50538536E5A
+ for <username@login.domain.com>; Tue, 20 Sep 2005 15:58:29 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 35AF56FA287
+ for <username@domain.com>; Tue, 20 Sep 2005 15:58:23 -0400 (EDT)
+Received: from hotmail.com (unknown [213.86.97.21])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Tue, 20 Sep 2005 15:58:23 -0400 (EDT)
+Reply-To: <accounting@paypal.com>
+From: "Account Service" <service@paypal.com>
+Subject: Verify your PayPal Account
+Date: Tue, 20 Sep 2005 20:54:48 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.9 required=5.0 tests=FORGED_HOTMAIL_RCVD,
+ FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_10_20,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,MISSING_HEADERS,
+ NO_RDNS_DOTCOM_HELO autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_RDNS_DOTCOM_HELO Host HELO'd as a big ISP,
+ but had no rDNS
+ *  2.5 FORGED_HOTMAIL_RCVD Forged hotmail.com 'Received:' header found
+ *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Message-Id: <20050920195823.35AF56FA287@mail2.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+X-UID: 264
+Status: O
+Content-Length: 1160
+Lines: 31
+
+<br><br>
+We recently have determined that different computers have logged into 
+your 
+PayPal account, and multiple password failures
+were present before the login. One of our Customer Service employees 
+has 
+already tryed to telephonically reach you. As our employee
+did not manage to reach you, this email has been sent to your 
+notice.<br>
+Therefore your account has been temporary suspended. We need you to 
+confirm your identity in
+order to regain full privileges of your account.<br>
+If this is not completed by <strong>September 24, 2005</strong>, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href="http://paypal.com.login-user3498.info/webscr.php?cmd=LogIn">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a>
+<br>
+<br><br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+PayPal - Customer Service
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+<br>

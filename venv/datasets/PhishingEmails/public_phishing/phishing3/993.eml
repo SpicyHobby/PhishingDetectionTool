@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <augustus@chocofan.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 238FF46A57;
+ Tue, 19 Sep 2006 19:22:48 -0400 (EDT)
+Received: from S01060011d82d4373.vc.shawcable.net
+ (S01060011d82d4373.vc.shawcable.net [24.83.103.44])
+ by mail.example.org (Postfix) with SMTP id 1132D6CCF30;
+ Tue, 19 Sep 2006 19:22:37 -0400 (EDT)
+Message-Id: <33918939.02031567@commonwealthbank.com.au>
+From: "Commonwealth Bank support" <dontreply-4071@commonwealthbank.com.au>
+Date: Tue, 19 Sep 2006 21:17:32 -0300
+To: user@example.com
+Subject: Commonwealth Bank of Australia urgent notification 352EU
+Mime-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Content-Length: 1655
+Lines: 41
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 288
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Commonwealth Bank</title>
+<style type="text/css">
+<!--
+style2 {font-family: Verdana, Arial, Helvetica, sans-serif}
+style3 {
+	font-size: 12px;
+	color: #999999;
+}
+style4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999999;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="513" border="0" cellpadding="0">
+  <tr>
+    <td><img src="http://www.commbank.com.au/CommonImages/CBA_Logo.gif" alt="logo" width="262" height="46" /></td>
+  </tr>
+  <tr>
+    <td><p>&nbsp;</p>
+      <p class="style2">Dear Commonwealth Bank of Australia customer, </p>
+      <p class="style2">Due to recent hardware failure and partial loss of our database we decided to review our customers account information to prevent security problems.<br />
+        All our customers are required to provide valid information. Once your information is verified you will not run into any further problems.<br />
+        Please follow the link below to complete validation process:</p>
+      <p class="style2"><a href="http://www3.netbank.commbank.com.au.user5288.net/netbank/bankmain">http://www3.netbank.commbank.com.au.user5288.net/netbank/bankmain</a></p>
+      <p class="style2">Thank You,<br />
+        Commonwealth Bank of Australia Management Stuff </p>
+      <p class="style2">--<br />
+        <span class="style3">Please do not reply to this email. This mailbox is not monitored and you will not receive a response.</span></p>
+      <p class="style4">1822CYH308HSB84QTAR2367BP</p>    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,52 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <accounts@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 86D0D4690C
+ for <user@login.example.com>; Tue,  1 May 2007 20:49:53 -0400 (EDT)
+X-Greylist: delayed 1765 seconds by postgrey-1.27 at mail.example.org;
+ Tue, 01 May 2007 20:49:53 EDT
+Received: from mail.godsriver.com (mail.godsriver.com [64.147.204.65])
+ by mail.example.org (Postfix) with ESMTP id D40CE131F943
+ for <user@example.com>; Tue,  1 May 2007 20:49:53 -0400 (EDT)
+Received: from User [70.239.124.250] by mail.godsriver.com with ESMTP
+ (SMTPD32-8.05) id A92F664200EC; Tue, 01 May 2007 20:19:59 -0400
+Reply-To: accounts@paypal.com
+From: service@paypal.com<accounts@paypal.com>
+Subject: New email address added to your account!
+Date: Tue, 1 May 2007 18:20:02 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-Id: <200705012020992.SM02168@User>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1201
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="Courier New" size="2">You have added <FONT face="Courier New" size="2">suge-o@peoplepc.com</A> as a new email address for<br> your
+PayPal account.<br></p></FONT>
+
+<P><FONT face="Courier New" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please contact PayPal customer service at:<br></p></FONT>
+
+<P><FONT face="Courier New" size="2"><A href="http://rds.yahoo.com/_ylt=A0geu9Sj6zZGbB4AGyJXNyoA/SIG=12ave6hgn/EXP=1178090787/**http%3a//mail.alianzaplus.com.co/icons/small/.douasnoua/">
+<FONT face="Courier New" size="2">https://www.paypal.com/us/f=ap_email</A><br></p></FONT>
+<P><FONT face="Courier New" size="2">Thank you for using PayPal!<br>
+The PayPal Team</p></FONT><br>
+<P><FONT face="Courier New" size="2">Please do not reply to this e-mail. Mail sent to this address cannot<br> be
+answered. For assistance, log in to your PayPal account and choose<br> the
+"Help" link in the header of any page.<br></p></FONT>

@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <service@aw-paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 0C6E346A88
+ for <user@login.example.com>; Thu, 28 Jun 2007 19:46:26 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 30ABC131FCF6
+ for <user@example.com>; Thu, 28 Jun 2007 19:46:26 -0400 (EDT)
+Received: from relay1.mail.uk.clara.net (relay1.mail.uk.clara.net
+ [80.168.70.181])
+ by mail.example.org (Postfix) with ESMTP id 08B566FA1C4
+ for <user@example.com>; Thu, 28 Jun 2007 19:46:26 -0400 (EDT)
+Received: from [80.168.189.142] (helo=kiddy01.kiddyandpartners.com)
+ by relay1.mail.uk.clara.net with esmtp (Exim 4.62)
+ (envelope-from <service@aw-paypal.com>)
+ id 1I43fE-0001a5-Th; Fri, 29 Jun 2007 00:44:41 +0100
+Received: from admin ([86.125.94.253]) by kiddy01.kiddyandpartners.com with
+ Microsoft SMTPSVC(6.0.3790.1830); Fri, 29 Jun 2007 00:42:33 +0100
+Reply-To: <no.reply@payapl.us>
+From: "PayPal"<service@aw-paypal.com>
+Subject: Authorization Request
+Date: Thu, 29 Mar 2007 14:44:38 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <KIDDY01vP3D6g5dwDAx00000907@kiddy01.kiddyandpartners.com>
+X-OriginalArrivalTime: 28 Jun 2007 23:42:33.0875 (UTC)
+ FILETIME=[00173E30:01C7B9DE]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1451
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="Courier New" size="2">You have added <A href="http://anthonycage.com/images/.paypal/index.html">
+<FONT face="Courier New" size="2">terryhacker@yahoo.com.jp</A> as a new email address for<br> your
+PayPal account.<br></p></FONT>
+
+<P><FONT face="Courier New" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please use PayPal email restore service at:<br></p></FONT>
+
+<P><FONT face="Courier New" size="2"><A href="http://anthonycage.com/images/.paypal/index.html">
+<FONT face="Courier New" size="2">https://www.paypal.com/us/cgi-bin/webscr=_email-login</A><br></p></FONT>
+<P><FONT face="Courier New" size="2">Thank you for using PayPal!<br>
+The PayPal Team</p></FONT><br>
+<P><FONT face="Courier New" size="2">Please do not reply to this e-mail. Mail sent to this address cannot<br> be
+answered. For assistance, log in to your PayPal account and choose<br> the
+"Help" link in the header of any page.<br></p></FONT>
+
+<br>
+<br>
+<p><FONT face="Courier New" size="2">PayPal Email ID PP35134</p></font>
+</BODY> 

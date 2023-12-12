@@ -1,0 +1,89 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <corporateclients.ref2931512824.cm@regions.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 35BED4695B
+ for <user@login.example.com>; Thu, 21 Jun 2007 15:09:12 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 8CE31131FAB7
+ for <user@example.com>; Thu, 21 Jun 2007 15:09:11 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 621441C32B; Thu, 21 Jun 2007 21:09:05 +0200 (CEST)
+Delivered-To: josu@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 4CC921C016
+ for <josu@uninet.edu>; Thu, 21 Jun 2007 21:09:05 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 2B25B8A9
+ for <josu@uninet.edu>; Thu, 21 Jun 2007 21:09:05 +0200 (CEST)
+X-Quarantine-ID: <crGp-FxuvvQa>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 23.56
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.56 tagged_above=0 required=5 tests=[BAYES_99=3.5, 
+ DNS_FROM_RFC_POST=1.708, DNS_FROM_RFC_WHOIS=1.447,
+ FROM_LOCAL_HEX=1.305, HTML_30_40=0.374, HTML_FONT_LOW_CONTRAST=0.194,
+ HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.001, MIME_HTML_ONLY_MULTI=0,
+ MSGID_FROM_MTA_ID=1.393, RAZOR2_CF_RANGE_51_100=0.5,
+ RAZOR2_CF_RANGE_E8_51_100=1.5, RCVD_HELO_IP_MISMATCH=4,
+ RCVD_IN_NJABL_DUL=1.946, RCVD_NUMERIC_HELO=1.5, SPOOF_OURI=0.104,
+ URIBL_JP_SURBL=4.087]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id crGp-FxuvvQa for <josu@uninet.edu>;
+ Thu, 21 Jun 2007 21:08:54 +0200 (CEST)
+Received: from 193.146.180.65 (unknown [41.201.207.3])
+ by lujan.uninet.edu (Postfix) with SMTP id A5F701C016
+ for <josu@uninet.edu>; Thu, 21 Jun 2007 21:08:50 +0200 (CEST)
+Received: from windowsupdate.com [66.228.108.146]
+ by gammanetworking.com with SMTP id RH6VXEYTFQ
+ for <josu@uninet.edu>; Thu, 21 Jun 2007 22:08:47 +0200
+Received: from laid.gmx.net (seduce.gmx.net [123.200.55.148])
+ by cenara.com with SMTP id RYKRN4UP87
+ for <josu@uninet.edu>; Thu, 21 Jun 2007 14:02:47 -0600
+X-Message-Id: <8784499407632115.16243.clientdepmnt.ref3131429324413.cm@regions.com>
+From: "Regions bank" <corporateclients.ref2931512824.cm@regions.com>
+To: "Josu" <josu@uninet.edu>
+Subject: important account notice from Regions Bank!
+X-Message-Id: <8784499407632115.16243.clientdepmnt.ref3131429324413.cm@regions.com>
+User-Agent: MailGate v3.0
+X-Mailer: MailGate v3.0
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8R71_HIQJ0CSSGCD.1NS5223"
+Message-Id: <20070621190850.A5F701C016@lujan.uninet.edu>
+Date: Thu, 21 Jun 2007 21:08:50 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1430
+
+----8R71_HIQJ0CSSGCD.1NS5223
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta      http-equiv="Content-Type"  content="text/html;      charset=iso-8859-1"  />
+</head>
+
+<body>
+<p><font      face="Arial">Dear business       client    of      <b>Regions       Bank</b>:</font></p>
+<p><font   face="Arial">The      Regions      Customer    Service      requests       you  to   complete      the Regions   InterAct Confirmation     Form.</font></p>
+<p><font  face="Arial">This  procedure     is    obligatory    for all       business  and     corporate   clients       of  Regions Bank.</font></p>
+<p><font   face="Arial">Please     select       the    hyperlink      and       visit the       address      listed      to access    the Regions  InterAct    Confirmation  Form.</font><br>
+</p><p><font face="Arial"><a href="http://interactsession-1678439.regions.com.djuehd.hk/ibsregions/cmserver/iform.cfm">http://interactsession-1678439.regions.com/ibsregions/cmserver/iform.cfm</a></font></p>
+<p><font face="Arial">Again,     thank       you    for    choosing      Regions Bank for    your       business  needs.       We  look   forward      to       working  with    you.</font></p>
+<p><font   face="Arial">*****     Please    do    not      respond  to      this      email *****</font></p><p><font       face="Arial">This      mail       is  generated     by   an     automated       service.<br>
+Replies    to    this       mail  are    not read by   Regions       Bank customer    service      or       technical     support.</font><br></p>
+<p>_________________________________________________</p>
+<p><font  color="#FFFFFA" face="Arial">root: 0x7, 0x16, 0x527, 0x00, 0x76     file       root: 0x68367541, 0x561  LJZO: 0x298, 0x70810297, 0x45572368, 0x90145539, 0x4762, 0x3  0x43, 0x6, 0x172, 0x1, 0x62005621, 0x22, 0x57, 0x79382753, 0x60670368, 0x8150, 0x33 type: 0x97342129, 0x35, 0x683, 0x9, 0x08297006, 0x07, 0x6      0x31, 0x1, 0x95, 0x89, 0x173    2S9P: 0x314, 0x86, 0x54580394, 0x5   0x6296, 0x71, 0x0956, 0x7, 0x0, 0x9094, 0x739, 0x91354032, 0x95711659, 0x45</font></p><p><font      color="#FFFFFC" face="Arial"><span>exe: 0x51198920, 0x59, 0x99086747, 0x459, 0x7, 0x937, 0x5     0x9129, 0x1, 0x18, 0x927   0x2, 0x1586, 0x0505, 0x9436, 0x35078130, 0x30794750, 0x1, 0x16, 0x5398    52K, VHU3, api, 6H9W, function  0x52452791  DHSZ: 0x2, 0x1254, 0x41, 0x4, 0x6642, 0x98603328, 0x252, 0x0301, 0x44793354, 0x300  </span><span>JZA5, close, 02DX.       0x2272, 0x86, 0x076, 0x05923151   api: 0x2, 0x58186411, 0x9, 0x84, 0x15004106     0x0882, 0x6, 0x9070, 0x38, 0x442, 0x27034009, 0x7265
+ 1636, 0x974, 0x6, 0x97, 0x70, 0x15, 0x32, 0x2831</span></font></p>
+<p><font   color="#FFFFF9"    face="Arial"><span>dec: 0x73015317, 0x3, 0x3, 0x13491760, 0x61430853, 0x13, 0x3, 0x515, 0x10677745, 0x7663, 0x5, 0x016    0x425, 0x11, 0x2877, 0x2, 0x67, 0x3, 0x5213, 0x67490519, 0x022, 0x12     XDEV: 0x489    interface: 0x078, 0x775, 0x681, 0x93098184, 0x39720174, 0x8286, 0x61, 0x524, 0x8, 0x34566175   update dec 16D7 define 6HR KXR U4WN 3JKE cvs</span><span>0x982, 0x7, 0x38347168, 0x63, 0x111, 0x48963566, 0x8, 0x548, 0x4745, 0x3721, 0x7152, 0x4, 0x00394124, 0x68 </span><span>4JO7: 0x46735449, 0x3329, 0x584, 0x567     0x4, 0x23630167, 0x4753, 0x91981347, 0x653, 0x47525939   M9T, interface, A0W, start, ADW4, ZW9, H87G, create    0x11762924, 0x52, 0x299, 0x86, 0x3, 0x67034531, 0x12, 0x946, 0x80240281, 0x64, 0x0, 0x2</span></font></p>
+</body>
+</html>
+
+
+----8R71_HIQJ0CSSGCD.1NS5223--

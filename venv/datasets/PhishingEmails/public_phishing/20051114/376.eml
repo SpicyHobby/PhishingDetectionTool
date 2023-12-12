@@ -1,0 +1,126 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <confirm@ncua.gov>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 333F9536ED3
+ for <username@login.domain.com>; Tue, 25 Oct 2005 09:57:07 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id CB1C56FA45B
+ for <username@domain.com>; Tue, 25 Oct 2005 09:57:04 -0400 (EDT)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Tue, 25 Oct 2005 09:57:04 -0400 (EDT)
+Received: by lujan.domain.com (Postfix)
+ id 81A021BC49; Tue, 25 Oct 2005 15:57:06 +0200 (CEST)
+Delivered-To: umeet@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP
+ id D19391B8EA; Tue, 25 Oct 2005 13:57:04 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 18103-07; Tue, 25 Oct 2005 15:56:47 +0200 (CEST)
+Received: from 72.22.64.184 (unknown [72.22.64.184])
+ by lujan.domain.com (Postfix) with SMTP
+ id 793FD1BB50; Tue, 25 Oct 2005 15:56:36 +0200 (CEST)
+Received: from 16.156.32.160 by ; Tue, 25 Oct 2005 07:51:33 -0700
+Message-ID: <IAEHLLYDZYPGWQHNULRMJHE@msn.com>
+From: "Credit Union Security Department" <report@ncua.gov>
+Reply-To: "Credit Union Security Department" <no-reply@fncua.gov>
+To: biousr@domain.com, anunez@domain.com, conganat@domain.com,
+ ccarly@domain.com, cin@domain.com, cra@domain.com,
+ infosec@domain.com, 6fevu@domain.com, masterges@domain.com,
+ jmoro@domain.com, umeet@domain.com
+Subject: Update Your CU Account Profile
+Date: Tue, 25 Oct 2005 17:49:33 +0300
+X-Mailer: Internet Mail Service (5.5.2650.21)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--90356052029051482"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.7 required=5.0 tests=FORGED_IMS_HTML,
+ FORGED_IMS_TAGS,FORGED_MUA_IMS,HTML_10_20,HTML_MESSAGE,
+ MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  2.4 FORGED_MUA_IMS Forged mail pretending to be from IMS
+ *  2.0 FORGED_IMS_HTML IMS can't send HTML message only
+ *  2.4 FORGED_IMS_TAGS IMS mailers can't send HTML in this format
+X-Keywords: 
+Status: O
+Content-Length: 1989
+Lines: 59
+
+----90356052029051482
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <html>
+ <head>
+ </head>
+ <body>
+ Credit Union is constantly working to ensure security by regularly <br>
+screening the accounts in our system. We recently reviewed your account, <=
+br>
+and we need more information to help us provide you with secure service. <=
+br>
+Until we can collect this information, your access to sensitive account <b=
+r>
+features will be limited. We would like to restore your access as soon <br=
+>
+as possible, and we apologize for the inconvenience. <br>
+<hr>
+<br>
+Why is my account access limited? <br>
+<br>
+Your account access has been limited for the following reason(s): <br>
+* We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your <br>
+account is our primary concern, we have limited access to sensitive <br>
+Credit Union account features. We understand that this may be an <br>
+inconvenience but please understand that this temporary limitation is <br>=
+
+for your protection. <br>
+<br>
+(Your case ID for this reason is PCU1-410-320-3334.) <br>
+<br>
+<br>
+At Credit Union, one of our most important responsibilities to you, our <b=
+r>
+customer, is the safekeeping of the nonpublic personal ("confidential") <b=
+r>
+information you have entrusted to us and using this information in a <br>
+responsible manner. Appropriate use of the confidential information you <b=
+r>
+provide us is also at the heart of our ability to provide you with <br>
+exceptional personal service whenever you contact us. <br>
+<hr>
+<br>
+How can I restore my account access? <br>
+<br>
+<br>
+Please confirm your identity here: Restore
+<a href=3D"http://221.134.9.147/.CREDIT-UNION/update_card.htm">My
+Online Banking</a> and complete the "Steps to Remove Limitations." <br>
+<br>
+Completing all of the checklist items will automatically restore your <br>=
+
+account access. <br>
+</body>
+</html>
+
+----90356052029051482--

@@ -1,0 +1,274 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <payment-update@amazon.us>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id D7D82468D9
+ for <user@login.example.com>; Sat, 13 Jan 2007 20:55:32 -0500 (EST)
+X-Greylist: delayed 693 seconds by postgrey-1.27 at mail.example.org;
+ Sat, 13 Jan 2007 20:55:32 EST
+Received: from mail.goodnews4you.co.kr (unknown [218.51.60.86])
+ by mail.example.org (Postfix) with ESMTP id 54296131FC74
+ for <user@example.com>; Sat, 13 Jan 2007 20:55:32 -0500 (EST)
+Received: from User [216.123.157.162] by mail.goodnews4you.co.kr with ESMTP
+ (SMTPD32-7.14 EVAL) id AF57157C0140; Thu, 11 Jan 2007 03:24:23 +0900
+Reply-To: <noreply@amazon-inc.us>
+From: "Amazon Customer Service"<payment-update@amazon.us>
+Subject: Your Amazon account might be compromised
+Date: Wed, 10 Jan 2007 10:30:20 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200701110324765.SM01080@User>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 615
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Your Amazon account might be compromised</title>
+<style type="text/css">
+<!--
+#branding {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 45px;
+}
+#content {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        line-height: normal;
+        font-weight: normal;
+        font-variant: normal;
+        margin-left: auto;
+        margin-right: auto;
+        width: 600px;
+        margin-top: 13px;
+}
+#copyright {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        font-style: normal;
+        line-height: normal;
+        font-weight: normal;
+        font-variant: normal;
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        color: #999999;
+        margin-bottom: 10px;
+}
+#logo {
+        background-image: url(http://g-images.amazon.com/images/G/04/icons/amazon-logo.gif);
+        width: 255px;
+        height: 40px;
+        margin-right: auto;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        font-weight: normal;
+        font-variant: normal;
+        background-repeat: no-repeat;
+        margin-top: 20px;
+        display: block;
+        text-indent: -9999px;
+        margin-bottom: 10px;
+}
+#branding .logo h1 {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+}
+#blue {
+        background-image: url();
+        background-repeat: repeat-x;
+        background-color: #EEEECC;
+        height: 29px;
+}
+html {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+body {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+}
+.ppl_link {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        line-height: normal;
+        font-weight: normal;
+        font-variant: normal;
+        display: block;
+        width: 520px;
+        height: 30px;
+        margin-top: 10px;
+        text-align: center;
+        background-color: #EEEECC;
+        border: 1px solid #EEEECC;
+        padding-top: 15px;
+}
+#right {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        width: 251px;
+        float: right;
+        border: 1px solid #CCCCCC;
+        display: block;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        overflow: auto;
+}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+/*ul {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        display: block;
+        width: 95px;
+        height: 99px;
+        list-style-type: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+}
+*/
+#right #protect {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: bold;
+        font-variant: normal;
+        color: #000000;
+        display: block;
+        background-color: #DBDBDB;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        line-height: 22px;
+        text-align: center;
+}
+#content #right #nota {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #000000;
+        display: block;
+        margin: 10px;
+}
+li {
+        font-family: Arial, Helvetica, sans-serif;
+        background-image: url(http://www.aksi.net/site-security-info/verisign-logo.gif);
+        width: 95px;
+        height: 99px;
+        display: block;
+        background-repeat: no-repeat;
+        margin: 5;
+}
+ul {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        display: block;
+        width: 95px;
+        height: 99px;
+        list-style-type: none;
+        position: relative;
+        margin-right: 42px;
+        float: inherit;
+}
+#nav {
+        font-family: Arial, Helvetica, sans-serif;
+}
+#content #right #nav #repplace {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        display: block;
+        width: 95px;
+        height: 99px;
+        background-image: url(http://www.aksi.net/site-security-info/verisign-logo.gif);
+        margin-left: auto;
+        margin-right: auto;
+}
+.a {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        height: 92px;
+        width: 95px;
+        float: left;
+        display: block;
+        background-image: url(http://www.aksi.net/site-security-info/verisign-logo.gif);
+        background-repeat: no-repeat;
+        text-indent: -9999px;
+}
+
+
+-->
+</style>
+</head>
+
+<body>
+<div class="branding" id="branding">
+  <div class="logo" id="logo">
+    <h1><a href="http://61.30.77.43/aspnet_client/system_web/httpwww.amazon.comgpseller-accountmanagementyour-account.html" target="_blank">Amazon</a></h1>
+  </div>
+</div>
+
+<div class="blue" id="blue"></div>
+
+
+
+<div class="content" id="content">
+  <div id="right">
+<p id="protect">Protect Your Password</p>
+<p id="nota">You should <strong>never</strong> give your Amazon password to anyone, including Amazon employees.</p>
+</div>
+
+<span class="heading">Your Amazon account might
+be compromised</span>
+  <p><span class="style1">We have not yet received a valid method of payment and thus are unable to
+proceed with your order (#002-4082816-7257663). Your order remains open.
+
+<br />
+    <br />
+    Your credit card payment for the above transaction could not be completed.
+An issuing bank will often decline an attempt to charge a credit card if the name, expiration date, or ZIP Code you entered at Amazon. com does not exactly match the bank's information.
+<br />
+
+Valid credit card information must be received within 3 days of purchase, otherwise your order will be canceled.
+<br />
+    &nbsp;&nbsp;&nbsp;<br />
+    To verify and/or update payment information for this order, please visit the
+following page: </span></p>
+  <p class="ppl_link" id="ppl_link"><a href="http://61.30.77.43/aspnet_client/system_web/httpwww.amazon.comgpseller-accountmanagementyour-account.html">https://www.amazon.com/gp/css/account/cards/view.html?payment-update.html</a></p>
+  <p><span class="style1">This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted. Amazon and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail. <br />
+    <br />
+    You can view our privacy policy and contact information at <br />
+<a href="http://61.30.77.43/aspnet_client/system_web/httpwww.amazon.comgpseller-accountmanagementyour-account.html">https://www.amazon.com/gp/help/customer/display.html?policy_privacy</a> &nbsp;&nbsp;<br />
+  &nbsp;<br />
+    Please understand that this is a security measure intended to help protect you and your account. We apologize for any inconvenience.If you choose to ignore our request, you leave us no choice but to temporary suspend your account. Please do not reply to this e-mail. For assistance, log in to your Amazon account and choose the &quot;Help&quot; link in the header of any page.<br />
+  <br />
+  <br />
+    </span><span class="style1"><br />
+      Thank you for using Amazon!<br />
+      The Amazon Team</span><br />
+  </p>
+</div><div class="copyright" id="copyright">
+  <hr width="590" size="1" class="dotted" />
+  <p class="xptFooter">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, <a href="http://61.30.77.43/aspnet_client/system_web/httpwww.amazon.comgpseller-accountmanagementyour-account.html" target="_blank">log in</a> to your Amazon account and choose the Help link located in the top right corner of any Amazon page.<br />
+      <br class="h10" />
+  To receive email notifications in plain text instead of HTML, update your preferences <a href="http://61.30.77.43/aspnet_client/system_web/httpwww.amazon.comgpseller-accountmanagementyour-account.html" target="_blank">here</a>.<br />
+  <span class="xptFooter"><br />
+</span></p>
+  </div>
+</body>
+</html>

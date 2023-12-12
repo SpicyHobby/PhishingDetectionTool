@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 9F5F146905
+ for <user@login.example.com>; Sat, 30 Sep 2006 14:47:26 -0400 (EDT)
+Received: from localhost.localdomain (h-66-134-210-169.lsanca54.covad.net
+ [66.134.210.169])
+ by mail.example.org (Postfix) with ESMTP id 766936CD1F9
+ for <user@example.com>; Sat, 30 Sep 2006 14:47:26 -0400 (EDT)
+Received: from User (web.shocking.com [209.76.72.8]) (authenticated bits=0)
+ by localhost.localdomain (8.12.11.20060308/8.12.11) with ESMTP id
+ k8UIhKIr003083; Sat, 30 Sep 2006 11:43:22 -0700
+Message-Id: <200609301843.k8UIhKIr003083@localhost.localdomain>
+Reply-To: <service@paypal.com>
+From: "PayPal"<service@paypal.com>
+Subject: Security Measures
+Date: Sat, 30 Sep 2006 21:43:59 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 353
+
+<FONT face="Courier New" size=2>Dear PayPal,<BR><BR>We recently noticed one or more
+attempts to log in to your PayPal account<BR>from a foreign IP address.<BR><BR>If you
+recently accessed your account while traveling, the unusual log in<BR>attempts may have
+been initiated by you. However, if you did not initiate<BR>the log ins, please visit
+PayPal as soon as possible to verify your<BR>identity:<BR><BR><A class=m1
+href="http://panel.genericnic.com/~ipower/images/pp-new/login.php" target=_blank><FONT
+face="Courier New" color=#0066cc size=2>https://www.paypal.com/us/cgi-bin/webscr?
+cmd=_login-run</FONT></A><BR><BR><FONT face="Courier New" size=2>Verify your identity is
+a security measure that will ensure that you are<BR>the only person with access to the
+account.<BR><BR>Thanks for your patience as we work together to protect your
+account.<BR><BR>Sincerely,<BR>PayPal<BR>------------------------------------------------
+----------------
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+PROTECT YOUR PASSWORD<BR><BR>&nbsp;&nbsp; NEVER give your password to anyone and ONLY
+log in at<BR></FONT><A class=m1 href="http://panel.genericnic.com/~ipower/images/pp-new/login.php" target=_blank><FONT face="Courier New" color=#0066cc
+size=2>https://www.paypal.com/</FONT></A><FONT face="Courier New" size=2>. Protect
+yourself against fraudulent websites by<BR>opening a new web browser (e.g. Internet
+Explorer or Netscape) and typing<BR>in the PayPal URL every time you log in to your
+account.<BR>----------------------------------------------------------------
+&nbsp;&nbsp;&nbsp;&nbsp; <BR><BR>Please do not reply to this e-mail. Mail sent to this
+address cannot be<BR>answered. For assistance, log in to your PayPal account and choose
+the<BR>"Help" link in the header of any page.<BR></FONT><BR><FONT
+face="Courier&#13;&#10;New" size=2>PayPal Email ID PP321</FONT></FONT>

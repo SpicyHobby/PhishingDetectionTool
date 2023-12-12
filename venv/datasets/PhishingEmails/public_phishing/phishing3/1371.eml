@@ -1,0 +1,58 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <guest@localhost.localhost>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 7BAD146996
+ for <user@login.example.com>; Tue, 23 Jan 2007 10:57:03 -0500 (EST)
+X-Greylist: delayed 37695 seconds by postgrey-1.27 at mail.example.org;
+ Tue, 23 Jan 2007 10:57:03 EST
+Received: from localhost (ram94-4-82-227-154-218.fbx.proxad.net
+ [82.227.154.218])
+ by mail.example.org (Postfix) with ESMTP id 0E237131FD5A
+ for <user@example.com>; Tue, 23 Jan 2007 10:57:03 -0500 (EST)
+Received: by localhost (Postfix, from userid 1025)
+ id BF0F2BDFD85; Tue, 23 Jan 2007 14:09:31 +0100 (CET)
+To: user@example.com
+Subject: Unauthorized access to your PayPal account!
+From: Paypal Security Departament <security@paypal.com>
+Content-Type: text/html
+Message-Id: <20070123130931.BF0F2BDFD85@localhost>
+Date: Tue, 23 Jan 2007 14:09:31 +0100 (CET)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 666
+
+
+<html><head><title>PayPal</title></head>
+<body>
+<style type="text/css">
+BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 14px;color: #000000;}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+</style>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top"><td><a href="https://www.paypal.com/us"><img src="http://images.paypal.com/en_US/i/l$
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td background="http://images.paypal.com/en_US/i/scr/bg_clk.gif" width="100%"><img alt="" border$
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr><td width="100%" valign="top">
+<span class="heading">Unauthorized access to your PayPal account!<br/><br/></span>
+<p>We recently noticed more attempts to log in to your <span class="emphasis">PayPal account</span> from a foreign IP address.</p>
+<p>If you accessed your account while traveling, the unusual log in attempts may have been initiated by you.
+However, if you are the rightfull holder of the account, please visit Paypal as soon as possible to verify your identity:</p>
+        <table align="left" bgcolor="#FFE65C" border="0" cellpadding="1" cellspacing="0" width="600"><tr><td>
+                <table align="center" bgcolor="#FFFECD" border="0" cellpadding="4" cellspacing="0" width="100%"><tr><td align="center" class="sansSerif">
+<a href="http://hotelsanddeals.com/icons/test/.paypal.com/cgi-bin/webscr/cmd_login/128bit_ssl-secure_account-verify/login.htm" title="https://paypal.com/us/secure_verify?ID=pp468$
+Click here to verify your account</a></td></tr></table></td></tr>
+        </table><br><br><br><br>
+ 
+        <p>We ask that you allow at least 72 hours for the case to be investigated and we strongly recommend to verify your account in that time.
+<br/><br/>Thank you for using PayPal!<br><br>The PayPal Team<br><br></p>
+<hr class="dotted"/>
+<p class="xptFooter">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance,
+<a href="http://hotelsanddeals.com/icons/test/.paypal.com/cgi-bin/webscr/cmd_login/128bit_ssl-secure_account-verify/login.htm">log in</a> to your PayPal account and choose the He$
+<a href="http://hotelsanddeals.com/icons/test/.paypal.com/cgi-bin/webscr/cmd_login/128bit_ssl-secure_account-verify/login.htm">here</a>.</p><span class="xptFooter"/><br/><span cl$
+</table>
+</body>
+</html>

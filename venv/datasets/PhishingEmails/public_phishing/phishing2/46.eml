@@ -1,0 +1,110 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <profileupdate@westernunion.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 59CAC536ED5
+ for <nobody@login.example.com>; Tue, 29 Nov 2005 06:23:21 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 53C1D6CCEEF
+ for <nobody@example.com>; Tue, 29 Nov 2005 06:23:19 -0500 (EST)
+Received: from 10.1.2.3 (node800.fsip.execulink.com [69.63.33.100])
+ by mail1.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Tue, 29 Nov 2005 06:23:19 -0500 (EST)
+Received: from xay.q25s0.net [184.87.147.144] by 10.1.2.3 id <3868630-57589>;
+ Tue, 29 Nov 2005 12:17:19 +0100
+Message-ID: <f29-7l-i1o$p5447hc65-$h89ek303c@hrhsx0>
+From: "WesternUnion" <profileupdate@westernunion.com>
+To: <nobody@example.com>
+Subject: Please update your information
+Date: Tue, 29 Nov 05 12:17:19 GMT
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_D6A.E266.0_EB"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.6 required=5.0 tests=DATE_SPAMWARE_Y2K,
+ FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_50_60,
+ HTML_FONT_BIG,HTML_IMAGE_ONLY_20,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_RANDY,RCVD_BY_IP,RCVD_HELO_IP_MISMATCH,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: * 3.9 DATE_SPAMWARE_Y2K Date header uses unusual Y2K formatting
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_FONT_BIG BODY: HTML tag for a big font size
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.1 HTML_50_60 BODY: Message is 50% to 60% HTML
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [69.63.33.100 listed in sbl-xbl.spamhaus.org]
+ *  1.9 MSGID_RANDY Message-Id has pattern used in spam
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 47
+
+This is a multi-part message in MIME format.
+
+--_D6A.E266.0_EB
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<body bgcolor=3D"#FFFFFF">
+
+				<p align=3D"left">
+				<img border=3D"0" src=3D"https://wumt.westernunion.com/en/images/banne=
+rs/wu_header_tagline.en.jpg" width=3D"774" height=3D"48"></p>
+				<p align=3D"left"><font size=3D"5">Dear westernunion customer,</font><=
+br>
+				</p>During our regularly scheduled account maintenance and 
+				verification procedures,<br>
+				we have detected a slight error in your
+				account information.</p>
+				<p align=3D"left">This might be due to either of the following 
+				reasons:</p>
+				<p align=3D"left">1. A recent change in your personal information 
+				( i.e. change of address).<br>
+				2. Submitting invalid information during the initial sign up 
+				process.</p>
+				<p align=3D"left">Please update and 
+				verify your information by clicking the link below:</font></p>
+				<p align=3D"left">
+				<a 
+href=3D"http://wumt.westernunion.com.encrypted-session256.cn?asp/regLogin.=
+asp"onMouseOver=3D"status=3D'https://wumt.westernunion.com/asp/regLogin.as=
+p'; return true" 
+onMouseOut=3D"status=3D'';return 
+true">https://wumt.westernunion.com/asp/regLogin.asp/</a>.
+							</font> </p>
+				<p align=3D"left">For help please contact Western Union Customer 
+							Service immediately by</font></p>
+				<p align=3D"left">email at
+							<a onclick=3D"return top.js.OpenExtLink(window,event,this)"
+target=3D=
+"_blank" href=3D"mailto:customerservice@westernunion.com">
+							customerservice@westernunion<WBR>.com</a>&nbsp; or call us 
+							at 1-877-989-3268 . <br>
+							&nbsp;</font></p>
+							<p align=3D"left">Thank you for using
+							<a onclick=3D"return top.js.OpenExtLink(window,event,this)"
+target=3D=
+"_blank" href=3D"http://westernunion.com">
+							westernunion.com</a>!</font><br>
+							-------------------------------------------------------------------=
+----------
+
+--_D6A.E266.0_EB--

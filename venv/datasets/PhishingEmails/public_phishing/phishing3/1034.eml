@@ -1,0 +1,81 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <support@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 2F76846A2A
+ for <user@login.example.com>; Wed, 27 Sep 2006 07:30:45 -0400 (EDT)
+Received: from 192.168.6.4 (unknown [217.52.40.131])
+ by mail.example.org (Postfix) with SMTP id 6E5596FA594
+ for <user@example.com>; Wed, 27 Sep 2006 07:30:44 -0400 (EDT)
+Received: from 6u.tfidg.com ([103.109.137.198]) by 192.168.6.4 with ESMTP id
+ <658053-77741>; Wed, 27 Sep 2006 06:25:25 -0500
+Message-ID: <uueo4$$a$d1m54j2887v$-x4zuvfv@wt563>
+From: "PayPal" <support@paypal.com>
+To: <user@example.com>
+Subject: PayPal Account Security Measures
+Date: Wed, 27 Sep 06 06:25:25 GMT
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="A.50..A.FF_.A6_.0_BF_"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 1628
+Lines: 51
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 329
+
+This is a multi-part message in MIME format.
+
+--A.50..A.FF_.A6_.0_BF_
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<pre>Dear PayPal Member,
+
+We recently noticed one or more attempts to log in to your PayPal account =
+from a foreign 
+IP address.
+
+If you recently accessed your account while traveling, the unusual log in =
+attempts may 
+have been initiated by you. However, if you did not initiate the log ins, =
+please visit 
+PayPal as soon as possible to update your account information:
+
+<a
+href=3D"http://rds.yahoo.com/_ylt=3DA0geurgnV4VEPnoB98hXNyoA;_ylu=3DX3o=
+DMTE5aXJmaGJ2BGNvbG8DZQRsA1dTMQRwb3MDMTIzBHNlYwNzcgR2dGlkA0Y3NTFfMTA4/SIG=3D=
+12hhjkhah/EXP=3D1149675687/**http://www.google.com/url?q=3Dhttp://211.94.2=
+40.21/_us/SecureOnlineSSL128/index.html?ref=3Dpd_irl_gw_r/102-8758036-5777=
+720?opt=3Doa&page=3Drecs/sign-in-secure.html&response=3Dtg/recs/recs-post"=
+ target=3D_blank class=3D"m1">http://www.paypal.com/us/cgi-bin/?cmd=3D_log=
+in-run</a>
+
+Updating you account information is a security measure that will ensure th=
+at you are
+the only person with access to the account.
+
+Thanks for your patience as we work together to protect your account.
+
+Sincerely,
+PayPal 
+
+
+----------------------------------------------------------------
+
+
+Please do not reply to this email. This mailbox is not monitored and you w=
+ill not receive 
+a response. For assistance, log in to your PayPal account and click the He=
+lp link located 
+in the top right corner of any PayPal page.
+
+----------------------------------------------------------------
+
+PayPal Email ID PP321</pre>
+
+--A.50..A.FF_.A6_.0_BF_--

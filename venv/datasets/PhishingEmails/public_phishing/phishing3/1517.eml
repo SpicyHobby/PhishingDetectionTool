@@ -1,0 +1,64 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <secure@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 28E1D468EF
+ for <user@login.example.com>; Tue, 13 Feb 2007 05:57:18 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 33AF2131FD5E
+ for <user@example.com>; Tue, 13 Feb 2007 05:57:18 -0500 (EST)
+Received: from 800theface.com (mail.800theface.com [64.122.2.231])
+ by mail.example.org (Postfix) with ESMTP id 0F0996FA1D5
+ for <user@example.com>; Tue, 13 Feb 2007 05:57:17 -0500 (EST)
+Received: from User ([66.15.22.6]) by 800theface.com with Microsoft
+ SMTPSVC(6.0.3790.1830); Tue, 13 Feb 2007 01:50:56 -0800
+Reply-To: <noreply@paypal.com>
+From: "Paypal"<secure@paypal.com>
+Subject: You've added an additional email address to your account
+Date: Tue, 13 Feb 2007 01:59:14 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <ACSSERVERLDp7mvjkO20000035d@800theface.com>
+X-OriginalArrivalTime: 13 Feb 2007 09:50:56.0493 (UTC)
+ FILETIME=[752AB9D0:01C74F54]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 812
+
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<div align="left" class="style2">
+  <p class="style2">You've added an additional email address to your account.<br>
+    If you don't agree with this email <b>jholtrop@yahoo.com</b> and if you need assistance with your account,<br>
+  <a href="http://linux.mis.hwh.edu.tw:85/pp/">click here</a> and login. </p>
+  <p>To make sure you can use your PayPal account the next time you make a 
+  purchase, <br>
+    all you need to do is confirm or not your email address. <br>
+    If your email program has problems with hypertext links,<br>
+    you may also confirm your email address by logging in to your account. <br>
+  </p>
+  <p>Thank you for using PayPal! <br>
+    The PayPal Team </p>
+  <p><br>
+    Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, <br>
+    log in to your PayPal account and click thec
+  <a href="http://linux.mis.hwh.edu.tw:85/pp/">Help</a> link located in the top right corner of any 
+  PayPal page. <br>
+  </p>
+  <p>PayPal Email ID PP007 </p>
+</div>
+</body>
+</html>

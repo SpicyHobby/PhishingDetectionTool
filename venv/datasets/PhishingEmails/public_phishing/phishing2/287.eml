@@ -1,0 +1,74 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <nobody@galaxy.frogee.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id DD82D536F82
+ for <nobody@login.example.com>; Wed, 25 Jan 2006 19:55:14 -0500 (EST)
+Received: from galaxy.frogee.com (Galaxy.frogee.com [216.67.227.247])
+ by mail2.example.com (Postfix) with ESMTP id A762B6FA33F
+ for <nobody@example.com>; Wed, 25 Jan 2006 19:55:14 -0500 (EST)
+Received: from nobody by galaxy.frogee.com with local (Exim 4.52)
+ id 1F1vQ2-0008Pp-U0
+ for nobody@example.com; Wed, 25 Jan 2006 19:55:23 -0500
+To: nobody@example.com
+Subject: Renewal Account
+From: Commonwealth Renewal <renewal@commbank.com.au>
+Content-Type: text/html
+Message-Id: <E1F1vQ2-0008Pp-U0@galaxy.frogee.com>
+Date: Wed, 25 Jan 2006 19:55:22 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - galaxy.frogee.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - galaxy.frogee.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 288
+
+
+<HTML>
+<HEAD>
+<TITLE>Commonwealth Bank of Australia NetBank</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFCC">
+
+<p align="left">
+
+<B><font style="font-size: 16pt"><br>
+Account Renewal Required!</font></B><font style="font-size: 16pt"><BR></font><BR>
+
+<span style="font-size: 13pt">Valued Netbank User,<BR></span><BR>
+
+In recent months there has been a significant upsurge in the number of users of the Netbank service. 
+<br>
+As a result there has also been an upsurge in the number of dormant accounts that have not been used for significant periods of time originating from users who no longer use our service. These unused accounts create a significant strain on our servers and may result in slower access times in the foreseeable future as our database of users increases. 
+<br>
+As a result to separate the active accounts from the dormant ones we are requiring all Netbank users to 
+renewal their accounts. <B>
+<br>
+<br>
+You can do this by <A HREF="http://customer-148-235-82-226.uninet-ide.com.mx:443/">Clicking Here</A> to renewal 
+your account</B>. <br>
+<br>
+Failure to do so may result in temporary cessation of your Netbank account that will necessitate re-registration.
+ <br>
+Netbank thanks you for your cooperation in this process and looks forward to continuing our high levels of service to you that have made our online banking services such a phenomenal success.
+
+<BR><BR>
+Please do not reply to this e-mail, as this is an unmonitored alias. If you require further assistance refer to our
+<u><font color="#000080">support centre</font></u>.<BR> 
+
+Commonwealth Bank respects your privacy. <u><font color="#000080">Click here</font></u> to read the Commonwealth Bank Group Privacy Policy Statement. 
+<BR><BR>
+Electronic Banking services are issued by the Commonwealth Bank of Australia ABN 48 123 123 124 (Electronic Banking services include telephone banking, Netbank and Bpay). A <A HREF="http://www.commbank.com.au/NetBank/Intro/default.asp?b=Conditions" TARGET="_blank">Product Disclosure Statement (PDS)</A> is available for these products on this website or from any branch of the Commonwealth Bank.
+<BR><BR>
+© Commonwealth Bank of Australia 2006 ABN 48 123 123 124 </p>
+
+</BODY>
+</HTML>

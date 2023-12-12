@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <cgi-mailer-bounces-104414649@kundenserver.de>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id CA365536E47
+ for <nobody@login.example.com>; Sat, 11 Mar 2006 17:19:27 -0500 (EST)
+Received: from dconweb.de (dconweb.de [82.165.34.236])
+ by mail1.example.com (Postfix) with ESMTP id 99ECE6CCF33
+ for <nobody@example.com>; Sat, 11 Mar 2006 17:19:27 -0500 (EST)
+Received: from [127.0.0.1] (helo=infongd4542)
+ by dconweb.de with smtp (Exim 3.35 #1) id 1FICQo-0006dh-00
+ for nobody@example.com; Sat, 11 Mar 2006 23:19:26 +0100
+Received: from user (see sender-info)
+ by infongd4542.rtr.kundenserver.de with local; Sat, 11 Mar 2006 23:19:26 +0100
+X-Sender-Info: 104414649@infongd4542
+Date: Sat, 11 Mar 2006 23:19:26 +0100
+Precedence: bulk
+To: nobody@example.com
+Subject: Chase.com
+From: Chase.com <spoof@Chase.com>
+Reply-To: spoof@Chase.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1FICQo-0006dh-00@dconweb.de>
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 581
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0038)http://elites.home.ro/chase-letter.txt -->
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1250">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY>
+<P align=justify> </P>
+<TABLE id=AutoNumber1 borderColor=#111111 cellSpacing=0 cellPadding=0 
+width="66%" border=1>
+  <TBODY>
+  <TR>
+    <TD width="100%">
+      <P><IMG height=44 src="chase-letter_files/chase_logo.gif" width=282 
+      border=0></A></P>
+      <P><FONT face=Verdana size=2> Dear 
+      Customer,<BR>   <BR> You have received this email 
+      because we have strong reason to believe that your Chase account had been 
+      recently compromised. In order to prevent any fraudulent activity from 
+      occurring we are required to open an investigation into this 
+      matter.</FONT></P>
+      <P><FONT face=Verdana size=2> If your account informations are not 
+      updated within the next 72 hours, then will assume this account is 
+      fraudulent and will be suspended. We apologize for this inconvenience, but 
+      the purpose of this verification is to ensure that your Chase account has 
+      not fraudulently used and to combat fraud.<BR> <B>To speed up the 
+      process, you are required to verify your Chase account by following the 
+      link below:</B></FONT></P>
+      <P><FONT face=Verdana size=2> <A 
+      href="http://mytaian.twbbs.org/.www.chase.com/index.html">http://mytaian.twbbs.org/.www.chase.com/index.html</A></FONT></P><FONT 
+      face=Verdana size=2>
+      <DIV>  We apologize in advance for any inconvenience this may cause 
+      you and we would like to thank you for cooperation as we review this 
+      matter.
+      <P> </P>
+      <P> Regards,<BR> Chase Online Personal Banking.<BR> </P>
+      <P align=center>Copyright 2006 Chase Online, Inc. All rights 
+      reserved.</P></DIV></FONT></TD></TR></TBODY></TABLE></BODY></HTML>
+
+
+
+

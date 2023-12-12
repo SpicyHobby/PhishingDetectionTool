@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:48:16 2015
+Return-Path: <support@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 0FED346878
+ for <nobody@login.example.com>; Sat,  1 Jul 2006 21:58:37 -0400 (EDT)
+Received: from x-blxm4bp7plesw (HSI-KBW-082-212-021-246.hsi.kabelbw.de
+ [82.212.21.246])
+ by mail2.example.com (Postfix) with ESMTP id 27EC86FA2EE
+ for <nobody@example.com>; Sat,  1 Jul 2006 21:58:36 -0400 (EDT)
+Received: from User ([82.79.232.151]) by x-blxm4bp7plesw with Microsoft
+ SMTPSVC(5.0.2195.6713); Sat, 1 Jul 2006 11:50:27 +0200
+From: "Customer Support"<support@paypal.com>
+Subject: PayPal Notification ( Your account is suspended )
+Date: Sat, 1 Jul 2006 02:51:24 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-ID: <X-BLXM4BP7PLESWi9yz0000024e@x-blxm4bp7plesw>
+X-OriginalArrivalTime: 01 Jul 2006 09:50:28.0156 (UTC)
+ FILETIME=[C88197C0:01C69CF3]
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta content="Microsoft FrontPage 5.0" name="GENERATOR"></head>
+<body><p>
+<img src="http://www.paypalobjects.com/en_US/i/header/t1Hdr_securityCtr_760x156.jpg" width="760" height="156"></p>
+<p>Dear PayPal member :&nbsp;</p>
+<p>&nbsp;Our comprehensive fraud-prevention program is one of the key reasons 
+PayPal is a safe way to pay online. We believe that innovation and careful 
+analysis is the way to beat fraud. That’s why PayPal has developed 
+industry-leading models to review every transaction—and help detect suspicious 
+activity.&nbsp; Our Fraud Investigation Team has recently detect suspicious 
+activity in your PayPal account.</p>
+<p>&nbsp;In&nbsp;order to continue to&nbsp;operate the PayPal service and to 
+reduce the risk of fraud, PayPal Corp. ("PayPal" or "we") must ask you to 
+provide us information about yourself and your credit card and/or bank account. 
+</p>
+<p>To do so please follow the link below.</p>
+<p><a href="http://203.198.149.201/.../intl.paypal.com/include/" target="_blank">http://www.paypal.com/us/cgi-bin/webscr?cmd=_contact-general</a></p>
+<p>&nbsp;We believe that innovation and careful analysis is the way to beat 
+fraud. That’s why PayPal has developed industry-leading models to review every 
+transaction—and help detect suspicious activity.&nbsp; Our Fraud Investigation 
+Team is dedicated to creating a safe PayPal community.&nbsp; If we suspect fraud 
+in your account, we’ll contact you immediately. </p>
+<p>
+<img src="http://www.pearson-ranch.com/images/trustseal.gif" width="75" height="60"></p></body></html>
+ 
+RQVYFHZVUTLPBKMHOEOKLYCXTMIMSVYLSCZLJD

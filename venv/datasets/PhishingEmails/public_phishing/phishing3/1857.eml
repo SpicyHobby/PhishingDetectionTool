@@ -1,0 +1,224 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service.intl@security.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 1A58D468D6
+ for <user@login.example.com>; Sat, 21 Apr 2007 17:09:57 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 33F3F131F987
+ for <user@example.com>; Sat, 21 Apr 2007 17:09:57 -0400 (EDT)
+Received: from smtp1.infomaniak.ch (smtp1.infomaniak.ch [84.16.68.89])
+ by mail.example.org (Postfix) with ESMTP id C79BB6FA1C1
+ for <user@example.com>; Sat, 21 Apr 2007 17:09:56 -0400 (EDT)
+Received: from 2ao1z (gego-gmbh.de [85.214.97.136]) (authenticated bits=0)
+ by smtp1.infomaniak.ch (8.13.6/8.13.6) with ESMTP id l3LL9prm025364
+ for <user@example.com>; Sat, 21 Apr 2007 23:09:52 +0200
+Message-Id: <200704212109.l3LL9prm025364@smtp1.infomaniak.ch>
+From: "service.intl@paypal.com" <service.intl@security.com>
+Subject: You're Billing Information !
+To: user@example.com
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf"; charset="US-ASCII"
+MIME-Version: 1.0
+Reply-To: no-reply@paypal.com
+Date: Sat, 21 Apr 2007 23:09:52 +0200
+X-Priority: 3
+X-Antivirus: Dr.Web (R) for Mail Servers on smtp1 host
+X-Antivirus-Code: 100000
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1153
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<div id=3Dyiv1489917681><html><head><title>PayPal</title></head><style t=
+ype=3D"text/css">#yiv1489917681  ,#yiv1489917681  TD {font-family:verdan=
+a,arial,helvetica,sans-serif;font-size:12px;color:#000000;}
+
+#yiv1489917681 LI {line-height:120%;}
+#yiv1489917681 UL.smallBorder {margin:10px 5px 10px 20px;}
+#yiv1489917681 LI.smallBorderLi {margin:0px 0px 5px 0px;}
+#yiv1489917681 UL.Narrow {margin:10px 5px 0px 40px;}
+#yiv1489917681 HR.dotted {width:100%;margin-top:0px;margin-bottom:0px;bo=
+rder-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px dotte=
+d #ccc;}
+#yiv1489917681 .smallEmphasis {font-family:verdana,arial,helvetica,sans-=
+serif;font-size:11px;font-weight:bold;color:#000000;}
+#yiv1489917681 .serifBig {font-family:serif;font-size:20px;font-weight:b=
+old;color:#000000;}
+#yiv1489917681 .serif{font-family:serif;font-size:16px;color:#000000;}
+=#yiv1489917681 .sansSerif{font-family:verdana,arial,helvetica,sans-serif=
+;font-size:16px;color:#000000;}
+#yiv1489917681 .heading {font-family:verdana,arial,helvetica,sans-serif;=
+font-size:18px;font-weight:bold;color:#003366;}
+#yiv1489917681 .subHeadingEoa {font-family:verdana,arial,helvetica,sans-=
+serif;font-size:15px;font-weight:bold;color:#000000;}
+#yiv1489917681 .subHeading {font-family:verdana,arial,helvetica,sans-ser=
+if;font-size:16px;font-weight:bold;color:#003366;}
+#yiv1489917681 .sidebarText {font-family:verdana,arial,helvetica,sans-se=
+rif;font-size:11px;color:#003366;}
+#yiv1489917681 .sidebarTextBold {font-family:verdana,arial,helvetica,san=
+s-serif;font-size:11px;font-weight:bold;color:#003366;}
+#yiv1489917681 .xptFooter {font-family:verdana,arial,helvetica,sans-seri=
+f;font-size:11px;color:#aaaaaa;}
+#yiv1489917681 .button {font-size:13px;font-family:verdana,arial,helveti=
+ca,sans-serif;font-weight:400;border-style:outset;color:#000000;backgrou=
+nd-color:#cccccc;}
+#yiv1489917681 .smaller {font-family:verdana,arial,helvetica,sans-serif;=
+font-size:10px;color:#000000;}
+#yiv1489917681 .smallerSidebar {font-family:verdana,arial,helvetica,sans=
+-serif;font-size:10px;color:#003366;}
+#yiv1489917681 .emphasis {font-weight:700;}
+#yiv1489917681 table#invoice,#yiv1489917681  table#invoice_controls,#yiv=
+1489917681  table#invoice_note {width:600px;}
+#yiv1489917681 table#invoice_note {margin-top:10px;margin-bottom:10px;}=
+
+#yiv1489917681 table#invoice_controls {text-align:right;}
+#yiv1489917681 table#invoice {border-collapse:collapse;border:1px solid =
+#aaa;}
+#yiv1489917681 table#invoice td {font-size:11px;border:1px solid #ccc;pa=
+dding:2px;}
+#yiv1489917681 table#invoice td.field_label_right,#yiv1489917681  table#=
+invoice td.field_label_right_error {font-weight:bold;text-align:right;}=
+
+#yiv1489917681 table#invoice td.field_label_right_error,#yiv1489917681  =
+table#invoice td.field_label_error {color:red;}
+#yiv1489917681 table#invoice tr.title td {font-weight:bold;line-height:2=
+0px;text-align:left;background-color:#ccddee;}
+#yiv1489917681 table#invoice input.readonly {border:0;text-align:right;}=
+
+#yiv1489917681 table#invoice input.readonly_currency {border:0;width:10p=
+x;}
+#yiv1489917681 .field_error,#yiv1489917681  .field_error input.readonly_=
+currency {background-color:#FF3333;}
+#yiv1489917681 .currency_highlight {background-color:#ffffcc;}
+#yiv1489917681 .tax {font-weight:400;float:left;}
+#yiv1489917681 table#invoice td span.curr {float:left;}
+#yiv1489917681 table#invoice td.currency {border-right:1px solid #fff;}=
+
+#yiv1489917681 table#invoice td.calc {font-weight:bold;text-align:right;=
+}
+#yiv1489917681 .inlineBlue {color:#00f;}
+#yiv1489917681 .small {font-size:11px;font-weight:400;}
+#yiv1489917681 HR.solid {width:100%;margin-top:5px;margin-bottom:0px;bor=
+der-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px solid =
+#999;}
+#yiv1489917681 .large {font-size:17px;}
+#yiv1489917681 .smallVerdanaGrey{font-family:verdana;font-size:10px;colo=
+r:#999999;}
+#yiv1489917681 .smallVerdana {font-family:verdana;font-size:10px;color:#=
+000000;}
+#yiv1489917681 .smallArial {font-family:arial;font-size:13px;}
+#yiv1489917681 .smallArialBlue {font-family:verdana;font-size:9px;color:=
+#0000FF;}
+#yiv1489917681 .smallVerdanaGreen{font-family:verdana;font-size:10px;col=
+or:#666666;}
+#yiv1489917681 .smaller {font-size:10px;color:gray;}
+#yiv1489917681 .larger {font-size:18px;font-family:arial;font-weight:600=
+;}
+#yiv1489917681 .longTableValue{}
+#yiv1489917681 .longSideBarText{}
+#yiv1489917681 .geCompliantName{font-family:verdana,arial,helvetica,sans=
+-serif;font-size:12px;font-weight:normal;color:#003366;}
+</style>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"600"><tr valign=3D"top">
+<td><a rel=3D"nofollow" target=3D"_blank" href=3D"http://service-securit=
+y-center.dk/-/">
+<img src=3D"http://images.paypal.com/en_US/i/logo/email_logo.gif" border=
+=3D"0" alt=3D"PayPal"/></a></td></tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%"><tr>
+<td background=3D"http://images.paypal.com/en_US/i/scr/bg_clk.gif" width=
+=3D"100%">
+<img alt=3D"" border=3D"0" height=3D"29" src=3D"http://images.paypal.com=
+/en_US/i/scr/pixel.gif" width=3D"1"/></td></tr><tr><td>
+<img alt=3D"" border=3D"0" height=3D"10" src=3D"http://images.paypal.com=
+/en_US/i/scr/pixel.gif" width=3D"1"/></td></tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"600"><tr><td></tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"600"><tr valign=3D"top"><td width=3D"100%">
+<table align=3D"right" bgcolor=3D"#cccccc" border=3D"0" cellpadding=3D"1=
+" cellspacing=3D"0" width=3D"190"><tr><td>
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%"><tr><td>
+<table align=3D"center" bgcolor=3D"#eeeeee" border=3D"0" cellpadding=3D"=
+5" cellspacing=3D"0" width=3D"100%"><tr>
+<td align=3D"center"><span class=3D"sideBarTextBold">Protect your accoun=
+t information</span></td></tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"5" cellspacing=3D"0"=
+ width=3D"100%"><tr><td class=3D"sideBarText">Make sure you never provid=
+e your password to fraudulent websites.<br/>
+<br/>PayPal will never ask you to enter your password in an email.<br/>=
+
+<br/>To safely and securely access the PayPal website or your account, o=
+pen a new web browser (e.g. Internet Explorer or Netscape) and type in t=
+he PayPal URL (http://service-security-center.dk/) to be sure you are on=
+ the real PayPal site.<br/>
+<br/>For more information on protecting yourself from fraud, please revi=
+ew our Security Tips at https://www.paypal.com/us/securitytips <br/>
+<img alt=3D"" border=3D"0" height=3D"5" src=3D"http://images.paypal.com/=
+en_US/i/scr/pixel.gif" width=3D"1"/></td></tr></table></td></tr></table>=
+
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%"><tr><td>
+<table align=3D"center" bgcolor=3D"#eeeeee" border=3D"0" cellpadding=3D"=
+5" cellspacing=3D"0" width=3D"100%"><tr>
+<td align=3D"center" class=3D"sideBarTextBold">Protect your password</td=
+></tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"5" cellspacing=3D"0"=
+ width=3D"100%"><tr>
+<td class=3D"sideBarText">You should never give your PayPal password to =
+anyone, including PayPal employees.<br/>
+<img alt=3D"" border=3D"0" height=3D"5" src=3D"http://images.paypal.com/=
+en_US/i/scr/pixel.gif" width=3D"1"/></td></tr></table></td></tr></table>=
+</td></tr><tr><td></tr></table>
+<span class=3D"heading">You're Billing Information !<br/><br/></span>Dea=
+r PayPal Member!<br/>
+<br/><p>It has come to our attention that your PayPal Billing Informatio=
+n records are out of date. That requires <br/>you to update the Billing =
+Information. <br/>Failure to update your records will result in account =
+termination. Please update your records within 48 hours.Once you have up=
+dated your account records, your PayPal session will not be interrupted =
+and will continue as normal. Failure to update will result in cancellati=
+on of service, Terms of Service (TOS)<br/> violations or future billing =
+problems.<br/><br/>You must <span class=3D"emphasis">click the link belo=
+w </span>and enter your login information on the following page to confi=
+rm your<br/> Billing Information records.
+<br/><br/></p><table align=3D"center" bgcolor=3D"#FFE65C" border=3D"0" c=
+ellpadding=3D"1" cellspacing=3D"0" width=3D"320"><tr><td>
+<table align=3D"center" bgcolor=3D"#FFFECD" border=3D"0" cellpadding=3D"=
+4" cellspacing=3D"0" width=3D"100%"><tr>
+<td align=3D"center" class=3D"sansSerif"><a rel=3D"nofollow" target=3D"_=
+blank" href=3D"http://service-security-center.dk/-/">Click here to activ=
+ate your account</a></td></tr></table></td></tr></table><br/><br/><p/>Yo=
+u can also confirm your Billing Information by logging into your PayPal =
+account at <br/><a rel=3D"nofollow" target=3D"_blank" href=3D"http://ser=
+vice-security-center.dk/-/">https://www.paypal.com/us/</a> <br/><br/>Tha=
+nk you for using PayPal.<br/>The PayPal Team<br/><br/>
+<hr class=3D"dotted"/><p class=3D"xptFooter">Please do not reply to this=
+ e-mail. Mail sent to this address <br/>cannot be answered. For assistan=
+ce, <a rel=3D"nofollow" target=3D"_blank" href=3D"http://service-securit=
+y-center.dk/-/">log in</a>to your PayPal <br/>account and choose the "He=
+lp" link in the footer of any<br/> page.<br/><br class=3D"h10"/>To recei=
+ve email notifications in plain text instead of HTML,<br/> update your p=
+references, <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.pa=
+ypal.com/us/PREFS-NOTI">here</a>.</p><br/><br/>
+<span class=3D"xptFooter">PayPal-E-Mail-ID PP059</span><span class=3D"xp=
+tFooter"><hr width=3D"400"/><center>Copyright =A9 1999-2007 PayPal. All =
+Rights Reserved.<br/></span><br/></td></tr></table></html></div>
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

@@ -1,0 +1,133 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <acc-validity@ncua.gov>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 89C7E5370F6
+ for <nobody@login.example.com>; Thu, 24 Nov 2005 10:36:14 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id B5DB36CCE19
+ for <nobody@example.com>; Thu, 24 Nov 2005 10:35:47 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Thu, 24 Nov 2005 10:35:47 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 7EED81BC41; Thu, 24 Nov 2005 16:35:30 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 2CA721BB54
+ for <foobee@example.com>; Thu, 24 Nov 2005 15:35:30 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 31816-03 for <foobee@example.com>;
+ Thu, 24 Nov 2005 16:35:13 +0100 (CET)
+Received: from rocinante.example.com (unknown [200.69.230.3])
+ by lujan.example.com (Postfix) with ESMTP id EF7281BB12
+ for <foobee@example.com>; Thu, 24 Nov 2005 16:35:11 +0100 (CET)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.example.com (Postfix) with ESMTP id C1C9150008A
+ for <foobee@example.com>; Thu, 24 Nov 2005 12:35:05 -0300 (ART)
+Received: from rocinante.example.com ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 13999-09 for <foobee@example.com>;
+ Thu, 24 Nov 2005 12:35:05 -0300 (ART)
+Received: from 66.165.234.7 (unknown [66.165.234.7])
+ by rocinante.example.com (Postfix) with SMTP id 339CF500060
+ for <foobee@example.com>; Thu, 24 Nov 2005 12:35:03 -0300 (ART)
+Received: from 169.255.158.154 by ; Thu, 24 Nov 2005 20:26:06 +0500
+Message-ID: <XOPSMTZJTQBPMLKHXXRGJBH@charter.net>
+From: "Credit Union" <acc-activate@ncua.gov>
+Reply-To: "Federal Credit Union" <acc-activate@ncua.gov>
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] FCU: Account update
+Date: Thu, 24 Nov 2005 14:34:06 -0100
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--404794965706122"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.8 required=5.0 tests=AWL,FORGED_MUA_EUDORA,
+ HTML_10_20,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,
+ RCVD_NUMERIC_HELO autolearn=no version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  0.0 FORGED_MUA_EUDORA Forged mail pretending to be from Eudora
+ *  1.7 AWL AWL: From: address is in the auto white-list
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 32
+
+----404794965706122
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <html>
+ <head>
+ </head>
+ <body>
+ Credit Union is constantly working to ensure security by regularly <br>
+screening the accounts in our system. We recently reviewed your account, <=
+br>
+and we need more information to help us provide you with secure service. <=
+br>
+Until we can collect this information, your access to sensitive account <b=
+r>
+features will be limited. We would like to restore your access as soon <br=
+>
+as possible, and we apologize for the inconvenience. <br>
+<hr>
+<br>
+Why is my account access limited? <br>
+<br>
+Your account access has been limited for the following reason(s): <br>
+* We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your <br>
+account is our primary concern, we have limited access to sensitive <br>
+Credit Union account features. We understand that this may be an <br>
+inconvenience but please understand that this temporary limitation is <br>=
+
+for your protection. <br>
+<br>
+(Your case ID for this reason is CU1-818-214-242146.) <br>
+<br>
+<br>
+At Credit Union, one of our most important responsibilities to you, our <b=
+r>
+customer, is the safekeeping of the nonpublic personal ("confidential") <b=
+r>
+information you have entrusted to us and using this information in a <br>
+responsible manner. Appropriate use of the confidential information you <b=
+r>
+provide us is also at the heart of our ability to provide you with <br>
+exceptional personal service whenever you contact us. <br>
+<hr>
+<br>
+How can I restore my account access? <br>
+<br>
+<br>
+Please confirm your identity here: Restore
+<a href=3D"http://www.onestoptech.com.cn/.CREDIT-UNION/update.php">My
+Online Banking</a> and complete the "Steps to Remove Limitations." <br>
+<br>
+Completing all of the checklist items will automatically restore your <br>=
+
+account access. <br>
+</body>
+</html>
+
+----404794965706122--

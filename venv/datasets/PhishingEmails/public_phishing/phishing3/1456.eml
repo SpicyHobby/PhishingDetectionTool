@@ -1,0 +1,93 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <service@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 47F3C46919
+ for <user@login.example.com>; Sun,  4 Feb 2007 15:24:44 -0500 (EST)
+X-Greylist: delayed 1768 seconds by postgrey-1.27 at mail.example.org;
+ Sun, 04 Feb 2007 15:24:43 EST
+Received: from nccrc.org (mail.nccrc.org [65.74.149.69])
+ by mail.example.org (Postfix) with ESMTP id F0B4B131FDD4
+ for <user@example.com>; Sun,  4 Feb 2007 15:24:43 -0500 (EST)
+Received: from User [208.187.90.180] by nccrc.org with ESMTP
+ (SMTPD32-8.05) id A8249840088; Sun, 04 Feb 2007 11:46:44 -0800
+Reply-To: <noreply@ebay.com>
+From: "Ebay Inc."<service@ebay.com>
+Subject: Notification: Ebay Inc.
+Date: Sun, 4 Feb 2007 11:47:04 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200702041146843.SM00548@User>
+X-Declude-Sender: service@ebay.com [208.187.90.180]
+X-Declude-Spoolname: D3824098400880AC2.SMD
+X-Declude-Note: Scanned by Declude 2.0.6 for spam.
+ "http://www.declude.com/x-note.htm"
+X-Declude-Scan: Score [0] at 11:46:45 on 04 Feb 2007
+X-Declude-Fail: Whitelisted
+X-Country-Chain: 
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 751
+
+<html>
+<head>
+<title>EBAY</title>
+Ebay is committed to maintaining a safe environment for 
+    its community of customers. To protect the security of your account, Ebay 
+    employs some of the most advanced security systems in the world and our 
+    anti-fraud teams regularly screen the Ebay system for unusual activity.
+    <br>
+    <br>
+    We are contacting you to remind you that on 04 February 2007 our Account Review 
+    Team identified some unusual activity in your account. In accordance with 
+    Ebay's User Agreement and to ensure that your account has not been 
+    compromised, access to your account was limited. Your account access will 
+    remain limited until this issue has been resolved.<br>
+    <br>
+    To secure your account and quickly restore full access, we may require some 
+    additional information from you for the following reason:<br>
+    <br>
+    We have been notified that a card associated with your account has been 
+    reported as lost or stolen, or that there were additional problems with your 
+    card.<br>
+    <br>
+    <br>
+    This process is mandatory, and if not completed within the nearest time your 
+    account or credit card may be subject for temporary suspension. <br>
+    <br>
+    To securely confirm your Ebay information please click on the link bellow:<br>
+    <br>
+    <br>
+    <br>
+    <a href="http://60.51.209.128/CFIDE/us/sign-in/eBay/restore-account/ws2/eBayISAPI.dll/eBayISAPI.php?cmd=SignIn&co_partnerId=2&pUserId=&siteid=0&pageType=&pa1=&i1=&bshowgif=&UsingSSL=&ru=&pp=&pa2=&errmsg=&runame=">https://signin.ebay.com/ws/eBayISAPI.dll?SignIn</a><br>
+    <br>
+    <br>
+    <br>
+    We encourage you to log in and perform the steps necessary to restore your 
+    account access as soon as possible. Allowing your account access to remain 
+    limited for an extended period of time may result in further limitations on 
+    the use of your account and possible account closure.<br>
+    <br>
+    For more information about how to protect your account please visit Ebay 
+    Security Center. We apologize for any incovenience this may cause, and we 
+    apriciate your assistance in helping us to maintain the integrity of the 
+    entire Ebay system.<br>
+    <br>
+    <br>
+    <br>
+    Thank you for using Ebay!<br>
+    The Ebay Team</b><br>
+&nbsp;</td>
+</tr>
+</table>
+</body>   
+</html>

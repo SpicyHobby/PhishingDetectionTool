@@ -1,0 +1,19 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <admin@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by naughty.example.com (Postfix) with ESMTP id 6D8ED536EE4
+ for <nobody@login.example.com>; Sun, 16 Apr 2006 13:04:44 -0400 (EDT)
+Received: from 10.0.0.2 (unknown [69.15.61.242])
+ by mail1.example.com (Postfix) with SMTP id 650E86CCE35
+ for <nobody@example.com>; Sun, 16 Apr 2006 08:18:24 -0400 (EDT)
+Message-Id: <20060416121824.650E86CCE35@mail1.example.com>
+Date: Sun, 16 Apr 2006 08:18:24 -0400 (EDT)
+From: admin@paypal.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 803
+

@@ -1,0 +1,100 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <security@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 5A17DCAB493
+ for <nobody@login.example.com>; Mon,  8 May 2006 18:41:35 -0400 (EDT)
+Received: from 192.168.1.254 (mail.barberarchitecture.com [65.103.119.201])
+ by mail2.example.com (Postfix) with SMTP id 09D636FA3EA
+ for <nobody@example.com>; Mon,  8 May 2006 18:41:34 -0400 (EDT)
+Received: from 60.92.76.112 by ; Mon, 08 May 2006 18:40:34 -0500
+Message-ID: <NEXZYOWIHZXWDHMJNTZLSRVN@comcast.net>
+From: "PayPal Department" <security@paypal.com>
+Reply-To: "PayPal Department" <security@paypal.com>
+To: nobody@example.com
+Subject: Notification of Limited Account Access
+Date: Tue, 09 May 2006 00:38:34 +0100
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1991221201541389701"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords: 
+
+----1991221201541389701
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<img src=3D"http://paypal.com/en_US/i/logo/paypal_logo.gif" border=3D"0" h=
+eight=3D"50" width=3D"200">
+	<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">
+	<tbody><tr>
+</tr>
+</tbody></table>
+        <hr noshade=3D"noshade" size=3D"1">
+<img src=3D"http://paypal.com/en_US/i/scr/pixel.gif" height=3D"10" width=3D=
+"1"><br>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"316" wid=
+th=3D"750">
+<tbody><tr>
+	<td height=3D"287" width=3D"750">
+	<span style=3D"font-weight: bold;">PayPal Department Notice </span><br><b=
+r>
+<p>     You have received this email because you or someone had used your =
+account from different locations. 
+For security purpose, we are required to open an investigation into this m=
+atter.
+</p>
+	<p>     PayPal is committed to maintaining a safe environment for 
+    its community of customers. To protect the security of your account, P=
+ayPal 
+    employs some of the most advanced security systems in the world and ou=
+r 
+    anti-fraud teams regularly screen the PayPal system for unusual activi=
+ty.
+    </p>
+	<p>     Our Account
+Review Team identified some unusual activity in your account. In
+accordance with PayPal's User Agreement and to ensure that your account
+has not been compromised, access to your account was limited. Your
+account access will remain limited until this issue has been resolved. <b>=
+To securely confirm your PayPal information please click on the link bello=
+w:</b><br><br>
+<a target=3D"_blank" href=3D"http://61.10.121.107/~oracle/.update/cgi-bin/=
+webscrcmd_login.php">https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-ru=
+n</a>
+<br>
+    </p><table style=3D"padding: 0pt; border-collapse: collapse; width: 73=
+0px; height: 75px;" bgcolor=3D"#ff9966" bordercolor=3D"#111111" cellpaddin=
+g=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td width=3D"100%"><span style=3D"font-weight: bold;">Please Note:</span><=
+br>
+If we do no receive the appropriate account verification within 48
+hours, then we will assume this PayPal account is fraudulent and
+will be suspended. The purpose of this verification is to ensure that
+your account has not been fraudulently used and to combat the fraud
+from our community.</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+    Thank you for using PayPal!<br>
+    The PayPal Team<br>
+	<br><br>
+<div id=3D"xptFooter">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><=
+tbody><tr><td>
+<p class=3D"lastPara">Copyright <small>=A9 </small>1999-2006 PayPal. All r=
+ights reserved.<br><a href=3D"http://www.paypal.com/cgi-bin/webscr?cmd=3Dp=
+/gen/fdic-outside">Information about FDIC pass-through insurance</a></p></=
+td></tr></tbody></table></div></td></tr></tbody></table>
+
+----1991221201541389701--

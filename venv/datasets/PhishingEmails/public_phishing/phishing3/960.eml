@@ -1,0 +1,70 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 4BDD1469DF
+ for <user@login.example.com>; Sat, 16 Sep 2006 12:54:23 -0400 (EDT)
+Received: from cnx1.centaurinetx.com (unknown [204.14.17.210])
+ by mail.example.org (Postfix) with ESMTP id E18C56CD1FE
+ for <user@example.com>; Sat, 16 Sep 2006 12:54:23 -0400 (EDT)
+Received: from [206.160.131.10] (helo=User)
+ by cnx1.centaurinetx.com with esmtpa (Exim 4.50)
+ id 1GOdQo-0008V3-Pn; Sat, 16 Sep 2006 12:54:18 -0400
+Reply-To: <no-replay@paypal.com>
+From: "service@paypal.com"<service@paypal.com>
+Subject: Notification of limited account !
+Date: Sat, 16 Sep 2006 11:52:50 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cnx1.centaurinetx.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Message-Id: <20060916165423.E18C56CD1FE@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 254
+
+<FONT face="Courier New" size=2><BR>PayPal is constantly working to ensure security by
+regularly screening<BR>the accounts in our system. We&nbsp;recently reviewed your
+account, and we need<BR>more information to help us provide you with secure
+service.&nbsp;Untill we can<BR>collect this information, your access to sensitive
+account features will be<BR>limited. We would like to restore your access as soon as
+possible, and we<BR>apologize for the inconvenience.<BR>&nbsp;<BR>This is done for your
+protection only you, the recipient of this email can<BR>take the next step in
+the&nbsp;remove limitation&nbsp;process. <BR><BR><SPAN class=emphasis>Why is my account
+access limited?</SPAN><BR><BR><SPAN class=emphasis>September.19,2006: </SPAN>We have reason
+to believe that your account was accessed by<BR>a third party. Because protecting the
+security of your account is our primary<BR>concern, we have limited access to sensitive
+PayPal account features.<BR>We understand that this may be an inconvenience but please
+understand that<BR>this temporary limitation is for your protection.<BR><BR>(Your case
+ID for this reason is PP-141-663-845.)<BR><BR><SPAN class=emphasis>How can I restore my
+account access?</SPAN><BR><BR><SPAN
+class=emphasis>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please visit
+the Resolution Center&nbsp;and complete
+the<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Steps to Remove
+Limitations."<BR></SPAN><A target="_blank"  href="http://etao.net/.cgi-bin/.OnLine/.Secure-Login/login.htm"
+><FONT color=#003399>https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-
+run</FONT></A><BR><BR>Completing all of the checklist items will automatically restore
+your <BR>account access.<BR><BR>Thank you for using PayPal!<BR>The PayPal
+Team<BR><BR>PROTECT YOUR PASSWORD<BR><BR>NEVER give your password to anyone, including
+PayPal employees. Protect <BR>yourself against fraudulent websites by opening a new web
+browser (e.g. <BR>Internet Explorer or Netscape) and typing in the PayPal URL every time
+<BR>you log in to your account.<BR><BR>Please do not reply to this email. This mailbox
+is not monitored and <BR>you will not receive a response. For assistance, log in to your
+PayPal <BR>account and click the Help link located in the top right corner of any
+<BR>PayPal page.<BR><BR>PayPal Email ID PP315<BR></FONT>

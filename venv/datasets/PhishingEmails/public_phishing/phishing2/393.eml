@@ -1,0 +1,124 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <service@cuna.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 2AD9E536EFE
+ for <nobody@login.example.com>; Mon, 13 Feb 2006 19:08:16 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP id 5151C6CCFC9
+ for <nobody@example.com>; Mon, 13 Feb 2006 19:08:14 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id EF2AA1BC1C; Tue, 14 Feb 2006 01:08:10 +0100 (CET)
+Delivered-To: foobar@example.com
+Received: from localhost (localhost [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 0837B1BBFB;
+ Tue, 14 Feb 2006 01:08:08 +0100 (CET)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 27875-07; Tue, 14 Feb 2006 01:07:54 +0100 (CET)
+Received: from rocinante.example.com (unknown [200.69.230.3])
+ by lujan.example.com (Postfix) with ESMTP id 271631BB54;
+ Tue, 14 Feb 2006 01:07:52 +0100 (CET)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.example.com (Postfix) with ESMTP id E8714500089;
+ Mon, 13 Feb 2006 21:07:50 -0300 (ART)
+Received: from rocinante.example.com ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 32643-04; Mon, 13 Feb 2006 21:07:49 -0300 (ART)
+Received: from 209.172.33.74 (ip-209-172-33-74.reverse.privatedns.com
+ [209.172.33.74])
+ by rocinante.example.com (Postfix) with SMTP id EDB20500048;
+ Mon, 13 Feb 2006 21:07:34 -0300 (ART)
+Received: from 105.116.32.144 by ; Mon, 13 Feb 2006 18:06:32 -0600
+Message-ID: <NGMFZNRDBXFSUNVRVNTNHU@comcast.net>
+From: "Credit Union" <service@cuna.org>
+Reply-To: "Credit Union" <service@cuna.org>
+To: biousr@example.com, foobar@example.com, cra@example.com,
+ 6fevu@example.com, infosec@example.com, remi@example.com,
+ anunez@example.com, shf@example.com, foobee2002@example.com,
+ conganat@example.com
+Subject: [*** POSIBLE SPAM***] Update Your Account Profile
+Date: Tue, 14 Feb 2006 05:08:32 +0500
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--79856744894739708"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: Yes, hits=18.2 tagged_above=4.0 required=6.5 tests=AWL,
+ BAYES_99, FORGED_MUA_OUTLOOK, FORGED_OUTLOOK_HTML,
+ FORGED_OUTLOOK_TAGS, HTML_10_20, HTML_MESSAGE, MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI, MISSING_MIMEOLE,
+ MPART_ALT_DIFF, MSGID_SPAM_CAPS, NORMAL_HTTP_TO_IP,
+ RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK, RCVD_NUMERIC_HELO
+X-Spam-Level: ******************
+X-Spam-Flag: YES
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 394
+
+----79856744894739708
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <html>
+ <head>
+ </head>
+ <body>
+In attention of all Credit Union  customers, <br>
+<br>
+<br>
+screening the accounts in our system. We recently reviewed your account, <=
+br>
+and we need more information to help us provide you with secure service. <=
+br>
+Until we can collect this information, your access to sensitive account <b=
+r>
+features will be limited. We would like to restore your access as soon <br=
+>
+as possible, and we apologize for the inconvenience. <br>
+<hr>
+<br>
+Why is my account access limited? <br>
+<br>
+Your account access has been limited for the following reason(s): <br>
+* We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your <br>
+account is our primary concern, we have limited access to sensitive <br>
+Credit Union account features. We understand that this may be an <br>
+inconvenience but please understand that this temporary limitation is <br>=
+
+for your protection. <br>
+<br>
+(Your case ID for this reason is PCU1-818-214-242146.) <br>
+<br>
+<br>
+At Credit Union, one of our most important responsibilities to you, our <b=
+r>
+customer, is the safekeeping of the nonpublic personal ("confidential") <b=
+r>
+information you have entrusted to us and using this information in a <br>
+responsible manner. Appropriate use of the confidential information you <b=
+r>
+provide us is also at the heart of our ability to provide you with <br>
+exceptional personal service whenever you contact us. <br>
+<hr>
+<br>
+How can I restore my account access? <br>
+<br>
+<br>
+Please confirm your identity here: Restore
+<a href=3D"http://202.163.90.53/usage/.CREDIT-UNION/update.php">My
+Online Banking</a> and complete the "Steps to Remove Limitations." <br>
+<br>
+Completing all of the checklist items will automatically restore your <br>=
+
+account access. <br>
+</body>
+</html>
+
+----79856744894739708--

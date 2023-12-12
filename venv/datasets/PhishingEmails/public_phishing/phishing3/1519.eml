@@ -1,0 +1,106 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <servicecenter@ebay.co.us>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id D127E46877
+ for <user@login.example.com>; Tue, 13 Feb 2007 09:56:51 -0500 (EST)
+X-Greylist: delayed 1211 seconds by postgrey-1.27 at mail.example.org;
+ Tue, 13 Feb 2007 09:56:51 EST
+Received: from actiongaming.com (unknown [72.3.249.161])
+ by mail.example.org (Postfix) with ESMTP id E23D9131FBB7
+ for <user@example.com>; Tue, 13 Feb 2007 09:56:51 -0500 (EST)
+Received: from User [209.246.137.58] by actiongaming.com with ESMTP
+ (SMTPD-9.10) id A2402470; Tue, 13 Feb 2007 07:50:56 -0600
+From: "eBay Inc."<servicecenter@ebay.co.us>
+Subject: Warning notification from eBay
+Date: Tue, 13 Feb 2007 08:00:28 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200702130750262.SM00440@User>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 814
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+</HEAD>
+<BODY>
+<TABLE cellSpacing=0 cellPadding=0 width=747 border=0>
+<tr>
+<td>
+<img src="http://pics.ebaystatic.com/aw/pics/de/logos/ebay_95x39.gif">
+</td>
+</tr>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width=600 bgColor=#d6dcfe><FONT
+      face="Arial, Helvetica,&#13;&#10;sans-serif   " size=3><STRONG><FONT
+      face=Verdana>Your eBay account might be compromised</FONT></STRONG></FONT>&nbsp;</TD>
+    <TD width=200 bgColor=#d6dcfe>
+      <DIV align=right></DIV></TD></TR>
+  <TR>
+    <TD bgColor=#d6dcfe colSpan=2 height=2><IMG height=2
+      src="greed_files/x.gif" width=1></TD></TR>
+  <TR>
+    <TD vAlign=center bgColor=#9999cc colSpan=2 height=2><IMG height=2
+      src="greed_files/x.gif" width=1></TD></TR></TBODY></TABLE><BR>
+<TABLE cellSpacing=0 cellPadding=0 width=747 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top width=747>
+      <P><FONT face="Arial, Helvetica, sans-serif   " size=-1>
+      We have noticed that a credit card associated with your account has been reported lost or stolen. Therefore, as a prevention measure, we have temporarely placed your eBay account under a restricted status.
+      <BR></FONT></P><FONT
+      face="Arial, Helvetica, sans-serif" size=-1>
+      <P>
+      To ensure that your account is not compromised please take a review on your recent account history for any unauthorized withdrawals or deposits, and check your account profile to make sure no changes have been made. If any unauthorized activity has taken place on your account, report this to eBay Fraud Department immediately.
+      <BR>
+      <BR></P>
+      <P>To restore your account, please <a target="_blank" href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://nokia.128bit.at">Sign in to your eBay account</a>.
+      <BR></P>
+<P>This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted. eBay and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail.
+
+      <BR></P>
+
+<P>Please understand that this is a security measure intended to help protect you and your account. We apologize for any inconvenience.If you choose to ignore our request, you leave us no choice but to temporary suspend your account. Please do not reply to this e-mail. For assistance, <a target="_blank" href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://nokia.128bit.at">log in to your eBay account,</a> and choose the "Help" link in the header of any page.
+
+   <BR></P>
+<P>Thank you for using eBay Service!
+      <BR></P></FONT>
+
+
+      </TD>
+  </TR>
+
+          <TR>
+          <TD>
+            <HR color=#d2d3d2 noShade>
+          </TD></TR>
+        <TR>
+          <TD><IMG height=15 alt=" " src="greed_files/spacer.gif"
+        width=1></TD></TR>
+        <TR>
+          <TD><FONT face=Arial color=#666666 size=1>eBay treats your personal information with the outmost care, and our <a target="_blank" href="http://pages.ebay.com/help/community/png-priv.html">Privacy Policy</a> is designed to protect you and your information.  For more information on how to protect your eBay password and your account, please visit
+          Privacy Policy. To change your notification preferences, <a target="_blank" href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://nokia.128bit.at">click here</a>. If you would like to receive this email in text format, <a target="_blank" href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://nokia.128bit.at">click here</a>.
+</TD></TR>
+        <TR>
+          <TD><IMG height=15 alt=" " src="greed_files/spacer.gif"
+        width=1></TD></TR>
+        <TR>
+          <TD>
+            <P align=center><FONT face=Arial color=#666666
+            size=2>Copyright © 1995-2007 eBay Inc. All Rights Reserved.<br>
+Designated trademarks and brands are the property of their respective owners.<br>
+eBay and the eBay logo are trademarks of eBay Inc</FONT></P></TD></TR>
+
+</P></FONT></TD></TR></TBODY></TABLE></BODY></HTML>

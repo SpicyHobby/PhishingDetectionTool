@@ -1,0 +1,63 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 8D97046A0B
+ for <nobody@login.example.com>; Wed, 31 May 2006 01:24:50 -0400 (EDT)
+Received: from mail.com (static-64-222-191-190.man.east.verizon.net
+ [64.222.191.190])
+ by mail1.example.com (Postfix) with SMTP id 71D776CD097
+ for <nobody@example.com>; Wed, 31 May 2006 01:24:50 -0400 (EDT)
+From: "service@paypal.com" <service@paypal.com>
+Subject: Please update and confirm your account
+Date: Wed, 31 May 2006 01:24:50 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060531052450.71D776CD097@mail1.example.com>
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2802" name=GENERATOR></HEAD>
+<BODY>
+<P align=left><IMG alt="" hspace=0 src="http://www.mutluiletisim.com/2.jpg" 
+align=baseline border=0></P>
+<P align=left><FONT face=Verdana size=2><STRONG>We recently noticed an attempt 
+to log in to your PayPal account from a foreign Ip<BR>address and we have reason 
+to believe that your account was used by third party <BR>without your 
+authorization.</STRONG></FONT></P>
+<P align=left><FONT face=Verdana size=2><STRONG>If you recently accessed your 
+account while traveling,the unusual log in attempts<BR>may have been initiated 
+by you.Therefore,if you are the rightful account holder,<BR>click on the link 
+below to log into your account and follow the instructions.</STRONG></FONT></P>
+<P align=left><BR><A href="http://64-249-80-91.client.dsl.net:82/webscr/index.php"><FONT face=Verdana 
+size=2><STRONG>https://www.paypal.com/cgi-bin/webscr?cmd=_login-run=update</STRONG></FONT></A></P>
+<P align=left><BR><FONT face=Verdana size=2><STRONG>if you choose to ignore our 
+request,you leave us on choice but to temporarily <BR>suspend your 
+account.</STRONG></FONT></P>
+<P align=left><FONT face=Verdana color=#838383 size=2>If you received this 
+notice and you are not authorizes account holder,please be <BR>aware that it is 
+in violation of PayPal policy to represent oneself as another 
+PayPal<BR>user.Such action may also be in violation of local,rational,and/or 
+international law.<BR>PayPal is committed to assist law enforcement with any 
+inquires related to attempts <BR>to misappropriate personal information with 
+the&nbsp;intent to commit fraud or theft.<BR>Information will be provided at the 
+request of law enforcement agencies to ensure that<BR>impersonators are 
+prosecuted to the fullest extent of the law</FONT></P>
+<P align=left><FONT face=Verdana color=#838383 size=2>Thank you for your 
+patience as we work together to protect your account </FONT></P>
+<P align=left><FONT face=Verdana color=#838383 size=2>Sincerely,<BR>PayPal 
+Account Review Department<BR>PayPal,an eBay Company</FONT><BR></P>
+<P>&nbsp;</P></BODY></HTML>
+<!-- web31413.mail.mud.yahoo.com compressed/chunked Sat Apr  1 07:04:00 PST 2006 -->

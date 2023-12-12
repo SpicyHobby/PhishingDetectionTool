@@ -1,0 +1,76 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <apache@www.cnydevzone.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 72898536EEF
+ for <nobody@login.example.com>; Thu, 24 Nov 2005 20:38:47 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 2A4126FA39E
+ for <nobody@example.com>; Thu, 24 Nov 2005 20:38:46 -0500 (EST)
+Received: from www.cnydevzone.com (cnydevzone.com [207.235.6.40])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Thu, 24 Nov 2005 20:38:46 -0500 (EST)
+Received: (from apache@localhost)
+ by www.cnydevzone.com (8.11.6/8.11.6) id jAP1cPp20669;
+ Thu, 24 Nov 2005 19:38:25 -0600
+Date: Thu, 24 Nov 2005 19:38:25 -0600
+Message-Id: <200511250138.jAP1cPp20669@www.cnydevzone.com>
+To: nobody@example.com
+Subject: Notice On Your Western Union Account
+From: Westernuion Department <Westernunion@Westernunion.com>
+Reply-To: Westernunion@Westernunion.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.6 required=5.0 tests=HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTTP_77,HTTP_ESCAPED_HOST,
+ HTTP_EXCESSIVE_ESCAPES,MIME_HTML_ONLY,RCVD_IN_BL_SPAMCOP_NET 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 0.5 HTTP_ESCAPED_HOST URI: Uses %-escapes inside a URL's
+ hostname
+ * 0.2 HTTP_EXCESSIVE_ESCAPES URI: Completely unnecessary %-escapes inside a
+ URL
+ *  2.0 HTTP_77 URI: Contains an URL-encoded hostname (HTTP77)
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?207.235.6.40>]
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 33
+
+<p><img border="0" src="http://www.geocities.com/el_haga2000/customer.JPG" width="567" height="123"></p>
+<p dir="ltr"><font face="Verdana" size="2" color="#FF0000">Dear Westernunion Customer,</font></p>
+<p dir="ltr"><font face="Verdana" size="2">During our regular update and 
+verification of the Western union Service®, we could not verify your current 
+information. Either your information has been changed or incomplete, as a result 
+your access to use our services has been limited. Please update your 
+information.</font><font face="Arial, Helvetica, sans-serif" size="-1"><br>
+<br>
+</font><font face="Verdana" size="2">To update your account information and 
+start using our services please click on the link below:</font></p>
+<p dir="ltr">
+  <xbody bgcolor="#FFFFFF">
+      <xmeta http-equiv="Content-Type" content="text/html">
+      <xbody bgcolor="white" marginwidth="4" marginheight="4" topmargin="4" leftmargin="4" vlink="#0000ff" link="#0000ff">
+                  <a href="http://%77%77%77%2E%72%6F%6D%6E%63%79%61%74%2E%63%6F%6D/%77%65%73%74%65%72%6E%75%6E%69%6F%6E/%72%65%67%50%65%72%73%6F%6E%61%6C%49%6E%66%6F%2E%68%74%6D">
+<font face="Verdana" size="2">https://wumt.westernunion.com/asp/regLogin.asp</font></a><br>
+                     </p>
+                  <p dir="ltr">
+                    <FONT face=Verdana size=2>Note: Requests for 
+                  information will be initiated by Western union Business 
+                  Development; this process cannot be externally requested 
+                  through Customer Support.</FONT></font></p>
+                  <p dir="ltr"><FONT face=Verdana size=2 color="#FF0000">Sincerely, <BR>
+                    Westernunion.com<BR>
+                  Service 
+            Department.</FONT></p>
+      </xbody>
+      </xmeta>      
+  </xbody>

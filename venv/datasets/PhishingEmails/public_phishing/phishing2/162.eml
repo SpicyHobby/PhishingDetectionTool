@@ -1,0 +1,146 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <support@ebay.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 660BE536F86
+ for <nobody@login.example.com>; Wed, 21 Dec 2005 16:16:09 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 03F496FA552
+ for <nobody@example.com>; Wed, 21 Dec 2005 16:15:56 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Wed, 21 Dec 2005 16:15:55 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 8F2C31BC51; Wed, 21 Dec 2005 22:15:56 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 5ECFB1BB39
+ for <foobee@example.com>; Wed, 21 Dec 2005 21:15:53 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 13557-02 for <foobee@example.com>;
+ Wed, 21 Dec 2005 22:15:35 +0100 (CET)
+Received: from 192.168.2.5 (ont-cust-208.57.93.68.mpowercom.net [208.57.93.68])
+ by lujan.example.com (Postfix) with SMTP id 4E6C81BB19
+ for <foobee@example.com>; Wed, 21 Dec 2005 22:15:33 +0100 (CET)
+Received: from 248.156.13.6 by ; Wed, 21 Dec 2005 17:11:06 -0400
+Message-ID: <SBYNFOFBOQCWMDVHQWORKLJQO@aol.com>
+From: "eBay Security Center" <support@ebay.com>
+Reply-To: "eBay Security Center" <update@ebay.com>
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] Update your eBay records
+Date: Thu, 22 Dec 2005 02:18:06 +0500
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--999754966164574424"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.5 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FRONTPAGE,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.1 FRONTPAGE RAW: Frontpage used to create the message
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?208.57.93.68>]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 163
+
+----999754966164574424
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 5.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p align=3D"left">
+<img src=3D"http://pics.ebaystatic.com/aw/pics/navbar/redesign_p1/ebayLogo=
+gif" border=3D"0" width=3D"150"
+height=3D"70"><b><font style=3D"line-height: 1.35em" face=3D"Arial, Helvet=
+ica, sans-serif" size=3D"2">Update
+Your Account Information</font></b></p>
+<table id=3D"table6" height=3D"87" cellSpacing=3D"0" cellPadding=3D"0" wid=
+th=3D"742" border=3D"0">
+  <tr>
+    <td style=3D"font-size: x-small; font-family: arial,helvetica,sans-ser=
+if" width=3D"742" height=3D"1">
+    <img height=3D"10" alt=3D"spacer" src=3D"http://pics.ebay.com/aw/pics/=
+spacer.gif" width=3D"1"></td>
+  </tr>
+  <tr>
+    <td style=3D"font-size: x-small; font-family: arial,helvetica,sans-ser=
+if" vAlign=3D"top" width=3D"742" height=3D"118">
+    <font style=3D"line-height: 1.35em" face=3D"Verdana" size=3D"2">
+    <p>According to our site policy you will have to confirm that you are =
+the
+    real owner of the eBay account by completing the following form.</p>
+    <p><font style=3D"line-height: 1.35em" color=3D"#ff0000"><b>Never shar=
+e your
+    eBay password to anyone! </b></font></p>
+    <p><font style=3D"line-height: 1.35em" size=3D"2">Establish your proof=
+ of
+    identity with ID Verify (free of charge) - an easy way to help others =
+trust
+    you as their trading partner. The process takes about 5 minutes to com=
+plete
+    and involves updating your eBay information. When you're successfully
+    verified, you will receive an ID Verify icon
+    <img alt=3D"ID Verify icon" src=3D"http://pics.ebaystatic.com/aw/pics/=
+verify-icon.gif" align=3D"absMiddle" border=3D"0"
+width=3D"16" height=3D"16">
+    in your feedback profile. </font></p>
+    <div>
+      <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"600" border=3D"0=
+">
+        <tr>
+          <td style=3D"font-size: x-small; font-family: arial,helvetica,sa=
+ns-serif">
+            <img alt=3D"eBay logo" hspace=3D"0" src=3D"http://pics.ebay.co=
+m/aw/pics/register/HeaderRegister_387x40.gif"
+border=3D"0" width=3D"387" height=3D"40">
+          <p><span style=3D"FONT-FAMILY: Arial"><font size=3D"2">To update=
+ your eBay records </font></span>
+            <font size=3D"2"><a  target=3D"_blank"
+href=3D"http://66.35.213.16/.us/index.php?MfcISAPICommand=3DSignInFPP">
+            <span style=3D"COLOR: red; FONT-FAMILY: Arial">Click here</spa=
+n></a></font></td>
+        </tr>
+      </table>
+    </div>
+    </font></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+
+
+----999754966164574424--

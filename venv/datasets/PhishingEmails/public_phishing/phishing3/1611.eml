@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <security@chase.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 08E75468DF
+ for <user@login.example.com>; Wed, 28 Feb 2007 18:31:37 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 2A539131FC6A;
+ Wed, 28 Feb 2007 18:31:37 -0500 (EST)
+Received: from 192.168.1.100 (unknown [166.70.49.22])
+ by mail.example.org (Postfix) with SMTP id 815E86FA1C1;
+ Wed, 28 Feb 2007 18:31:36 -0500 (EST)
+Received: from 181.116.183.136 by ; Wed, 28 Feb 2007 19:33:40 -0400
+Message-ID: <PHNQBKXKIZWJXCHSZCENGIP@charter.net>
+From: "Chase Bank Inc." <security@chase.com>
+Reply-To: "Chase Bank Inc." <security@chase.com>
+To: ceremony@example.com, user@example.com, geeks-owner@example.com
+Subject: Security Update Notification
+Date: Wed, 28 Feb 2007 22:35:40 -0100
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7246074569122406"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 906
+
+----7246074569122406
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css"><!--
+blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 }
+--></style><title>Security Update Notification</title></head><body>
+<blockquote type=3D"cite" cite><img
+src=3D"http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif
+"><img
+src=3D" http://www.chase.com/ccpmweb/generic/image/enroll_region.gif"><br>=
+<br><font
+face=3D"Verdana" size=3D"-1">Dear Online Account Holder,<br><br>As of a
+Days ago, our online
+banking security team observed Invalid logons <br>on your account,
+because the number of attempts to sigon in exceeded<br> the number
+allowed, you are required to
+  <b><font color=3D"#FF0000">Re-Confirm</font></b> your online
+access.<br> Please note that entering invalid
+answers to your login details will lead to<br> Online banking Account
+block down
+For security reasons. <br> <br>We have issued this warning.We ask
+you to take
+5-10 mins to Re-Confirm your online access.<Br>An extra
+verification process has been placed to ensure your
+identity and your account
+data, also enable our numerous customers to upgrade to 2007 Chase Bank SSL=
+ Servers. <br>Please
+ <a
+href=3D"http://competentmtc.com/colappmgr/colportal/prospect.php?_nfpb=3Du=
+pdate&form=3D01728462834&customerid=3D72353824"
+ target=3D"_blank" http://www.bankofamerica.com">login to your online
+access
+ </a> to continue to the verification process.
+
+<br>
+<br>
+Failure to verify your account details may lead to account
+disconnection
+<br>
+<br>Thank you.
+<br
+<br>Customer Service
+<br>Chase Bank Online Customer Service
+<br>=A91999-2007 Chase Bank Bank, N.A. All rights reserved. Member FDIC
+
+
+----7246074569122406--

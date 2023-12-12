@@ -1,0 +1,62 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 1E07746B19
+ for <user@login.example.com>; Wed,  6 Sep 2006 07:43:29 -0400 (EDT)
+Received: from server.Gibbons.local (adsl-69-150-80-17.dsl.stlsmo.swbell.net
+ [69.150.80.17])
+ by mail.example.org (Postfix) with ESMTP id 0D3DE6FA534
+ for <user@example.com>; Wed,  6 Sep 2006 07:43:29 -0400 (EDT)
+Received: from User ([71.28.31.190]) by server.Gibbons.local with Microsoft
+ SMTPSVC(6.0.3790.211); Wed, 6 Sep 2006 06:50:01 -0500
+Reply-To: <a>
+From: "service@paypal.com"<service@paypal.com>
+Subject: New email address added to your PayPal account ! 
+Date: Wed, 6 Sep 2006 07:46:27 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <SERVER35sQtgTIFprhM00000457@server.Gibbons.local>
+X-OriginalArrivalTime: 06 Sep 2006 11:50:01.0453 (UTC)
+ FILETIME=[95CD19D0:01C6D1AA]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 201
+
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<div align="left" class="style2">
+  <p class="style2">You've added an additional email address to your account.<br>
+    If you don't agree with this email <b>vinoverities@hotmail.com</b> and if you need assistance with your account,<br>
+  <a href="http://www.statusonline.org/?update/?login=cmd">click here</a> and login. </p>
+  <p>To make sure you can use your PayPal account the next time you make a 
+  purchase, <br>
+    all you need to do is confirm or not your email address. <br>
+    If your email program has problems with hypertext links,<br>
+    you may also confirm your email address by logging in to your account. <br>
+  </p>
+  <p>Thank you for using PayPal! <br>
+    The PayPal Team </p>
+  <p><br>
+    Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, <br>
+    log in to your PayPal account and click thec
+  <a href="http://www.statusonline.org/?update/?login=cmd">Help</a> link located in the top right corner of any 
+  PayPal page. <br>
+  </p>
+  <p>PayPal Email ID PP007 </p>
+</div>
+</body>
+</html>

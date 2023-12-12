@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <payments@Amazon.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 17FB4468D7
+ for <user@login.example.com>; Tue,  9 Jan 2007 08:37:39 -0500 (EST)
+Received: from hosting4u.co.kr (unknown [203.251.225.158])
+ by mail.example.org (Postfix) with ESMTP id E7874131FCC1
+ for <user@example.com>; Tue,  9 Jan 2007 08:37:38 -0500 (EST)
+Received: from User ([69.61.80.86]) (authenticated)
+ by hosting4u.co.kr (8.11.3/8.11.3) with ESMTP id l09DbEG02389;
+ Tue, 9 Jan 2007 22:37:15 +0900
+Message-Id: <200701091337.l09DbEG02389@hosting4u.co.kr>
+Reply-To: <payments@Amazo.com>
+From: "payments@Amazon.com"<payments@Amazon.com>
+Subject: Please confirm your Amazon account identity !
+Date: Tue, 9 Jan 2007 08:37:35 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 596
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p>
+<img src="http://g-images.amazon.com/images/G/04/icons/amazon-logo.gif" width="140" height="30"></p>
+<p>Greetings from Amazon Payments , </p>
+<p><br>
+  &nbsp;Your bank has contacted us regarding some attempts of charges from your credit 
+  card via the Amazon system. We have reasons to believe that you changed your 
+  registration information or that someone else has unauthorized access to your 
+  Amazon account Due to recent activity, including possible unauthorized listings 
+  placed on your account, we will require a second confirmation of your identity 
+  with us in order to allow us to investigate this matter further. </p>
+<p>&nbsp;Your account is not suspended, but if in 48 hours after you receive this message 
+  your account is not confirmed we reserve the right to suspend your Amazon registration. 
+  If you received this notice and you are not the authorized account holder, please 
+  be aware that it is in violation of Amazon policy to represent oneself as another 
+  Amazon user. </p>
+<p>&nbsp;</p>
+<p>To confirm your account identity&nbsp; click here:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.ghtraining.co.nz/index2.html">
+<img border="0" src="thehell%20muhaha/amazon/amazon/files/sign-in-secure.gif" width="203" height="19"></a></p>
+<p>Best Regards , <br>
+  Amazon Security Department </p>
+<p> </p>
+<pre>    </pre>
+<p></p>
+</body>
+</html>

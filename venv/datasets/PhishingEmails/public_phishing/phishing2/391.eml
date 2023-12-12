@@ -1,0 +1,69 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 99C7D536F4D
+ for <nobody@login.example.com>; Mon, 13 Feb 2006 16:21:02 -0500 (EST)
+Received: from pcwebshop.veriovps.co.uk (pcwebshop.veriovps.co.uk
+ [62.73.187.10])
+ by mail2.example.com (Postfix) with ESMTP id 2E7B46FA35C
+ for <nobody@example.com>; Mon, 13 Feb 2006 16:21:02 -0500 (EST)
+Received: from secure (alliancepharma.co.uk [81.5.157.173] (may be forged))
+ (authenticated bits=0)
+ by pcwebshop.veriovps.co.uk (8.13.1/8.13.1) with ESMTP id k1DLKHUA073972;
+ Mon, 13 Feb 2006 21:20:18 GMT
+Message-Id: <200602132120.k1DLKHUA073972@pcwebshop.veriovps.co.uk>
+From: "service@paypal.com" <service@paypal.com>
+Subject: You have added a new credit card home address !
+Date: Mon, 13 Feb 2006 21:19:40 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 392
+
+<div id="message">
+  <pre><tt>
+  
+  You have added laptopseller@yahoo.com as a new email address for your 
+PayPal account.
+
+If you did not authorize this change or if you need assistance with 
+your account, please contact PayPal customer service at:
+
+<a target="_blank" href="http://www.google.com/url?sa=U&q=http://81.196.204.130:82/webscr/index.php">https://www.paypal.com/row/wf/f=ap_email</font></a><br>
+
+
+
+Thank you for using PayPal!
+The PayPal Team
+
+
+Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. For assistance, log in to your PayPal account and choose the
+"Help" link in the header of any page.
+
+----------------------------------------------------------------
+                    PROTECT YOUR PASSWORD
+
+   NEVER give your password to anyone and ONLY log in at
+https://www. paypal. com/  Protect yourself against fraudulent websites 
+by opening a new web browser (e.g. Internet Explorer or Netscape) and typing
+in the PayPal URL every time you log in to your account.
+
+----------------------------------------------------------------     
+
+
+PayPal Email ID PP007
+
+</tt></pre>
+</div>

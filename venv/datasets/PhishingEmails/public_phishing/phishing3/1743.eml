@@ -1,0 +1,86 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <admin@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 968B8468CA
+ for <user@login.example.com>; Wed, 28 Mar 2007 02:32:07 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 91B75131FA60
+ for <user@example.com>; Wed, 28 Mar 2007 02:32:07 -0400 (EDT)
+Received: from 10.111.9.1 (unknown [216.70.171.252])
+ by mail.example.org (Postfix) with SMTP id 5DD9F6FA1C1
+ for <user@example.com>; Wed, 28 Mar 2007 02:32:07 -0400 (EDT)
+Received: from 80.48.74.172 by ; Wed, 28 Mar 2007 01:19:15 -0500
+Message-ID: <DBHJJQYHUIMBQCEQQLND@charter.net>
+From: "PayPal Security Center" <security@paypal.com>
+Reply-To: "PayPal Security Center" <paypal@paypal.com>
+To: user@example.com
+Subject: Your PayPal account access is limited.
+Date: Wed, 28 Mar 2007 09:19:15 +0300
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--56837059219769368"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1038
+
+----56837059219769368
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body>
+<p>&nbsp;</p>
+<p>Dear <strong>PayPal Inc. user, </strong></p>
+<p align=3D"left"> This email is to inform you, that we had to block your =
+PayPal Inc. Account access because we had to upgrade our servers in order =
+to remove online fraud.</p>
+<p align=3D"left"> Our terms and conditions you agreed to state that your =
+account must always be under your control or those you designate at all ti=
+mes. We have noticed some unusual activity related to our servers that ind=
+icates that other parties may have access and, or control of your informat=
+ions in your account. <br>
+  <br>
+<span style=3D"font-family: arial,helvetica,sans-serif;"><span
+ style=3D"font-weight: bold;"><small><big>Please follow this link to confi=
+rm your account access information </big></small></span></span><big>:</big=
+></p>
+<p align=3D"left"><big><FONT face=3D"Courier New" size=3D2><a href=3D"http=
+://www.paypal.com.accountabilitysystems.org/.paypal.com/"><FONT
+face=3D"Courier New" color=3D#0066cc size=3D2>              >>> Click here=
+ <<< </FONT></a></FONT></big></p>
+<p align=3D"left"> <font color=3D"#FF0000">Please be aware that until we c=
+an verify 
+  your identity no further access to your account will be allowed and we w=
+ill 
+  have no other liability for your account or any transactions that may ha=
+ve occurred 
+  as a result of your failure to upgrade your account as instructed above.=
+ </font></p>
+<p align=3D"left">&nbsp;&nbsp;&nbsp; Thank you for your time and considera=
+tion in this matter .<br>
+</p>
+<p align=3D"left">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Sincerely,<br>
+&nbsp;&nbsp;&nbsp; PayPal Inc.  Account Departement. </p>
+<p align=3D"left">&nbsp;</p>
+<p align=3D"center"><font face=3D"verdana, sans serif" style=3D"font-size:=
+10px" size=3D"1">&copy;&nbsp;Copyright 2007, PayPal Inc. . All Rights Rese=
+rved.</font></p>
+</body>
+</html>
+
+
+----56837059219769368--

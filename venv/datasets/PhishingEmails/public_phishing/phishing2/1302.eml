@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:48:16 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 69C6F469A9
+ for <nobody@login.example.com>; Sun, 30 Jul 2006 16:55:01 -0400 (EDT)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP id 86C536FA3EE
+ for <nobody@example.com>; Sun, 30 Jul 2006 16:55:02 -0400 (EDT)
+Received: by lujan.example.com (Postfix)
+ id 4C7E81BE23; Sun, 30 Jul 2006 22:54:57 +0200 (CEST)
+Delivered-To: foobee@example.com
+Received: from mar.example.com (mar.example.com [193.146.180.108])
+ by lujan.example.com (Postfix) with ESMTP id 13D5C1BDBA
+ for <foobee@example.com>; Sun, 30 Jul 2006 22:54:57 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.example.com (Postfix) with ESMTP id E7F1A605
+ for <foobee@example.com>; Sun, 30 Jul 2006 22:54:56 +0200 (CEST)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 15005-05 for <foobee@example.com>;
+ Sun, 30 Jul 2006 22:54:48 +0200 (CEST)
+Received: from rocinante.example.com (unknown [200.69.230.3])
+ by lujan.example.com (Postfix) with ESMTP id 7F8B51BDBA
+ for <foobee@example.com>; Sun, 30 Jul 2006 22:54:47 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.example.com (Postfix) with ESMTP id D06F75010CE
+ for <foobee@example.com>; Sun, 30 Jul 2006 17:54:45 -0300 (ART)
+Received: from rocinante.example.com ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 12181-07 for <foobee@example.com>;
+ Sun, 30 Jul 2006 17:54:45 -0300 (ART)
+Received: from 209.8.5.252 (unknown [209.8.5.252])
+ by rocinante.example.com (Postfix) with SMTP id A06545010CA
+ for <foobee@example.com>; Sun, 30 Jul 2006 17:54:43 -0300 (ART)
+Received: service@paypal.com
+Message-ID: service@paypal.com
+From: service@paypal.com
+To: foobee@example.com
+Subject: ***SPAM*** Please update and verify your PayPal Account!
+Date: Sun, 30 Jul 2006 19:54:20 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--=====1267339568201=_"
+X-CS-IP: 128.235.17.2
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 at example.com
+X-Spam-Status: Yes, hits=7.8 tagged_above=0.0 required=5.0 tests=BAYES_80,
+ HTML_20_30, HTML_MESSAGE, HTML_MIME_NO_HTML_TAG, HTML_SHORT_LENGTH,
+ INVALID_MSGID, MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI, MPART_ALT_DIFF,
+ NO_REAL_NAME, RCVD_NUMERIC_HELO
+X-Spam-Level: *******
+X-Spam-Flag: YES
+Status: 
+X-Status: 
+X-Keywords: 
+
+----=====1267339568201=_
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+msg
+
+----=====1267339568201=_--
+

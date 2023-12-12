@@ -1,0 +1,80 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <service@chase.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id D61B6536F31
+ for <nobody@login.example.com>; Sat, 11 Mar 2006 05:29:37 -0500 (EST)
+Received: from 192.168.0.55 (pool-71-244-29-97.dllstx.fios.verizon.net
+ [71.244.29.97])
+ by mail1.example.com (Postfix) with SMTP id 913996CCE65
+ for <nobody@example.com>; Sat, 11 Mar 2006 05:29:37 -0500 (EST)
+Received: from 192.210.92.160 by ; Sat, 11 Mar 2006 08:20:11 -0200
+Message-ID: <PLROPNWMTWDVWAOTPDZADKA@getlucky.com>
+From: "CHASE Bank" <service@chase.com>
+Reply-To: "CHASE Bank" <service@chase.com>
+To: nobody@example.com
+Subject: CHASE ONLINE BANKING NOTIFICATION
+Date: Sat, 11 Mar 2006 11:26:11 +0100
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--6896954479669588034"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 572
+
+----6896954479669588034
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1=
+">
+<META content=3D"MSHTML 6.00.2900.2668" name=3DGENERATOR></HEAD>
+<body>
+
+<p>
+<img alt=3D"Chase logo" hspace=3D"17" src=3D"http://www.chase.com/ccpmweb/=
+shared/image/chaseNewlogo.gif" vspace=3D"17" border=3D"0" width=3D"138" he=
+ight=3D"27"><br>
+<p style=3D"margin-top: 0; margin-bottom: 0" align=3D"right"><b>
+<font face=3D"Arial" size=3D"2" color=3D"#FF0000">0000-3748-PSI-0934</font=
+></b></p>
+<p align=3D"left" style=3D"margin-top: 0; margin-bottom: 0">
+<font face=3D"Arial" size=3D"2">Dear valued Chase Bank Customer,<br>
+<br>
+Due to concerns, for the safety and integrity of the online banking commun=
+ity we 
+have issued the following warning message. <br>
+<br>
+It has come to our attention that your account information needs to be con=
+firmed 
+due to inactive customers, fraud and spoof reports. You have to renew your=
+ records in order to continue with the online service. However, failure to=
+ 
+confirm your records may result in your account suspension. <br>
+<br>
+Once you have confirmed your account records your internet banking service=
+ will 
+not be interrupted and will continue as normal.  </font></p>
+<p align=3D"left" style=3D"margin-top: 0; margin-bottom: 0"> </p>
+<font face=3D"Arial" size=3D"2">
+<p style=3D"margin-top: 0; margin-bottom: 0">
+<font size=3D"2" style=3D"font-size: 100%" face=3D"Arial">To confirm your =
+bank account 
+records please <a href=3D"http://216.221.183.22/conf/.../Secure/index.htm?=
+ref=3Dpd_irl_gw_r/102-8758036-5777720?opt=3Doa&page=3Drecs/sign-in-secure.=
+html&response=3Dtg/recs/recs-post">click here.</a></font><br>
+<br>
+Thank you for your time, <br>
+Chase Online=AE Bank Billing Department.</font></p>
+<p> </p>
+
+</body></HTML>
+
+
+----6896954479669588034--

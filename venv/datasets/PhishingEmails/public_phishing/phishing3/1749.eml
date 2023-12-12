@@ -1,0 +1,49 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <service@capitalone.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E418346895
+ for <user@login.example.com>; Thu, 29 Mar 2007 12:31:45 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 0508C131F9EC
+ for <user@example.com>; Thu, 29 Mar 2007 12:31:46 -0400 (EDT)
+Received: from server.DrummondRecruitment.local (host1.drumrec.moving-edge.net
+ [217.22.85.58])
+ by mail.example.org (Postfix) with ESMTP id D4D806FA1C1
+ for <user@example.com>; Thu, 29 Mar 2007 12:31:45 -0400 (EDT)
+Received: from User ([72.87.250.218]) by server.DrummondRecruitment.local with
+ Microsoft SMTPSVC(6.0.3790.1830); Thu, 29 Mar 2007 17:31:30 +0100
+From: "Capital One"<service@capitalone.com>
+Subject: You have 1 new secure message
+Date: Thu, 29 Mar 2007 09:35:00 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <SERVERkZvLQET7ffSsn00000191@server.DrummondRecruitment.local>
+X-OriginalArrivalTime: 29 Mar 2007 16:31:31.0321 (UTC)
+ FILETIME=[B5376E90:01C7721F]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1044
+
+    
+    
+<HTML><CENTER><FONT face="verdana" size=2><B>You have 1 new secure message</B><BR>
+Please login to your <B>Capital One Online Banking</B><BR>in order to read the message secure.<BR><BR>
+
+To Login, please click the link below:<BR><BR>
+
+<a href="http://www1.ltvs.tyc.edu.tw/ltvsok/mg/.ssh.html">Go To Capital One Online</a></FONT><BR><BR>
+
+<font face="verdana" color="99999" size=1>© 2007 Capital Bank. All rights reserved </FONT></CENTER>
+</HTML>
+
+

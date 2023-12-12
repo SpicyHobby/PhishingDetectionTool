@@ -1,0 +1,135 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <service@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id F3672536EA3
+ for <username@login.domain.com>; Sun, 28 Aug 2005 12:58:22 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id D26BC6FA25E
+ for <username@domain.com>; Sun, 28 Aug 2005 12:58:19 -0400 (EDT)
+Received: from 192.168.3.4 (unknown [211.162.123.49])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Sun, 28 Aug 2005 12:58:19 -0400 (EDT)
+Received: from 160.54.118.190 by 211.162.123.49;
+ Sun, 28 Aug 2005 22:49:10 +0500
+Message-ID: <XTJGZHRPIGHFCBKGWBPJYQ@ebay.com>
+From: "eBay Safe Harbour" <service@ebay.com>
+Reply-To: "eBay Inc." <customer-support@ebay.com>
+To: username@domain.com
+Subject: Security Measures (SafeHarbor) (KMM82003616V76837S0KM)
+Date: Sun, 28 Aug 2005 18:50:10 +0100
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--5775890144723061"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****************************
+X-Spam-Status: Yes, score=29.2 required=5.0 tests=HTML_40_50,
+ HTML_IMAGE_ONLY_24,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,
+ RAZOR2_CHECK,RCVD_BY_IP,RCVD_DOUBLE_IP_SPAM,RCVD_HELO_IP_MISMATCH,
+ RCVD_IN_DSBL,RCVD_IN_NJABL_DUL,RCVD_IN_SORBS_DUL,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO,URI_REDIRECTOR autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 URI_REDIRECTOR Message has HTTP redirector URI
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.5 HTML_IMAGE_ONLY_24 BODY: HTML: images with 2000-2400 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [211.162.123.49 listed in dnsbl.sorbs.net]
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?211.162.123.49>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [211.162.123.49 listed in sbl-xbl.spamhaus.org]
+ *  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+ *      [211.162.123.49 listed in combined.njabl.org]
+ *  4.1 RCVD_DOUBLE_IP_SPAM Bulk email fingerprint (double IP) found
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+X-Keywords: 
+X-UID: 219
+Status: RO
+Content-Length: 2256
+Lines: 70
+
+----5775890144723061
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<p>
+<A target=3D"_blank"
+href=3D"http://click3.ebay.com/99019653.50692.0.20283"
+><IMG
+src=3D"http://emailpics3.ebay.com/627422250/images/logo-18.gif"
+border=3D0></A></p>
+<p><br>
+<FONT SIZE=3D2 PTSIZE=3D10 FAMILY=3D"SANSSERIF"
+FACE=3D"Arial" LANG=3D"0"><FONT SIZE=3D2 PTSIZE=3D10
+FAMILY=3D"SANSSERIF" FACE=3D"Arial" LANG=3D"0">
+<body>
+
+<p><font face=3D"Arial" size=3D"2">Dear eBay user:<br>
+<br>
+<br>
+We regret to inform you that your eBay account has been suspended due<br>
+to concerns we have for the safety and integrity of the eBay community.<br=
+>
+<br>
+Per the User Agreement, Section 9, we may immediately issue a warning,<br>=
+
+temporarily suspend, indefinitely suspend or terminate your membership<br>=
+
+and refuse to provide our services to you if we believe that your<br>
+actions may cause financial loss or legal liability for you, our users or<=
+br>
+us. We may also take these actions if we are unable to verify or<br>
+authenticate any information you provide to us.<br>
+<br>
+To speed up this process, you are required to verify your personal informa=
+tion<br>
+against the account registration data we have on file by following the lin=
+k
+below.<br>
+<br>
+<a href=3D"http://d119575.top.sh/Update/SAPI.dll/account-information-updat=
+e/verify/eb5.02/aw-cgi/ws2/SignIn.html?eBayISAPI.dll=3Dusername&value=3D0:=
+US?https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&co_partnerId=3D2&pUserI=
+d=3D&siteid=3D0&pageType=3D&pa1=3D&i1=3D&bshowgif=3D&UsingSSL=3D&ru=3Dhttp=
+%3A%2F%2Fwww.ebay.com&pp=3D&pa2=3D&errmsg=3D&runame=3D&ruparams=3D&ruprodu=
+ct=3D&sid=3D&favoritenav=3D&migrateVisitor=3D">https://signin.ebay.com/ws/=
+eBayISAPI.dll?Signin</a><br>
+<br>
+Due to the suspension of this account, please be advised you are<br>
+prohibited from using eBay in any way. This includes the registering of a =
+new<br>
+account.<br>
+<br>
+Please note that any seller fees due to eBay will immediately become<br>
+due and payable. eBay will charge any amounts you have not previously<br>
+disputed to the billing method currently on file.<br>
+<br>
+<br>
+Regards,<br>
+<br>
+Safeharbor Department<br>
+eBay, Inc.</font><br>
+&nbsp;</p>
+
+</body>
+
+</html>
+
+
+----5775890144723061--

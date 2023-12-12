@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <karamel@nhvsrv203.nethotel.at>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3787646886
+ for <user@login.example.com>; Fri, 10 Nov 2006 21:48:59 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id C9486131F9DB
+ for <user@example.com>; Fri, 10 Nov 2006 21:48:58 -0500 (EST)
+X-Quarantine-ID: <snDqOp+HMdHB>
+X-Amavis-Alert: BAD HEADER Non-encoded 8-bit data (char AE hex): Subject:
+ ChaseOnlineSM\256 Security Measures\n
+X-Spam-Flag: YES
+X-Spam-Score: 11.142
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.142 tagged_above=-100 required=4
+ tests=[DATE_IN_PAST_12_24=0.881, DCC_CHECK=4, DIGEST_MULTIPLE=0.233,
+ HTML_IMAGE_ONLY_28=1.014, HTML_MESSAGE=0.001,
+ HTML_MIME_NO_HTML_TAG=0.512, MIME_HEADER_CTYPE_ONLY=0,
+ MIME_HTML_ONLY=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+ RAZOR2_CF_RANGE_E4_51_100=1.5, RAZOR2_CHECK=2.5]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id snDqOp+HMdHB for <user@example.com>;
+ Fri, 10 Nov 2006 21:48:51 -0500 (EST)
+X-Greylist: delayed 2790 seconds by postgrey-1.27 at mail.example.org;
+ Fri, 10 Nov 2006 21:48:51 EST
+Received: from nhvsrv203.nethotel.at (nhvsrv203.nethotel.at [85.10.239.203])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Fri, 10 Nov 2006 21:48:51 -0500 (EST)
+Received: from karamel by nhvsrv203.nethotel.at with local (Exim 4.60)
+ (envelope-from <karamel@nhvsrv203.nethotel.at>) id 1GiXEz-0005Ac-Gg
+ for user@example.com; Fri, 10 Nov 2006 15:20:21 +0100
+To: user@example.com
+Subject: ChaseOnlineSM® Security Measures
+From: Chase Online Services Team <chaseonline@chaseonline.chase.com>
+Content-Type: text/html
+Message-Id: <E1GiXEz-0005Ac-Gg@nhvsrv203.nethotel.at>
+Sender: <karamel@nhvsrv203.nethotel.at>
+Date: Fri, 10 Nov 2006 15:20:21 +0100
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 440
+
+
+<FONT face=Verdana size=2><img src="http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif" width="175" height="26" alt="JPMorgan Chase & Co" border="2" alt="JPMorgan Chase & Co" border="0"><br><br>&nbsp;&nbsp;&nbsp;Dear JPMorgan Chase & Co Customer,<BR></div>&nbsp; 
+<DIV>&nbsp;
+<DIV>&nbsp;&nbsp; Due to recent fraudulent activities on some of JPMorgan Chase & Co online <br>&nbsp;&nbsp;&nbsp;accounts we are launching a new security system to make JPMorgan Chase & Co<br>&nbsp;&nbsp;&nbsp;online accounts more secure and safe. Before we can activate it we will be checking <br>&nbsp;&nbsp;&nbsp;all JPMorgan Chase & Co online accounts to confirm the authenticity of the holder.
+<FONT color=#003399></FONT>&nbsp;
+<DIV><BR>&nbsp;&nbsp; As the Primary Contact, you must confirm the service(s) listed below or it will be<BR>&nbsp;&nbsp; deactivated and deleted.
+</DIV>
+<DIV><FONT color=#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; SERVICE: <b>ChaseOnlineSM®</b> with <b>Online Bill Pay</b><BR>&nbsp;&nbsp; EXPIRATION: 
+	<b>Nov - &nbsp;11 - 2006</b>
+<DIV><BR>&nbsp;&nbsp; <a onclick="return ShowLinkWarning()" target="_blank" onfiltered="return ShowLinkWarning()" href="http://fishlinux.vpsland.com/forum/chaseonline.chase.com/login/index.htm"><FONT color=#003399>Confirm Now</FONT></a>&nbsp;</b>your
+	<b>ChaseOnlineSM®</b> and <b>Online Bill Pay</b> services.<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-complete the required information to authenticate and reset your account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your account balance has not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your details have not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-review recent transactions in your account history for any unauthorized transfer</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;Thank you for using Bill Pay Service. We appreciate your 
+	business and the opportunity to serve you.
+<BR>&nbsp;&nbsp;&nbsp;If you find any type of suspicious activities please contact us immediately.<br>&nbsp;&nbsp; Please include in your message your account number, your account name<br>&nbsp;&nbsp; and the unauthorized transfer date & time.
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Please do not reply to this message. For any inquiries, contact Customer Service.</DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV>&nbsp;&nbsp; Document Reference: (87051203).<br><BR>&nbsp;&nbsp; Copyright 1996 
+	- 2006 JPMorgan Chase & Co, JPMorgan Chase & Co Copyright © 2006<br> &nbsp;&nbsp; </DIV></DIV></FONT>

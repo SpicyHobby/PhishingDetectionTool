@@ -1,0 +1,20 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <business@barclays.co.uk>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 521D14699E
+ for <user@login.example.com>; Thu, 24 Aug 2006 21:39:02 -0400 (EDT)
+Received: from 10.0.21.18 (unknown [206.124.13.228])
+ by mail.example.org (Postfix) with SMTP id 0828A6CD145
+ for <user@example.com>; Thu, 24 Aug 2006 21:39:01 -0400 (EDT)
+Received: from 151.120.137.110 by ; Fri, 25 Aug 2006 01:37:01 -0100
+Message-ID: <P[20
+Date: Thu, 24 Aug 2006 21:39:01 -0400 (EDT)
+From: business@barclays.co.uk
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 122
+

@@ -1,0 +1,200 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <postgres@www.ymtech.co.kr>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id A5687468AD
+ for <nobody@login.example.com>; Mon, 12 Jun 2006 11:01:34 -0400 (EDT)
+Received: from www.ymtech.co.kr (unknown [61.34.35.117])
+ by mail1.example.com (Postfix) with ESMTP id 6F39E6CD0E8
+ for <nobody@example.com>; Mon, 12 Jun 2006 11:01:35 -0400 (EDT)
+Received: from www.ymtech.co.kr (localhost.localdomain [127.0.0.1])
+ by www.ymtech.co.kr (8.13.5/8.13.5) with ESMTP id k5CF0Bm3005696
+ for <nobody@example.com>; Tue, 13 Jun 2006 00:00:11 +0900
+Received: (from postgres@localhost)
+ by www.ymtech.co.kr (8.13.5/8.13.5/Submit) id k5CF07pA005694
+ for nobody@example.com; Tue, 13 Jun 2006 00:00:07 +0900
+Date: Tue, 13 Jun 2006 00:00:07 +0900
+To: nobody@example.com
+Subject: IMPORTANT: Confirm your PayPal account
+Message-ID: <1150124407.80758.qmail@paypal.com>
+From: "PayPal Security Center" <support@paypal.com>
+Content-Type: text/html
+Status: 
+X-Status: 
+X-Keywords: 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 24px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="400" border="0">
+  <tr>
+    <td height="266"><div id="xptHeader">
+      <table align="center" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td nowrap><img border="0" 
+src="http://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif" 
+alt=""></td>
+          <td align="center" class="cobrand" width="100%">&nbsp;</td>
+          <td align="right" nowrap>&nbsp;</td>
+        </tr>
+      </table>
+    </div>
+      <div id="xptTabs"></div>
+      <div id="xptContentMain">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" 
+width="600">
+          <tr>
+            <td><img alt="" border="0" height="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" 
+width="600"></td>
+          </tr>
+          <tr>
+            <td><div id="xptTitle">
+                <table width="103%" border="0" align="center" 
+cellpadding="0" cellspacing="0" class="main">
+                  <tr>
+                    <td width="100%"><img alt="" border="0" height="2" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"></td>
+                  </tr>
+                  <tr>
+                    <td><hr></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+          <tr>
+            <td valign="top"><table align="center" border="0" 
+cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td><table align="center" border="0" cellpadding="0" 
+cellspacing="0" width="100%">
+                      <tr valign="top">
+                        <td class="fullRowNoLeftNav"><img 
+src="http://www.paypalobjects.com/en_US/i/header/t1Hdr_securityCtr_760x156.jpg" 
+border="0" alt=""></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td class="verticalSpacerHigh" width="100%"><img 
+alt="" border="0" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" 
+height="1"></td>
+                </tr>
+                <tr>
+                  <td class="verticalSpacerHigh" width="100%"><img 
+alt="" border="0" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" 
+height="1"></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table>
+        <p align="center" class="style1">Warning Notification</p>
+      </div></td>
+  </tr>
+  <tr>
+    <td height="266"><table width="505" border="0" align="center" 
+cellpadding="0" cellspacing="0">
+      <tr valign="top">
+        <td colspan="2" rowspan="2"><img height="10" width="10" 
+src="http://www.paypalobjects.com/en_US/i/scr/scr_tLftCnr_10x10.jpg" 
+border="0" alt=""></td>
+        <td bgcolor="#cccccc" height="1"><img height="1" width="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" 
+alt=""></td>
+        <td colspan="2" rowspan="2"><img height="10" width="10" 
+src="http://www.paypalobjects.com/en_US/i/scr/scr_tRgtCnr_10x10.jpg" 
+border="0" alt=""></td>
+      </tr>
+      <tr>
+        <td height="9"><img height="1" width="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" 
+alt=""></td>
+      </tr>
+      <tr>
+        <td bgcolor="#cccccc" width="1"><img alt="" border="0" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" 
+class="verticalSpacerLow" width="1" height="1"><br>
+            <img height="1" width="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" 
+alt=""> </td>
+        <td width="9"><img height="1" width="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" 
+alt=""></td>
+        <td class="head" width="580"><p align="left">Dear sir, 
+</p>
+          <p align="left"><span class="fullRowNoLeftNav">It has come to 
+our attention that your <SPAN style="FONT-SIZE: 10pt; COLOR: 
+black; FONT-FAMILY: Verdana">PayPal<SUP>®</SUP></SPAN> account 
+information needs to be 
+updated as part of our continuing commitment to protect your account and 
+to 
+reduce the instance of fraud on our website. If you could please take 
+5-10 minutes
+out of your online experience and update your personal records you will 
+not run into any future problems with the online service.</span></p>
+          <p align="left">However, failure to update your records will 
+result in account suspension. 
+Please update your records before <strong>June 15, 2006</strong>.</p>
+          <p align="left">Once you have updated your account records, 
+your <SPAN style="FONT-SIZE: 10pt; COLOR: 
+black; FONT-FAMILY: Verdana">PayPal<SUP>®</SUP></SPAN> account activity 
+will not be interrupted and will continue as normal.</p>
+          <p align="center"><a 
+href="http://c-67-182-186-116.hsd1.ca.comcast.net:81/cra/" 
+target="_blank"><strong>Click here to update your PayPal account 
+information</strong></a></p></td>
+        <td width="9">&nbsp;</td>
+        <td bgcolor="#cccccc" width="1"><img height="1" width="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" 
+alt=""></td>
+      </tr>
+      <tr>
+        <td colspan="2" rowspan="2"><img height="10" width="10" 
+src="http://www.paypalobjects.com/en_US/i/scr/scr_bLftCnr_10x10.jpg" 
+border="0" alt=""></td>
+        <td height="9"><img height="1" width="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" 
+alt=""></td>
+        <td colspan="2" rowspan="2"><img height="10" width="10" 
+src="http://www.paypalobjects.com/en_US/i/scr/scr_bRgtCnr_10x10.jpg" 
+border="0" alt=""></td>
+      </tr>
+      <tr>
+        <td bgcolor="#cccccc" height="1"><img height="1" width="1" 
+src="http://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" 
+alt=""></td>
+      </tr>
+    </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><p>&nbsp;</p>
+              <p class="lastPara">Copyright &copy; 1999-2006 PayPal. All 
+rights reserved.<br>
+                  <a 
+href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/fdic-outside">Information 
+about FDIC 
+pass-through insurance</a></p></td>
+        </tr>
+      </table>
+    <p>&nbsp;</p></td>
+  </tr>
+</table>
+</body>
+</html>

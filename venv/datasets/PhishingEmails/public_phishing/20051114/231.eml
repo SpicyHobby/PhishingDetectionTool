@@ -1,0 +1,78 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <wwwrun@linux.site>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id AD7DE536E8B
+ for <username@login.domain.com>; Mon, 12 Sep 2005 11:26:14 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id ACBD26FA27C
+ for <username@domain.com>; Mon, 12 Sep 2005 11:26:09 -0400 (EDT)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Mon, 12 Sep 2005 11:26:09 -0400 (EDT)
+Received: by lujan.domain.com (Postfix)
+ id AC4551BC47; Mon, 12 Sep 2005 17:26:12 +0200 (CEST)
+Delivered-To: umeet@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP id 1AB7A1BC2D
+ for <umeet@domain.com>; Mon, 12 Sep 2005 15:26:12 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 22393-10 for <umeet@domain.com>;
+ Mon, 12 Sep 2005 17:25:53 +0200 (CEST)
+Received: from linux.site (ironside.whizamfmtv.com [64.89.14.180])
+ by lujan.domain.com (Postfix) with ESMTP id 350021BBFD
+ for <umeet@listas.domain.com>; Mon, 12 Sep 2005 17:25:51 +0200 (CEST)
+Received: by linux.site (Postfix, from userid 30)
+ id 38D19BF970; Mon, 12 Sep 2005 11:27:52 -0400 (EDT)
+To: umeet@listas.domain.com
+Subject: Online Banking and Bill Payment Deactivation Notice
+From: Armed Forces Bank <service@afbbank.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050912152752.38D19BF970@linux.site>
+Date: Mon, 12 Sep 2005 11:27:52 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.1 required=5.0 tests=BAYES_00,HTML_40_50,
+ HTML_IMAGE_ONLY_20,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP,REPLY_TO_EMPTY autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * -2.6 BAYES_00 BODY: Bayesian spam probability is 0 to 1%
+ *      [score: 0.0000]
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+X-Keywords: 
+X-UID: 250
+Status: RO
+Content-Length: 1719
+Lines: 20
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+<FONT face=Arial size=2><IMG height=25 alt="Armed Forces Bank" src="http://afbank.com/img2/logo1.gif" width=250 border=0><FONT face="Times New Roman" size=3> <BR><BR><FONT face=Arial size=2> Dear Armed Forces Bank Client,<BR><BR>   <BR> This is your official notification from Armed Forces Bank that the service(s) listed below<BR> will be deactivated and deleted if not renewed immediately. Previous notifications have<BR> been sent to the Billing Contact assigned to this account. As the Primary Contact, you<BR> must renew the service(s) listed below or it will be deactivated and deleted. <BR><BR><BR> <A href="http://221.144.51.78/www.afbank.com/verify_803fd66194f54c209ca32a006a43a1d550715dcb5b2c99c8fef0bb9ab89e0571/" target=_blank onfiltered="return ShowLinkWarning()"><FONT color=#003399>Renew Now</FONT></A>  your Armed Forces Bank Online Banking and Bill Pay Services. 
+<DIV><FONT color=#003399></FONT> </DIV>
+<DIV><BR> SERVICE : Armed Forces Bank with Bill Pay.<BR> EXPIRATION: September 10, 2005</DIV>
+<DIV> </DIV>
+<DIV><BR> Thank you,</DIV>
+<DIV> </DIV>
+<DIV> Armed Forces Bank Management Center Customer Support</DIV>
+<DIV> </DIV>
+<DIV><BR> ======================================== <BR>  IMPORTANT CUSTOMER SUPPORT INFORMATION<BR> ======================================== </DIV>
+<DIV> </DIV>
+<DIV> Please do not reply to this message. For any inquiries, contact Customer Service.</DIV>
+<DIV> </DIV>
+<DIV> Document Reference: (87051203).</DIV>
+<DIV> </DIV>
+<DIV> Armed Forces Bank, N.A. Member FDIC.  Equal Housing Lender.<BR> Copyright © 2005 Armed Forces Bank, N.A. All rights reserved.<BR><BR><BR></FONT></FONT></FONT></DIV>
+
+
+ 

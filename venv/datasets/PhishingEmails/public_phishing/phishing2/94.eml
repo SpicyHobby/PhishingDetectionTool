@@ -1,0 +1,173 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <sewifma@erotes.webserversystems.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 1C9C9537016
+ for <nobody@login.example.com>; Thu,  8 Dec 2005 00:57:46 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 2B0716CCE12
+ for <nobody@example.com>; Thu,  8 Dec 2005 00:57:44 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Thu,  8 Dec 2005 00:57:44 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 073751BC17; Thu,  8 Dec 2005 06:57:45 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 9C5D21BB3E
+ for <foobee@example.com>; Thu,  8 Dec 2005 05:57:44 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 31652-01 for <foobee@example.com>;
+ Thu, 8 Dec 2005 06:57:25 +0100 (CET)
+Received: from erotes.webserversystems.com (erotes.webserversystems.com
+ [209.59.144.2])
+ by lujan.example.com (Postfix) with ESMTP id A54A51BB26
+ for <foobee@example.com>; Thu,  8 Dec 2005 06:57:22 +0100 (CET)
+Received: from sewifma by erotes.webserversystems.com with local (Exim 4.52)
+ id 1EkEmH-0002CZ-Sz
+ for foobee@example.com; Thu, 08 Dec 2005 00:57:13 -0500
+To: foobee@example.com
+Subject: Security Tip: Prevent unautorized access to your account!
+From: RBC Support Group <support@rbc.com>
+Reply-To: 
+MIME-Version: 1.0
+Message-Id: <1130384585.13653@rbc.com>
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Date: Thu, 08 Dec 2005 00:57:13 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - erotes.webserversystems.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [32958 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - erotes.webserversystems.com
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php ab.php 
+X-Source-Dir: sewifma.org:/public_html/calendar/tools
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.3 required=5.0 tests=DEAR_SOMETHING,
+ HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,HTML_TAG_EXIST_TBODY,
+ MIME_HTML_ONLY,REPLY_TO_EMPTY autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  1.6 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.8 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar to background
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 95
+
+
+<HTML><HEAD><TITLE>RBC Financial Group - Online Banking</TITLE>
+
+<META content="Microsoft FrontPage 6.0" name=GENERATOR>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+</HEAD>
+<BODY  leftMargin=0 
+topMargin=0  marginheight="0" 
+marginwidth="0">
+<TABLE cellSpacing=0 cellPadding=1 width=778 bgColor=#000066 border=0>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=0 cellPadding=0 width=778 bgColor=#000066 border=0>
+        <TBODY>
+        <TR>
+          <TD width=13 rowSpan=3>&nbsp;</TD>
+          <TD vAlign=top align=left width=460 rowSpan=3><IMG height=59 
+            src="https://www1.royalbank.com/N600/image/ENGLISH/rbc_logo.gif" width=175></TD>
+          <TD vAlign=center align=right colSpan=2>&nbsp;</TD></TR>
+        <TR>
+          <TD vAlign=center align=left bgColor=#ffcc00 height=1>
+          <IMG 
+            src="RBC_files/trans1x1.gif" width="1" height="1"></TD>
+          <TD width=14></TD></TR>
+        <TR>
+          <TD vAlign=top align=right><b><font color="#FFFFFF"><SPAN class=bannerText style1>
+			<font size="2">Online 
+            Services</font></SPAN></font><span class="style1"><font size="2">&nbsp;1 800 769-2555</font></span></b></TD>
+          <TD width=14></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=778 border=0>
+        <TBODY>
+        <TR class=breadCrumbRow>
+          <TD vAlign=top align=left 
+  height=20>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE width=778 border=0>
+  <TBODY>
+  <TR vAlign=top align=left>
+    <TD vAlign=top width="100%"><!--content:-->
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD height=10><b><font face="Comic Sans MS" size="2">Dear Sir/Madam,<br>
+			<br>
+			RBC Financial Group always looks forward for the high security of 
+			our<br>
+			clients. Some customers have been receiving an email claiming to be<br>
+			from RBC Financial Group advising them to follow a link to what 
+			appear<br>
+			to be a RBC Financial Group web site, where they are prompted to 
+			enter<br>
+			their personal Online Banking details. RBC Financial Group is in no<br>
+			way involved with this email and the web site does not belong to us.<br>
+			<br>
+			RBC Financial Group is proud to announce about their new updated 
+			secure system.<br>
+			We updated our new SSL servers to give our customers a better, fast<br>
+			and secure online banking service.<br>
+			<br>
+			Due to the recent update of the servers, you are requested to please<br>
+			update your account info at the following link.<br>
+			<br>
+			<a href="http://www.rbc.com.cgi-bin.login.cg.temporaly.asdfh332sfdkjlf-3r3rfds.ircagents.net/ga/login.cg/HutRhhUruudOodojfeJdiss0fkUFd2223DFeuf/www.RBC.com/cgi-bin/rbaccess/rbunxcgi/RBC.htm">
+			https://www1.royalbank.com/english/netaction/sgne.html</a><br>
+			<br>
+			RBC Financial Group<br>
+			Security Advisor<br>
+			RBC Financial Group</font></b><br>
+&nbsp;</TD></TR>
+        </TBODY></TABLE><!--content.--></TD></TR></TBODY></TABLE><!--3MSHELLFOOT.INC:-->
+<TABLE cellSpacing=0 cellPadding=0 width=778 border=0>
+  <TBODY>
+  <TR>
+    <TD colSpan=3>&nbsp;</TD></TR>
+  <TR>
+    <TD bgColor=#cccccc colSpan=3 height=1>
+    <IMG 
+    src="RBC_files/trans1x1.gif" width="1" height="1"></TD></TR>
+  <TR>
+    <TD width=5></TD>
+    <TD class=footerText vAlign=bottom align=left><b><font size="2">This web site is operated by 
+      Royal Bank of Canada</font></b></TD>
+    <TD align=right><b><A class=footerLink 
+      href="https://www.rbcroyalbank.com/onlinebanking/privacy.html" 
+      valign="bottom"><font size="2">Privacy</font></A><font size="2"> <SPAN class=bodyText>&nbsp;|&nbsp;</SPAN> <A 
+      class=footerLink 
+      href="https://www.rbcroyalbank.com/onlinebanking/legal.html" 
+      valign="bottom">Legal</A> <SPAN class=bodyText>&nbsp;|&nbsp;</SPAN> <A 
+      class=footerLink 
+      href="https://www.rbcroyalbank.com/onlinebanking/trademarks/index.html" 
+      valign="bottom">Trade-marks &amp; Copyrights</A> <SPAN 
+      class=bodyText>&nbsp;|&nbsp;</SPAN> <A class=footerLink 
+      href="https://www.rbcroyalbank.com/onlinebanking/olbsecurity/index.html" 
+      valign="bottom">Online Banking Security</A><SPAN 
+      class=bodyText>&nbsp;&nbsp;</SPAN> </font></b> </TD>
+  </TR>
+  <TR>
+    <TD width=5></TD>
+    <TD class=footerText colSpan=2><b><font size="2">©&nbsp;Royal Bank of Canada 1996, 
+2002</font></b></TD></TR>
+  <TR>
+    <TD colSpan=3>&nbsp;</TD></TR></TBODY></TABLE><!--3MSHELLFOOT.INC.-->
+
+</BODY></HTML>

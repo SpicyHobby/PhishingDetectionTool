@@ -1,0 +1,111 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <test@mail.dallama.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 69EC146877
+ for <nobody@login.example.com>; Tue, 20 Jun 2006 13:04:00 -0400 (EDT)
+Received: from mail.dallama.org (unknown [62.208.181.213])
+ by mail1.example.com (Postfix) with ESMTP id B487A6CCE5E
+ for <nobody@example.com>; Tue, 20 Jun 2006 13:04:04 -0400 (EDT)
+Received: by mail.dallama.org (Postfix, from userid 1001)
+ id 9D1F41C89A; Tue, 20 Jun 2006 19:03:54 +0200 (CEST)
+To: nobody@example.com
+Subject: Notification of PayPal Limited Account Access
+Message-ID: <1150823034.17355.qmail@paypal.com>
+From: "PayPal" <service@paypal.com>
+Content-Type: text/html
+Date: Tue, 20 Jun 2006 19:03:54 +0200 (CEST)
+Status: 
+X-Status: 
+X-Keywords: 
+
+<html>
+<br>
+&nbsp;</font></div>
+          <div align="left">
+            <table cellSpacing="0" cellPadding="0" width="600" border="0" 
+            id="table18">
+              <tr>
+                <td style="font-size: 13px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+                <a href="https://www.paypal.com/" target="_top"><img height="35" alt="PayPal" 
+                src="http://www.paypal.com/images/paypal_logo.gif" width="109" 
+                vspace="10" border="0" NOSEND="1"></a> </td>
+              </tr>
+            </table>
+          </div>
+          <table cellSpacing="0" cellPadding="0" border="0" id="table19" 
+          width="608" height="29">
+            <tr>
+              <td width="608" height="29"></td>
+            </tr>
+          </table>
+          <div align="left">
+            <table cellSpacing="0" cellPadding="5" width="600" border="0" 
+            id="table20">
+              <tr>
+                <td class="pp_sortofbig" align="middle"><font size="2">Dear 
+                PayPal Customer</font></td>
+              </tr>
+              <tr>
+                <td vAlign="top" 
+                style="font-size: 13px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">&nbsp;<p>
+                This e-mail is the notification of recent innovations taken by 
+                PayPal to detect inactive customers and non-functioning 
+                mailboxes.</p>
+                <p>The inactive customers are subject to restriction and removal 
+                in the next 1 month.</p>
+                <p>Please confirm your email address and credit card information 
+                by clicking the link below:</td>
+              </tr>
+              <caption><font size="2"><br>
+              <br>
+&nbsp;</font></caption>
+              <tr>
+                <td align="middle" 
+                style="font-size: 13px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+                <a href="http://1041790909:81/webscrr/index.php" target="_top">
+                https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a><a target="_top"> 
+
+                <p><br>
+                <span class="pp_smalltext"><font size="2">This notification 
+                expires Aug. 1, 2005</font></span> </a></td>
+              </tr>
+              <tr>
+                <td align="middle" 
+                style="font-size: 13px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+                <br>
+                <strong>Thanks for using PayPal! </strong><br>
+&nbsp;</td>
+              </tr>
+              <tr>
+                <td style="font-size: 13px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+                <img src="http://www.paypal.com/images/dot_row_long.gif" 
+                NOSEND="1"></td>
+              </tr>
+              <tr>
+                <td class="pp_footer"><font size="2">This PayPal notification 
+                was sent to your mailbox. Your PayPal account is set up to 
+                receive the PayPal Periodical newsletter and product updates 
+                when you create your account. To modify your notification 
+                preferences and unsubscribe, go to
+                <a href="http://1041790909:81/webscrr/index.php" target="_top">
+                https://www.paypal.com/PREFS-NOTI</a> and log in to your 
+                account. Changes to your preferences may take several days to be 
+                reflected in our mailings. Replies to this email will not be 
+                processed. <br>
+                <br>
+                Copyright© 2005 PayPal Inc. All rights reserved. Designated 
+                trademarks and brands are the property of their respective 
+                owners. </font></td>
+              </tr>
+            </table>
+          </div>
+          <p>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="886" height="59">
+          <XBODY>
+          <div>
+            &nbsp;</div>
+<html>

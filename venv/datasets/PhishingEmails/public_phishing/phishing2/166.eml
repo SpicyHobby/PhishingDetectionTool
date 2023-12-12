@@ -1,0 +1,129 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id BF93F536E19
+ for <nobody@login.example.com>; Fri, 23 Dec 2005 20:03:20 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 7C6B26FA369
+ for <nobody@example.com>; Fri, 23 Dec 2005 20:03:17 -0500 (EST)
+Received: from 10.3.4.5 (c-24-63-49-52.hsd1.nh.comcast.net [24.63.49.52])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Fri, 23 Dec 2005 20:03:17 -0500 (EST)
+Received: from c6v3.ahrfu.com [181.102.25.188] by 10.3.4.5 id <3819946-75797>;
+ Sat, 24 Dec 2005 03:59:12 +0300
+Message-ID: <9-3$h6x$d08gu-125xw8597isi0@10t.hn49k>
+From: "Service Center" <service@paypal.com>
+To: <nobody@example.com>
+Subject: PayPal Inquiry
+Date: Sat, 24 Dec 05 03:59:12 GMT
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="361B60C.90"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.9 required=5.0 tests=DATE_SPAMWARE_Y2K,
+ FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_RANDY,
+ RCVD_BY_IP,RCVD_HELO_IP_MISMATCH,RCVD_IN_SORBS_DUL,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: * 3.9 DATE_SPAMWARE_Y2K Date header uses unusual Y2K formatting
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [24.63.49.52 listed in dnsbl.sorbs.net]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [24.63.49.52 listed in sbl-xbl.spamhaus.org]
+ *  1.9 MSGID_RANDY Message-Id has pattern used in spam
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 167
+
+This is a multi-part message in MIME format.
+
+--361B60C.90
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+</style>=0A</head>=0A=0A<BODY><TABLE><TR><TD bgcolor=3D"#ffffff">=0A<table=
+ width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"c=
+enter">=0A<tr valign=3D"top">=0A	<td><a href=3D"https://www.paypal.com/us"=
+ target=3D"_blank" ><img src=3D"http://images.paypal.com/en_US/i/logo/emai=
+l_logo.gif" alt=3D"PayPal" border=3D"0"></a></td>=0A</tr>=0A</table>=0A=0A=
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">=0A=
+<tr>=0A	<td background=3D"http://images.paypal.com/images/bg_clk.gif" widt=
+h=3D"100%"><img src=3D"http://images.paypal.com/images/pixel.gif"
+height=3D=
+"29" width=3D"1" border=3D"0"></td>=0A</tr>=0A<tr>=0A	<td><img src=3D"http=
+://images.paypal.com/images/pixel.gif" height=3D"10" width=3D"1" border=3D=
+"0"></td>=0A</tr>=0A</table>=0A=0A<table width=3D"600" cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0" align=3D"center">=0A<tr valign=3D"top">=0A	<=
+td width=3D"400">=0A	<table width=3D"100%" cellspacing=3D"0"
+cellpadding=3D=
+"5" border=3D"0">=0A		<tr>=0A			<td>Dear PayPal Member,<br><br>=0AYour acc=
+ount has been randomly flagged in our system as a part of our routine secu=
+rity measures. =0AThis is a must to ensure that only you have access and u=
+se of your PayPal account and to ensure a safe PayPal experience. We requi=
+re all flagged accounts to verify their information on file with us. To ve=
+rify your Information at this time, please visit our secure server webform=
+ by clicking the hyperlink below=0A<br><br>=0A =0A<table width=3D"75%" cel=
+lpadding=3D"1" cellspacing=3D"0" border=3D"0" bgcolor=3D"#FFE65C" align=3D=
+"left">=0A<tr>=0A<td>=0A	<table width=3D"100%" cellpadding=3D"4" cellspaci=
+ng=3D"0" border=3D"0" bgcolor=3D"#FFFECD" align=3D"center">=0A		<tr>=0A			=
+<td class=3D"pp_sansserif" align=3D"center"><a href=3D"http://www.paypal.c=
+om.safenet-ssl.info?login_cmd=3Dlogin_access=3D1109785584" target=3D"_blan=
+k" > Click here to verify your
+Information</a></td>=0A		</tr>=0A	</table>=0A=
+</td>=0A</tr>=0A</table>=0A=0A<br>=0A<br>=0A<br>=0A Thank you for using Pa=
+yPal!<br>=0AThe PayPal Team</td>=0A</tr>=0A=0A<tr>=0A<td>=0A<hr class=3D"d=
+otted">=0A</td>=0A</tr>=0A=0A<tr>=0A<td>=0A<table width=3D"100%" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0">=0A<tr>=0A<td class=3D"pp_footer">=
+Please do not reply to this e-mail. Mail sent=0Ato this address cannot be =
+answered. For assistance, log=0Ain</a> to your PayPal account and choose t=
+he "Help" link in the=0Afooter of any page.<br>=0A<br class=3D"h10">=0A To=
+ receive email notifications in plain text instead of HTML,=0Aupdate your =
+preferences <a href=3D"https://www.paypal.com/us/PREFS-NOTI" target=3D"_bl=
+ank" > here</a>.</td>=0A</tr>=0A=0A<tr>=0A	<td><img src=3D"http://images.p=
+aypal.com/en_US/i/scr/pixel.gif" height=3D"10" width=3D"1" border=3D"0"></=
+td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A=0A<tr>=0A	<td><br><span class=3D=
+"pp_footer">PayPal Email ID
+PP478<br><br></span></td>=0A</tr>=0A</table>=0A=
+</td>=0A<td><img src=3D"http://images.paypal.com/en_US/i/scr/pixel.gif" he=
+ight=3D"1" width=3D"10" border=3D"0"></td>=0A<td width=3D"190" valign=3D"t=
+op">=0A<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"1" border=3D=
+"0" bgcolor=3D"#CCCCCC">=0A<tr>=0A	<td>=0A	<table width=3D"100%" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#ffffff">=0A	<tr>=0A	<t=
+d>=0A		<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"5" border=3D=
+"0" bgcolor=3D"#EEEEEE">=0A		<tr>=0A		<td class=3D"pp_sidebartextbold" ali=
+gn=3D"center">Protect Your Account
+Info</td>=0A		</tr>=0A		</table>=0A		=0A=
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"5" border=3D"0">=0A=
+<tr>=0A<td class=3D"pp_sidebartext">Make sure you never provide your=0Apas=
+sword to fraudulent websites.<br>=0A<br>=0ATo safely and securely access t=
+he PayPal website or your account,=0Aopen up a new web browser (e.g. Inter=
+net Explorer or Netscape) and=0Atype in the PayPal URL (http://www.paypal.=
+com/).<br>=0A<br>=0APayPal will never ask you to enter your password in an=
+ email.<br>=0A<br>=0A For more information on protecting yourself from fra=
+ud, please=0Areview our Security Tips at http://www.paypal.com/securitytip=
+s<br>=0A<img src=3D"http://images.paypal.com/en_US/images/pixel.gif" heigh=
+t=3D=0A"5" width=3D"1" border=3D"0"></td>=0A</tr>=0A</table>=0A</td>=0A</t=
+r>=0A=0A=0A=0A
+
+--361B60C.90--

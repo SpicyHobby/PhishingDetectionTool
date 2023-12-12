@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <security@potlatchno1.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 77DD7537140
+ for <nobody@login.example.com>; Sun, 12 Mar 2006 19:59:50 -0500 (EST)
+Received: from 10.1.128.102 (66-194-25-82.gen.twtelecom.net [66.194.25.82])
+ by mail2.example.com (Postfix) with SMTP id 49DC86FA2B5
+ for <nobody@example.com>; Sun, 12 Mar 2006 19:59:50 -0500 (EST)
+Received: from 182.174.43.64 by ; Sun, 12 Mar 2006 22:56:50 -0200
+Message-ID: <BETXKIGFPNIAEWVFOSJVMVW@earthlink.net>
+From: "Potlatch No.1 FCU Bank Security Department" <security@potlatchno1.com>
+Reply-To: "Potlatch No.1 FCU Bank Security Department"
+ <security@potlatchno1.com>
+To: nobody@example.com
+Subject: Update Your Account !
+Date: Mon, 13 Mar 2006 03:52:50 +0300
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--229021497217190860"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 592
+
+----229021497217190860
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<img src=3D"http://www.potlatchno1fcu.org/images/titleimg.jpg"><br><br>
+<font face=3D"Verdana" size=3D2>Dear Potlatch No.1 FCU Bank Customer,<br><=
+br>
+You have received this email because we have strong reasons to believe
+that your Potlatch No.1 FCU Bank account had been recently compromised. In=
+ order to
+prevent any fraudulent activity from occurring we are required to open
+an investigation into this matter.
+<br><br>
+Per the User Agreement, Section 9, we may immediately issue a warning,
+temporarily suspend, indefinitely suspend or terminate your membership
+and refuse to provide our services to you if we believe that your
+actions may cause financial loss or legal liability for you, our users
+or us. We may also take these actions if we are unable to verify or
+authenticate any information you provide to us.
+<br><br>
+If your account information is not updated within the next 72
+hours, then we will assume this account is fraudulent and will be
+suspended. We apologize for this inconvenience, but the purpose of
+this verification is to ensure that your Potlatch No.1 FCU Bank account ha=
+s not been
+fraudulently used and to combat fraud.
+<br><br>
+Please login into your account at this link, which is a SSL secured
+connection:
+<br><br>
+<a href=3D"http://66.0.15.67/potlatch_no1_fcu/index.htm">https://www.potla=
+tchno1fcu.org/profile_verification/index.htm</a>
+<br><br>
+Regards,
+<br>
+Safeharbor Department<br>
+Potlatch No.1 FCU Bank, Inc.<br><br>
+</html>
+
+
+
+
+----229021497217190860--

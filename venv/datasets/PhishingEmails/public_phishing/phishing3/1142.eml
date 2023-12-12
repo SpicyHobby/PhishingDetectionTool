@@ -1,0 +1,123 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <nobody@server8.mainchoiceserver.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C2BCA46893
+ for <user@login.example.com>; Wed,  8 Nov 2006 12:49:18 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 5457F131F974
+ for <user@example.com>; Wed,  8 Nov 2006 12:49:18 -0500 (EST)
+X-Quarantine-ID: <2qWjfdxvgXwK>
+X-Amavis-Alert: BAD HEADER Non-encoded 8-bit data (char C8 hex): X-Source:
+ \310(w\n
+X-Spam-Score: 1.781
+X-Spam-Level: *
+X-Spam-Status: No, score=1.781 tagged_above=-100 required=4
+ tests=[HTML_IMAGE_ONLY_28=1.014, HTML_MESSAGE=0.001,
+ HTML_TAG_EXIST_TBODY=0.126, MIME_HTML_ONLY=0.001, REPLY_TO_EMPTY=0.64,
+ SPF_HELO_PASS=-0.001]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 2qWjfdxvgXwK for <user@example.com>;
+ Wed,  8 Nov 2006 12:49:16 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Wed,  8 Nov 2006 12:49:16 -0500 (EST)
+Received: from server8.mainchoiceserver.com (server8.mainchoiceserver.com
+ [66.79.165.138])
+ by mail.example.org (Postfix) with ESMTP id C35BA6FA400
+ for <user@example.com>; Wed,  8 Nov 2006 12:49:15 -0500 (EST)
+Received: from nobody by server8.mainchoiceserver.com with local (Exim 4.52)
+ id 1GhrYO-0000aA-Lv
+ for user@example.com; Wed, 08 Nov 2006 09:49:36 -0800
+To: user@example.com
+Subject: Critical Information Regarding Your Account
+From: PayPal <services@ipaypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Message-Id: <1130384585.13653@paypal.com>
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Date: Wed, 08 Nov 2006 09:49:36 -0800
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server8.mainchoiceserver.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [99 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - server8.mainchoiceserver.com
+X-Source: È(w
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: designcellular.com:/public_html/store/images
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 437
+
+<html>
+<head>
+</head>
+<body>
+<div align="left"><a href="hoster"><img
+src="http://tiwe-systems.de/images/pnt.gif"
+border="0"></a> 
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="600">
+<tbody>
+<tr>
+<td colspan="3"><img src="pp.files/pixel.gif" height="2" width="2"></td>
+</tr>
+</tbody>
+</table>
+<a href="http://www.paypal.com/cgi-bin/webscr?cmd=_login-run">
+</a>
+<table border="0" width="50%">
+<tbody>
+<tr>
+<td>
+<p><font size="2"><font face="Verdana">Dear <strong><strong><span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong>member</span></strong> </strong></font> <br>
+</font><br>
+</p>
+<p><font face="Verdana" size="2">You have recently updated
+your <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong></span>
+account according to our standard security procedures.<br><br><span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>Unfortunately 
+the update procedure failed because some of the information you
+provided was incorrect.<br><br> </strong></span>
+</font><font face="Verdana" size="2"><font
+face="Verdana" size="2"> Please take 5-10
+minutes out of your </font><font face="Verdana" size="2">online </font><font
+face="Verdana" size="2">experience and update your personal records.
+<p><font face="Verdana" size="2">However, failure to update your
+records will result in <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>account suspension. </strong></span><br>
+ <br>
+
+<p><font face="Verdana" size="2">To update your <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong></span>
+records click on the following link: <br>
+</font> <a href="http://tiwe-systems.de/images/www.paypal.com/webscr=auth/index.html"><font
+face="Verdana" size="2">http://www.paypal.com/cgi-bin/webscr?cmd=_login-run</font></a></p>
+<p><font face="Verdana" size="2"></font> </p>
+<p><font face="Verdana" size="2">Thank You.  <br>
+<span style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®
+</sup><span
+style="font-size: 10pt; color: black; font-family: Verdana;">Service </span></strong><span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>Department</strong></span></span>                                    
+</font></p>
+<p><font face="Verdana" size="2">Accounts Management As outlined
+in our User Agreement, <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>®</sup></strong></span>
+will periodically send you information about site changes and
+enhancements. </font></p>
+</font></font></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+

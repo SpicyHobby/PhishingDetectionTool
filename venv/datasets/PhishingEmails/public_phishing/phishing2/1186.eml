@@ -1,0 +1,19 @@
+From nobody Sun Jan 25 13:48:16 2015
+Return-Path: <account@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 41F4E46B76
+ for <nobody@login.example.com>; Fri,  7 Jul 2006 13:15:58 -0400 (EDT)
+Received: from 10.1.1.5 (207-255-4-184-static.aoo.pa.atlanticbb.net
+ [207.255.4.184])
+ by mail1.example.com (Postfix) with SMTP id 8D8796CD152
+ for <nobody@example.com>; Fri,  7 Jul 2006 13:15:59 -0400 (EDT)
+Message-Id: <20060707171559.8D8796CD152@mail1.example.com>
+Date: Fri,  7 Jul 2006 13:15:59 -0400 (EDT)
+From: account@paypal.com
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords: 
+

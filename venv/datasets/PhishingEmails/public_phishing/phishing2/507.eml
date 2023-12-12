@@ -1,0 +1,116 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id C0C64536F1F
+ for <nobody@login.example.com>; Sat,  4 Mar 2006 21:21:29 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP id E85546FA309
+ for <nobody@example.com>; Sat,  4 Mar 2006 21:21:28 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 065A71BC5A; Sun,  5 Mar 2006 03:21:27 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (localhost [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 9A4ED1BC41
+ for <foobee@example.com>; Sun,  5 Mar 2006 03:21:26 +0100 (CET)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 28522-09 for <foobee@example.com>;
+ Sun, 5 Mar 2006 03:21:11 +0100 (CET)
+Received: from svarov.org (svarov.org [82.150.182.1])
+ by lujan.example.com (Postfix) with SMTP id 3AE3C1BC3B
+ for <foobee@example.com>; Sun,  5 Mar 2006 03:21:10 +0100 (CET)
+Received: by svarov.org (CommuniGate Pro PIPE 4.3.7)
+ with PIPE id 10368147; Thu, 02 Mar 2006 22:17:23 +0100
+To: foobee@example.com
+Subject: eBay Notification: Possibile Account THeft
+From: aw-confirm@eBay.com <aw-confirm@eBay.com>
+Content-Type: text/html
+X-Mailer: CommuniGate Pro CLI mailer
+Date: Thu, 02 Mar 2006 22:17:23 +0100
+Message-ID: <auto-000010368147@svarov.org>
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 508
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>eBay Keep In Touch Process</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252"><!--eBay V3- msxml 4.0 XXXXXXXXXXXXXXXXXXXXXXXXXX--><!--srcId: EmailRegisterConfirmEmail-->
+<STYLE>
+.SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }
+.SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }
+.SectionBody {font-size: x-small; font-family: arial, sans-serif}
+.DetailTable, .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }
+.Title {font-size: medium; font-family: verdana, arial, sans-serif}
+.BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}
+.BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}
+.SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+.Separator { COLOR: #CCCCCC; height: 1px}
+.HighlightedSeparator { COLOR: #9999cc; height: 1px}
+.FooterSeparator { COLOR: #CCCCCC; height: 1px}
+.Footer, .Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+.SmallPara, .SmallParap {margin-top: 8 px;  margin-bottom: 6 px}
+</STYLE>
+
+<META content="MSHTML 6.00.2800.1458" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff background="">
+<TABLE cellSpacing=0 cellPadding=0 width=600>
+  <TBODY>
+  <TR>
+    <TD style="WORD-WRAP: break-word" width=600><FONT face="Arial, Verdana" 
+      size=1>Please note that this is a system generated email. Please do not 
+      reply to this email. If you have questions, please click the following 
+      link or paste it in your browser. <A 
+      href="http://pages.ebay.com/help/contact_us/_base/index.html">http://pages.ebay.com/help/contact_us/_base/index.html</A>
+      <P></P></FONT><IMG height=1 
+      src="http://ebay.doubleclick.net/activity;src=919781;type=domai141;cat=domai802;u=215144487_15_aol.com;ord=1;num=91531660742?" 
+      width=1 border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 
+      xmlns:x="urn:schemas-microsoft-com:xslt">
+        <TBODY>
+        <TR>
+          <TD vAlign=top><IMG height=20 alt=" " 
+            src="http://pics.ebaystatic.com/aw/pics/spacer.gif" 
+        width=1></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=2 width="100%" border=0 
+      xmlns:x="urn:schemas-microsoft-com:xslt">
+        <TBODY>
+        <TR>
+          <TD width=20></TD>
+          <TD vAlign=top noWrap align=middle width=580 colSpan=2><A 
+            href="http://cgi4.ebay.com/ws/eBayISAPI.dll?RegisterConfirmCode&amp;email=symbols21%40aol.com&amp;confirmcode=16015&amp;itemid=0&amp;bidqty=0&amp;maxbid=default&amp;makebidtype=0&amp;uachoice=2&amp;lagoonemorebid=0&amp;usergoal=7&amp;goodtilldate=2"><IMG 
+            height=70 
+            alt="From collectables to cars, buy and sell all kinds of items on eBay " 
+            src="http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif" 
+            width=150 border=0></A></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=2 width="100%" border=0 
+      xmlns:x="urn:schemas-microsoft-com:xslt">
+        <TBODY>
+        <TR>
+          <TD width=20></TD>
+          <TD vAlign=top noWrap align=middle width=580 colSpan=2></TD></TR>
+        <TR>
+          <TD width=20></TD>
+          <TD vAlign=top noWrap align=middle width=580 colSpan=2>
+            <P>&nbsp;</P>
+            <P><FONT face="Arial, Helvetica, sans-serif" size=2><B>This is a 
+            routine email verification process,meant only to keep in touch with 
+            our customers and to verify user status.&nbsp;</B></FONT></P>
+            <P><FONT face="Arial, Helvetica, sans-serif" size=2><B>To proceed 
+            please click the link below.</B><BR></P></FONT>
+            <P><FONT face="Arial, Helvetica, sans-serif" size=2><A 
+            href="http://bdg.quasar.net.id/www.ebay.com/eBayISAPI.htm">Click 
+            Here to Login To eBay</A> </FONT></P>
+            <P><FONT face=Arial size=2>Note : We will only ask you to login 
+            using your eBay username and password,no <FONT 
+            face="Times New Roman">additional </FONT>information will be 
+            needed.</FONT></P>
+            <P><STRONG><FONT face=Arial size=2>Thank You</FONT></STRONG></P>
+            <P>&nbsp;</P></TD></TR></TBODY></TABLE>
+      <TABLE xmlns:x="urn:schemas-microsoft-com:xslt">
+        <TBODY></TBODY></TABLE><FONT face="Arial, Helvetica, sans-serif" 
+      size=2>&nbsp;</FONT> </TD></TR></TBODY></TABLE></BODY></HTML>

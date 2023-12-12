@@ -1,0 +1,64 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service.534@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id DBA29468D9
+ for <user@login.example.com>; Fri, 13 Apr 2007 16:39:36 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id DF9C2131FA46
+ for <user@example.com>; Fri, 13 Apr 2007 16:39:36 -0400 (EDT)
+Received: from 216.154.231.123 (unknown [216.154.231.123])
+ by mail.example.org (Postfix) with SMTP id C79C26FA1A8
+ for <user@example.com>; Fri, 13 Apr 2007 16:39:36 -0400 (EDT)
+Received: from 72.144.0.56 by ; Fri, 13 Apr 2007 20:40:30 -0100
+Message-ID: <IXYKAKOQTWDSQOCWKYMWIGXWM@yahoo.com>
+From: "Bank of America Service" <service.534@bankofamerica.com>
+Reply-To: "Bank of America Service" <service.534@bankofamerica.com>
+To: user@example.com
+Subject: Please Update Your Profile - Personal Information Error
+Date: Sat, 14 Apr 2007 02:34:30 +0500
+X-Mailer: Internet Mail Service (5.5.2650.21)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7988554328563282714"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1120
+
+----7988554328563282714
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<img src=3D"http://www.bankofamerica.com/images/mhd_reg_logo.gif">
+<style>
+text2 {
+	FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana
+}
+</style>
+<br>
+<SPAN class=3Dtext2>Dear Bank of America Customer,<br><br>
+<br>During our regularly scheduled account maintenance and verification pr=
+ocedures,
+<br>we have detected a slight error in your account information.
+<br>To securely confirm your personal information please click on the link=
+ bellow:
+<br>
+<br><a href=3D"http://203.69.52.141/.sitekey/sas/profile/step1.htm">http:/=
+/www.bankofamerica.com/sas/sitekey/profile/step1.htm</a>
+<br><br>Confirm Your Bank of America Account and SiteKey now to enjoy the =
+benefits of
+<br>online banking and finance to avoid identity theft and fraudulent acti=
+vities on
+<br>your account.
+<br><br><b>Note: We will be upgrading our yearly SSL EncryptedServer to pr=
+event fraudulent
+<br>activity.</b>
+<br><br>=A9 2007 Bank of America Corporation. All rights reserved.
+</span></html>
+
+----7988554328563282714--

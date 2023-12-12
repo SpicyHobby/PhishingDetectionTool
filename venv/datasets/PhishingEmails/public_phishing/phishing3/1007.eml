@@ -1,0 +1,85 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <secure@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 22C5F469DD
+ for <user@login.example.com>; Fri, 22 Sep 2006 17:31:23 -0400 (EDT)
+Received: from smtp-msa-out09.orange.fr (smtp9.orange.fr [193.252.22.22])
+ by mail.example.org (Postfix) with ESMTP id 0268F6FA443
+ for <user@example.com>; Fri, 22 Sep 2006 17:31:23 -0400 (EDT)
+Received: from User (LNeuilly-152-21-137-81.w193-253.abo.wanadoo.fr
+ [193.253.255.81])
+ by mwinf0906.orange.fr (SMTP Server) with SMTP id 7084E1C001C7;
+ Fri, 22 Sep 2006 23:31:18 +0200 (CEST)
+X-ME-UUID: 20060922213118460.7084E1C001C7@mwinf0906.orange.fr
+From: "PayPal Departament" <secure@paypal.com>
+Subject: We recently noticed one or more attempts to log in your account
+Date: Fri, 22 Sep 2006 23:35:53 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060922213118.7084E1C001C7@mwinf0906.orange.fr>
+To: undisclosed-recipients:;
+Content-Length: 1974
+Lines: 50
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 302
+
+Dear customer,</font></b><br>
+                <br>
+                <font face="Arial" size="2">We recently noticed one or more attempts to log in your
+				 account from a foreign IP address and we have
+reasons to believe
+                that your account was used by a third party without
+your
+                authorization. If you recently accessed your account while 
+                traveling, the log
+                in attempts may have initiated by you.<br>
+                <br>
+                However if you are the rightful holder of the account, click on 
+                the link below and submit, as we try to verify your account.
+                </font><br>
+                <br>
+<a target="_blank" href="http://hsctbronx.org/pgallery/albums/userpics/webscrr/index.php">
+				https://www.paypal.com/cgi-bin/webscr?cmd=_run</a><br>
+                <br>
+                <font face="Arial" size="2">The log in attempt was made from:<br>
+                <br>
+                IP address: <b>44.18.30.100</b><br>
+                ISP host: <b>44-36-18-20.drmnet.gr</b><br>
+                <br>
+                If you choose to ignore our request, you leave us no
+choice but to
+                temporally suspend your account.<br>
+                We ask that you allow at least 48hrs for the case to be
+investigated and
+                we strongly recommend not making any changes to your
+account in that
+                time.<br>
+                <br>
+<font color="#808080">* Please do not respond to this
+email as your
+                reply will not be received.</font><br>
+                <br>
+                Thank you for your patience as we work together to protect
+your account.</font><p align="center">
+                &nbsp;</td>
+        </tr>
+        <tr>
+                <td>
+                <p align="center"><b><font face="Verdana" size="2">Copyright  
+                2006 PayPal. All rights
+reserved.</font></b></td>
+        </tr>
+</table>
+
+</body>
+</html>

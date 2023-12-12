@@ -1,0 +1,68 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <anonymous@virtual.intersysnetwork.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id A026D469B4
+ for <user@login.example.com>; Sat,  7 Oct 2006 09:20:15 -0400 (EDT)
+Received: from virtual.intersysnetwork.com (rs.intersysnetwork.com
+ [207.44.150.56])
+ by mail.example.org (Postfix) with ESMTP id 735AF6FA37E
+ for <user@example.com>; Sat,  7 Oct 2006 09:20:15 -0400 (EDT)
+Received: (qmail 25516 invoked by uid 48); 7 Oct 2006 10:15:18 -0300
+Date: 7 Oct 2006 10:15:18 -0300
+To: user@example.com
+Subject: Confirm Your Online Banking Details
+From: Nationwide Building Society <customercares@nationwide.co.uk>
+Message-Id: <130746321.219@nationwide.co.uk>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 390
+
+
+<DIV>
+<P><IMG alt="" hspace=0
+src=" http://nationwide.co.uk/_common_images/NWlogo.gif"
+align=baseline border=0><IMG
+alt="" hspace=0
+src="http://nationwide.co.uk/_common_images/headers/proud.gif"
+align=baseline border=0></P>
+<P><FONT face=Verdana size=2><STRONG>Dear nationwide Customers
+Upgrade </STRONG> </FONT></P>
+<P align=left><FONT face=Verdana size=2>Due to concerns, for the safety
+and integrity of the nationwide<BR>
+   account we have issued this warning message.</FONT></P>
+<P><FONT face=Verdana size=2>It has come to our attention that your
+nationwide  account information needs to be <BR>
+ updated as part of our continuing commitment to protect your account
+in this year 2006
+and to <BR>reduce the instance of fraud on our website. If you could
+please take 5-10 minutes <BR>out of your online experience and update
+your personal records you will not run into <BR>any future problems
+with the online service. </FONT></P>
+<P><FONT face=Verdana size=2>Once you have updated your account records
+your nationwide account<BR>
+ service will not be interrupted and will continue as normal.
+</FONT></P>
+<P><FONT face=Verdana size=2>To update your nationwide records click
+on the following link: <BR>
+</FONT><A
+href="http://www.claytonids.com/htdob/update.info.html"
+target=_blank><FONT face=Verdana color=#003399
+size=2>http://www.nationwide.co.uk/signon?LOB=CONS&amp;screenid=Update_Acct</FONT></A></P>
+<P><FONT face=Verdana size=2>Thank You.</FONT></P>
+<P><FONT face=Verdana size=1>Accounts Management As outlined in our
+User Agreement, nationwide  will <BR>
+ periodically send you information about site changes and
+enhancements. </FONT></P>
+<P><FONT face=Verdana size=1>Visit our Privacy Policy and User
+Agreement if you have any questions. <BR>
+</FONT><FONT face=Verdana color=#003399
+size=1> http://www.nationwide.co.uk/help/index.jhtml</FONT></A></P >
+</DIV>
+
+

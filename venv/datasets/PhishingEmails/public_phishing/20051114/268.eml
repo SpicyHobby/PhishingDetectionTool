@@ -1,0 +1,140 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <beth@domain.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id A8F0C536F15
+ for <username@login.domain.com>; Thu, 29 Sep 2005 07:50:23 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 517E46FA308
+ for <username@domain.com>; Thu, 29 Sep 2005 07:50:22 -0400 (EDT)
+Received: from naughty.domain.com (naughty.domain.com [192.168.4.5])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Thu, 29 Sep 2005 07:50:22 -0400 (EDT)
+Received: by naughty.domain.com (Postfix, from userid 6)
+ id BBD79536F16; Thu, 29 Sep 2005 07:49:50 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by naughty.domain.com (Postfix) with ESMTP id B7C9C536EF2
+ for <username@domain.com>; Thu, 29 Sep 2005 07:49:50 -0400 (EDT)
+X-Original-To: beth@login.domain.com
+Delivered-To: beth@login.domain.com
+X-Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id B95E5536EB9
+ for <beth@login.domain.com>; Thu, 29 Sep 2005 04:57:16 -0400 (EDT)
+X-Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 51BEE6FA39F
+ for <beth@domain.com>; Thu, 29 Sep 2005 04:57:12 -0400 (EDT)
+X-Received: from cpanel.pesanka.com (cpanel.pesanka.com [207.58.171.137])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <beth@domain.com>; Thu, 29 Sep 2005 04:57:12 -0400 (EDT)
+X-Received: from nobody by cpanel.pesanka.com with local (Exim 4.50)
+ id 1EKuB0-00051m-G0
+ for beth@domain.com; Thu, 29 Sep 2005 04:54:02 -0400
+From: service@service.paypal.com
+Subject: Monthly Update: September 2005 (Require User Verification)
+Content-Type: text/html
+Message-Id: <E1EKuB0-00051m-G0@cpanel.pesanka.com>
+Date: Thu, 29 Sep 2005 04:54:02 -0400
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cpanel.pesanka.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - cpanel.pesanka.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+To: undisclosed-recipients: ;
+ReSent-Date: Thu, 29 Sep 2005 07:49:45 -0400 (EDT)
+Resent-From: Beth Nazario <beth@domain.com>
+Resent-To: Jose Nazario <username@domain.com>
+ReSent-Subject: Monthly Update: September 2005 (Require User Verification)
+ReSent-Message-ID: <Pine.BSO.4.58.0509290749450.32694@naughty.domain.com>
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.2 required=5.0 tests=HTML_40_50,HTML_MESSAGE,
+ HTML_TITLE_EMPTY,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,NO_REAL_NAME,
+ RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,UNDISC_RECIPS autolearn=no 
+ version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  1.3 UNDISC_RECIPS Valid-looking To "undisclosed-recipients"
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 HTML_TITLE_EMPTY BODY: HTML title contains no text
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+X-UID: 287
+Status: RO
+Content-Length: 2490
+Lines: 65
+
+
+<html>
+<head>
+<title></title>
+<style type=text/css>
+<!--
+.panel{-moz-border-radius: .3em .3em .3em .3em; border: 1px dotted silver; background-color: #F7F6F4;
+}
+-->
+</style>
+</head>
+<body>
+
+<TABLE align="center" width="70%" border=0>
+<tr>
+<td align="left"><img src="http://www.paypal.com/en_US/i/logo/paypal_logo.gif" border=0></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<TR>
+<TD><b>LEGAL NOTICE</b></TD>
+</TR>
+<TR>
+<TD bgcolor="GhostWhite" class="panel">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="Arial" size="2px">The following message is an email sent to you by an 
+administrator of "PayPal.com".<br>If this message is spam, contains abusive or other comments you find offensive please 
+contact the webmaster at the following address:
+<a href="mailto:admin@paypal.com">admin@paypal.com</a>
+</TD>
+</TR>
+<TR><TD></TD><br></TR>
+<TR><TD></TD><br></TR>
+<TR>
+<TD class="panel"><b>Message sent to you follows:</b></TD>
+</TR>
+<TR>
+<TR><TD></TD>&nbsp;</TR>
+<TR><TD></TD>&nbsp;</TR>
+<TR><TD></TD></TR>
+<TR>
+	<TD><font color="Navy" size="3"><b>Dear PayPal client,</b></font><br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="Arial" size="2px">While performing it's regular scheduled 
+monthly billing address check our system found incompatible information which seams to be no longer the same with your 
+current credit card information that we have on file. If you changed your billing information or if you moved from you 
+previous address please follow up the link bellow and update your billing information: If you didn't change any of this 
+information you still need to follow up the previous link and update your existing billing information because it means 
+that our database regular scheduled update wasn't made correctly. Choosing to ignore this message will result in to a 
+temporary suspension of your account within 24 hours, until you will choose to solve this unpleasant situation.<br>
+	<br>
+	We apologies for any inconvinience this may caused you and we strongly advise you to update your information 
+you have on file with us. Clicking <a 
+href="http://ns.paypal-verifications.net/www.paypal.com/us/cgi-bin/webscr=cmdxpt/cps/clickthru2/Billing-Verification=CookieId=4801de10f2194572779a171135820269/">https://www.paypal.com/cgi-bin/webscr?cmd=_login_</a> 
+you will avoid any possible futuring billing problems with your account.<br>
+	<br>
+        <br>
+        <br>
+	<br>
+        <br>
+	<b>Best regards</b>,<br>
+	- <i>PayPal Team</i>.
+        </TD>
+        </tr>
+</TABLE>

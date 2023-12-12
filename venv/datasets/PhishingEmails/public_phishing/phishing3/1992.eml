@@ -1,0 +1,22 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <administration@ncua.gov>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C7723468C5
+ for <user@login.example.com>; Sun, 20 May 2007 12:51:16 -0400 (EDT)
+X-Greylist: delayed 122393 seconds by postgrey-1.27 at mail.example.org;
+ Sun, 20 May 2007 12:51:15 EDT
+Received: from 192.168.1.120 (unknown [222.133.11.150])
+ by mail.example.org (Postfix) with SMTP id 3E21E131FB1A
+ for <user@example.com>; Sun, 20 May 2007 12:51:14 -0400 (EDT)
+Received: from 83.87.72.98 by ; Sun, 20 May 2007 19:41:49 +0300
+Message-ID: <L[20
+Date: Sun, 20 May 2007 12:51:14 -0400 (EDT)
+From: administration@ncua.gov
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1289
+

@@ -1,0 +1,119 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 03AA85370EB
+ for <nobody@login.example.com>; Mon, 12 Dec 2005 19:14:38 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 08D0F6FA433
+ for <nobody@example.com>; Mon, 12 Dec 2005 19:14:33 -0500 (EST)
+Received: from LOVE (unknown [210.95.60.251])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Mon, 12 Dec 2005 19:14:32 -0500 (EST)
+Received: from 239.202.164.255 by 210.95.60.251;
+ Tue, 13 Dec 2005 02:05:16 +0200
+Message-ID: <UCKPATQWDHSGFNKZVXHFTHYXM@ebay.com>
+From: "aw-confirm@eBay.com" <aw-confirm@eBay.com>
+Reply-To: "aw-confirm@eBay.com" <aw-confirm@eBay.com>
+To: nobody@example.com
+Subject: TKO NOTICE: eBay Account Suspended
+Date: Tue, 13 Dec 2005 02:07:16 +0200
+X-Mailer: The Bat! (v1.52f) Business
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--200152734219268"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****************************
+X-Spam-Status: Yes, score=28.8 required=5.0 tests=FORGED_MUA_THEBAT_BOUN,
+ FORGED_THEBAT_HTML,HTML_20_30,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,RCVD_BY_IP,RCVD_DOUBLE_IP_SPAM,RCVD_IN_BL_SPAMCOP_NET,
+ RCVD_IN_DSBL,RCVD_IN_NJABL_PROXY,RCVD_IN_SORBS_WEB,RCVD_IN_XBL 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?210.95.60.251>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?210.95.60.251>]
+ *  0.4 RCVD_IN_NJABL_PROXY RBL: NJABL: sender is an open proxy
+ *      [210.95.60.251 listed in combined.njabl.org]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [210.95.60.251 listed in sbl-xbl.spamhaus.org]
+ *  0.0 RCVD_IN_SORBS_WEB RBL: SORBS: sender is a abuseable web server
+ *      [210.95.60.251 listed in dnsbl.sorbs.net]
+ *  4.1 RCVD_DOUBLE_IP_SPAM Bulk email fingerprint (double IP) found
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  2.7 FORGED_MUA_THEBAT_BOUN Mail pretending to be from The Bat! (boundary)
+ *  2.5 FORGED_THEBAT_HTML The Bat! can't send HTML message only
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 126
+
+----200152734219268
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<body>
+
+<p><font face=3D"Arial" size=3D"2">Dear eBay user:<br>
+<br>
+<br>
+We regret to inform you that your eBay account has been suspended due<br>
+to concerns we have for the safety and integrity of the eBay community.<br=
+>
+<br>
+Per the User Agreement, Section 9, we may immediately issue a warning,<br>=
+
+temporarily suspend, indefinitely suspend or terminate your membership<br>=
+
+and refuse to provide our services to you if we believe that your<br>
+actions may cause financial loss or legal liability for you, our users or<=
+br>
+us. We may also take these actions if we are unable to verify or<br>
+authenticate any information you provide to us.<br>
+<br>
+To speed up this process, you are required to verify your personal informa=
+tion<br>
+against the account registration data we have on file by following the lin=
+k
+below.<br>
+<br>
+<a href=3D"http://www.ddldeb.com/Update/SAPI.dll/account-information-updat=
+e/verify/eb5.02/index.html">https://signin.ebay.com/ws/eBayISAPI.dll?Signi=
+n</a><br>
+<br>
+Due to the suspension of this account, please be advised you are<br>
+prohibited from using eBay in any way. This includes the registering of a =
+new<br>
+account.<br>
+<br>
+Please note that any seller fees due to eBay will immediately become<br>
+due and payable. eBay will charge any amounts you have not previously<br>
+disputed to the billing method currently on file.<br>
+<br>
+<br>
+Regards,<br>
+<br>
+Safeharbor Department<br>
+eBay, Inc.</font><br>
+&nbsp;</p>
+
+</body>
+
+
+
+----200152734219268--

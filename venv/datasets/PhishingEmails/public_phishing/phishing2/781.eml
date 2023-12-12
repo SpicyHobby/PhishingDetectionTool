@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by naughty.example.com (Postfix) with ESMTP id 378A1537223
+ for <nobody@login.example.com>; Thu, 13 Apr 2006 11:55:36 -0400 (EDT)
+Received: from dime51.dizinc.com (dime51.dizinc.com [72.29.73.35])
+ by mail1.example.com (Postfix) with ESMTP id 0E5226CCE37
+ for <nobody@example.com>; Thu, 13 Apr 2006 07:09:16 -0400 (EDT)
+Received: from 82-33-128-73.cable.ubr01.wiga.blueyonder.co.uk ([82.33.128.73]
+ helo=User) by dime51.dizinc.com with esmtpa (Exim 4.52)
+ id 1FU49O-00052d-6g; Thu, 13 Apr 2006 11:54:30 -0400
+Reply-To: <do-not-reply-to@paypal.com>
+From: "PayPal" <service@paypal.com>
+Subject: Check the status and history of your account
+Date: Thu, 13 Apr 2006 16:54:34 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - dime51.dizinc.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Message-Id: <20060413110916.0E5226CCE37@mail1.example.com>
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 783
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="MS Sans Serif">As part of our security measures, we regularly screen activity in the<BR>Pay Pal system. We recently noticed that your account was accessed by unauthorized third party. Because protecting the security of your account is our primary concern, we are forced to limit the access to sensitive Pay Pal account features. We realise that this may be an inconvenience but please understand that this temporary limitation is for your protection.<BR>Case ID Number: PP-042-818-072 </FONT></P>
+<P><A href="http://ice.snu.ac.kr:8000/alitza/index.php"><FONT 
+face="MS Sans Serif">https://www.paypal.com/us/cgi-bin/webscr?cmd=complaint-view</FONT></A></P>
+<P><FONT face="MS Sans Serif"></FONT></P>
+<FONT face="MS Sans Serif">Your Personal Data includes information that can identify you as a 
+specific individual, such as your name, address, phone number, credit card number or e-mail address
+are stored in your account. Is strongly recommend that you log into your account and verify your Personal Data. We apologize for any inconvenience this may cause.</FONT>
+<P><BR><FONT face="MS Sans Serif">To review your account and some or all of the 
+information that Pay Pal used to make its decision to limit your account access, please visit the Resolution Center 
+</FONT><A href="http://ice.snu.ac.kr:8000/alitza/primapagina.php"><FONT face="MS Sans Serif">https://www.paypal.com/</FONT></A><FONT face="MS Sans Serif"> . If, after reviewing your account information, you seekfurther clarification regarding your account access, please contact Pay Pal by visiting the Help Center and clicking "Contact Us". We thank you for your prompt attention to this matter. Please understand that this is a security measure intended to help and protect you and your account. We apologize for any inconvenience.</FONT></P>
+<P><FONT face="MS Sans Serif">Sincerely,<BR>Pay Pal Account Review Department</FONT></P>
+<P><FONT face="MS Sans Serif">Pay Pal Email ID PP520952</FONT></P>
+</BODY>
+</HTML>

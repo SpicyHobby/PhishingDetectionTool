@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <guest@crownprepress.crownprepress>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 1CA14468ED
+ for <user@login.example.com>; Tue, 13 Feb 2007 07:47:44 -0500 (EST)
+Received: from crownprepress (unknown [209.60.29.74])
+ by mail.example.org (Postfix) with ESMTP id 013FC131FD88
+ for <user@example.com>; Tue, 13 Feb 2007 07:47:44 -0500 (EST)
+Received: by crownprepress (Postfix, from userid 1039)
+ id 5CF6088CF383; Tue, 13 Feb 2007 05:46:48 -0500 (EST)
+To: user@example.com
+Subject: CitiBank Alert Message 12/02/2007
+From: CitiBank <noreply@email-citi.com>
+Content-Type: text/html
+Message-Id: <20070213104648.5CF6088CF383@crownprepress>
+Date: Tue, 13 Feb 2007 05:46:48 -0500 (EST)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 813
+
+
+<html><head><style type="text/css"><!--
+blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 }
+--></style><title>Fwd: Software Upgrade</title></head><body>
+<blockquote type="cite" cite><img src="http://www.citibank.com/domain/images/citi36.gif"><br><br><font face="Verdana" size="-1">Dear
+client of CitiBank,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Technical
+services of the CitiBank are carrying out a planned software
+upgrade. We earnestly ask you to visit the following link to start the
+procedure of confirmation on customers data.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">To get
+started, please click the link below:</font><br>
+</blockquote>
+<blockquote type="cite" cite><a
+href="http://servpro-ntl.telesa.net.br/Citi/old/web.da-us.citibank.com/cgi-bin/citifi/portal/l/l.do/index.php"><font
+face="Verdana"
+size="-1"><b>https://web.da-us.citibank.com/signin/citifi/upgrade/%?6488820019</b
+></font></a><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">This
+instruction has been sent to all bank customers and is obligatory to
+fallow.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Thank
+you,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Customers
+Support Service.</font></blockquote>
+<div><br></div>
+</body>
+</html>

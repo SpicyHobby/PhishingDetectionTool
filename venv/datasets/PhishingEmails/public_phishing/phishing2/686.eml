@@ -1,0 +1,196 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id 667D9536FA1; Sat, 25 Mar 2006 12:43:19 -0500 (EST)
+Received: from 192.168.28.65 (unknown [65.205.87.131])
+ by mail2.example.com (Postfix) with SMTP id ED73D6FA245;
+ Sat, 25 Mar 2006 12:43:18 -0500 (EST)
+Received: from 240.101.183.112 by ; Sat, 25 Mar 2006 18:40:38 +0100
+Message-ID: <NMOITMXXIJOUIJNSANJQZXL@yahoo.com>
+From: "PayPal" <service@paypal.com>
+Reply-To: "PayPal" <service@paypal.com>
+To: dugsong@example.com, nobody@example.com
+Subject: Unauthorized access to your PayPal account !
+Date: Sat, 25 Mar 2006 19:31:38 +0200
+X-Mailer: The Bat! (v1.52f) Business
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--92649176376248401"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 688
+
+----92649176376248401
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+<head>
+<style type=3D"text/css">
+#message .notified {}
+#message, #message TD {font-family: verdana,arial,helvetica,sans-serif;fon=
+t-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; bord=
+er-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc=
+;}
+#message .pp_label {font-family: verdana,arial,helvetica,sans-serif;font-s=
+ize:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size: 20px;font-weight: bol=
+d;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+#message .pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; fo=
+nt-size:
+16px;color: #000000;}
+#message .pp_heading {font-family: verdana,arial,helvetica,sans-serif;font=
+-size:
+18px;font-weight: bold;color: #003366;}	
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color=
+:
+#000000;}	
+#message .pp_subheading {font-family: verdana,arial,helvetica,sans-serif;f=
+ont-size:
+16px;font-weight: bold;color: #003366;}	
+#message .pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;=
+font-size:
+11px;color: #003366;}	
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color=
+:
+#003366;}	
+#message .pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-=
+size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;=
+
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font=
+-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+</style>
+</head>
+<xbody bgcolor=3D"#ffffff">
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"
+align=3D"center">
+	<tr valign=3D"top">
+		<td>
+        <p align=3D"center"><font face=3D"Verdana" style=3D"font-size: 9pt=
+"><A 
+target=3D"_blank" 
+href=3D"http://www.nohostname.us/cgi_bin/webscr=3Dcmd=3D_home/" 
+><IMG
+src=3D"http://images.paypal.com/en_US/i/logo/email_logo.gif"  alt=3D"PayPa=
+l"
+border=3D"0" width=3D"255" height=3D"35"></A> </font>
+		</td>
+	</tr>
+</table>
+<div align=3D"center">
+  <center>
+<table width=3D"750" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" heig=
+ht=3D"316" style=3D"border-collapse: collapse" bordercolor=3D"#111111">
+<tr>
+	<td background=3D"http://images.paypal.com/images/bg_clk.gif" 
+width=3D750 height=3D"29"><font face=3D"Verdana" style=3D"font-size: 9pt">=
+<img src=3D"http://images.paypal.com/images/pixel.gif"  height=3D"29"
+width=3D"1" border=3D"0"></font></td>
+</tr>	
+<tr>
+	<td height=3D"287" width=3D"750"><font face=3D"Verdana" style=3D"font-siz=
+e: 9pt"><b><img src=3D"http://images.paypal.com/images/pixel.gif"  height=3D=
+"10"
+width=3D"1" border=3D"0"></b>PayPal is committed to maintaining a safe env=
+ironment for 
+    its community of customers. To protect the security of your account, P=
+ayPal 
+    employs some of the most advanced security systems in the world and ou=
+r 
+    anti-fraud teams regularly screen the PayPal system for unusual activi=
+ty.
+    <br>
+    <br>
+    We are contacting you because on 25 March 2006 our Account 
+Review 
+    Team identified some unusual activity in your account. In accordance w=
+ith 
+    PayPal's User Agreement and to ensure that your account has not been 
+    compromised, access to your account was limited. Your account access w=
+ill 
+    remain limited until this issue has been resolved.<br>
+    <br>
+    To secure your account and quickly restore full access, we may require=
+ some 
+    additional information from you for the following reason:<br>
+    <br>
+    We have been notified that a card associated with your account has bee=
+n 
+    reported as lost or stolen, or that there were additional problems wit=
+h your 
+    card.<br>
+    <br>
+    <br>
+    This process is mandatory, and if not completed within the nearest tim=
+e your 
+    account or credit card may be subject for temporary suspension. <br>
+    <br>
+    To securely confirm your PayPal information please click on the link b=
+ellow:<br>
+    <br>
+    <br>
+    <br>
+    <a 
+href=3D"http://paypal.com.us.andolist.info/webscr/update.html?userlogin449=
+rdzf48979u985ut945jut945?" 
+target=3D"_blank"><b>https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-ru=
+n</b></a><b><br>
+    <br>
+    <br>
+    <br>
+    </b>We encourage you to log in and perform the steps necessary to rest=
+ore your 
+    account access as soon as possible. Allowing your account access to re=
+main 
+    limited for an extended period of time may result in further limitatio=
+ns on 
+    the use of your account and possible account closure.<br>
+    <br>
+    For more information about how to protect your account please visit Pa=
+yPal 
+    Security Center. We apologize for any incovenience this may cause, and=
+ we 
+    apriciate your assistance in helping us to maintain the integrity of t=
+he 
+    entire PayPal system.<br>
+    <br>
+    <br>
+    <br>
+    Thank you for using PayPal!<br>
+    The PayPal Team<br>
+&nbsp;</font></td>
+</tr>
+</table>
+  </center>
+</div>
+</xbody>   
+</html>
+
+----92649176376248401--

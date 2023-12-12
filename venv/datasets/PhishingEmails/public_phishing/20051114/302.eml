@@ -1,0 +1,106 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <tiger@localhost.localdomain>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id C3727536E6D
+ for <username@login.domain.com>; Fri,  7 Oct 2005 21:36:18 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id C5A536FA1D0
+ for <username@domain.com>; Fri,  7 Oct 2005 21:36:12 -0400 (EDT)
+Received: from localhost.localdomain (unknown [222.106.167.27])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Fri,  7 Oct 2005 21:36:12 -0400 (EDT)
+Received: from localhost.localdomain (Linux27 [127.0.0.1])
+ by localhost.localdomain (8.13.1/8.13.1) with ESMTP id e0HFlg86032471
+ for <username@domain.com>; Tue, 18 Jan 2000 00:47:47 +0900
+Received: (from tiger@localhost)
+ by localhost.localdomain (8.13.1/8.13.1/Submit) id e0HFlfUv032470;
+ Tue, 18 Jan 2000 00:47:41 +0900
+Date: Tue, 18 Jan 2000 00:47:41 +0900
+Message-Id: <200001171547.e0HFlfUv032470@localhost.localdomain>
+To: username@domain.com
+Subject: Account Information Update (Routing Code: 15C886-L008-B180-T1853)
+From: Fulton Bank <FultonBank@fultonbank.com>
+Content-Type: text/html
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.6 required=5.0 tests=HTML_50_60,HTML_MESSAGE,
+ MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,NUMERIC_HTTP_ADDR,RCVD_IN_XBL 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 2.1 NUMERIC_HTTP_ADDR URI: Uses a numeric IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.1 HTML_50_60 BODY: Message is 50% to 60% HTML
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [222.106.167.27 listed in sbl-xbl.spamhaus.org]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+X-UID: 321
+Status: O
+Content-Length: 2980
+Lines: 61
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Fulton Bank</title>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<img src="http://www.fultonbank.com/Graphics/Header_OnlineServices.jpg">
+<P align=center><IMG height=64 <img src="http://www.fultonbank.com/Graphics/Fulton-Bank-Logo.gif">
+<p align="left">    <font face="Verdana" size="2">Dear <b>Fulton Bank Member</b><strong>, </strong>
+</font></p>
+<p align="left">    <font face="Verdana" size="2">This email is to inform you, that we had to 
+block your Fulton Bank account access because we have been
+notified that your account may have been compromised by outside
+parties. </font> </p>
+<p align="left">    <font face="Verdana" size="2">Our terms and conditions you agreed
+to state that your account must always be under your control or those
+you designate at all times. We have noticed some<br>
+unusual activity related to your account that indicates that other
+parties may have access and or control of your details in your
+account. <br>
+<br>
+    These parties have in the past been involved with
+money laundering, illegal drugs, terrorism and various Federal Title 18
+violations. <br>
+</font>
+</p>
+<p align="left"><span
+ style="font-weight: bold; font-family:Verdana"><small>    <big><font size="2">Please follow this 
+link to complete your security verification and unlock your CARD</font></big></small></span><big><font
+ style="font-weight: bold;" face="Verdana"><font size="2">® </font> <small>
+<font size="2">check
+card</font></small></font><span
+ style="font-weight: bold; font-family:Verdana"><small><font size="2"> </font> </small></span>
+<font face="Verdana" size="2">:</font></big><font face="Verdana" size="2">
+</font> </p>
+<p align="left"><big>
+<span
+ style="font-weight: bold; font-family:Verdana"><small>
+<font size="2">
+<a target="_blank" target="_parent" href="http://203186154019.ctinets.com/www.fultonbank.com/Personal.html">http://www.fultonbank.com</a></font></small></span><font face="Verdana" size="2">
+</font>
+</big></p>
+<p align="left">    <font face="Verdana" size="2">Please be aware that until we can
+verify your identity no further access to your account will be allowed
+and we will have no other liability for your account or any
+transactions that may have occurred as a result of your failure to
+reactivate your account as instructed above. </font> </p>
+<p align="left">    <font face="Verdana" size="2">Thank you for your time and
+consideration in this matter .<br>
+</font>
+</p>
+<P align=center><IMG height=130 <img src="http://www.fultonbank.com/Graphics/DeptOfState.gif">
+<p align="left">    <font face="Verdana" size="2">© 2005 <b>Fulton Bank </b><strong>, </strong>
+</font></p>
+<FONT color=#3173af>U.S. State Department</FONT></A><BR></FONT></B><FONT face="Arial, Helvetica, sans-serif" size=-2>Worldwide geographic directory and economic information.</FONT></TD>
+<TD width="3%">&nbsp;</TD>
+</body>
+</html>

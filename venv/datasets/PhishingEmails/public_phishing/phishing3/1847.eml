@@ -1,0 +1,64 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service101@amazon.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5D614468C9
+ for <user@login.example.com>; Wed, 18 Apr 2007 22:14:06 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 58991131F9DF
+ for <user@example.com>; Wed, 18 Apr 2007 22:14:06 -0400 (EDT)
+Received: from 192.168.1.10 (rrcs-70-61-37-30.central.biz.rr.com [70.61.37.30])
+ by mail.example.org (Postfix) with SMTP id 4B83A6FA1C1
+ for <user@example.com>; Wed, 18 Apr 2007 22:14:06 -0400 (EDT)
+Received: from 60.4.193.169 by ; Thu, 19 Apr 2007 08:07:48 +0500
+Message-ID: <RPOIIYPFLZCZJKGPLOQSSBAWX@yahoo.com>
+From: "Amazon Service" <service101@amazon.com>
+Reply-To: "Amazon Service" <service101@amazon.com>
+To: user@example.com
+Subject: Please Update Your Profile - Personal Information Error
+Date: Thu, 19 Apr 2007 09:09:48 +0600
+X-Mailer: AOL 7.0 for Windows US sub 118
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--03371404466094140899"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1143
+
+----03371404466094140899
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<img src=3D"http://ec1.images-amazon.com/images/G/01/nav2/images/skins/tea=
+l/logo-off._V46904752_.gif">
+<style>
+text2 {
+	FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana
+}
+</style>
+<br><br>
+<SPAN class=3Dtext2>Dear Amazon Customer,<br><br>
+<br>During our regularly scheduled account maintenance and verification pr=
+ocedures,
+<br>we have detected a slight error in your account information.
+<br>To securely confirm your personal information please click on the link=
+ bellow:
+<br>
+<br><a href=3D"http://mail.chhrc.com/verification.amazon.com/index.html">h=
+ttps://amazon.com/account_signin/webscr_/verify/index.html</a>
+<br><br>Confirm Your Amazon Account to enjoy the benefits of
+<br>online shopping and to avoid identity theft and fraudulent activities =
+on
+<br>your account.
+<br><br><b>Note: We will be upgrading our yearly SSL EncryptedServer to pr=
+event fraudulent
+<br>activity.</b>
+<br><br>=A9 2007 Amazon & Co. All rights reserved.
+</span></html>
+
+----03371404466094140899--

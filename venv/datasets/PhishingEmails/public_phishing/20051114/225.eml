@@ -1,0 +1,165 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id A68FC536E78
+ for <username@login.domain.com>; Fri,  9 Sep 2005 05:07:00 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id D35A86FA2BF
+ for <username@domain.com>; Fri,  9 Sep 2005 05:06:23 -0400 (EDT)
+Received: from 61.177.185.139 (unknown [61.177.185.139])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Fri,  9 Sep 2005 05:06:15 -0400 (EDT)
+Received: from 19.86.231.93 by ; Fri, 09 Sep 2005 03:03:07 -0600
+Message-ID: <BIOCQCHYOTOLQXVCWMSYBIEGR@msn.com>
+From: "service@paypal.com" <service@paypal.com>
+Reply-To: "service@paypal.com" <service@paypal.com>
+To: username@domain.com
+Subject: Update And Verify Your PayPal Account
+Date: Fri, 09 Sep 2005 15:02:07 +0600
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--20142503419260884397"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.3 required=5.0 tests=BAYES_00, FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_MESSAGE,
+ MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MIME_QP_LONG_LINE,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,
+ NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_NJABL_DUL,
+ RCVD_IN_SORBS_DUL,RCVD_IN_XBL,RCVD_NUMERIC_HELO autolearn=no 
+ version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * -2.6 BAYES_00 BODY: Bayesian spam probability is 0 to 1%
+ *      [score: 0.0000]
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [61.177.185.139 listed in dnsbl.sorbs.net]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?61.177.185.139>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [61.177.185.139 listed in sbl-xbl.spamhaus.org]
+ *  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+ *      [61.177.185.139 listed in combined.njabl.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+X-UID: 244
+Status: O
+Content-Length: 7242
+Lines: 100
+
+----20142503419260884397
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<HTML>=0A<BODY>=0A=0A<br><br><table style=3D"width:600px" cellpadding=3D"0=
+" cellspacing=3D"0"=0Aborder=3D"0" align=3D"center">=0A        <tr>=0A<img=
+ SRC=3D"http://images.paypal.com/en_US/i/logo/email_logo.gif"  BORDER=3D0=0A=
+height=3D35 width=3D255>=0A        </tr>=0A</table>=0A=0A        <hr noSha=
+de size=3D1>=0A=0A<img src=3D"http://paypal.com/en_US/i/scr/pixel.gif" wid=
+th=3D1 height=3D10><br>=0A=0A<table style=3D"width:600px" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"=0Aalign=3D"center">=0A        <tr>=0A    =
+            <td><font style=3D"font-size:17px"=0Astyle=3D"font-family:Verd=
+ana, Arial, Helvetica, sans-serif"=0Astyle=3D"font-weight:700" color=3D"#0=
+03366">Security Center</font></TD>=0A        </tr>=0A        <tr>=0A      =
+          <td><img src=3D"http://paypal.com/en_US/i/scr/pixel.gif"=0Awidth=
+=3D"2" height=3D"2"></td>=0A        </tr>=0A</table>=0A<table style=3D"wid=
+th:600px" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=0Aalign=3D"cent=
+er">=0A        <tr>=0A                <td><img src=3D"http://paypal.com/en=
+_US/i/scr/pixel.gif"=0Awidth=3D6 height=3D6></td>=0A        </tr>=0A      =
+  <tr>=0A                <td bgcolor=3D#999999 width=3D100%><img=0Asrc=3D"=
+http://paypal.com/en_US/i/scr/pixel.gif" width=3D1 height=3D2></td>=0A    =
+    </tr>=0A        <tr>=0A                <td><img src=3D"http://paypal.c=
+om/en_US/i/scr/pixel.gif"=0A=0A        <tr>=0A                <td><img src=
+=3D"http://paypal.com/en_US/i/scr/pixel.gif"=0Awidth=3D6 height=3D6></td>=0A=
+        </tr>=0A</table>=0A=0A<!-- begin main -->=0A=0A<table style=3D"wid=
+th:600px" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=0Aalign=3D"cent=
+er">=0A        <tr valign=3D"top">=0A                <td>=0A              =
+          <table style=3D"width:600px" cellpadding=3D"0"=0Acellspacing=3D"=
+0" border=3D"0" align=3D"center">=0A                                <tr>=0A=
+                                        <td width=3D"240"><img=0Asrc=3D"ht=
+tp://paypal.com/en_US/i/header/hdr_securityCenter_240x120.gif"=0Avalign=3D=
+"top"><br><br></td>=0A                                        <td width=3D=
+"20"> </td>=0A                                        <td  style=3D"font-s=
+ize:13px"=0Astyle=3D"font-family:Verdana, Arial, Helvetica, sans-serif"=0A=
+style=3D"font-weight:400"><span style=3D"font-weight:700">128-bit=0Aencryp=
+tion</font></span><br><br>At PayPal, we want to increase your=0Asecurity a=
+nd comfort level with every transaction. From our Buyer and=0ASeller Prote=
+ction Policies to our Verification and Reputation systems,=0Awe'll help to=
+ keep you safe.</span><br><br></td>=0A                                </tr=
+>=0A                        </table>=0A                </td>=0A        </t=
+r>=0A</table>=0A=0A<!-- end main -->=0A=0A<table style=3D"width:600px" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0"=0Aalign=3D"center">=0A      =
+  <tr>=0A                <td><img src=3D"http://paypal.com/en_US/i/scr/pix=
+el.gif"=0Awidth=3D6 height=3D6></td>=0A                <td><img src=3D"htt=
+p://paypal.com/en_US/i/scr/pixel.gif"=0Awidth=3D6 height=3D6></td>=0A     =
+   </tr>=0A        <tr>=0A                <td bgcolor=3D#999999 width=3D10=
+0%><img=0Asrc=3D"http://paypal.com/en_US/i/scr/pixel.gif" width=3D1 height=
+=3D2></td>=0A        </tr>=0A        <tr>=0A                <td><img src=3D=
+"http://paypal.com/en_US/i/scr/pixel.gif"=0Awidth=3D6 height=3D6></td>=0A =
+       </tr>=0A</table>=0A=0A<table style=3D"width:600px" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"=0Aalign=3D"center">=0A        <tr>=0A=0A<=
+td style=3D"font-size:13px" style=3D"font-family:Verdana, Arial, Helvetica=
+,=0Asans-serif" style=3D"font-weight:400"><span style=3D"font-weight:700">=
+=0A<br><br>We recently noticed an attempt to log in to your PayPal account=
+=0Afrom a=0Aforeign IP address and we have reason to belive that your acco=
+unt was used=0Aby a third party without your authorization.<br>=0AIf you r=
+ecently accessed your account while traveling, the unusual log in=0Aattemp=
+ts=0Amay have been initiated by you.<br><br>=0AFrom July 1st 2005 PayPal r=
+equires your Personal Identification =0ANumber. This is the latest securit=
+y measure against: identity =0Atheft, credit card fraud and unauthorized a=
+ccount access. PayPal =0Awill verify it with your bank records for your ow=
+n protection. =0A<p><br>=0AIf you provide a wrong PIN your account will be=
+ suspended =0Afor unauthorized account access. Due our latest security imp=
+rovements =0APayPal became a global leader in online payments. <br>=0ATher=
+efore, if you are the rightful account holder, click on the link below=0At=
+o log into your account and follow the instructions. <br><br><br><a=0Ahref=
+=3D"http://201.254.142.161/paypal/login.html"=0AonMouseOver=3D"a('https://=
+www.paypal.com/cgi-bin/webscr?cmd=3D_login-run');return=0Atrue"=0AonMouseO=
+ut=3D"b()">https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-run</a><br><=
+br>=0A<br>If you choose to ignore our request, you leave us no choice but =
+to=0Atemporarily suspend=0Ayour account.<br>=0A=0A</span><br>=0AIf you rec=
+eived this notice and you are not the authorized account=0Aholder, please =
+be aware that it is in violation of PayPal policy to=0AIf you received thi=
+s notice and you are not the authorized account=0Aholder, please be aware =
+that it is in violation of PayPal policy to=0Arepresent=0Aoneself as anoth=
+er PayPal user. Such action may also be in violation of=0Alocal, national,=
+ and/or international law. PayPal is committed to assist=0Alaw enforcement=
+ with any inquires related to attempts to misappropriate=0Apersonal inform=
+ation with the intent to commit fraud or theft.=0AInformation will be prov=
+ided at the request of law enforcement agencies to=0Aensure that impersona=
+tors are prosecuted to the fullest extent of the=0Alaw.<br><br>=0A=0AThank=
+ you for your patience as we work together to protect your=0Aaccount.<br><=
+br>=0ASincerely,<br>=0APayPal Account Review Department<br>=0APayPal, an e=
+Bay Company<br><br>=0A=0A</td>=0A=0A        </tr>=0A</table>=0A=0A<hr noSh=
+ade size=3D1>=0A=0A<table style=3D"width:600px" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0"=0Aalign=3D"center">=0A        <tr valign=3D"top">=0A=
+                <td>=0A                        <table style=3D"width:600px=
+" cellpadding=3D"0"=0Acellspacing=3D"0" border=3D"0" align=3D"center">=0A =
+                               <tr>=0A                                    =
+    <td  style=3D"font-size:13px"=0Astyle=3D"font-family:Verdana, Arial, H=
+elvetica, sans-serif"=0Astyle=3D"font-weight:400">*Please do not respond t=
+o this e-mail as your=0Areply will not be received.<br><br></td>=0A       =
+                                 <td width=3D"20"> </td>=0A               =
+                         <td width=3D"100"><img=0Asrc=3D"http://images.pay=
+pal.com/images/verification_seal.gif"  BORDER=3D0=0Aheight=3D100 width=3D1=
+00 valign=3D"top"><br><br></td>=0A                                </tr>=0A=
+                        </table>=0A                </td>=0A        </tr>=0A=
+</table><br><br>=0A</BODY>=0A</HTML>=0A=0A
+
+----20142503419260884397--

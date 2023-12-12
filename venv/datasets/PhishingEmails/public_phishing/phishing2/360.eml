@@ -1,0 +1,48 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id A43B1537119
+ for <nobody@login.example.com>; Wed,  8 Feb 2006 23:55:48 -0500 (EST)
+Received: from mail.com (host-69-48-29-230.spr.choiceone.net [69.48.29.230])
+ by mail1.example.com (Postfix) with SMTP id 7DBCA6CCF43
+ for <nobody@example.com>; Wed,  8 Feb 2006 23:55:48 -0500 (EST)
+Reply-To: <service@paypal.com>
+From: "PayPal" <service@paypal.com>
+Subject: Check the status and history of your account
+Date: Wed, 8 Feb 2006 23:55:48 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1250"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060209045548.7DBCA6CCF43@mail1.example.com>
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 361
+
+<HTML>
+<HEAD>
+<TITLE>Pay Pal Security Tips</TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="MS Sans Serif">As part of our security measures, we regularly screen activity in the Pay Pal system. We recently noticed that your account was accessed by unauthorized third party. Because protecting the security of your account is our primary concern, we are forced to limit the access to sensitive Pay Pal account features. We realise that this may be an inconvenience but please understand that this temporary limitation is for your protection.<BR>Case ID Number: PP-042-818-072 </FONT></P>
+<P><A href="http://pc203-71-133-32.nutn.edu.tw:8001/alitza/index.php"><FONT 
+face="MS Sans Serif">https://www.paypal.com/us/cgi-bin/webscr?cmd=complaint-view</FONT></A></P>
+<P><FONT face="MS Sans Serif"></FONT></P>
+<FONT face="MS Sans Serif">Your Personal Data includes information that can identify you as a 
+specific individual, such as your name, address, phone number, credit card number or e-mail address
+are stored in your account. Is strongly recommend that you log into your account and verify your Personal Data. We apologize for any inconvenience this may cause.</FONT>
+<P><BR><FONT face="MS Sans Serif">To review your account and some or all of the 
+information that Pay Pal used to make its decision to limit your account access, please visit the Resolution Center 
+</FONT><A href="http://pc203-71-133-32.nutn.edu.tw:8001/alitza/primapagina.php"><FONT face="MS Sans Serif">https://www.paypal.com/</FONT></A><FONT face="MS Sans Serif"> . If, after reviewing your account information, you seekfurther clarification regarding your account access, please contact Pay Pal by visiting the Help Center and clicking "Contact Us". We thank you for your prompt attention to this matter. Please understand that this is a security measure intended to help and protect you and your account. We apologize for any inconvenience.</FONT></P>
+<P><FONT face="MS Sans Serif">Sincerely,<BR>Pay Pal Account Review Department</FONT></P>
+<P><FONT face="MS Sans Serif">Pay Pal Email ID PP520952</FONT></P>
+</BODY>
+</HTML>

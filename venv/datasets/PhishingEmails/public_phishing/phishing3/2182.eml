@@ -1,0 +1,57 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <security@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 74F5A468EA
+ for <user@login.example.com>; Thu,  5 Jul 2007 10:42:49 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 8995B131FEFD
+ for <user@example.com>; Thu,  5 Jul 2007 10:42:49 -0400 (EDT)
+Received: from zerodelta.org (zerodelta.org [69.36.191.87])
+ by mail.example.org (Postfix) with ESMTP id 7E0CF6FA1C4
+ for <user@example.com>; Thu,  5 Jul 2007 10:42:49 -0400 (EDT)
+Received: from test (209-159-45-134.wan.networktel.net [209.159.45.134])
+ (authenticated bits=0)
+ by zerodelta.org (8.12.11.20060308/8.12.11) with ESMTP id l65EWdis000736;
+ Thu, 5 Jul 2007 08:32:40 -0600
+Message-Id: <200707051432.l65EWdis000736@zerodelta.org>
+Reply-To: <security@paypal.com>
+From: "Paypal"<security@paypal.com>
+Subject: About your account.
+Date: Thu, 5 Jul 2007 10:36:02 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1479
+
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="Courier New" size="2">You have added 
+<a href="http://optro.co.kr/page/pay.htm">shenys.miller@hotmail.com</a> as a new e-mail address for<br> your
+PayPal account.&nbsp; </font></p>
+<P><font face="Courier New" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please <a href="http://optro.co.kr/page/pay.htm">click here</a> to contact PayPal customer service.</p>
+<P>&nbsp;</p>
+<P>Thank you for using PayPal<br>
+The PayPal Team</p>
+<P><FONT face="Courier New" size="2">Please do not reply to this e-mail. Mail sent to this address cannot<br> be
+answered. For assistance, log in to your PayPal account and choose<br> the
+"Help" link in the header of any page.<br></p></FONT>
+
+
+</font>

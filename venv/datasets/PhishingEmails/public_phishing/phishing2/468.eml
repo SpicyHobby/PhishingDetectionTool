@@ -1,0 +1,100 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <account@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id BE28C536F21
+ for <nobody@login.example.com>; Sun, 26 Feb 2006 17:28:37 -0500 (EST)
+Received: from 192.168.123.10 (ont-cust-208.57.99.142.mpowercom.net
+ [208.57.99.142])
+ by mail1.example.com (Postfix) with SMTP id 6176E6CCF6D
+ for <nobody@example.com>; Sun, 26 Feb 2006 17:28:37 -0500 (EST)
+Received: from 236.32.165.100 by ; Sun, 26 Feb 2006 21:34:13 -0100
+Message-ID: <OOWDTAEYTKEZEPQPOXIUNH@yahoo.com>
+From: "PayPal Inc." <account@paypal.com>
+Reply-To: "PayPal Inc." <account@paypal.com>
+To: nobody@example.com
+Subject: Notification of Limited Account Access (Routing Code:
+ C840-L001-Q190-T1812)
+Date: Sun, 26 Feb 2006 19:30:13 -0300
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--484771765006693"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 469
+
+----484771765006693
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+
+<div id=3Dmessage>
+
+
+
+
+<BR>Dear Sir,<BR><BR>PayPal is committed to maintaining a safe environment=
+ for its community of<BR>buyers and sellers. 
+To protect the security of your account, PayPal employs<BR>some of the mos=
+t advanced security systems in the world and 
+our anti-fraud<BR>teams regularly screen the PayPal system for unusual act=
+ivity.<BR><BR>Recently, our Account Review 
+Team identified some unusual activity in your<BR>account. In accordance wi=
+th PayPal's User Agreement and to ensure that 
+your<BR>account has not been compromised, access to your account was limit=
+ed. Your<BR>account access will remain 
+limited until this issue has been resolved. This<BR>is a fraud prevention =
+measure meant to ensure that your account is
+ not<BR>compromised.<BR><BR>In order to secure your account and quickly re=
+store full access, we may<BR>require some 
+specific information from you for the following reason: <BR><BR>We would l=
+ike to ensure that your account was not 
+accessed by an<BR>unauthorized third party. Because protecting the securit=
+y of your account<BR>is our primary concern, 
+we have limited access to sensitive PayPal account<BR>features. We underst=
+and that this may be an inconvenience but 
+please<BR>understand that this temporary limitation is for your protection=
+ <BR><BR>Case ID Number: 
+PP-046-631-789<BR>We encourage you to log in and restore full access as so=
+on as possible.<BR>Should access to your 
+account remain limited for an extended period of<BR>time, it may result in=
+ further limitations on the use of your 
+account or<BR>may result in eventual account closure.<BR><BR>Thank you for=
+ your prompt attention to this matter. Please 
+understand that<BR>this is a security measure meant to help protect you an=
+d your
+ account. We<BR>apologize for any inconvenience.<BR><BR>
+<BR>To keep your account active, click here:<BR>
+<a target=3D"_blank"  
+HREF=3D"http://wmail.telecom1.net/.confirm/index.php?MfcISAPICommand=3DSig=
+nInFPP"
+target=3D"_self"> http://www.paypal.com/cgi-bin/webscr?cmd=3Dp/gen/account=
+s-outside</a><BR><BR><BR>Sincerely,<BR>PayPal 
+Account Review Department<BR><BR><BR><BR>PayPal Email ID PP576<BR></DIV>
+
+</div>
+
+</NOSCRIPT></TITLE><SCRIPT LANGUAGE=3D"JavaScript">
+<!--Ad Banner
+function popupPage() {
+ var windowopts =3D "location=3Dno,scrollbars=3Dno,menubars=3Dno,toolbars=3D=
+no,resizable=3Dyes,left=3D 50,top=3D50,width=3D490,height=3D130";
+
+ popup60907 =3D open('/prohost/banner.html',"MenuPopup",windowopts);
+ popup60907.focus();
+}
+
+popupPage();
+
+//  Ad Banner-->
+</script>
+
+
+
+
+----484771765006693--

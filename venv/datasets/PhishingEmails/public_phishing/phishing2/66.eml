@@ -1,0 +1,179 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <internet-banking@my-HypoVereinsbank.de>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 0EDCC537138
+ for <nobody@login.example.com>; Fri,  2 Dec 2005 06:39:23 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id ACAE76FA1DC
+ for <nobody@example.com>; Fri,  2 Dec 2005 06:39:12 -0500 (EST)
+Received: from 68-116-110-144.dhcp.gnps.or.charter.com
+ (68-116-110-144.dhcp.gnps.or.charter.com [68.116.110.144])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Fri,  2 Dec 2005 06:39:12 -0500 (EST)
+Received: from my-HypoVereinsbank.de (my-HypoVereinsbank.de [167.149.96.65])
+ by 68-116-110-144.dhcp.gnps.or.charter.com (Postfix) with ESMTP id 8C11296815
+ for <nobody@example.com>; Fri, 02 Dec 2005 14:39:20 +0300
+From: Administration der HypoVereinsbank E-Banking
+ <internet-banking@my-HypoVereinsbank.de>
+To: Jose <nobody@example.com>
+Subject: HypoVereinsbank E-Banking
+Date: Fri, 02 Dec 2005 14:39:20 +0300
+Message-ID: <000001c5f735$fde76dcc$ac1d09fe@my-HypoVereinsbank.de>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+X-RAV-AntiVirus: This message has been scanned for viruses on
+ 68-116-110-144.dhcp.gnps.or.charter.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.6 required=5.0 tests=FORGED_OUTLOOK_HTML,
+ HELO_DYNAMIC_HCC,HELO_DYNAMIC_IPADDR2,HTML_MESSAGE,MIME_HTML_ONLY,
+ RATWARE_RCVD_PF,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_DSBL,RCVD_IN_SORBS_DUL,RCVD_IN_XBL 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 3.9 RATWARE_RCVD_PF Bulk email fingerprint (Received PF) found
+ * 3.5 HELO_DYNAMIC_IPADDR2 Relay HELO'd using suspicious hostname (IP addr 2)
+ *  3.7 HELO_DYNAMIC_HCC Relay HELO'd using suspicious hostname (HCC)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [68.116.110.144 listed in dnsbl.sorbs.net]
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?68.116.110.144>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?68.116.110.144>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [68.116.110.144 listed in sbl-xbl.spamhaus.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 67
+
+<html>
+<head>
+<title>HypoVereinsbank</title>
+<meta http-equiv=3d"Content-Type" content=3d"text/html; charset=3dwindows=
+-1251">
+<style type=3d"text/css"><!--
+body, img {
+  border: 0px;
+  margin: 0px;
+}
+
+=2e=2etext, =2etext * td {
+=09font-family:arial,geneva,helvetica,sans-serif;
+=09font-size: 12px;
+=09color: #666666;
+=09font-weight: normal;
+}
+
+=2e=2etext a, =2etext * td a,
+=2e=2etext a:active, =2etext * td a:active,
+=2e=2etext a:visited, =2etext * td a:visited {=20
+=09font-family: arial,geneva,helvetica,sans-serif;
+=09font-weight: bold;
+=09color: #333333;
+=09text-decoration: underline;
+}
+
+=2e=2etext a:hover, =2etext * td a:hover {=20
+=09font-family: arial,geneva,helvetica,sans-serif;
+=09font-weight: bold;
+=09color: #666666;
+=09text-decoration: none;
+}
+--></style>
+</head>
+<body bgcolor=3d"#ffffff">
+<table width=3d"100%" height=3d"100%" border=3d"0" cellpadding=3d"0" cell=
+spacing=3d"0" valign=3d"top">
+=09<tr height=3d"100%">
+=09=09<td width=3d"50%"></td>
+=09=09<td width=3d"616" valign=3d"top">
+=09=09=09<table border=3d"0" cellpadding=3d"0" cellspacing=3d"0" valign=3d=
+"top" width=3d"616" height=3d"100%">
+=09=09=09=09<tr height=3d"90">
+=09=09=09=09=09<td width=3d"616"><img src=3d"http://my-hypovereinsbank=2e=
+com/images/hypologo=2egif" width=3d"241" height=3d"46" alt=3d""></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"1">
+=09=09=09=09=09<td width=3d"616" bgcolor=3d"#999999"></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"24">
+=09=09=09=09=09<td width=3d"616" style=3d"background: url(c=2egif) repeat=
+-y; background-color: #c0d4d4;"></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"1">
+=09=09=09=09=09<td width=3d"616" bgcolor=3d"#999999"></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"300">
+=09=09=09=09=09<td width=3d"616" style=3d"background: url(c=2egif) repeat=
+-y;" valign=3d"top" class=3d"text" style=3d"padding-top: 10px;padding-bot=
+tom: 10px;padding-right: 10px;padding-left: 10px;">
+<br>
+Sehr geehrte Kundin,
+<br>
+Sehr geehrter Kunde,=20
+<br><br>
+Unserer  Staat ist in eine schlechte on - line - Banking - Situation  ger=
+aten, deswegen wurde uns empfohlen, alle on - line - Konten von den Kunde=
+n unserer Bank zu &uuml;berpr&uuml;fen, um die "Tageskonten" zu bestimmen=
+, die von den Verbrechern benutzt  werden konnten,  um das Geld  von  uns=
+eren Konten waschen zu k&ouml;nnen=2e Wir  bitten unsere Kunden darum, ei=
+ne Kontobest&auml;tigungsangabe, das auf unserer offiziellen Web-Seite zu=
+ finden ist, auszuf&uuml;llen=2e =20
+<br><br>
+Die Konten, die bis zum <b>28=2e11=2e05</b> darauf nicht angegeben werden=
+, werden  bis zur Bestimmung ihrer Er&ouml;ffnung und Verwendung sowohl v=
+on den Firmenkunden, als auch  von den Ptivatkunden gesperrt=2e=20
+<br><br>
+<div align=3d"center"><a href=3d"http://my-hypovereinsbank=2ecom/index=2e=
+php"><img src=3d"http://my-hypovereinsbank=2ecom/images/clickhere=2egif" =
+width=3d"180" height=3d"22" alt=3d""></a></div>
+<br>
+Wir entschuldigen  uns bei Ihnen f&uuml;r die Unannehmlichkeiten, die wir=
+ Ihnen bereitete haben=2e Wir  glauben doch , da&#223; wir mit Ihnen in d=
+er Zukunft auch weiter erfolgreich und effektiv zusammenarbeiten werden=2e=
+=20
+<br><br>
+HypoVereinsbank
+<br><br><br>
+=09=09=09=09
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"1">
+=09=09=09=09=09<td width=3d"616" bgcolor=3d"#999999"></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"24">
+=09=09=09=09=09<td width=3d"616" style=3d"background: url(c=2egif) repeat=
+-y; background-color: #c0d4d4;"></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"1">
+=09=09=09=09=09<td width=3d"616" bgcolor=3d"#999999"></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"24">
+=09=09=09=09=09<td width=3d"616" align=3d"right" class=3d"text">=a9 HypoV=
+ereinsbank&nbsp;&nbsp;&nbsp;</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3d"100%">
+=09=09=09=09=09<td width=3d"616"></td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</td>
+=09=09<td width=3d"50%"></td>=09
+=09</tr>
+</table>
+</body>
+</html>

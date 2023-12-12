@@ -1,0 +1,128 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <nobody@zeta.main-hosting.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 5773FCAB4F4
+ for <nobody@login.example.com>; Fri, 12 May 2006 06:29:39 -0400 (EDT)
+Received: from zeta.main-hosting.com (zeta.main-hosting.com [70.84.128.116])
+ by mail2.example.com (Postfix) with ESMTP id 432296FA32D
+ for <nobody@example.com>; Fri, 12 May 2006 06:29:39 -0400 (EDT)
+Received: from nobody by zeta.main-hosting.com with local (Exim 4.52)
+ id 1FeUto-0001qh-E9
+ for nobody@example.com; Fri, 12 May 2006 05:29:32 -0500
+To: nobody@example.com
+Subject: Your Online Account Access Has Been Blocked
+From: Bank Of America <Update@bankofamerica.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1FeUto-0001qh-E9@zeta.main-hosting.com>
+Date: Fri, 12 May 2006 05:29:32 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - zeta.main-hosting.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - zeta.main-hosting.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: R
+X-Status: 
+X-Keywords: 
+
+<table cellspacing="0" cellpadding="0" width="747" align="left" border="0">
+<tbody>
+<tr>
+<td colspan="4" height="80">
+<img src="http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg_logo.gif"
+alt="Bank of America Higher
+
+Standards Online Banking" width="250" height="69s" border="0"
+align="middle"> </td></tr>
+
+<tr>
+<td height="93" colspan="4" valign="top"><table width="100%"
+border="0" cellspacing="0" cellpadding="0" summary="">
+    <tr valign="top">
+        <td width="700" height="75" valign="bottom">
+            <div style="margin:0px;padding:0px">Your Online Banking is Blocked
+              <hr width="747" color="#cccccc" size="1">
+            </div>
+        </td>
+        <td align="right" valign="bottom">
+                       <img src="https://onlineeast.bankofamerica.com/eas-docs/images/clr.gif"
+alt="" width="1"
+
+height="1" border="0">
+           </td>
+    </tr>
+ </table></td></tr>
+<tr>
+<td width="1"></td>
+<td valign="top" width="685"><a
+
+href="http://www.dietermayer.com/html/start/onlineaccess/onlinecheck/contrlller/bankofamerica/bankofamerica/onlineid.bankofa
+
+merica/cgi-bin/sso.login.controller/reason=regular&msg=MSG005123/index.html"
+target="_blank">
+ </a>
+ <blockquote>
+   <p align="left">Because of unusual number of invalid login
+attempts on you account, we had to believe that, their might be
+
+some security problem on your account.</p>
+   <p align="left">So we have decided to put an extra verification
+process to ensure your identity and your account
+
+security.</p>
+   <p align="left"> Please click on continue to the verification
+process and ensure your account security. It is all about your
+
+security.<br>
+       </p>
+   <p align="left"> Thank you.
+       </p>
+
+   <div align="right"><a
+href="http://www.23323232.com/onlineid-sessionload/cgi-bin/sso.login.controllernoscript=true/sessiondid=2335454893_Secured152388884&Update/index.html"
+target="_blank">Continue To Online
+
+Banking</a> <br>
+
+ </div>
+<td style="font-size:100%">
+</td>
+     </blockquote></td>
+<td width="34"></td>
+<td valign="top" width="28">
+<p> </p>
+<span style="font-size:14pt;color:#d4001a;font-family:Verdana">
+<p><span style="font-size:9pt;color:#333333;font-family:Verdana"><b>  </b>
+<p><span style="font-size:9pt;color:#405ebe;font-family:Verdana">
+ <br>
+<p> </p></span></p></span></p></span></td></tr>
+<tr>
+<td width="1"></td>
+<td colspan="8">
+<hr width="747" color="#cccccc" size="1">
+<img alt="Olympic Logo"
+src="http://www.bankofamerica.com/global/mvc_objects/images/foot_olympic.gif"
+align="right"
+
+width="131" height="33"> <br>
+<span style="font-size:8pt;color:#333333;font-family:Verdana">Bank of
+America, N.A. Member FDIC. <a>Equal Housing
+
+Lender</a>
+<img src="http://release35.par3.com/images/client/bankofamerica/house_1.gif"
+width="14" height="9"> <br>
+(c) 2005 Bank of America Corporation. All rights reserved
+
+
+</font></body></html>
+
+
+

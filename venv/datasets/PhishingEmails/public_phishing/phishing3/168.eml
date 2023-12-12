@@ -1,0 +1,82 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4116F2A88C
+ for <user@example.com>; Wed, 28 Sep 2005 08:13:40 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 39276621C71; Wed, 28 Sep 2005 08:13:40 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 19BF6621C66
+ for <user@example.com>; Wed, 28 Sep 2005 08:13:40 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id IAA07691
+ for user@example.com; Wed, 28 Sep 2005 08:13:39 -0400
+Received: from thenkel.org (dsl093-002-063.det1.dsl.speakeasy.net [66.93.2.63])
+ by mail.example.com with SMTP id IAA07683
+ for <user@example.com>; Wed, 28 Sep 2005 08:13:39 -0400
+Received: (qmail 1085 invoked by uid 100); 28 Sep 2005 11:57:22 -0000
+Date: 28 Sep 2005 11:57:22 -0000
+Message-ID: <20050928115722.1084.qmail@thenkel.org>
+To: user@example.com
+Subject: Update Your PayPal Account !
+From: "service@paypal.com" <service@paypal.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Content-Length: 1796
+Lines: 49
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 169
+
+
+<html>
+<table>
+<br><IMG height=50 src="https://www.paypal.com/en_US/i/logo/paypal_logo.gif" width=200 border=0 align=right><FONT face=Arial color=#000000 size=2>
+<br>Dear PayPal client,
+<br>
+<br>
+<br> 
+<br>We recently updated our system, and suspect that your PayPal
+account may need to information update.<br>Protecting
+the security of your account and of the PayPal network is out primary
+concern. Therefore, as a preventative measure, we have temporarily
+limited access to sensitive PayPal account features.
+<br>Click the link below in order to regain access to your account:
+<br>
+<br>
+<br>           <A
+target="_blank" href="http://www.pradelletorri.biz/PayPal/"
+onfiltered="status='http://www.paypal.com'; return
+true">http://www.paypal.com</A>
+<br>
+<br>
+<br>You will be asked for some additional information to establish
+account ownership and avoid Credit Card Fraud. For more information about
+how to protect your account, please visit PayPal faq's . You can feel free to call our Customer Service Support Center between 8:00 AM and 6:30 PM (Eastern Standard Time), Monday through Friday and 9:00 AM to 5:30 PM on Saturday.
+<br><br>
+1-402-935-2050 toll-free in U.S. & Canada<br>
+1-614-921-2450 international callers <br><br>
+We apologize for any
+inconvenience this may cause, and apriciate your assistance in helping us
+maintain the integrity of the entire PayPal system. Thank you for your
+prompt attention to this matter.
+<br>
+<br>Please do not reply to this mail.Mail sent to this address cannot be
+answered. For assistance, log in to your PayPal account and submit an online support ticket.
+<br>
+<br>
+<table border="0" cellspacing="14" cellpadding="14" align="center">
+<tr>
+<td class="white_cnt" nowrap>PayPal Email ID PP315</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+

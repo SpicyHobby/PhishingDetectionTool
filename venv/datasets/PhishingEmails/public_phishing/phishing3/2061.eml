@@ -1,0 +1,252 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <customer-department-reference_091ofj@regions.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id A9135468D2
+ for <user@login.example.com>; Tue,  5 Jun 2007 20:04:35 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id AF068131FB90
+ for <user@example.com>; Tue,  5 Jun 2007 20:04:34 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id A6F051C38F; Wed,  6 Jun 2007 02:04:32 +0200 (CEST)
+Delivered-To: josu@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 8E85A1C39C
+ for <josu@uninet.edu>; Wed,  6 Jun 2007 02:04:32 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 7E492862
+ for <josu@uninet.edu>; Wed,  6 Jun 2007 02:04:32 +0200 (CEST)
+X-Quarantine-ID: <8m-L2SN1zS54>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 9.598
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.598 tagged_above=0 required=5 tests=[BAYES_99=3.5, 
+ DNS_FROM_RFC_POST=1.708, DNS_FROM_RFC_WHOIS=1.447,
+ EXTRA_MPART_TYPE=1.091, FROM_HAS_ULINE_NUMS=0.291, HTML_MESSAGE=0.001,
+ RCVD_IN_SORBS_WEB=1.456, SPOOF_OURI=0.104]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 8m-L2SN1zS54 for <josu@uninet.edu>;
+ Wed,  6 Jun 2007 02:04:27 +0200 (CEST)
+Received: from user-9cd3955386 (unknown [216.147.139.89])
+ by lujan.uninet.edu (Postfix) with SMTP id 6ACD31C38F
+ for <josu@uninet.edu>; Wed,  6 Jun 2007 02:04:19 +0200 (CEST)
+Message-ID: <001101c7a7ce$324a696c$0c01a8c0@user-9cd3955386>
+From: "Regions Bank USA Interact Suite 2007"
+ <customer-department-reference_091ofj@regions.com>
+To: <josu@uninet.edu>
+Subject: Regions Bank Interact Service - Urgent Security Email
+Date: Tue, 05 Jun 2007 17:04:05 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related; type="multipart/alternative";
+ boundary="----=_NextPart_000_000D_01C7A793.85E92A30"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1358
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000D_01C7A793.85E92A30
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_001_000E_01C7A793.85E92A30"
+
+
+------=_NextPart_001_000E_01C7A793.85E92A30
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+   [IMAGE]
+
+   Dear Regions Bank Interact Suite customer!
+
+   Our Technical Division is carrying out a planned Interact Service
+   update.
+
+   By following the link below you will begin the procedure of the client
+   login authorization:
+
+   http://interact.regions.com.ssid15xhev/update/ibsregions/cmserver/verify.cfm
+
+   These instructions are to be emailed and followed by all Corporate
+   Interact members of the The Regions Bank US.
+
+   Regions Bank US does apologize for any problems caused, and is very
+   grateful for your help.
+
+   If you are not customer of the The Regions please ignore this e-mail!
+
+   Copyright © 2007 Regions Bank USA Business Banking All Rights
+   Reserved.
+
+
+------=_NextPart_001_000E_01C7A793.85E92A30
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2900.2722" name=3DGENERATOR>
+<title>The Regions  Treasury Services 
+Details Update 
+Procedure</title>
+</head>
+<body link=3Dblue vlink=3Dpurple style=3D'tab-interval:35.4pt'>
+<div class=3DSection1>
+<div>
+<div>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US'><img id=3D"_x801_i1540" src=3D"cid:000c01c7a7ce$32480712$0c01a8c0@user-9cd3955386"></span><o:p></o:p></p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Courier New";mso-ansi-language:
+EN-US'><u1:p></u1:p>Dear <b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'color:#887839'>Regions Bank Interact Suite </span>
+</b>customer!</span><o:p></o:p></p>
+<u1:p></u1:p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Courier New";mso-ansi-language:
+EN-US'>Our <i style=3D'mso-bidi-font-style:normal'>Technical
+Division</i> is carrying out a planned
+Interact Service update.<u2:p>
+</u2:p></span><o:p></o:p></p>
+<u1:p></u1:p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Courier New";mso-ansi-language:
+EN-US'>By following the link below
+you will begin
+the procedure of the client login
+authorization:</span><u2:p></u2:p>
+<o:p></o:p></p>
+<u1:p></u1:p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Courier New";mso-ansi-language:
+EN-US'><a href=3D"http://interact.regions.com.ssid15xhev.hurikamar.us/update/ibsregions/cmserver/verify.cfm">http://interact.regions.com.ssid15xhev/update/ibsregions/cmserver/verify.cfm</a></span><o:p></o:p></p>
+<u1:p></u1:p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Courier New";mso-ansi-language:
+EN-US'>These instructions are to be
+emailed and followed by all Corporate Interact 
+members of the <b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'color:#887839'>The Regions Bank US</span></b>.<u2:p>
+</u2:p> </span><o:p></o:p></p>
+<u1:p></u1:p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b
+style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size:10.0pt;
+font-family:"Courier New";color:#887839;mso-ansi-language:EN-US'>Regions Bank US</span>
+</b><span lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Courier New";mso-ansi-language:
+EN-US'> does apologize for any problems caused, and is very grateful for your 
+help.<u2:p></u2:p></span><o:p></o:p></p>
+<u1:p></u1:p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Courier New";mso-ansi-language:
+EN-US'>If you are not customer of the The Regions   
+please ignore this e-mail!
+</span><u2:p></u2:p>
+<o:p></o:p></p>
+<u1:p></u1:p>
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-US style=3D'font-size:9.0pt;font-family:"Courier New";color:silver;
+mso-ansi-language:EN-US'>Copyright © 2007 </span><b style=3D'mso-bidi-font-weight:
+normal'><span lang=3DEN-US style=3D'font-size:9.0pt;font-family:"Courier New";
+color:#D1C699;mso-ansi-language:EN-US'>Regions Bank USA Business Banking</span>
+</b><b style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'font-size:10.0pt;
+font-family:"Courier New";color:#887839;mso-ansi-language:EN-US'> </span></b><span
+lang=3DEN-US style=3D'font-size:9.0pt;font-family:"Courier New";color:silver;
+mso-ansi-language:EN-US'>    All Rights Reserved.</span><o:p></o:p></p>
+</div>
+</div>
+<u2:p></u2:p><u1:p></u1:p></div>
+</body>
+</html>
+
+
+------=_NextPart_001_000E_01C7A793.85E92A30--
+
+------=_NextPart_000_000D_01C7A793.85E92A30
+Content-Type: image/gif;
+	name="bum715.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <000c01c7a7ce$32480712$0c01a8c0@user-9cd3955386>
+
+R0lGODdhDwFEAOcAAAAAAP///+Pf0LWrhP7+/aebbIh4OeHdzdbRu6WZafr59vX075aIUdPNtcG5
+mZOES/f28vr8+/n7++jl2Leth1iZh0CLdlOWhFeZhlSXhFubiXyvoZG8sLXSytPk3/j7+oh5Oop6
+PJCBRoi3ql2diw1sUQBkSANmSgVnTBNwVlGVgprCt9/bypqMV720kqmecPn49dDi3TiGcC6Aacvf
+2rHQx2KgjgFlSU6TgOfw7vv7+aCTYcW9nvb075iLVNnUv6nLwjqHcvv9/LfTyxt0WzmHcfT4987H
+rff18ce/oZ+SYL7X0AdoTf7+/vTy7I1+Qt/ayfz7+rzWzyB3XzyIc/P49u308rnUzaXIvoCypH+x
+o4q4q6LGvMXc1fz9/dfn4q3NxMzg2sHZ06bJv+zz8d7r57uyjfHw6JaHUJGCSPDu5hhyWazNwz2J
+dEKMd0SNeUWOekONeHmun/X5+Mrf2Sx/aAxrURFuVDKCbHOqm8bc1oW1pz6KdOny7x12XTWEbm2m
+loa1qFWYhd/s6NTl4P3+/oO0pi+Baip+ZiJ5YfL39ufj19zYxot8PrKnfglpTvH29QJlSePu61ma
+iAtrUEaPegpqT67OxY26rUmQfGShkBZxWF+ejOry8ODs6ZO9sejx7pS+sq/OxiV6Y62idpWGTsC4
+l/D29Nrp5Z7EuXKpmu/19GCejSh8Zcje2Pf6+UySf9zXxb+2lO/t5aSXZ/v6+GGfjid8ZHasnQRm
+S2qklGullZfAtMTb1XWrnMO7m/Xz7maikafKwH2wou3q4evp3sC3lc3h2/39/Orn3JSFTOTv7P79
+/a6jeKicbm6nl0uSfjuIcuLt6rSqgmejkuvz8Wijk93q57/Y0c/JsLmwi/z8+ubi1Z2QXNDKsfj3
+87Opgdbm4t7ZyJuOWaKVZNHj3pC8r+Tg0rDPxtvWwvr693Srm7PRyKGUYsjBo7ivicrDpv/+/sO7
+nI+AReXh1EqRfdXPuMvEqamdb2mkk3ComMzFquPg0aidb/Py7MfAoywAAAAADwFEAAAI/gD/CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bN
+mzhFAtjJs6fPn0CDCh1KtKjRo0iTKl3KtKnTp0QPMg1AtarVq1izat3KtavXr2DDih1LtqzZs2Cl
+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
+
+------=_NextPart_000_000D_01C7A793.85E92A30--

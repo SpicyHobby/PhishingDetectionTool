@@ -1,0 +1,70 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <admin@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C754B4691C
+ for <user@login.example.com>; Sat,  7 Apr 2007 09:31:42 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id D2847131FB0D
+ for <user@example.com>; Sat,  7 Apr 2007 09:31:42 -0400 (EDT)
+Received: from thelevellounge.com (227-6.202-68.tampabay.res.rr.com
+ [68.202.6.227])
+ by mail.example.org (Postfix) with ESMTP id E2EAE6FA1A8
+ for <user@example.com>; Sat,  7 Apr 2007 09:31:42 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by thelevellounge.com (Postfix) with ESMTP id E036210C078;
+ Sat,  7 Apr 2007 09:17:04 -0400 (EDT)
+Received: from thelevellounge.com ([127.0.0.1])
+ by localhost (leveler.local [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 17894-08; Sat,  7 Apr 2007 09:17:03 -0400 (EDT)
+Received: from User (toroon12-1168098448.sdsl.bell.ca [69.159.196.144])
+ by thelevellounge.com (Postfix) with ESMTP id 9B12B10C05B;
+ Sat,  7 Apr 2007 09:16:58 -0400 (EDT)
+Reply-To: <noreply@paypal.com>
+From: "Paypal" <admin@paypal.com>
+Subject: You have added a new e-mail address for your PayPal account.
+Date: Sat, 7 Apr 2007 09:30:07 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070407131658.9B12B10C05B@thelevellounge.com>
+To: undisclosed-recipients: ;
+X-Virus-Scanned: by amavisd-new at thelevellounge.com
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1092
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<FONT face="Courier New">You have added </FONT><A href="http://www.chandon.us/phpAdsNew/paypal/"><FONT color=#0000FF face="Courier New"><U>Michael1964@hotmail.com</U></FONT></A><FONT face="Courier New"> as a new e-mail address for</FONT><BR>
+<FONT face="Courier New">your PayPal account. </FONT></DIV>
+<DIV>
+<FONT face="Courier New">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face="Courier New">If you did not authorize this change or if you need assistance</FONT><BR>
+<FONT face="Courier New">with your account, please </FONT><A href="http://www.terrabyte.go.ro/www.paypal.html/"><FONT color=#0000FF face="Courier New"><U>www.paypal.com/login.php</U></FONT></A><FONT face="Courier New"> to contact PayPal customer service.</FONT></DIV>
+<DIV>
+<FONT face="Courier New">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face="Courier New">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face="Courier New">Thank you for using PayPal</FONT><BR>
+<FONT face="Courier New">The PayPal Team</FONT></DIV>
+<DIV>
+<FONT face="Courier New">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face="Courier New">Please do not reply to this e-mail. Mail sent to this address cannot</FONT><BR>
+<FONT face="Courier New">be answered. For assistance, log in to your PayPal account and choose</FONT><BR>
+<FONT face="Courier New">the "Help" link in the header of any page.</FONT></DIV>
+</FONT>
+</BODY></HTML>

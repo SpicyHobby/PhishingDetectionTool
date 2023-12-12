@@ -1,0 +1,24 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <aw-confirm@ebay.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id F33F52A88C
+ for <user@example.com>; Tue,  5 Jul 2005 22:16:25 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id EC767621CA1; Tue,  5 Jul 2005 22:16:25 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (unknown [204.118.128.73])
+ by mail.example.com (Example mail relay) with ESMTP id E2762621C9F
+ for <user@example.com>; Tue,  5 Jul 2005 22:16:25 -0400 (EDT)
+Received: from 82.77.204.76 (unknown [82.77.204.76])
+ by mail.example.com (Postfix) with SMTP id D230D16440
+ for <user@example.com>; Tue,  5 Jul 2005 22:18:50 -0500 (EST)
+Message-Id: <20050706031850.D230D16440@mail.example.com>
+Date: Tue,  5 Jul 2005 22:18:50 -0500 (EST)
+From: aw-confirm@ebay.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 14
+

@@ -1,0 +1,43 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id DED2A468CA
+ for <user@login.example.com>; Wed, 16 May 2007 17:03:03 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id F3B38131FB22
+ for <user@example.com>; Wed, 16 May 2007 17:03:03 -0400 (EDT)
+Received: from mail.bandcon.com (mail.bandcon.com [207.182.240.116])
+ by mail.example.org (Postfix) with ESMTP id CAE7C6FA1CC
+ for <user@example.com>; Wed, 16 May 2007 17:03:03 -0400 (EDT)
+Received: from User ([63.207.59.105] RDNS failed) by mail.bandcon.com with
+ Microsoft SMTPSVC(6.0.3790.1830); Wed, 16 May 2007 14:05:07 -0700
+Reply-To: <support@paypal.com>
+From: "PayPal"<service@paypal.com>
+Subject: Account Review Department
+Date: Wed, 16 May 2007 14:06:45 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <ZEUSkWHZqYW8BYXifWo00000158@mail.bandcon.com>
+X-OriginalArrivalTime: 16 May 2007 21:05:07.0375 (UTC)
+ FILETIME=[E1C67BF0:01C797FD]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1266
+
+<P align=left><FONT face=Verdana size=2>Please visit the resolution center located here</FONT></P>
+<html><P align=left><BR><A target="_blank"  href="http://www.google.com/pagead/iclk?sa=l&ai=Br3ycNQz5Q-fXBJGSiQLU0eDSAueHkArnhtWZAu-FmQWgjlkQAxgFKAg4AEDKEUiFOVD-4r2f-P____8BoAGyqor_A8gBAZUCCapCCqkCxU7NLQH0sz4&num=5&adurl=http://24.91.123.183/www.paypal.com/cgi-bin/webscr=home=p/index.php" ><FONT face=Verdana 
+size=2>https://www.paypal.com/cgi-bin/webscr?cmd=_login-run_rc_login_us</FONT></html></A></P>
+<P align=left><BR><FONT face=Verdana size=2><BR> to verify your identity and avoid the blocking of your account</FONT></P>
+<P align=left><FONT face=Verdana color=#838383 size=2>Sincerely,<BR>PayPal 
+Account Review Department<BR>PayPal,an eBay Company</FONT><BR></P>
+<P>&nbsp;</P></xbody>  

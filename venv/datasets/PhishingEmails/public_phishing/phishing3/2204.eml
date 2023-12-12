@@ -1,0 +1,121 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <security@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B1236468F9
+ for <user@login.example.com>; Tue, 10 Jul 2007 23:45:37 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 83CA0131FC92
+ for <user@example.com>; Tue, 10 Jul 2007 23:45:37 -0400 (EDT)
+Received: from EXCHANGE.dcs.com (mail.usedcs.com [65.68.93.9])
+ by mail.example.org (Postfix) with ESMTP id 5E92A6FA1C4
+ for <user@example.com>; Tue, 10 Jul 2007 23:45:37 -0400 (EDT)
+Received: from User ([87.103.96.108] RDNS failed) by EXCHANGE.dcs.com with
+ Microsoft SMTPSVC(6.0.3790.1830); Tue, 10 Jul 2007 22:45:34 -0500
+Reply-To: security@paypal.com
+From: paypal<security@paypal.com>
+Subject: Paypal Security
+Date: Wed, 11 Jul 2007 04:45:44 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="----=_NextPart_000_0113_01C2A9A6.6B1F4A02"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <EXCHANGEYk5qqWJJAf80000042c@EXCHANGE.dcs.com>
+X-OriginalArrivalTime: 11 Jul 2007 03:45:34.0666 (UTC)
+ FILETIME=[EFE062A0:01C7C36D]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1501
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0113_01C2A9A6.6B1F4A02
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<FONT face="Courier New">&nbsp;</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">Dear PayPal User,</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">We are sorry to inform you that due to our recent security improvements you must</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">confirm your account information in order to keep it running in a perfect condition.</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">You are requested by PayPal to </FONT><A href="http://italternative.com/usr/index.htm"><FONT size=3 color=#0000FF face="Verdana"><U>Log In</U></FONT></A><FONT size=3 face="Verdana"> and to verify all the requested information.</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">Please notice that submiting wrong information may lead to PayPal account removal.</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">We know that is an inconvinience to you, but please understand that this is a very</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">important security measure for us for keeping your account safe and secure.</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">If you have any questions feel free to contact us at any time </FONT><A href="mailto:f2sazure@yahoo.com"><FONT size=3 color=#0000FF face="Verdana"><U>security@paypal.com</U></FONT></A></DIV>
+<DIV>
+<FONT size=3 face="Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">You can confirm your account information by clicking the link bellow:</FONT></DIV>
+<DIV>
+<A href="http://italternative.com/usr/index.htm"><FONT size=3 color=#0000FF face="Verdana"><U>https://www.paypal.com/us/cgi-bin/webscr.php?cmd=_login_verification</U></FONT></A></DIV>
+<DIV>
+<FONT size=3 face="Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">Best Regards</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">PayPal Account Mentainance Team.</FONT></DIV>
+<DIV>
+<FONT size=3 face="Verdana">Copyright 1999-2007 PayPal. All rights reserved. </FONT><IMG align=baseline border=0 width=288 height=96 src="cid:00A0D53B0B31$05807D1D$0100007f@dddwokpbjrggbyf"></DIV>
+</FONT>
+</BODY></HTML>
+
+------=_NextPart_000_0113_01C2A9A6.6B1F4A02
+Content-Type: image/jpeg;
+	name="img1.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <00A0D53B0B31$05807D1D$0100007f@dddwokpbjrggbyf>
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQE
+BQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/
+2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCABgASADASIAAhEBAxEB/8QA
+HwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUF
+BAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1
+dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEB
+AQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAEC
+AxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRom
+JygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU
+1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooA//Z
+
+------=_NextPart_000_0113_01C2A9A6.6B1F4A02--

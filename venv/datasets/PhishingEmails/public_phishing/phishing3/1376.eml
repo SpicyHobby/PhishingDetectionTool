@@ -1,0 +1,782 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 86E8B469C7
+ for <user@login.example.com>; Wed, 24 Jan 2007 00:45:22 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 67DAD131FB4D
+ for <user@example.com>; Wed, 24 Jan 2007 00:45:22 -0500 (EST)
+Received: from unix9.vizawebserver.com (unix9.vizawebserver.com [70.84.44.52])
+ by mail.example.org (Postfix) with ESMTP id 144C16FA1C4
+ for <user@example.com>; Wed, 24 Jan 2007 00:45:22 -0500 (EST)
+Received: from mareixa by unix9.vizawebserver.com with local (Exim 4.63)
+ (envelope-from <aw-confirm@ebay.com>) id 1H9awn-0007pz-V3
+ for user@example.com; Tue, 23 Jan 2007 23:45:25 -0600
+To: user@example.com
+Subject: [TKO] : your (eBay) account could be suspended
+Content-Type: text/HTML; charset="iso-8859-1"
+From: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+Reply-To: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+Message-Id: <E1H9awn-0007pz-V3@unix9.vizawebserver.com>
+Date: Tue, 23 Jan 2007 23:45:25 -0600
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - unix9.vizawebserver.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [32506 32508] / [47 12]
+X-AntiAbuse: Sender Address Domain - ebay.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 671
+
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="ss_fichiers/filelist.xml">
+<link rel=Edit-Time-Data href="ss_fichiers/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Boomscud</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Boomscud</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2006-07-05T13:22:00Z</o:Created>
+  <o:LastSaved>2006-07-05T13:23:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1182</o:Words>
+  <o:Characters>6505</o:Characters>
+  <o:Company>Boomscud</o:Company>
+  <o:Lines>54</o:Lines>
+  <o:Paragraphs>15</o:Paragraphs>
+  <o:CharactersWithSpaces>7672</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<link rel=Stylesheet type="text/css" media=all
+href="%22http://us.js1.yimg.com/us.yimg.com/lib/pim/r/medici/10_8/mail/us/mail_blue_all.css%22">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tableau Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=FR link=blue vlink=blue style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<div>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width="100%" style='width:100.0%;padding:0cm 0cm 0cm 0cm'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td style='padding:0cm 0cm 0cm 0cm'>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+      <td width=10 rowspan=2 style='width:7.2pt;padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><span style='font-size:10.0pt'><script  type="text/javascript" src http: /us.js1.yimg.com /us.yimg.com /lib /pim /r /medici /10_8 /mail>
+      </script></span><o:p>&nbsp;</o:p></p>
+      </td>
+      <td style='padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+      </td>
+      <td width=10 rowspan=2 style='width:7.2pt;padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+      <td style='padding:0cm 0cm 0cm 0cm'>
+      <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+       1.5pt 1.5pt 1.5pt 1.5pt'>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+        <p class=MsoNormal><b><span style='font-size:7.5pt;font-family:Verdana;
+        color:#666666'>eBay sent this message to member of ebay </span></b><span
+        style='font-size:7.5pt;font-family:Verdana;color:#666666'><br>
+        Your registered name is included to show this message originated from
+        eBay. <a
+        href="http://mail.yahoo.com/config/login?/_javascript:ol(\'http://pages.ebay.com.au/help/confidence/name-userid-emails.html\')\;"
+        target="_blank">Learn more</a>.</span> </p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><o:p></o:p></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+     mso-padding-alt:0cm 0cm 0cm 0cm'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td width="1%" nowrap style='width:1.0%;padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><img border=0 width=13 height=39 id="_x0000_i1026"
+      src="http://pics.ebaystatic.com/aw/pics/au/email/syiSessions/hdrLeft_13x39.gif"><o:p></o:p></p>
+      </td>
+      <td width="98%" nowrap style='width:98.0%;padding:0cm 0cm 0cm 0cm'
+      background="http://pics.ebaystatic.com/aw/pics/au/email/syiSessions/imgSpan_5x39.gif">
+      <p class=MsoNormal><span class=sectiontitle><b><span style='font-size:
+      13.5pt'>Ebay Security -- Security Service Notification </span></b></span></p>
+      </td>
+      <td width="1%" nowrap valign=bottom style='width:1.0%;padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><img border=0 width=90 height=39 id="_x0000_i1027"
+      src="http://pics.ebaystatic.com/aw/pics/au/email/syiSessions/hdrRight_90x39.gif"
+      alt=eBay></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td style='padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><img border=0 width=10 height=1 id="_x0000_i1028"
+      src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+      </td>
+      <td style='padding:0cm 0cm 0cm 0cm'>
+      <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+       0cm 0cm 0cm 0cm'>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <table class=MsoNormalTable border=0 cellpadding=0 width="100%"
+         style='width:100.0%;mso-cellspacing:1.5pt;background:#EEEEF8;
+         mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+         <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+          yes;height:22.5pt'>
+          <td style='padding:.75pt .75pt .75pt 6.0pt;height:22.5pt'>
+          <p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'>eBay
+          sent this message on behalf of an eBay member via My Messages.
+          Responses sent using email will go to the eBay member directly and
+          will include your email address. Click the <b>Respond Now</b> button
+          below to send your response via My Messages (your email address will
+          not be included).</span> </p>
+          </td>
+         </tr>
+        </table>
+        <p class=MsoNormal><o:p></o:p></p>
+        </td>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><img border=0 width=10 height=1 id="_x0000_i1029"
+        src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><o:p></o:p></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><o:p></o:p></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td style='padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal><img border=0 width=10 height=10 id="_x0000_i1030"
+    src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+    <td style='padding:0cm 0cm 0cm 0cm'>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+      <td style='padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><img border=0 width=10 height=1 id="_x0000_i1031"
+      src="http://pics.ebaystatic.com/aw/pics/s.gif"><o:p></o:p></p>
+      </td>
+      <td valign=top style='padding:0cm 0cm 0cm 0cm'>
+      <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+       width=893 style='width:669.75pt;mso-cellspacing:0cm;mso-padding-alt:
+       0cm 0cm 0cm 0cm' height=409>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+        <td width=694 valign=top style='width:520.5pt;padding:0cm 0cm 0cm 0cm'>
+        <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+         width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+         0cm 0cm 0cm 0cm'>
+         <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <div align=center>
+          <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           width="100%" style='width:100.0%;mso-cellspacing:0cm;background:
+           #9999CC;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+           <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.0pt'>
+            <td style='padding:.75pt .75pt .75pt .75pt;height:12.0pt'>
+            <p class=MsoNormal><span class=sectiontitle><b><span
+            style='font-size:13.5pt;color:white'>Security Service Notification </span></b></span></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:291.75pt'>
+            <td style='padding:.75pt .75pt .75pt .75pt;height:291.75pt'>
+            <div align=center>
+            <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+             width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+             0cm 0cm 0cm 0cm'>
+             <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+              <td style='background:#EEEEEE;padding:0cm 0cm 0cm 0cm'>
+              <table class=MsoNormalTable border=0 cellspacing=4 cellpadding=0
+               width="100%" style='width:100.0%;mso-cellspacing:3.0pt;
+               mso-padding-alt:0cm 0cm 0cm 0cm'>
+               <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+                yes'>
+                <td style='padding:0cm 0cm 0cm 0cm'>
+                <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+                </td>
+               </tr>
+              </table>
+              <p class=MsoNormal><o:p></o:p></p>
+              </td>
+             </tr>
+             <tr style='mso-yfti-irow:1'>
+              <td style='background:#C6C6C6;padding:0cm 0cm 0cm 0cm'>
+              <p class=MsoNormal><img border=0 width=1 height=1
+              id="_x0000_i1032" src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+              </td>
+             </tr>
+             <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+              <td style='background:white;padding:0cm 0cm 0cm 0cm'>
+              <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+               width="100%" style='width:100.0%;border-collapse:collapse;
+               mso-padding-alt:0cm 0cm 0cm 0cm' id=AutoNumber1>
+               <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+                yes'>
+                <td width="1%" style='width:1.0%;padding:0cm 0cm 0cm 0cm'>
+                <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+                </td>
+                <td width="98%" style='width:98.0%;padding:0cm 0cm 0cm 0cm'>
+                <p class=MsoNormal><span class=style1><b><span
+                style='font-size:10.0pt;font-family:Arial'>Dear Customer </span></b></span></p>
+                <p><strong>For the User Agreement, Section 9, we may
+                immediately issue a warning, temporarily suspend, indefinitely
+                suspend or terminate your membership and refuse to provide our
+                services to you if we believe that your actions may cause
+                financial loss or legal liability for you, our users or us. We
+                may also take these actions if we are unable to verify or
+                authenticate any information you provide to us. </strong></p>
+                <p><strong>We regret to inform you that your eBay account could
+                be suspended if you don't re-update your account information. To
+                resolve this problems please use the link below and re-enter
+                your account information. If your problems could not be
+                resolved your account will be suspended for a period of 24
+                hours, after this period your account will be terminated.</strong></p>
+                <p><b><br>
+                <strong>Due to the suspension of this account, please be
+                advised you are prohibited from using eBay in any way. This
+                includes the registering of a new account. Please note that
+                this suspension does not relieve you of your agreed-upon
+                obligation to pay any fees you may owe to eBay. </strong></b></p>
+                <p align=center style='text-align:center'><strong>To update
+                your record please click here:</strong> <br>
+                <br>
+                <a
+                href="http://cadence-bikes.com/signin.ebay.com/"
+                target="_blank"><span style='text-decoration:none;text-underline:
+                none'><img border=0 width=117 height=21 id="_x0000_i1033"
+                src="http://pics.ebaystatic.com/aw/pics/au/VIQnA/respondNowButton_117x21.gif"></span></a><br
+                style='mso-special-character:line-break'>
+                <![if !supportLineBreakNewLine]><br style='mso-special-character:
+                line-break'>
+                <![endif]></p>
+                </td>
+                <td width="1%" style='width:1.0%;padding:0cm 0cm 0cm 0cm'>
+                <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+                </td>
+               </tr>
+              </table>
+              <p class=MsoNormal><o:p></o:p></p>
+              </td>
+             </tr>
+            </table>
+            </div>
+            <p class=MsoNormal><o:p></o:p></p>
+            </td>
+           </tr>
+          </table>
+          </div>
+          <p class=MsoNormal><o:p></o:p></p>
+          </td>
+         </tr>
+         <tr style='mso-yfti-irow:1'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <p class=MsoNormal><img border=0 width=1 height=15 id="_x0000_i1034"
+          src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+          </td>
+         </tr>
+         <tr style='mso-yfti-irow:2'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+           0cm 0cm 0cm 0cm'>
+           <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+            <td colspan=3 style='background:#9C9C9C;padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><img border=0 width=1 height=1 id="_x0000_i1035"
+            src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:1;height:16.5pt'>
+            <td width="1%" style='width:1.0%;background:#D6DEFF;padding:0cm 0cm 0cm 0cm;
+            height:16.5pt'>
+            <p class=MsoNormal><img border=0 width=16 height=1 id="_x0000_i1036"
+            src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+            </td>
+            <td style='background:#D6DEFF;padding:0cm 0cm 0cm 0cm;height:16.5pt'>
+            <p class=MsoNormal><b><span style='font-size:10.0pt;font-family:
+            Arial'>Attention Details</span></b> </p>
+            </td>
+            <td style='background:#D6DEFF;padding:0cm 0cm 0cm 0cm;height:16.5pt'>
+            <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:2'>
+            <td colspan=3 style='background:white;padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><img border=0 width=1 height=1 id="_x0000_i1037"
+            src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+            <td colspan=3 style='background:#FED73B;padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><img border=0 width=1 height=1 id="_x0000_i1038"
+            src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+            </td>
+           </tr>
+          </table>
+          <p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+          <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+           width="100%" style='width:100.0%;mso-cellspacing:0cm;background:
+           white;border:solid #D6DCFE 1.0pt;mso-border-alt:solid #D6DCFE .75pt;
+           mso-padding-alt:0cm 0cm 0cm 0cm'>
+           <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+            yes'>
+            <td width="100%" style='width:100.0%;border:none;padding:0cm 0cm 0cm 0cm'>
+            <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+             width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+             2.25pt 2.25pt 2.25pt 2.25pt'>
+             <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+              <td width="1%" nowrap style='width:1.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+              <p class=MsoNormal><span style='font-size:10.0pt;font-family:
+              Arial'>Attention name:</span></p>
+              </td>
+              <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+              <p class=MsoNormal>Unauthorized Account Access</p>
+              </td>
+             </tr>
+             <tr style='mso-yfti-irow:1'>
+              <td width="1%" nowrap style='width:1.0%;background:#F4F4F4;
+              padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+              <p class=MsoNormal><span style='font-size:10.0pt;font-family:
+              Arial'>Attention number:</span></p>
+              </td>
+              <td style='background:#F4F4F4;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+              <p class=MsoNormal><span style='font-size:10.0pt;font-family:
+              Arial'>7967365480</span> </p>
+              </td>
+             </tr>
+             <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+              <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+              <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+              </td>
+              <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+              <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+              </td>
+             </tr>
+            </table>
+            <p class=MsoNormal><o:p></o:p></p>
+            </td>
+           </tr>
+          </table>
+          <p class=MsoNormal><o:p></o:p></p>
+          </td>
+         </tr>
+         <tr style='mso-yfti-irow:3'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <p class=MsoNormal><img border=0 width=1 height=5 id="_x0000_i1039"
+          src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+          </td>
+         </tr>
+         <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           style='mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+           <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+            <td style='padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><img border=0 width=1 height=8 id="_x0000_i1040"
+            src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:1'>
+            <td style='padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><img border=0 width=1 height=10 id="_x0000_i1041"
+            src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:2'>
+            <td style='padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'>Thank
+            you for using eBay! </span></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:3'>
+            <td style='padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'><a
+            href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://www.ebay.com.au/\');"
+            target="_blank">http://www.ebay.com</a></span></p>
+            </td>
+           </tr>
+           <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+            <td style='padding:0cm 0cm 0cm 0cm'>
+            <p class=MsoNormal><img border=0 width=1 height=10 id="_x0000_i1042"
+            src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+            </td>
+           </tr>
+          </table>
+          <p class=MsoNormal><o:p></o:p></p>
+          </td>
+         </tr>
+        </table>
+        <p class=MsoNormal><o:p></o:p></p>
+        </td>
+        <td width=10 valign=top style='width:7.5pt;padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><img border=0 width=10 height=10 id="_x0000_i1043"
+        src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+        </td>
+        <td width=189 valign=top style='width:5.0cm;padding:0cm 0cm 0cm 0cm'>
+        <div align=right>
+        <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+         width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+         0cm 0cm 0cm 0cm'>
+         <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           style='mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+           <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+            yes'>
+            <td style='padding:0cm 0cm 0cm 0cm'>
+            <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+             style='mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+             <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+              <td style='padding:0cm 0cm 0cm 0cm'>
+              <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+               style='mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+               <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+                yes'>
+                <td style='background:#CAD2DD;padding:0cm 0cm 0cm 0cm'>
+                <p class=MsoNormal><img border=0 width=25 height=25
+                id="_x0000_i1044"
+                src="http://pics.ebaystatic.com/aw/pics/au/securityCenter/imgShield_25x25.gif"
+                alt="Marketplace Safety Tip"></p>
+                </td>
+                <td nowrap style='background:#CAD2DD;padding:0cm 0cm 0cm 0cm'>
+                <p class=MsoNormal><b><span style='font-size:10.0pt;font-family:
+                Arial'><a
+                href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://pages.ebay.com.au/securitycentre\');"
+                target="_blank"><span style='color:black;text-decoration:none;
+                text-underline:none'>Marketplace Safety Tip</span></a></span></b>
+                </p>
+                </td>
+                <td style='background:#CAD2DD;padding:0cm 0cm 0cm 0cm'>
+                <p class=MsoNormal><img border=0 width=25 height=25
+                id="_x0000_i1045"
+                src="http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif"></p>
+                </td>
+               </tr>
+              </table>
+              <p class=MsoNormal><o:p></o:p></p>
+              </td>
+             </tr>
+             <tr style='mso-yfti-irow:1'>
+              <td style='padding:0cm 0cm 0cm 0cm'>
+              <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+               style='mso-cellspacing:0cm;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'>
+               <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+                yes'>
+                <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+                <p class=MsoNormal><span style='font-size:10.0pt;font-family:
+                Arial'>It is unsafe and against eBay rules to offer to buy or sell
+                directly using the My Messages forwarding system without
+                winning the item on the eBay Web site. <br>
+                <br>
+                Participants in these 'outside of eBay' transactions lose their
+                ability to use eBay purchase protection programs and feedback.
+                We strongly advise recipients of these email offers to report
+                them to eBay. Learn more about <a
+                href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://pages.ebay.com.au/securitycentre/selling_safely.html\');"
+                target="_blank">trading with confidence</a>. </span></p>
+                </td>
+               </tr>
+              </table>
+              <p class=MsoNormal><o:p></o:p></p>
+              </td>
+             </tr>
+             <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes;height:3.75pt'>
+              <td style='background:#C9D2DC;padding:0cm 0cm 0cm 0cm;height:
+              3.75pt'>
+              <p class=MsoNormal style='mso-line-height-alt:3.75pt'><img
+              border=0 width=1 height=5 id="_x0000_i1046"
+              src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+              </td>
+             </tr>
+            </table>
+            <p class=MsoNormal><o:p></o:p></p>
+            </td>
+           </tr>
+          </table>
+          <p class=MsoNormal><o:p></o:p></p>
+          </td>
+         </tr>
+         <tr style='mso-yfti-irow:1'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <p class=MsoNormal><img border=0 width=1 height=10 id="_x0000_i1047"
+          src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+          </td>
+         </tr>
+         <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+          <td style='padding:0cm 0cm 0cm 0cm'>
+          <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+           3.75pt 3.75pt 3.75pt 3.75pt'>
+           <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:
+            yes'>
+            <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+            <p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'>Is
+            this email inappropriate\? Does it violate <a
+            href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://pages.ebay.com.au/help/policies/rfe-unwelcome-email-misuse.html\');"
+            target="_blank">eBay policy</a>\? Help protect the community by <a
+            href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://cgi1.ebay.com.au/aw-cgi/eBayISAPI.dll\?ReportEmailAbuseshow%26amp;reporteruserid%3d7339michelle%26amp\;reporteduserid%3dhunamwa%26amp;emaildate%3d2005/07/03:03:54:09%26amp\;emailtype%3d0%26amp;emailtext%3dHi%252C%2bif%2byou%2bhave%2breceived%2bthis%2bitem%2bin%2bgood%2border%2band%2bare%2bhappy%252C%2bcould%2byou%2bplease%2bleave%2bfeedback.%2bKind%2bRegards%2bSteve%26amp;trackId%3d992530537\');"
+            target="_blank">reporting it</a>. </span></p>
+            </td>
+           </tr>
+          </table>
+          <p class=MsoNormal><o:p></o:p></p>
+          </td>
+         </tr>
+        </table>
+        </div>
+        <p class=MsoNormal align=right style='text-align:right'><o:p></o:p></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+        <td width=893 colspan=3 style='width:669.75pt;padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><img border=0 width=1 height=10 id="_x0000_i1048"
+        src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+      <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:#CCCCCC;
+       mso-padding-alt:0cm 0cm 0cm 0cm'>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+        height:.75pt'>
+        <td style='padding:0cm 0cm 0cm 0cm;height:.75pt'>
+        <p class=MsoNormal><span style='font-size:1.0pt;mso-bidi-font-size:
+        12.0pt'><o:p>&nbsp;</o:p></span></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+      <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-padding-alt:
+       0cm 0cm 0cm 0cm'>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;
+        color:#666666'>This email appears in the language of the eBay site
+        where you are registered.</span> </p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:1'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><img border=0 width=1 height=5 id="_x0000_i1049"
+        src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:2'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;
+        color:#666666'>Learn how you can protect yourself from spoof (fake)
+        emails at:<br>
+        <a
+        href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://pages.ebay.com.au/education/spooftutorial\');"
+        target="_blank">http://pages.ebay.com/education/spooftutorial</a> </span></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:3'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><img border=0 width=1 height=5 id="_x0000_i1050"
+        src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:4'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;
+        color:#666666'>This eBay notice was sent to United States on behalf of
+        another eBay member through the eBay platform and in accordance with
+        our Privacy Policy. If you would like to receive this email in text
+        format, change your <a
+        href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://cgi4.ebay.com.au/ws/eBayISAPI.dll?OptinLoginShow\');"
+        target="_blank">notification preferences</a>. </span></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:5'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><img border=0 width=1 height=5 id="_x0000_i1051"
+        src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:6'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;
+        color:#666666'>See our Privacy Policy and User Agreement if you have
+        questions about eBay's communication policies.<br>
+        Privacy Policy: <a
+        href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://pages.ebay.com.au/help/policies/privacy-policy.html\');"
+        target="_blank">http://pages.ebay.com/help/policies/privacy-policy.html</a><br>
+        User Agreement: <a
+        href="http://mail.yahoo.com/config/login/?/_javascript:ol(\'http://pages.ebay.com.au/help/policies/user-agreement.html\');"
+        target="_blank">http://pages.ebay.com/help/policies/user-agreement.html</a>
+        </span></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:7'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><img border=0 width=1 height=5 id="_x0000_i1052"
+        src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:8;mso-yfti-lastrow:yes'>
+        <td style='padding:0cm 0cm 0cm 0cm'>
+        <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;
+        color:#666666'>Copyright © 2006 eBay, Inc. All Rights Reserved.<br>
+        Designated trademarks and brands are the property of their respective
+        owners.<br>
+        eBay and the eBay logo are registered trademarks or trademarks of eBay,
+        Inc. </span></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal style='margin-bottom:12.0pt'><o:p></o:p></p>
+      </td>
+      <td style='padding:0cm 0cm 0cm 0cm'>
+      <p class=MsoNormal><img border=0 width=10 height=1 id="_x0000_i1053"
+      src="http://pics.ebaystatic.com/aw/pics/s.gif"></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><o:p></o:p></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

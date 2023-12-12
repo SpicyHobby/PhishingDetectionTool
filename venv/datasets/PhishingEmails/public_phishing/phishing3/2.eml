@@ -1,0 +1,46 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@example.com>
+Delivered-To: user@example.com
+Received: from example.com (example.com [192.168.2.0])
+ by example.com (Postfix) with ESMTP id 4CEED2A88C
+ for <user@example.com>; Sun, 26 Jun 2005 22:36:20 -0400 (EDT)
+Received: by example.com (Example mail relay)
+ id 2CF54634B5; Sun, 26 Jun 2005 22:36:20 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by example.com (Example mail relay) with ESMTP id F1191633D8
+ for <user@example.com>; Mon, 27 Jun 2005 02:36:19 +0000 (GMT)
+Received: from localhost (user@localhost)
+ by mail.example.com with ESMTP id WAA17235
+ for <user@example.com>; Sun, 26 Jun 2005 22:36:19 -0400
+X-Received: from mail.com (81.196.46.100.rdsor.ro [81.196.46.100] (may be
+ forged)) by mail.example.com with SMTP id OAA15546
+ for <user@example.com>; Thu, 3 Mar 2005 14:32:57 -0500
+From: emailconfirm@ebay.com
+Message-Id: <200503031932.OAA15546@mail.example.com>
+Subject: eBay account verification!
+Date: Fri, 31 Jan 2003 09:14:21 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+ReSent-Date: Sun, 26 Jun 2005 22:36:14 -0400 (EDT)
+Resent-From: user <user@example.com>
+Resent-To: <user@example.com>
+ReSent-Subject: eBay account verification!
+ReSent-Message-ID: <Pine.LNX.4.30.0506262236140.17076@mail.example.com>
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 3
+
+<DIV>
+<DIV>
+<P>Dear valued customer,</P>
+<P>Our records indicate that you haven't submited the correct information <BR>to update your account. Please re-update your account. You HAVE to fill <BR>all the tabs in the form.<BR>Do not respond to this email, as your reply will not be received. If <BR>you would like to update your eBay account please use this link:<BR><A href="http://www.fileinyourinfos.us.tt" target=_blank><FONT color=#003399>http://signin.ebay.com//aw-cgi/eBayISAPI.dll?SignIn&amp;ssPageName=h:h:sin:US</FONT></A></P>
+<P>Thank you for your patience in this matter.</P>
+<P>Regards, Customer Support (Trust and Safety Department)<BR>eBay Inc</P></DIV></DIV>

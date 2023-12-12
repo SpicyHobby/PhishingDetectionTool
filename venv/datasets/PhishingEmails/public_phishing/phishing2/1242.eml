@@ -1,0 +1,71 @@
+From nobody Sun Jan 25 13:48:16 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id D47F9469C6
+ for <nobody@login.example.com>; Mon, 17 Jul 2006 00:13:44 -0400 (EDT)
+Received: from 192.168.1.15 (unknown [65.173.220.51])
+ by mail1.example.com (Postfix) with SMTP id 0EB046CCF7D
+ for <nobody@example.com>; Mon, 17 Jul 2006 00:13:45 -0400 (EDT)
+Received: from 148.186.223.128 by ; Mon, 17 Jul 2006 11:08:06 +0600
+Message-ID: <FKNYNHGDDSGSOKMRLFJN@earthlink.net>
+From: "PayPal Service" <service@paypal.com>
+Reply-To: "PayPal Service" <service@paypal.com>
+To: nobody@example.com
+Subject: Personal Account Update
+Date: Mon, 17 Jul 2006 02:07:06 -0300
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--2597180021494706359"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: R
+X-Status: 
+X-Keywords: 
+
+----2597180021494706359
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<FONT color=3Dblue><strong> Dear Valued PayPal Member</strong></FONT>,<br>=
+
+<br>During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.<br> This might be due to either following reasons:
+<br> 
+<br><strong><FONT color=3Dred>- A recent change in your personal informati=
+on (i.e. change of address)</FONT>
+<br><FONT color=3Dred>- An inability to accurately verify your selected op=
+tion of payment due an internal error within
+our processors.</FONT></strong>
+<br>
+<br>Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.
+<br>However, failure to update your records will result in account suspens=
+ion.<br><br>
+If this is not completed by <FONT color=3Dred><strong>July 19, 2006</stron=
+g></FONT>, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href=3D"http://216-23-218-210.galvestonbay.net:81/update/index.php?MfcISAP=
+ICommand=3DSignInFPP">https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-r=
+un</a>
+<br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+<FONT color=3Dblue><strong>PayPal - Customer Service</FONT></strong>
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+
+----2597180021494706359--

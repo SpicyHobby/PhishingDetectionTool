@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 9D7A02A88C
+ for <user@example.com>; Mon,  6 Mar 2006 01:37:00 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 863ED621CAC; Mon,  6 Mar 2006 01:37:00 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 25683621CAB
+ for <user@example.com>; Mon,  6 Mar 2006 01:37:00 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id BAA30787
+ for user@example.com; Mon, 6 Mar 2006 01:36:38 -0500
+Received: from renoeve.net ([211.115.217.205])
+ by mail.example.com with ESMTP id BAA30779
+ for <user@example.com>; Mon, 6 Mar 2006 01:36:37 -0500
+Received: from User (adsl-69-214-69-118.dsl.chcgil.ameritech.net
+ [69.214.69.118]) (authenticated)
+ by renoeve.net (8.11.6/8.11.6) with ESMTP id k2662rc01046;
+ Mon, 6 Mar 2006 15:02:53 +0900
+Message-Id: <200603060602.k2662rc01046@renoeve.net>
+From: "accounts@chase.com" <accounts@chase.com>
+Subject: Update your Chase Manhattan Bank account
+Date: Mon, 6 Mar 2006 00:43:28 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Content-Length: 1379
+Lines: 32
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 320
+
+<html><head><style type="text/css"><!--
+blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 }
+--></style><title>Fwd: Software Upgrade</title></head><body>
+<blockquote type="cite" cite><img src="http://www.hasug.org/committee/chase_logo.gif"><br><br><font face="Verdana" size="-1">Dear
+client of Chase Bank,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Technical
+services of the Chase Bank are carrying out a planned software
+upgrade. We earnestly ask you to visit the following link to start the
+procedure of confirmation on customers data.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">To get
+started, please click the link below:</font><br>
+</blockquote>
+<blockquote type="cite" cite><a
+href="http://www.interconnexx.com/.stats/secureonline/CheckSession.php"><font
+face="Verdana"
+size="-1"><b>http://www.chase.com//cmserver/users/default/confirm.cfm</b
+></font></a><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">This
+instruction has been sent to all bank customers and is obligatory to
+fallow.</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Thank
+you,</font><br>
+</blockquote>
+<blockquote type="cite" cite><font face="Verdana" size="-1">Customers
+Support Service.</font></blockquote>
+<div><br></div>
+</body>
+</html>

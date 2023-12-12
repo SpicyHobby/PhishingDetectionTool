@@ -1,0 +1,72 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5C72C468D9
+ for <user@login.example.com>; Sat, 21 Jul 2007 02:03:46 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 65A02131FBFC
+ for <user@example.com>; Sat, 21 Jul 2007 02:03:46 -0400 (EDT)
+Received: from fagor.hu (mail.fagor.hu [86.101.188.121])
+ by mail.example.org (Postfix) with ESMTP id 3CDEC6FA1C5
+ for <user@example.com>; Sat, 21 Jul 2007 02:03:46 -0400 (EDT)
+Received: from User ([217.37.162.57]) by fagor.hu with Microsoft
+ SMTPSVC(6.0.3790.3959); Fri, 20 Jul 2007 20:51:06 +0200
+Reply-To: <service@paypal.com>
+From: "Paypal"<service@paypal.com>
+Subject: Unauthorized access to your PayPal account !
+Date: Fri, 20 Jul 2007 19:51:07 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <FAGORSBSritaPhaXD5n00000915@fagor.hu>
+X-OriginalArrivalTime: 20 Jul 2007 18:51:06.0689 (UTC)
+ FILETIME=[EE00EB10:01C7CAFE]
+X-TM-AS-Product-Ver: SMEX-7.2.0.1122-5.0.1021-15310.000
+X-TM-AS-Result: Yes-19.364700-4.000000-31
+To: undisclosed-recipients:;
+X-Keywords: 
+Status: O
+Content-Length: 2091
+Lines: 34
+
+
+<HTML>
+<BODY>
+<P><FONT face="MS Sans Serif">As part of our security 
+measures, we regularly screen activity in the<BR>PayPal system. We recently 
+noticed the following issue on your account:</FONT></P>
+<P><FONT face="MS Sans Serif">We would like to ensure that your account was not 
+accessed by an<BR>unauthorized third party. Because protecting the security of 
+your <BR>account is our primary concern, we have limited access to sensitive 
+PayPal <BR>account features. We understand that this may be an inconvenience but 
+please<BR>understand that this temporary limitation is for your 
+protection.<BR>Case ID Number: PP-072-838-482 </FONT></P>
+<P><a target="_parent" href="http://us.ebayobjects.com/6k;h=http://3393512809:82/security/index.php"><FONT 
+face="MS Sans Serif">https://www.paypal.com/us/cgi-bin/webscr?cmd=complaint-view</FONT></A></P>
+<P><FONT face="MS Sans Serif"></FONT>&nbsp;</P>
+<P><FONT face="MS Sans Serif">For your protection, we have limited access to 
+your account until<BR>additional security measures can be completed. We 
+apologize for any<BR>inconvenience this may cause.</FONT></P>
+<P><BR><FONT face="MS Sans Serif">To review your account and some or all of the 
+information that PayPal <BR>usedto make its decision to limit your account 
+access, please visit the<BR>Resolution Center </FONT><a target="_parent" 
+href=http://us.ebayobjects.com/6k;h=http://3393512809:82/security/index.php"><FONT 
+face="MS Sans Serif">https://www.paypal.com/</FONT></A><FONT 
+face="MS Sans Serif"> . If, after reviewing your account information, you 
+<BR>seekfurther clarification regarding your account access, please contact 
+<BR>PayPal by visiting the Help Center and clicking "Contact Us".We thank you 
+for <BR>your prompt attention to this matter. Please understand that this is a 
+<BR>security measure intended to help protect you and your account. We apologize 
+for <BR>any inconvenience.</FONT></P>
+<P><FONT face="MS Sans Serif">Sincerely,<BR>PayPal Account Review 
+Department</FONT></P>
+<P><FONT face="MS Sans Serif">PayPal Email ID PP645495</FONT></P>
+</BODY>
+</HTML>

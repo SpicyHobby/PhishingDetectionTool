@@ -1,0 +1,19 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@eBay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 7031747429;
+ Sun, 10 Dec 2006 14:00:07 -0500 (EST)
+Received: from 203.185.154.94 (unknown [203.185.154.94])
+ by mail.example.org (Postfix) with SMTP id 7BC3213201C3;
+ Sun, 10 Dec 2006 13:59:57 -0500 (EST)
+Message-Id: <20061210185957.7BC3213201C3@mail.example.org>
+Date: Sun, 10 Dec 2006 13:59:57 -0500 (EST)
+From: service@eBay.com
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 507
+

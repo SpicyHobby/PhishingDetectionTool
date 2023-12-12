@@ -1,0 +1,64 @@
+From nobody Sun Jan 25 14:03:08 2015
+Return-Path: <root@vs72.server4me.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id C0DC4536EBB
+ for <username@login.domain.com>; Mon, 27 Jun 2005 13:14:00 -0400 (EDT)
+Received: from vs72.server4me.com (vs72.server4me.com [216.55.187.72])
+ by mail1.domain.com (Postfix) with ESMTP id B7B9085AD60
+ for <username@domain.com>; Mon, 27 Jun 2005 13:13:59 -0400 (EDT)
+Received: (from root@localhost)
+ by vs72.server4me.com (8.11.6/8.11.6) id j5RHDxN14146
+ for username@domain.com; Mon, 27 Jun 2005 10:13:59 -0700 (PDT)
+ (envelope-from root)
+Date: Mon, 27 Jun 2005 10:13:59 -0700 (PDT)
+Message-Id: <200506271713.j5RHDxN14146@vs72.server4me.com>
+From: eBay <acc-validity@ebay.com>
+Subject: Action Required -- Credit/Debit Card Expiration Reminder
+Mime-Version: 1.0
+Content-Type: text/html; boundary="xlcuiBo847gtaDvjhSdgF983r"
+X-Mailer: eBay
+To: undisclosed-recipients: ;
+X-Keywords: 
+X-UID: 67
+Status: RO
+Content-Length: 1455
+Lines: 36
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<a href="www.ebay.com"><img src="http://pics.ebaystatic.com/aw/pics/navbar/eBayL
+ogoTM.gif" border="0"></a><br>
+<hr style="height: 1px" width="40%" color="black" align="left">
+<font face="Arial" style="font-size: 12px">Hello eBay user,<BR><BR>This is a cou
+rtesy reminder that the following
+credit/debit card on <BR>file for your eBay account will soon
+expire:<BR><BR>EBay Account ID:&nbsp; E000125151608-702<BR>Card:&nbsp; MSC
+XXXX-XXXX-XXXX-XXXX<BR>Expiration Date:&nbsp; 00/00<BR>Date Reminder
+Issued:&nbsp; 122404<BR><BR>In order to receive uninterrupted service, please
+update this <BR>information by follow the link below:</P><BR><BR>
+
+
+<A href="http://69.56.160.46/eBay/ws">https://login.personal.ebay.co
+m/logon/logon.asp?dd=1&Update&Your&Info</A>
+<BR><BR>
+<P>
+
+
+
+
+<BR>To update your credit/debit card information:<BR>&nbsp;&nbsp;
+-&nbsp;&nbsp; Go to the eBay Home page<BR>&nbsp;&nbsp; -&nbsp;&nbsp; Select My
+eBay and logon with your eBay User ID and Password<BR>&nbsp;&nbsp; -&nbsp;&nbsp;
+Select the Accounts Tab<BR>&nbsp;&nbsp; -&nbsp;&nbsp; Select Use a credit card
+for automatic payments (you will need <BR>to logon again)<BR>&nbsp;&nbsp;
+-&nbsp;&nbsp; Update your credit card information following instructions on
+<BR>the next page<BR><BR>Thank you for using eBay.<BR><BR>Regards,<BR>eBay
+International AG<BR></P>
+</BODY>
+</HTML>

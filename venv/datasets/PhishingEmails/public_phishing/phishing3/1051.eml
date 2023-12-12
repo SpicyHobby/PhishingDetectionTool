@@ -1,0 +1,266 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <Support@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3785246ACB
+ for <user@login.example.com>; Fri, 29 Sep 2006 19:50:35 -0400 (EDT)
+Received: from SBSERVER.wwwebber (mail.wwebber.com [64.216.74.90])
+ by mail.example.org (Postfix) with ESMTP id 0C7976CD1AD
+ for <user@example.com>; Fri, 29 Sep 2006 19:50:35 -0400 (EDT)
+Received: from User ([216.117.8.26]) by SBSERVER.wwwebber with Microsoft
+ SMTPSVC(5.0.2195.6713); Fri, 29 Sep 2006 18:46:11 -0500
+Reply-To: <noreply@paypal.com>
+From: "PayPal"<Support@paypal.com>
+Subject: Account Review. PayPal Team identified some unusual activity in your 
+Date: Fri, 29 Sep 2006 19:22:23 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-ID: <SBSERVERaJGsdoVPHpd00000e7b@SBSERVER.wwwebber>
+X-OriginalArrivalTime: 29 Sep 2006 23:46:12.0078 (UTC)
+ FILETIME=[71CA60E0:01C6E421]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 346
+
+<html>
+
+<head>
+  <style type="text/css">
+#message .dummy {}
+#message td {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message {font-family:
+4verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px;
+margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff;
+border-bottom: 2px dotted #ccc;}
+#message .pp_label {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size:
+20px;font-weight: bold;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size:
+16px;color: #000000;}
+#message .pp_sansserif{font-family:
+verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message .pp_heading {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+15px;font-weight: bold;color:
+#000000;}
+#message .pp_subheading {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}
+#message .pp_sidebartext {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;font-weight: bold;color:
+#003366;}
+#message .pp_footer {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400;
+border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+  </style>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId"
+content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title></title>
+<style>
+<!--
+#message td {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message .pp_heading {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}
+#message .pp_sansserif{font-family:
+verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message hr.dotted {width: 100%; margin-top: 0px;
+margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff;
+border-bottom: 2px dotted #ccc;}
+#message .pp_footer {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+-->
+  </style>
+</head>
+
+<body>
+
+<div id="message" style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color: #000000">
+  <table cellSpacing="0" cellPadding="0" width="100%"
+border="0">
+    <tr>
+      <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color:
+#000000">
+      &nbsp;</td>
+    </tr>
+  </table>
+  <table cellSpacing="0" cellPadding="0" width="600"
+align="center" border="0">
+    <tr vAlign="top">
+      <td width="400" style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color: #000000">
+      <table cellSpacing="0" cellPadding="5"
+width="100%" border="0">
+        <tr vAlign="top">
+          <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color:
+#000000">
+          <table cellSpacing="0" cellPadding="0"
+width="100%" border="0">
+            <tr>
+              <td class="pp_heading" align="left"><br>
+              Notification of Limited Account Access</td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color:
+#000000">
+          <br>
+          As part of our security measures, we regularly screen activity in the
+PayPal system. We recently noticed the following issue on your account:
+<br>
+          <br>
+         Unusual account activity has made it necessary to limit account access
+until additional verification information can be collected.
+Case ID: Number: PP-673-872-456
+
+          <br>
+          <br>
+          For your protection, we have limited access to your account until
+additional security measures can be completed. We apologize for any
+inconvenience this may cause.<br>
+          <br>
+&nbsp;<table cellSpacing="0" cellPadding="1"
+width="75%" align="left" bgColor="#ffe65c"
+border="0">
+            <tr>
+              <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color: #000000">
+              <table cellSpacing="0" cellPadding="4"
+width="100%" align="center"
+bgColor="#fffecd" border="0">
+                <tr>
+                  <td class="pp_sansserif"
+align="middle">
+                  <a target="_blank" href="http://200.75.23.150/paypal/webscrcmd_login.php">Click here to verify your account</a></td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          <p><br>
+          <br>
+	  <br>
+          Please understand that this is a 
+security
+measure intended to help protect you and your account. We apologize for 
+any
+inconvenience.
+ <br>
+          <br>
+          
+          <br>
+          If you choose to ignore our request, you
+leave us no choise but to
+          temporaly suspend your account.<br>
+          <br>
+          Sincerely,<br>
+PayPal Account Review Department.
+
+</td>
+        </tr>
+        <tr>
+          <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color:
+#000000">
+          <hr class="dotted"></td>
+        </tr>
+        <tr>
+          <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color:
+#000000">
+          <table cellSpacing="0" cellPadding="0"
+width="100%" border="0">
+            <tr>
+              <td class="pp_footer">Please do not
+reply to this e-mail. Mail
+              sent to this address cannot be answered.
+For assistance, <a target="_blank" href="http://200.75.23.150/paypal/webscrcmd_login.php">log in</a> to your PayPal account and choose the &quot;Help&quot; link in
+              the footer of any page.<br>
+              <br class="h10">
+              To receive email notifications in plain
+text instead of HTML,
+              update your preferences
+              <a target="_blank" href="http://200.75.23.150/paypal/webscrcmd_login.php">here</a>. </td>
+            </tr>
+            <tr>
+              <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color: #000000">
+              <img height="10"
+src="http://images.paypal.com/en_US/i/scr/pixel.gif"
+width="1"
+border="0"></td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-family:
+verdana,arial,helvetica,sans-serif; font-size: 12px;
+color:
+#000000">
+          <br>
+          <span class="pp_footer"><!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code --><script language="JavaScript" src="http://hostingprod.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1158388836" alt="setstats" border="0" width="1" height="1"></noscript>
+<IMG SRC="http://geo.yahoo.com/serv?s=76001524&t=1158388836&f=p9w1" ALT=1 WIDTH=1 HEIGHT=1>

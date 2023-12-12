@@ -1,0 +1,41 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <nobody@projectonweb.it>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id CFABD536E13
+ for <username@login.domain.com>; Sun,  9 Oct 2005 10:14:43 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id B19FD6FA38F
+ for <username@domain.com>; Sun,  9 Oct 2005 10:14:40 -0400 (EDT)
+Received: from pow.projectonweb.it (pow.projectonweb.it [213.156.62.147])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Sun,  9 Oct 2005 10:14:40 -0400 (EDT)
+Received: by pow.projectonweb.it (Postfix, from userid 99)
+ id B0B5AF8031F; Sun,  9 Oct 2005 16:22:45 +0200 (CEST)
+To: username@domain.com
+Subject: Paypal Password Change
+From: service@paypal.com <service@paypal.com>
+Content-Type: text/html;
+Message-Id: <20051009142245.B0B5AF8031F@pow.projectonweb.it>
+Date: Sun,  9 Oct 2005 16:22:45 +0200 (CEST)
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=5.0 tests=HTML_10_20,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY 
+ autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+X-Keywords: 
+X-UID: 325
+Status: O
+Content-Length: 1318
+Lines: 3
+
+
+<P>Dear Customer,<BR><BR><BR>The password for Paypal&nbsp; account was changed on 8 Oct. 2005.<BR><BR>If you did not authorise this change, please contact us immediately <BR>using the<BR>phone number found on the following page:<BR><BR><A href="http://pow.projectonweb.it/~lucia/cgi-bin/" target=_blank><FONT color=#003399>https://www.paypal.com/us/contact-phone====in</FONT></A> </P>
+<P><BR>Thank you for using PayPal!<BR>The PayPal Team<BR><BR><BR><BR>Security Advisory: When you log in to your PayPal account, be sure to <BR>open up a<BR>new web browser (e.g. Internet Explorer or Netscape) and type in the <BR>PayPal URL<BR>to make sure you are on the real PayPal website.<BR>For more information on protecting yourself from fraud, please review <BR>the<BR>Security Tips in our Security Centre.<BR><BR><BR><BR>Please do not reply to this email. This mailbox is not monitored and <BR>you will<BR>not receive a response. For assistance, log in to your PayPal account <BR>and click<BR>the Help link located in the top right corner of any PayPal page.<BR><BR>----------------------------------------------------------------<BR>PayPal (Europe) Limited is authorised and regulated by the Financial <BR>Services<BR>Authority in the United&nbsp;States as an electronic money institution.<BR><BR>PayPal Email ID PP233</P>

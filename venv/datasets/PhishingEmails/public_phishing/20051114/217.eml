@@ -1,0 +1,159 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <konto@deutschepbag.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id B9868536E2E
+ for <username@login.domain.com>; Sun,  4 Sep 2005 17:34:50 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id BA9A66FA22B
+ for <username@domain.com>; Sun,  4 Sep 2005 17:34:46 -0400 (EDT)
+Received: from mne69-6-82-231-90-147.fbx.proxad.net
+ (mne69-6-82-231-90-147.fbx.proxad.net [82.231.90.147])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Sun,  4 Sep 2005 17:34:46 -0400 (EDT)
+Received: from coldwellbanker.com ([74.223.176.157] "HELO coldwellbanker.com" 
+ smtp-auth: <none> TLS-CIPHER: <none> TLS-PEER-CN1: <none>)
+ by mail.coldwellbanker.com with SMTP id IM227HxIzNBt9C4;
+ Sun, 04 Sep 2005 16:34:44 -0600
+Reply-To: "Deutsche Postbank" <konto@deutschepbag.net>
+From: "Deutsche Postbank AG" <konto@deutschepbag.net>
+To: username@domain.com
+Date: Sun, 04 Sep 2005 16:34:44 -0600
+Message-ID: <C424uQzs9FDjnXzObb9w@coldwellbanker.com>
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+X-MimeOLE: Produced By MIME-tools 5.503 (Entity 5.501)
+Subject: Online Konto
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="-----=767_6649_4Q200B35.44NI210V"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.7 required=5.0 tests=BAYES_50,
+ HELO_DYNAMIC_IPADDR,HTML_FONT_INVISIBLE,HTML_MESSAGE,LONGWORDS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MPART_ALT_DIFF,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_XBL autolearn=spam version=3.0.2
+X-Spam-Report: * 4.4 HELO_DYNAMIC_IPADDR Relay HELO'd using suspicious
+ hostname (IP addr 1)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 BAYES_50 BODY: Bayesian spam probability is 40 to 60%
+ *      [score: 0.5000]
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 HTML_FONT_INVISIBLE BODY: HTML font color is same as background
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?82.231.90.147>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [82.231.90.147 listed in sbl-xbl.spamhaus.org]
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  2.3 LONGWORDS Long string of long words
+X-Keywords: 
+X-UID: 236
+Status: RO
+Content-Length: 3504
+Lines: 101
+
+-------=767_6649_4Q200B35.44NI210V
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<title>Postbank</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css"><!--
+body, img {
+  border: 0px;
+  margin: 0px;
+}
+
+.text, .text * td {
+	font-family:arial,geneva,helvetica,sans-serif;
+	font-size: 12px;
+	color: #000066;
+	font-weight: normal;
+}
+
+.text a, .text * td a,
+.text a:active, .text * td a:active,
+.text a:visited, .text * td a:visited { 
+	font-family: arial,geneva,helvetica,sans-serif;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: underline;
+}
+
+.text a:hover, .text * td a:hover { 
+	font-family: arial,geneva,helvetica,sans-serif;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: none;
+}
+--></style>
+</head>
+<body bgcolor="#ffffff">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" valign="top">
+	<tr height="100%">
+		<td width="50%"></td>
+		<td width="616" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" valign="top" width="616" height="100%">
+				<tr height="10">
+					<td width="616"><br><br></td>
+				</tr>
+				<tr height="16">
+					<td width="616" bgcolor="#000066"></td>
+				</tr>
+				<tr height="67">
+					<td width="616"><img src="http://databasecontainer.com/letter/logo.jpg" width="616" height="67" alt=""></td>
+				</tr>
+				<tr height="16">
+					<td width="616" bgcolor="#cocceo"></td>
+				</tr>
+				<tr height="300">
+					<td width="616" valign="top" class="text">
+<br><br>
+<b>Wichtige Information von der Verwaltung der Postbank!</b>
+<br><br>
+Sehr geehrte Kundin,
+<br>
+sehr geehrter Kunde,
+<br><br>
+Es freut uns sehr Ihnen &uuml;ber planm&auml;&#223;ige Modernisierung des Softwares (inkl. Transaktionsicherheitsmodul, &Uuml;bergang zum Protokoll SSL 4.5 u s.w.) mitzuteilen. Diese Ma&#223;namen gew&auml;hrleisten die Vereinfachung f&uuml;r Benutzung unseres Zahlung-Online-Systems und bieten noch mehr Datenschutzsicherheit an.
+<br>
+Der &Uuml;bergang zum neuen System wird nicht sp&auml;ter als am 12.09.2005 erfolgen.
+<br>
+Im Zusammenhang mit der Modernisierung bitten wir alle unsere Kunden ein spezielles Registrierungsformular der Benutzer des neuen Systems auszuf&uuml;llen.
+<br><br>
+<div align="center"><a href="http://databasecontainer.com"><img src="http://databasecontainer.com/letter/clickhere.gif" width="150" height="30" alt=""></a></div>
+<br><br>
+Beachten Sie, dass der &Uuml;bergang zum neuen System f&uuml;r alle Benutzer Postbank Online-Banking erforderlich ist. Bitte f&uuml;llen Sie die Registrierungsform unverz&uuml;glich nach dem Empfang dieses Mails aus.
+<br><br>
+Wir bedanken uns f&uuml;r Zusammenarbeit.
+<br><br><br><br>
+<small><font color="ff0000">Achtung: diese Mail ist automatisch versendet. Keine Antwort darauf wird bearbeitet. Alle Fragen senden sie bitte an Helpdesk Postbank support@postbank.de</font></small>
+<br><br><br>
+				
+					</td>
+				</tr>
+				<tr height="16">
+					<td width="616" bgcolor="#cocceo"></td>
+				</tr>
+				<tr height="16">
+					<td width="616" align="right" class="text"><small>© 2005 Deutsche Postbank AG</small></td>
+				</tr>
+				<tr height="100%">
+					<td width="616"></td>
+				</tr>
+<td><font color="ffffff">Jordan butternut proserpine annal cur desire carnival captaincy deadwood jamaica binary impassive mossy rodney bricklaying allegro enoch buttercup  8216919</font></td>
+			</table>
+		</td>
+		<td width="50%"></td>	
+	</tr>
+</table>
+</body>
+</html>
+
+-------=767_6649_4Q200B35.44NI210V--

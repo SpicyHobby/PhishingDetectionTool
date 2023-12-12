@@ -1,0 +1,141 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <beth@domain.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id 49B48536EC2
+ for <username@login.domain.com>; Sat, 29 Oct 2005 17:27:28 -0400 (EDT)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id 2A84C6CCEC7
+ for <username@domain.com>; Sat, 29 Oct 2005 17:27:27 -0400 (EDT)
+Received: from naughty.domain.com (naughty.domain.com [192.168.4.5])
+ by mail1.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Sat, 29 Oct 2005 17:27:27 -0400 (EDT)
+Received: by naughty.domain.com (Postfix, from userid 6)
+ id E4BA4536EAD; Sat, 29 Oct 2005 17:27:26 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by naughty.domain.com (Postfix) with ESMTP id DDA5E536EA4
+ for <username@domain.com>; Sat, 29 Oct 2005 17:27:26 -0400 (EDT)
+X-Original-To: beth@login.domain.com
+Delivered-To: beth@login.domain.com
+X-Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id 2CBC2536E2B
+ for <beth@login.domain.com>; Sat, 29 Oct 2005 11:31:08 -0400 (EDT)
+X-Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id 0A8596CCEA3
+ for <beth@domain.com>; Sat, 29 Oct 2005 11:31:05 -0400 (EDT)
+X-Received: from ebay.com (unknown [206.125.210.51])
+ by mail1.domain.com (Postfix) with SMTP
+ for <beth@domain.com>; Sat, 29 Oct 2005 11:31:04 -0400 (EDT)
+X-Received: (qmail 9553 invoked by uid 508); 29 Oct 2005 12:02:04 -0000
+Date: 29 Oct 2005 12:02:04 -0000
+Message-ID: <20051029120204.9552.qmail@ebay.com>
+From: payments-messages@amazon.com
+To: beth@domain.com
+Content-type: text/html
+Subject: Amazon Payments Billing Issue - beth@domain.com
+ReSent-Date: Sat, 29 Oct 2005 17:27:22 -0400 (EDT)
+Resent-From: Beth Nazario <beth@domain.com>
+Resent-To: Jose Nazario <username@domain.com>
+ReSent-Subject: Amazon Payments Billing Issue - beth@domain.com
+ReSent-Message-ID: <Pine.BSO.4.58.0510291727220.29846@naughty.domain.com>
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=5.0 tests=ADDRESS_IN_SUBJECT,
+ ALL_TRUSTED,HTML_40_50,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+ HTML_TAG_EXIST_TBODY,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NO_REAL_NAME,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK autolearn=no 
+ version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  1.8 ADDRESS_IN_SUBJECT To: address appears in Subject
+ * -3.3 ALL_TRUSTED Did not pass through any untrusted hosts
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+X-Keywords: 
+Status: RO
+Content-Length: 4486
+Lines: 75
+
+
+<table border=0 width="670">
+<tr>
+<td width="664">
+                    <p align="justify">
+                    <font size="2" face="Arial, Verdana">Dear beth@domain.com
+,<br><br>
+                    </font><font face="Arial" size="2">Greetings from Amazon 
+                    Payments.</font><font size="2" face="Arial, Verdana"><br><br>
+					Your bank has contacted us regarding some attempts of charges from your credit card via the 
+                    Amazon 
+system. We have reasons to believe that you changed your registration information or that someone 
+else has unauthorized access to your Amazon account
+                    Due to recent activity, including possible unauthorized listings 
+                    placed on your account, we will require a second confirmation 
+                    of your identity with us in order to allow us to investigate 
+                    this matter further. Your account is not suspended, but if 
+                    in 48 hours after you receive this message your account is 
+                    not confirmed we reserve the right to suspend your Amazon 
+                    registration. If you received this notice and you are not 
+                    the authorized account holder, please be aware that it is in 
+                    violation of Amazon policy to represent oneself as another 
+                    Amazon user. Such action may also be in violation of local, 
+                    national, and/or international law. Amazon is committed to 
+                    assist law enforcement with any inquires related to attempts 
+                    to misappropriate personal information with the intent to 
+                    commit fraud or theft. Information will be provided at the 
+                    request of law enforcement agencies to ensure that 
+                    perpetrators are prosecuted to the full 
+                    extent of the law.</font><BR>
+                    </p>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD height=1></TD></TR></TBODY></TABLE>
+                    <p align="justify">
+                    <font size="2" face="Arial, Verdana"><br>
+                    To confirm your identity with us click here:<br>
+                    <a href="http://secure.amazon.com.loginsecureamazon.com/signin.php?exec/obidos/flex-sign-in/ref=gw_hp_si/103-3177084-7567864?opt=a&page=recs/sign-in-secure.html&response=tg/recs/recs-post-login-dispatch/-/recs/pd_rw_gw_ur/ref=192930_1/3-3&ref=bel&emaddr=beth@domain.com
+">https://www.amazon.com/exec/obidos/flex-sign-in/ref=pd_irl_gw_r/103-3177084-7567864?opt=oa&amp;page=recs/sign-in-secure.html</a></font><br>
+                    <br>
+                    <font size="2" face="Arial, Verdana">After responding to the 
+                    message, we ask that you allow at least 72 hours for the case 
+                    to be investigated. Emailing us before that time will result 
+                    in delays. We apologize in advance for any inconvenience this 
+                    may cause you and we would like to thank you for your cooperation 
+                    as we review this matter.</font> <BR xmlns:x="urn:schemas-microsoft-com:xslt">
+                    <BR xmlns:x="urn:schemas-microsoft-com:xslt">
+</p>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD height=1></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>
+<P>
+<!--StartFragment -->
+Thank you for your interest in selling at Amazon.com.<br><br>
+
+Amazon.com Customer Service<br>
+http://www.amazon.com</P>
+<p>This message and any files or documents attached may contain classified 
+information. It is intended only for the individual or entity named and others 
+authorized to receive it. If you are not the intended recipient or authorized to 
+receive it, you are hereby notified that any disclosure, copying, distribution 
+or taking any action in reliance on the contents of this information is strictly 
+prohibited and may be unlawful. If you have received this communication in 
+error, please notify us immediately then delete it from your system. Please also 
+note that transmission cannot be guaranteed to be secure or error-free.</p>
+<P><BR><BR></P></FONT></TD></TR></TBODY></TABLE>
+
+</td>
+</tr>

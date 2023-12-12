@@ -1,0 +1,26 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <bob@mail.goodsam.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 3592A46C18
+ for <nobody@login.example.com>; Mon, 29 May 2006 17:30:47 -0400 (EDT)
+Received: from mail.goodsam.net (fic.goodsam.net [66.201.42.23])
+ by mail2.example.com (Postfix) with ESMTP id 5EFBB6FA4DF
+ for <nobody@example.com>; Mon, 29 May 2006 17:30:47 -0400 (EDT)
+Received: by mail.goodsam.net (Postfix, from userid 1002)
+ id 9717D16B94; Mon, 29 May 2006 14:29:23 -0700 (PDT)
+To: nobody@example.com
+Subject: Your Barclays Online Account is about to expire!
+Message-ID: <1148938163.58321.qmail@barclays.co.uk>
+From: "Barclays Online Account" <support@barclays.co.uk>
+Content-Type: text/html
+Date: Mon, 29 May 2006 14:29:23 -0700 (PDT)
+Status: 
+X-Status: 
+X-Keywords: 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Barclays Online Banking </title><meta http-equiv="Content-Type"content="text/html; charset=iso-8859-1"><script src="http://1.2.3.4/bmi-int-js/bmi.js"language="javascript"></script><style type="text/css"><!-- .style2{font-family:"Times New Roman",Times,serif;font-size:14px;color:#000066}.style3{font-size:12px;color:#000066}--></style> </head><body><table width="450" border="0" cellpadding="13" cellspacing="0"><tr><td height="50" align="left" valign="middle" bgcolor="#003366"><img src="http://www.calash.co.uk/upload/43-Barclays%20Logo.jpg" width="164" height="28"></td></tr><tr><td height="70"><p class="style2"><strong>Dear Sir/Madam</strong></p><p class="style2">Please note that your Barclays Online Account is about to expire. In order for it to remain active and avoid a temporal hold on your funds, we need you to update your personal information, this is als
+ o a new security statment to give our customers a better, fast and secure online banking service.<br>Please follow the link below and proceed to update your information:<br><br><a href="http://borneodivers.info/.BRC1/jsp/brcucontrol=_site=pfstask=internal.value=https.3A.2F_=2Fibank-=2Ebarclays2Eco2Euk2Folb2Fq2FLoginMember2Edotarget=_self/">https://ibank.barclays.co.uk/olb/q/LoginMember.do</a><br><br>Tank you for your patience as we work together to protect your account.</p><p class="style2"><strong>Sincerely,<br>Barclays Bank Customer Service</strong><br></p><p class="style2 style3"><strong>*Important*</strong><br>Please update your records on or before 48 hours, a failure to update your records will result in a temporal hold on your funds.</p><p></p></td></tr></table></body></html><script language="javascript"><!--
+bmi_SafeAddOnload(bmi_load,"bmi_orig_img");//-->
+</script>

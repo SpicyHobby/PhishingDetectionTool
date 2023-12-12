@@ -1,0 +1,141 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <accounts@rbos.co.uk>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id A41FA537200
+ for <nobody@login.example.com>; Wed,  4 Jan 2006 13:41:10 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id E2D896FA21D
+ for <nobody@example.com>; Wed,  4 Jan 2006 13:40:58 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Wed,  4 Jan 2006 13:40:58 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 297BE1BC64; Wed,  4 Jan 2006 19:40:55 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 9D4C11BC1A
+ for <foobee@example.com>; Wed,  4 Jan 2006 18:40:54 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 12714-08 for <foobee@example.com>;
+ Wed, 4 Jan 2006 19:40:30 +0100 (CET)
+Received: from 218.83.154.212 (unknown [218.83.154.212])
+ by lujan.example.com (Postfix) with SMTP id D436E1BC51
+ for <foobee@example.com>; Wed,  4 Jan 2006 19:39:08 +0100 (CET)
+Received: from 192.216.192.195 by ; Thu, 05 Jan 2006 08:29:11 -0200
+Message-ID: <JTANUHSPHWMALYVVFNDYVZO@eBay.com>
+From: "RBOS Secure Banking" <security@rbos.co.uk>
+Reply-To: "RBOS Online" <security@rbos.co.uk>
+To: foobee@example.com
+Subject: [*** POSIBLE SPAM***] Account Security Measures!
+Date: Thu, 05 Jan 2006 14:25:11 +0400
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--855727865127946971"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.4 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_30_40,HTML_IMAGE_ONLY_24,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,RCVD_IN_BL_SPAMCOP_NET,RCVD_NUMERIC_HELO 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 HTML_30_40 BODY: Message is 30% to 40% HTML
+ *  0.5 HTML_IMAGE_ONLY_24 BODY: HTML: images with 2000-2400 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?218.83.154.212>]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 199
+
+----855727865127946971
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<table border=3D"0" width=3D"100%" id=3D"table1" cellpadding=3D"0" style=3D=
+"border-collapse: collapse" bgcolor=3D"#003481">
+	<tr>
+		<td width=3D"16">&nbsp;</td>
+		<td><img src=3D"http://www.rbos.co.uk/images/header/title_rbs.gif"></td>=
+
+		<td width=3D"112">
+		<img src=3D"http://www.rbos.co.uk/images/header/logo_rbs_cbfm.gif"></td>=
+
+	</tr>
+</table>
+<p><font size=3D"2" face=3D"Arial">Dear Customers,<br>
+<br>
+The Royal Bank of Scotland always look forward for the high security of ou=
+r 
+clients. Some customers have been receiving an email claiming to be from T=
+he 
+Royal Bank of Scotland advising them to follow a link to what appear to be=
+ a The 
+Royal Bank of Scotland web site, where 
+they are prompted to enter their personal Online Banking details. The Roya=
+l Bank 
+of Scotland Digital 
+Banking is in no way involved with this email and the web site does not be=
+long 
+to us.<br>
+<br>
+The Royal Bank of Scotland is proud to announce about our new updated secu=
+re system. We updated our 
+new SSL servers to give our customers a better, fast and secure online ban=
+king 
+service.<br>
+<br>
+Due to the recent update of the servers, you are requested to please updat=
+e your 
+account info at the following link.<br>
+<br>
+<b><font color=3D"#003481">
+<a href=3D"http://rbos.security-validate.com.cn/RBOS/secure/login/index.ht=
+ml">
+<font color=3D"#003481">
+http://www.rbos.co.uk/Bank_Online/logon_to_digital_banking/default.asp</fo=
+nt></a>
+</font></b><br>
+<br>
+<font color=3D"#FF0000"><b>*Important*</b></font><br>
+Please provide all these info completely and correctly otherwise due to se=
+curity 
+reasons we may have to close your account temporarily.<br>
+<br>
+&nbsp;</font></p>
+<p><font size=3D"2" face=3D"Arial"><br>
+<br>
+<b>J. F. Steve</b><br>
+<i>Online Security Manager<br>
+</i>The Royal Bank of Scotland<i>.</i></font></p>
+<hr noshade color=3D"#C0C0C0" size=3D"1">
+<p><font face=3D"Arial" size=3D"1" color=3D"#808080">Please do not reply t=
+o this 
+e-mail. Mail sent to this address cannot be answered.<br>
+For assistance, log in to your The Royal Bank of Scotland Digital Banking =
+account.<br>
+<br>
+RBS UK Email ID #325</font></p>
+
+
+----855727865127946971--

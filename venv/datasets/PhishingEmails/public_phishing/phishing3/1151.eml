@@ -1,0 +1,134 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 775FC46881;
+ Fri, 17 Nov 2006 18:50:25 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 468FF131F9C9;
+ Fri, 17 Nov 2006 18:50:25 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Score: 12.562
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.562 tagged_above=-100 required=3.999
+ tests=[AWL=-2.666, DCC_CHECK=4, DNS_FROM_RFC_ABUSE=0.479,
+ HTML_FONT_BIG=0.256, HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.512,
+ HTML_TAG_EXIST_TBODY=0.126, MIME_HTML_ONLY=0.001,
+ MIME_HTML_ONLY_MULTI=0, MISSING_MIMEOLE=1.394, MPART_ALT_DIFF=0.137,
+ MSGID_SPAM_CAPS=3.52, RAZOR2_CF_RANGE_51_100=0.5,
+ RAZOR2_CF_RANGE_E4_51_100=1.5, RCVD_IN_BL_SPAMCOP_NET=1.332,
+ SPF_HELO_PASS=-0.001, SPF_SOFTFAIL=1.47, UNPARSEABLE_RELAY=0.001]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id C3qrzH0juuoH; Fri, 17 Nov 2006 18:50:22 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP;
+ Fri, 17 Nov 2006 18:50:22 -0500 (EST)
+Received: from 192.168.1.101 (pool-72-65-79-68.clrk.east.verizon.net
+ [72.65.79.68])
+ by mail.example.org (Postfix) with SMTP id 041DD6FAA39;
+ Fri, 17 Nov 2006 18:50:21 -0500 (EST)
+Received: from 67.175.0.29 by ; Fri, 17 Nov 2006 21:42:01 -0200
+Message-ID: <JKAOQJCAEBBKHSVJXDWAC@topmail.de>
+From: "eBay" <aw-confirm@ebay.com>
+Reply-To: "eBay" <aw-confirm@ebay.com>
+To: aaron@example.com, shinobi@example.com, e@example.com, user@example.com,
+ owner-ceremony-digest@example.com, ceremony-digest@example.com
+Subject: eBay New Message Received from Buyer for Item #250016985045
+Date: Sat, 18 Nov 2006 05:42:01 +0600
+X-Mailer: for 77 or
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--=====5040207985=_"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 6015
+Lines: 82
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 446
+
+----=====5040207985=_
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><IMG title="" alt="" src="http://pics.ebaystatic.com/aw/pics/logos/ebay_95x39.gif" border=0></TD>
+<TD vAlign=bottom><FONT face="verdana, sans-serif" color=#666666 size=1><B>eBay sent this message to you</B><BR>Your registered name is included to show this message originated from eBay. <A title=http://pages.ebay.com/help/confidence/name-userid-emails.html href="http://pages.ebay.com/help/confidence/name-userid-emails.html">Learn more</A>.</FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffe680 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width=8><IMG title="" height=8 alt="" src="http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif" width=8></TD>
+<TD vAlign=bottom width="100%">
+<H1 style="MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; MARGIN-BOTTOM: 2px; COLOR: #000000; FONT-FAMILY: arial,"><FONT face="Arial, Verdana" size=4><B>eBay New Message Received from Buyer for Item #250016985045</B></FONT></H1></TD>
+<TD vAlign=top align=right width=8><IMG title="" height=8 alt="" src="http://pics.ebaystatic.com/aw/pics/globalAssets/rtCurve.gif" width=8 align=top></TD></TR>
+<TR>
+<TD bgColor=#ffcc00 colSpan=3 height=4><SPACER width="1" type="block" height="4"></SPACER></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG title="" height=5 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD colSpan=2><IMG title="" height=10 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD vAlign=top align=left width="100%">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><IMG title="" alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif" width=1></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD align=left colSpan=3>
+<TABLE cellSpacing=0 cellPadding=0 width="98%" align=left border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>Dear Member, </FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD colSpan=3><IMG title="" height=10 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD vAlign=top align=left width="100%">
+<TABLE cellSpacing=0 cellPadding=0 width="98%" align=left border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>eBay member ahk2397 has left you a message regarding item #250016985045. on Oct-02-2006. <BR><BR></FONT></TD></TR>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>Thank you,<BR>eBay</FONT></TD></TR></TBODY></TABLE></TD>
+<TD width=10><IMG title="" height=10 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD>
+<TD vAlign=top noWrap width=185>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><B><FONT face="Arial, Verdana" size=2>View the dispute thread</FONT></B></TD></TR>
+<TR>
+<TD><IMG title="" height=5 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif" width=5></TD></TR>
+<TR>
+<TD><A title=https://thairoute.com/.sign/ href=http://mujweb.cz/www/contactmembersignn/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid.html border="0"><IMG title=http://mujweb.cz/www/contactmembersignn/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid.html height=32 alt=http://mujweb.cz/www/contactmembersignn/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid.html src="http://pics.ebaystatic.com/aw/pics/buttons/btnRespondNow.gif" width=120 border=0></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD colSpan=2></TD></TR>
+<TR>
+<TD colSpan=2></TD></TR></TBODY></TABLE></TD>
+<TD><IMG title="" height=10 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#ffffff colSpan=2><IMG title="" height=20 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#cecee3 colSpan=2><IMG title="" height=1 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD width="100%" bgColor=#ffffff colSpan=2><IMG title="" height=10 alt="" src="http://pics.ebaystatic.com/aw/pics/s.gif"></TD></TR>
+<TR>
+<TD colSpan=2>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>Learn how you can protect yourself from spoof (fake) emails at: <BR><A title=http://pages.ebay.com/education/spooftutorial href="http://pages.ebay.com/education/spooftutorial">http://pages.ebay.com/education/spooftutorial</A><BR><BR>This eBay notice was sent to you</A> from eBay. Your account is registered on <A title=http://www.ebay.com/ href="http://www.ebay.com/">http://www.ebay.com/</A>. As outlined in our User Agreement, eBay will send you required notifications about the site and your transactions. If you would like to receive this email in text format, change your <A title=http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow href="http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow">notification preferences</A>. <BR><BR>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. <BR>Privacy Policy: <A title=http://pages.ebay.com/help/policies/privacy-policy.html href="http://
+ pages.ebay.com/help/policies/privacy-policy.html">http://pages.ebay.com/help/policies/privacy-policy.html</A><BR>User Agreement: <A title=http://pages.ebay.com/help/policies/user-agreement.html href="http://pages.ebay.com/help/policies/user-agreement.html">http://pages.ebay.com/help/policies/user-agreement.html</A></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+----=====5040207985=_--

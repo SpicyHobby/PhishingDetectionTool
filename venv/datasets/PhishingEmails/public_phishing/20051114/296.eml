@@ -1,0 +1,270 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <root@localhost.localdomain>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 4E6CD536E72
+ for <username@login.domain.com>; Thu,  6 Oct 2005 11:51:30 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 951B46FA350
+ for <username@domain.com>; Thu,  6 Oct 2005 11:51:28 -0400 (EDT)
+Received: from localhost.localdomain (unknown [211.48.20.180])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Thu,  6 Oct 2005 11:51:28 -0400 (EDT)
+Received: from localhost.localdomain (nelsys [127.0.0.1])
+ by localhost.localdomain (8.12.9/8.12.9) with ESMTP id j96G2EZc003064
+ for <username@domain.com>; Fri, 7 Oct 2005 01:02:14 +0900
+Received: (from root@localhost)
+ by localhost.localdomain (8.12.9/8.12.9/Submit) id j96G2ESR003062;
+ Fri, 7 Oct 2005 01:02:14 +0900
+Date: Fri, 7 Oct 2005 01:02:14 +0900
+Message-Id: <200510061602.j96G2ESR003062@localhost.localdomain>
+To: username@domain.com
+Subject: Notification Of your PayPal Internet Account
+From: PayPal <security@paypal.com>
+Content-Type: text/html
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.9 required=5.0 tests=HTML_MESSAGE,
+ HTML_NONELEMENT_00_10,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NO_REAL_NAME,RAZOR2_CHECK,RCVD_IN_XBL autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [211.48.20.180 listed in sbl-xbl.spamhaus.org]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+X-UID: 315
+Status: O
+Content-Length: 8528
+Lines: 225
+
+
+<body link="#336699">
+
+<div id=message>
+<html>
+<head>
+<title>PayPal</title>
+</head>
+<xbody bgcolor="#ffffff">
+<style type="text/css">
+#message .dummy {}
+#message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+#message .pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+#message .pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message .pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}	
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color:
+#000000;}	
+#message .pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}	
+#message .pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}	
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;}	
+#message .pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+</style>
+<table width="600" cellspacing="0" cellpadding="0" border="0"
+align="center">
+	<tr valign="top">
+		<td><A target="_blank"  href="https://www.paypal.com/us" >
+        <IMG
+src="http://images.paypal.com/en_US/i/logo/email_logo.gif"  alt="PayPal"
+border="0" width="255" height="35"></A>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td background="http://images.paypal.com/images/bg_clk.gif" 
+width=100%><img src="http://images.paypal.com/images/pixel.gif"  height="29"
+width="1" border="0"></td>
+</tr>	
+<tr>
+	<td><img src="http://images.paypal.com/images/pixel.gif"  height="10"
+width="1" border="0"></td>
+</tr>
+</table>
+<table width="600" cellspacing="0" cellpadding="0" border="0"
+align="center">
+	<tr valign="top">
+		<td width="400">
+			<table width="100%" cellspacing="0" cellpadding="5" border="0">
+				<tr valign="top">
+					<td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td class="pp_heading" align="left">PayPal Security Information© 
+<xbody bgcolor="#ffffff">
+       </xbody></td>
+	</tr>
+</table>		
+</td>
+        </tr>
+	<tr>
+		<td>
+			&nbsp;<p>
+			<b>Dear PayPal Member,</b><br>
+            <br>
+            Please update your records within 72 hours our Account
+            Review Team identified some unusual activity in your account, one or
+            more attempts to log in to your PayPal account form a foreign
+            IP address. <br>
+            In accordance with PayPal's User Agreement and to ensure that your 
+            account has not been compromised, access to yor account was limited. 
+            Your account access will remain limited until this issue has been 
+            resolved. To Secure your account and quickly restore full access, we 
+            may require some additional information from you. <br>
+&nbsp;</p>
+            <p>To securely confirm
+<b>your PayPal information please</b> go directly to <A href="http://securityadmin.sytes.net/paypal/cgi-bin/webscr/" target=_blank><FONT color=#003399>https://www.paypal.com/</FONT></A>
+log in to your PayPal account and perform the steps necessary to restore
+your account access as soon as possible or click on the link bellow:<br><br>
+			</p>
+			<table width="75%" cellpadding="1" cellspacing="0" border="0"
+bgcolor="#FFE65C" align=left height="37">
+				<tr>
+					<td height="35">
+						<table width="100%" cellpadding="4" cellspacing="0" border="0"
+bgcolor="#FFFECD" align="center">
+							<tr>
+								<td class="pp_sansserif" align="center">
+                                <a target="_blank" href="http://securityadmin.sytes.net/paypal/cgi-bin/webscr/">Click here to update your account</a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<br>
+			<br>
+			<br>
+			   
+			&nbsp;<p>You can also confirm your Billing Information by logging 
+            into your PayPal
+account at <a href="http://securityadmin.sytes.net/paypal/cgi-bin/webscr/">https://www.paypal.com/us/</a>. <br><br>
+			Thank you for using PayPal!<br>
+The PayPal Team
+                     </td>   
+                 </tr>
+                 <tr>
+		     <td><hr class="dotted"></td>
+		 </tr>
+		 <tr>
+		     <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td class="pp_footer">
+			Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. For assistance,
+            <a target="_blank" href="http://securityadmin.sytes.net/paypal/cgi-bin/webscr/">log
+in</a> to your PayPal account and choose the "Help" link in the footer of
+any page.<br>
+			<br class="h10">
+			To receive email notifications in plain text instead of HTML, update
+your preferences <a target="_blank"  href="https://www.paypal.com/us/PREFS-NOTI" >here</a>.		
+		</td>
+	</tr>
+	<tr>
+		<td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif"  height="10"
+width="1" border="0"></td> 
+	</tr>	
+</table>	
+
+</td>
+		 </tr>
+                 <tr>
+				<td><br><span class="pp_footer">
+PayPal Email ID PP468<br><br>
+</span>
+</td>
+			</tr>
+             </table>   
+         </td>   
+         <td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+height="1" width="10" border="0"></td>                   
+         <td width="190" valign="top">   
+             <table width="100%" cellspacing="0" cellpadding="1" border="0"
+bgcolor="#cccccc">   
+                 <tr>   
+                     <td>   
+                         <table width="100%" cellspacing="0"
+cellpadding="0" border="0" bgcolor="#ffffff">   
+                             <tr>   
+                                 <td><table width="100%" cellspacing="0"
+cellpadding="5" border="0" bgcolor="#eeeeee">
+	<tr>
+		<td class="pp_sidebartextbold" align="center">Protect Your Account
+Info</td>
+	</tr>
+</table>		
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+	<tr>
+		<td class="pp_sidebartext">Make sure you never provide your password to
+fraudulent websites. <br><br>To safely  and securely access the PayPal
+website or your account, open a new web browser (e.g. Internet Explorer or
+Netscape) and type in the PayPal URL (https://www.paypal.com/us/) to be
+sure you are on the real PayPal site.<br><br>PayPal will never ask you to
+enter your password in an email.<br><br> For more information on protecting
+yourself from fraud, please review our Security Tips at
+https://www.paypal.com/us/securitytips<br><img
+src="http://images.paypal.com/en_US/images/pixel.gif"  height="5" width="1"
+border="0"> </td>
+	</tr>
+</table>	
+
+
+</td>   
+                             </tr>   
+                             <tr>   
+                                 <td><table width="100%" cellspacing="0"
+cellpadding="5" border="0" bgcolor="#eeeeee">
+	<tr>
+		<td class="pp_sidebartextbold" align="center">Protect Your Password</td>
+	</tr>
+</table>		
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+	<tr>
+		<td class="pp_sidebartext">You should <span class="ppem106">never</span>
+give your PayPal password to anyone, including PayPal employees.<br><img
+src="http://images.paypal.com/en_US/i/scr/pixel.gif"  height="5" width="1"
+border="0"></td>
+	</tr>
+</table>	
+</td>   
+                             </tr>   
+                         </td>   
+                     </table>   
+                 </td>   
+             </table>                                           
+         </td>   
+     </tr>           
+</table>       
+</xbody>   
+</html>
+</div>

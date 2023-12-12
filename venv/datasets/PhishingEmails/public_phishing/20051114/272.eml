@@ -1,0 +1,69 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <nobody@ns1.ewdns.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 2419D536ED0
+ for <username@login.domain.com>; Sat,  1 Oct 2005 18:57:02 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 428E96FA291
+ for <username@domain.com>; Sat,  1 Oct 2005 18:57:01 -0400 (EDT)
+Received: from ns1.ewdns.net (ns1.ewdns.net [62.70.6.81])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Sat,  1 Oct 2005 18:57:01 -0400 (EDT)
+Received: from nobody by ns1.ewdns.net with local (Exim 4.52)
+ id 1ELqHs-0006iO-3E
+ for username@domain.com; Sun, 02 Oct 2005 00:57:00 +0200
+To: username@domain.com
+Subject: Amazon.com Inquiry
+From: Amazon <service@amazon.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1ELqHs-0006iO-3E@ns1.ewdns.net>
+Date: Sun, 02 Oct 2005 00:57:00 +0200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns1.ewdns.net
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - ns1.ewdns.net
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: partyfactory.no:/public_html/karaoke/images/products
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.2 required=5.0 tests=RAZOR2_CF_RANGE_51_100,
+ RAZOR2_CHECK,REPLY_TO_EMPTY autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+X-Keywords: 
+X-UID: 291
+Status: RO
+Content-Length: 1083
+Lines: 21
+
+Dear Amazon member, 
+
+Due to concerns we have for the safety and integrity of the Amazon community we have issued this warning. 
+
+Per the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us. We may also take these actions if we are unable to verify or authenticate any information you provide to us. 
+
+Please follow the link below: 
+
+http://www.amazon.com.encrypted-inquiry.cn?/exec/obidos
+
+and update your account information. 
+
+We apreciate your support and understanding, as we work together to keep Amazon market a safe place to trade. 
+
+Thank you for your attention on this serious matter.
+
+Regards,
+Amazon Safety Department
+
+
+NOTE: This message was sent to you by an automated e-mail system. Please don't reply to it. Amazon treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information.

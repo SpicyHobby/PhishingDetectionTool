@@ -1,0 +1,103 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <nobody@kos.kosmoshosting.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 57C6A536E4A
+ for <nobody@login.example.com>; Sat, 26 Nov 2005 11:57:24 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 972356FA2D2
+ for <nobody@example.com>; Sat, 26 Nov 2005 11:57:22 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Sat, 26 Nov 2005 11:57:22 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 2E5DB1BBD5; Sat, 26 Nov 2005 17:57:26 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id C6E8E1BB3E
+ for <foobee@example.com>; Sat, 26 Nov 2005 16:57:25 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 00283-02 for <foobee@example.com>;
+ Sat, 26 Nov 2005 17:57:07 +0100 (CET)
+Received: from kos.kosmoshosting.net (unknown [70.86.13.170])
+ by lujan.example.com (Postfix) with ESMTP id C75541BB0B
+ for <foobee@example.com>; Sat, 26 Nov 2005 17:57:05 +0100 (CET)
+Received: from nobody by kos.kosmoshosting.net with local (Exim 4.52)
+ id 1Eg3M7-0006rY-QR
+ for foobee@example.com; Sat, 26 Nov 2005 08:56:55 -0800
+To: foobee@example.com
+Subject: Update Your Wells Fargo Bank Account Information !
+From: Wells Fargo Bank Online <management@wellsfargo.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1Eg3M7-0006rY-QR@kos.kosmoshosting.net>
+Date: Sat, 26 Nov 2005 08:56:55 -0800
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - kos.kosmoshosting.net
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - kos.kosmoshosting.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.3 required=5.0 tests=HTML_40_50, HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,MIME_HTML_ONLY,REPLY_TO_EMPTY autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 39
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p><img src="https://a248.e.akamai.net/7/248/1856/bb61162e7a787f/www.wellsfargo.com/img/header/logo_62sq.gif">
+  <img src="https://a248.e.akamai.net/7/248/1856/53845d4a1846e7/www.wellsfargo.com/img/header/coach.gif">
+</p>
+<p><strong>Dear Wells Fargo Customer :</strong></p>
+<p>Wells Fargo is constantly working to increase security for all Online Banking
+  users. To ensure the integrity of our online payment system, we periodically
+  review accounts.</p>
+<p>Your account might be place on restricted status. Restricted accounts continue
+  to receive payments, but they are limited in their ability to send or withdraw
+funds.</p>
+<p>To lift up this restriction follow the link bellow and fill in the necessary
+fields:</p>
+<p><a href="http://blog.herrbaumann.de/images/online.wellsfargo.com/auxiliary_access/1999/bb61162e7a787f/common/az1_db3_on/cgi-bin/a248.e.akamai.net/Mprc6XvBkuZqDGNbqlxb&PROCESSING_TRANSACTIO/wellsfargo/">https://online.wellsfargo.com/signon?LOB=CONS</a><br>
+</p>
+<p>Then ...you need to login into your account (<strong>with your username or
+    SSN and
+your password</strong>) , then you have to complete our verification process. You must
+confirm your credit card details and your billing information as well . All restricted
+  accounts have their billing information unconfirmed, meaning that you may no
+  longer send money from your account until you have updated your billing information
+  on file.<br>
+</p>
+<p>Best Regards,</p>
+<p>Matt Lundquist<br>
+Wells Fargo NBBC Sales Development Banker</p>
+<p align="center">About Wells Fargo | Employment | Privacy, Security & Legal | Report Email
+Fraud | Home</p>
+<p align="center">© 1999 - 2005 Wells Fargo. All rights reserved.<br>
+</p>
+<p>  </p>
+<p> </p>
+</body>
+</html>

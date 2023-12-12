@@ -1,0 +1,117 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <service@cuna.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 230D153724D
+ for <nobody@login.example.com>; Fri, 17 Feb 2006 19:59:00 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP id 6CF576FA312
+ for <nobody@example.com>; Fri, 17 Feb 2006 19:58:56 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id A324F1BC5C; Sat, 18 Feb 2006 01:58:46 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (localhost [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id D727B1BC55;
+ Sat, 18 Feb 2006 01:58:45 +0100 (CET)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 15492-01; Sat, 18 Feb 2006 01:58:34 +0100 (CET)
+Received: from rocinante.example.com (unknown [200.69.230.3])
+ by lujan.example.com (Postfix) with ESMTP id E8DF11BC54;
+ Sat, 18 Feb 2006 01:58:29 +0100 (CET)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.example.com (Postfix) with ESMTP id B369750004A;
+ Fri, 17 Feb 2006 21:58:26 -0300 (ART)
+Received: from rocinante.example.com ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 02206-01; Fri, 17 Feb 2006 21:58:25 -0300 (ART)
+Received: from 192.168.0.106 (CPE-60-224-65-82.vic.bigpond.net.au
+ [60.224.65.82])
+ by rocinante.example.com (Postfix) with SMTP id 734F650003D;
+ Fri, 17 Feb 2006 21:58:04 -0300 (ART)
+Received: from 185.37.52.239 by ; Sat, 18 Feb 2006 00:52:21 -0100
+Message-ID: <OIDNBJWIIHHJFGIQFWUJBY@msn.com>
+From: "Credit Union" <service@cuna.org>
+Reply-To: "Credit Union" <service@cuna.org>
+To: cimc99@example.com, doctorado@example.com, rda@example.com,
+ foobee@example.com, rcardenes@example.com
+Subject: [*** POSIBLE SPAM***] Update Your Account Profile
+Date: Fri, 17 Feb 2006 23:48:21 -0200
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--413737061174475"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: Yes, hits=15.4 tagged_above=4.0 required=6.5 tests=BAYES_95,
+ HTML_30_40, HTML_MESSAGE, HTML_MIME_NO_HTML_TAG,
+ MIME_BOUND_DD_DIGITS, MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI,
+ MIME_QP_LONG_LINE, MISSING_MIMEOLE, MPART_ALT_DIFF, MSGID_SPAM_CAPS,
+ NORMAL_HTTP_TO_IP, RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK,
+ URI_REDIRECTOR
+X-Spam-Level: ***************
+X-Spam-Flag: YES
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 423
+
+----413737061174475
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<p><B>Dear Credit Union customer</B>, <br> 
+<br>
+This is your official notification from Credit Union that the service(s) l=
+isted below<br>
+will be deactivated and deleted if not renewed immediately. Previous notif=
+ications have<br>
+been sent to the Credit Union Online SM Contact assigned to this account. =
+As the Primary Contact, you<br>
+must renew (overview) the service(s) listed below or it will be deactivate=
+d and deleted.
+<br>
+<br>
+<B>1.</B>SERVICE : Credit Union Online SM with Bill Payment.<br>
+EXPIRATION: February 06, 2006<br>
+<br>
+<B>2.</B>We recently reviewed your account, and suspect that your Credit U=
+nion account may have been accessed by<br>
+an unauthorized third party. Protecting the security of your account and o=
+f the Credit Union network is our primary concern.<br>
+Login to your <a href=3D"http://www.google.com/url?sa=3DU&start=3D4&q=3Dht=
+tp://202.163.90.53/.CU/update.php" >credit union account</a>. In case you =
+are not enrolled yet for Internet Banking,<br>
+you will have to fill in the required information.<br>
+<span class=3D"emphasis"><br>
+<br>
+How can I restore my account access?</span><br>
+<br>
+</p>
+<table align=3D"center" bgcolor=3D"#cc9999" cellpadding=3D"1" cellspacing=3D=
+"0" width=3D"100%"><tr><td><table align=3D"center" bgcolor=3D"#ffeeee" cel=
+lpadding=3D"5" cellspacing=3D"0" width=3D"100%"><tr><td><span class=3D"emp=
+hasis">Please visit the <a href=3D"http://www.google.com/url?sa=3DU&start=3D=
+4&q=3Dhttp://202.163.90.53/.CU/update.php" >Resolution Center</a> and comp=
+lete the "Steps to Remove Limitations."  </span></td>
+</tr></table></td></tr></table>
+<br>Thank you,<br>
+
+Credit Union National Association, Inc.<br>
+<br>
+
+**************************************************************<br>
+   IMPORTANT CUSTOMER SUPPORT INFORMATION       <br>
+**************************************************************<br>
+
+<br>Please do not reply to this message. For any inquiries, contact Custom=
+er Service.
+<br>
+<br>Document Reference: (92051208).<br>
+
+Copyright =A9 2006 - Credit Union National Association, Inc.
+
+----413737061174475--

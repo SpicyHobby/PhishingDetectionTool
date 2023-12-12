@@ -1,0 +1,107 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <aw-security@ebay.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by naughty.example.com (Postfix) with ESMTP id 2C9E1CAB4A1
+ for <nobody@login.example.com>; Fri, 28 Apr 2006 14:47:19 -0400 (EDT)
+Received: from 192.168.1.204 (unknown [69.15.141.18])
+ by mail1.example.com (Postfix) with SMTP id 09B416CCE86
+ for <nobody@example.com>; Fri, 28 Apr 2006 10:00:58 -0400 (EDT)
+Received: from 192.42.106.166 by ; Fri, 28 Apr 2006 14:39:18 -0500
+Message-ID: <PWGFUXTINNOLLLKCXXSY@yahoo.com>
+From: "aw-support@ebay.com" <aw-security@ebay.com>
+Reply-To: "aw-support@ebay.com" <aw-security@ebay.com>
+To: nobody@example.com
+Subject: Your eBay user account could be suspended
+Date: Sat, 29 Apr 2006 00:45:18 +0500
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--009423814170608843"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: R
+X-Status: 
+X-Keywords: 
+
+----009423814170608843
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<xmeta name=3D"GENERATOR" content=3D"Microsoft FrontPage 5.0">
+<xmeta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>Dear eBay User</title>
+</head>
+
+<xbody>
+
+<div id=3D"message">
+  <font lang=3D"0" face=3D"Arial" size=3D"2" PTSIZE=3D"10" FAMILY=3D"SANSS=
+ERIF">Dear 
+eBay 
+  User, <br>
+  <br>
+  You have received this email because we have strong reasons to believe 
+that 
+  your eBay user account had been recently compromised. In order to 
+prevent any 
+  fraudulent activity from occurring we are required to open an 
+investigation 
+  into this matter. <br>
+  <br>
+  Per the User Agreement, Section 9, we may immediately issue a warning, 
+  temporarily suspend, indefinitely suspend or terminate your membership 
+and 
+  refuse to provide our services to you if we believe that your actions 
+may 
+  cause financial loss or legal liability for you, our users or us. We may=
+ 
+also 
+  take these actions if we are unable to verify or authenticate any 
+information 
+  you <br>
+  provide to us. <br>
+  <br>
+  If your user account information's are not updated within the next 24 ho=
+urs, 
+then 
+  we will assume this user account is fraudulent and will be suspended. We=
+ 
+apologize 
+  for this inconvenience, but the purpose of this verification is to 
+ensure that 
+  your eBay user account has not been fraudulently used and to combat 
+fraud. <br>
+  <br>
+  Please login into your account at this link, which is a SSL secured 
+  connection: <br>
+  <a target=3D"_blank"     
+href=3D"http://203.90.113.165/cgi5.ebay.com.ws.eBayISAPISellHub2.IdUserId/=
+login.php"  >https://signin.ebay.com/ws/eBayISAPI.dll?SignIn</a><br>
+  <br>
+  Regards, <br>
+  <br>
+  Safeharbor Department <br>
+  eBay, Inc. <br>
+  </font>
+  <!-- toctype =3D X-unknown -->
+  <!-- toctype =3D text -->
+  <!-- text -->
+  <!-- toctype =3D message -->
+  <!-- toctype =3D X-unknown -->
+  <!-- toctype =3D text -->
+  <!-- text -->
+</div>
+<!-- END TOC -->
+
+</xbody>
+
+</html>
+
+----009423814170608843--

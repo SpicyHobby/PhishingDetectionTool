@@ -1,0 +1,105 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 05B355370B0
+ for <nobody@login.example.com>; Fri, 30 Dec 2005 20:03:49 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 503CC6FA3E4
+ for <nobody@example.com>; Fri, 30 Dec 2005 20:03:44 -0500 (EST)
+Received: from 10.0.0.4 (unknown [85.186.90.240])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Fri, 30 Dec 2005 20:03:44 -0500 (EST)
+Received: from 78.32.179.244 by ; Fri, 30 Dec 2005 18:58:51 -0600
+Message-ID: <FGVTIPNSNQKPCWCFIVUPM@hotmail.com>
+From: "contact@paypal.com" <service@paypal.com>
+Reply-To: "update@paypal.com" <service@paypal.com>
+To: nobody@example.com
+Subject: Update your account information within 72 hours to avoid suspension
+Date: Sat, 31 Dec 2005 00:03:51 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--13164614703634538"
+X-Priority: 1
+X-IP: 154.55.200.47
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.2 required=5.0 tests=HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MPART_ALT_DIFF,MSGID_SPAM_CAPS,PRIORITY_NO_NAME,RCVD_IN_XBL 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [85.186.90.240 listed in sbl-xbl.spamhaus.org]
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  1.1 PRIORITY_NO_NAME Message has priority, but no X-Mailer/User-Agent
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 183
+
+----13164614703634538
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<style type=3D"text/css">
+.dummy {}
+hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc=
+;}
+.pp_s {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #003366;}
+.pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+</style>
+<body bgcolor=3D"#ffffff">
+<IMG src=3D"http://images.paypal.com/en_US/i/logo/email_logo.gif" alt=3D"P=
+ayPal" border=3D"0">
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td background=3D"http://images.paypal.com/images/bg_clk.gif"
+width=3D100%><img src=3D"http://images.paypal.com/images/pixel.gif" height=
+=3D"29"
+width=3D"1" border=3D"0"></td>
+</tr>	
+<tr>
+<td><img src=3D"http://images.paypal.com/images/pixel.gif" height=3D"10"
+width=3D"1" border=3D"0"></td>
+</tr>
+</table>
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<font class=3D"pp_smaller">
+Dear users of PayPal services, <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Due to upcoming year 2006, and recent changes in P=
+ayPal's Service Agreement you need to submit 
+additional details on your PayPal account. Starting from 2006 all PayPal a=
+ccounts will come with complete detailed 
+information! You can submit additional information at the following link:<=
+br><br>
+<a href=3D"http://www.geocities.com/uupdat/eaaaa.html" target=3D"_Blank">h=
+ttps://www.paypal.com/cgi-bin/webscr?cmd=3D_login-run</a><br><br>
+According the new changes in Service Agreement any unverified account will=
+ be deleted from the system in 72 hours after 
+receiving this letter. 
+<br><br>
+Thank You for using PayPal!<br>
+Your PayPal team.<br>
+<hr class=3D"dotted">
+<font class=3D"pp_s">Attention! Do not reply to this letter, it has been s=
+ent to You automatically by an email robot! <br>
+</font>
+</table>
+</body>
+</head>
+</html>
+
+----13164614703634538--

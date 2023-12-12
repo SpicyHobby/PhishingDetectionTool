@@ -1,0 +1,20 @@
+import os
+import shutil
+
+def move_eml_files(src_directory, dest_directory):
+    for root, dirs, files in os.walk(src_directory):
+        for file in files:
+            if file.endswith('.eml'):
+                file_path = os.path.join(root, file)
+                dest_path = os.path.join(dest_directory, file)
+                
+                if os.path.exists(dest_path):
+                    os.remove(dest_path)  # Remove existing file
+                
+                shutil.move(file_path, dest_directory)
+
+src_directory = r'D:\PhishingDetectionTool\venv\datasets\LegitEmails'  # Source directory
+dest_directory = r'D:\PhishingDetectionTool\venv\datasets\LegitEmailseml'  # Destination directory
+
+os.makedirs(dest_directory, exist_ok=True)
+move_eml_files(src_directory, dest_directory)

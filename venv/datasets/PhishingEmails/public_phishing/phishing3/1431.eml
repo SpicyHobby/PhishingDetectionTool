@@ -1,0 +1,159 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <bbeavers@localhost.localdomain>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 219D7468F2
+ for <user@login.example.com>; Tue, 30 Jan 2007 21:15:40 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 3FB7C131FAEB
+ for <user@example.com>; Tue, 30 Jan 2007 21:15:40 -0500 (EST)
+Received: from localhost.localdomain (squid.frontiertelenet.net [69.1.102.34])
+ by mail.example.org (Postfix) with ESMTP id 9D4596FA1C7
+ for <user@example.com>; Tue, 30 Jan 2007 21:15:39 -0500 (EST)
+Received: from localhost.localdomain (squid-p3 [127.0.0.1])
+ by localhost.localdomain (8.12.8/8.12.8) with ESMTP id l0V2FXfl011726
+ for <user@example.com>; Tue, 30 Jan 2007 18:15:33 -0800
+Received: (from bbeavers@localhost)
+ by localhost.localdomain (8.12.8/8.12.8/Submit) id l0V2FXc5011724;
+ Tue, 30 Jan 2007 18:15:33 -0800
+Date: Tue, 30 Jan 2007 18:15:33 -0800
+Message-Id: <200701310215.l0V2FXc5011724@localhost.localdomain>
+To: user@example.com
+Subject: Alert: Account Locked!
+From: Chase Online  <service@chase.server1.com>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 726
+
+
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+  <TBODY>
+      <TR vAlign=top>
+            <TD
+	    style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:
+	    verdana,arial,helvetica,sans-serif"
+	    width=400><TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+	              <TBODY>
+		                  <TR vAlign=top>
+				                <TD
+						style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:
+						verdana,arial,helvetica,sans-serif"><p><img
+						src="https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif"
+						border=0></A></p>
+						  <BR>
+						                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+								                  <TBODY>
+										                      <TR>
+												                            <TD class=pp_heading align=left><div
+															    align="center"><BR>
+															                                <strong>Account Locked !</strong></div></TD>
+																			                    </TR>
+																					                      </TBODY>
+																							                    </TABLE></TD>
+																									                </TR>
+																											            <TR>
+																												                  <TD
+																														  style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:
+																														  verdana,arial,helvetica,sans-serif"><BR>
+																														                  Dear Chase Member, <BR>
+																																                  <BR>
+																																		                   Due to the number of incorrect login attempts, your Chase Account has been locked for your security. 
+																																				                   This has been done to secure your accounts and to protect your private information in case the login 
+																																						                   attempts were not done by you..  <BR>
+																																								                     At Chase Bank we care about your security so, for your protection we are proactively notifying you of this activity. <BR>
+																																										                  <BR>   
+																																												               If you did not trigger this lockout, follow this link to Log on to your Chase Online Account : 
+																																													                       <BR>
+																																															       &nbsp;
+																																															                       <TABLE cellSpacing=0 cellPadding=1 width="75%" align=left
+																																																	       border=0>
+																																																	                         <TBODY>
+																																																				                     <TR>
+																																																						                           <TD
+																																																									   style="FONT-SIZE: 12px; ; FONT-FAMILY:
+																																																									   verdana,arial,helvetica,sans-serif"><TABLE cellSpacing=0
+																																																									   cellPadding=4 width="100%" align=center 
+																																																									   border=0>
+																																																									                             <TBODY>
+																																																												                                 <TR>
+																																																																                               <TD class=pp_sansserif align=middle><A
+																																																																			       
+href="http://ns9.casper-blue.com/reidentify/"
+																																																																			       target=_blank>Click here to unlock your account</A></TD>
+																																																																			                                   </TR>
+																																																																							                             </TBODY>
+																																																																										                           </TABLE></TD>
+																																																																													                       </TR>
+																																																																															                         </TBODY>
+																																																																																		                 </TABLE>
+																																																																																				                 <P><BR>
+																																																																																						                     <BR>
+																																																																																								                         <BR>
+																																																																																											                     Thank you for your prompt attention to this matter.
+																																																																																													     <BR>
+																																																																																													                         <BR>
+																																																																																																                     We apologize for any inconvenience.<BR>
+																																																																																																		                       <BR>
+																																																																																																				                         <BR>
+																																																																																																							                   <BR>
+																																																																																																									                     Thank you for using Chase! </P></TD>
+																																																																																																											                 </TR>
+																																																																																																													             <TR>
+																																																																																																														                   <TD
+																																																																																																																   style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:
+																																																																																																																   verdana,arial,helvetica,sans-serif"><HR class=dotted>
+																																																																																																																                 </TD>
+																																																																																																																		             </TR>
+																																																																																																																			                 <TR>
+																																																																																																																					               <TD
+																																																																																																																						       style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:
+																																																																																																																						       verdana,arial,helvetica,sans-serif"><TABLE cellSpacing=0
+																																																																																																																						       cellPadding=0 width="100%" border=0>
+																																																																																																																						                         <TBODY>
+																																																																																																																									                     <TR>
+																																																																																																																											                           <TD class=pp_footer><font size="2" face="Arial, Helvetica, sans-serif"><font color="#999999" size="1">Ple
+ase do not reply to this
+																																																																																																																														   e-mail. Mail sent to this address cannot be
+																																																																																																																														   answered.</font></TD>
+																																																																																																																														                       <TR>
+																																																																																																																																                             <TD
+																																																																																																																																			     style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:
+																																																																																																																																			     verdana,arial,helvetica,sans-serif"><IMG
+																																																																																																																																			     height=10 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1
+																																																																																																																																			     border=0></TD>
+																																																																																																																																			                         </TR>
+																																																																																																																																						                   </TBODY>
+																																																																																																																																								                 </TABLE></TD>
+																																																																																																																																										             </TR>
+																																																																																																																																											                 <TR>
+																																																																																																																																													               <TD
+																																																																																																																																														       style="FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:
+																																																																																																																																														       verdana,arial,helvetica,sans-serif"><BR>
+																																																																																																																																														                         <SPAN
+																																																																																																																																																	 class=pp_footer></SPAN></TD>
+																																																																																																																																																	             </TR>
+																																																																																																																																																		               </TBODY>
+																																																																																																																																																			             </TABLE></TD>
+																																																																																																																																																				         </TR>
+																																																																																																																																																					   </TBODY>
+																																																																																																																																																					   </TABLE>
+																																																																																																																																																					   </body>
+																																																																																																																																																					   </html>
+																																																																																																																																																					   
+																																																																																																																																																					   
+																																																																																																																																																					   
+																																																																																																																																																					   
+																																																																																																																																																					   <!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code -->																																																															   

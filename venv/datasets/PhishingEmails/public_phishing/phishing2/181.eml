@@ -1,0 +1,112 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <security@support.paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id 7D24D536E67; Thu, 29 Dec 2005 20:50:47 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 080546FA47F;
+ Thu, 29 Dec 2005 20:50:38 -0500 (EST)
+Received: from 10.3.4.5 (unknown [202.175.18.237])
+ by mail2.example.com (Postfix) with SMTP;
+ Thu, 29 Dec 2005 20:50:37 -0500 (EST)
+X-Message-Info: XeekT525gaQLH608KDBinjI519YveLSN84WZP14NP79l93QPF
+Received: (from sp7way@localhost)
+ by hk25-exert5.up8k.paypal.com (7.94.85/2.91.91) id t562J4le1628;
+ Thu, 29 Dec 2005 18:47:43 -0700 GMT
+MIME-Version: 1.0
+Date: Thu, 29 Dec 2005 20:45:43 -0500
+From: PayPal Security <security@support.paypal.com>
+To: nobody@example.com
+Subject: PayPal Security Measures 12-29-05
+Message-Id: <p681tn9-529423214104217707-3158028707538323@inevitable5>
+Content-Type: multipart/alternative;
+	boundary="--4928285920047650"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.8 required=5.0 tests=HTML_20_30,HTML_MESSAGE,
+ INVALID_TZ_GMT,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MPART_ALT_DIFF,NORMAL_HTTP_TO_IP,
+ RCVD_HELO_IP_MISMATCH,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_DSBL,
+ RCVD_IN_NJABL_PROXY,RCVD_IN_SORBS_MISC,RCVD_IN_SORBS_WEB,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO,X_MESSAGE_INFO autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ * 0.2 INVALID_TZ_GMT Invalid date in header (wrong GMT/UTC
+ timezone)
+ *  4.2 X_MESSAGE_INFO Bulk email fingerprint (X-Message-Info) found
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.4 RCVD_IN_NJABL_PROXY RBL: NJABL: sender is an open proxy
+ *      [202.175.18.237 listed in combined.njabl.org]
+ *  0.3 RCVD_IN_SORBS_MISC RBL: SORBS: sender is open proxy server
+ *      [202.175.18.237 listed in dnsbl.sorbs.net]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [202.175.18.237 listed in sbl-xbl.spamhaus.org]
+ *  0.0 RCVD_IN_SORBS_WEB RBL: SORBS: sender is a abuseable web server
+ *      [202.175.18.237 listed in dnsbl.sorbs.net]
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?202.175.18.237>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?202.175.18.237>]
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 182
+
+----4928285920047650
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<A HREF="http://193.227.1.9/fhtW4_3/english/.ssl/paypal/index.html"><IMG SRC="http://images.paypal.com/en_US/i/logo/email_logo.gif" BORDER="0" WIDTH="255" HEIGHT="35" ALT="PayPal"></A><BR>
+<FONT FACE="Verdana" SIZE="2">Dear valued <STRONG><SPAN STYLE="FONT-SIZE: 10pt;">PayPal<SUP>®</SUP></SPAN></STRONG> customer:<BR><BR>
+<SPAN STYLE="FONT-SIZE: 10pt;"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> is committed to maintaining a safe environment for its community of <BR>
+buyers and sellers. To protect the security of your account, PayPal employs <BR>
+some of the most advanced security systems in the world and our anti-fraud <BR>
+teams regularly screen the PayPal system for unusual activity.<BR>
+<BR>
+Recently, our Account Review Team identified some unusual activity in your <BR>
+account. In accordance with PayPal's User Agreement and to ensure that your <BR>
+account has not been compromised, access to your account was limited. Your <BR>
+account access will remain limited until this issue has been resolved. This <BR>
+is a fraud prevention measure meant to ensure that your account is not compromised.<BR>
+<BR>
+In order to secure your account and quickly restore full access, we may <BR>
+require some specific information from you for the following reason:<BR>
+<BR>
+We would like to ensure that your account was not accessed by an <BR>
+unauthorized third party. Since protecting the security of your account <BR>
+is our primary concern, we have limited access to sensitive PayPal account <BR>
+information. Although his may be an inconvenience but please understand that <BR>
+this temporary limitation is for your protection.<BR>
+<BR>
+While resolving this issue, you may be required to provide a case identification <BR>
+number so please print this email or write the number down.<BR>
+Case ID Number: <B>PP-799-047-250</B><BR><BR>
+We encourage you to log in and restore full access as soon as possible. <BR>
+Should access to your account remain limited for an extended period of <BR>
+time, it may result in further limitations on the use of your account.<BR><BR>
+Failure to restore your records will result in account suspension. <BR>
+Please update your records on or before <FONT COLOR="RED"><B><STRONG>January 12, 2006</STRONG></B>.</FONT><BR><BR>
+To verify and/or update your account records click on, or visit, the following link: <BR>
+<B><A HREF="http://193.227.1.9/fhtW4_3/english/.ssl/paypal/index.html">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</A></B><BR><BR>
+Thank you for your prompt attention to this matter. <BR>
+Please understand that this is a security measure meant to help protect you and <BR>
+your account. We apologize for any inconvenience.<BR><BR>
+Sincerely,<BR>
+<STRONG>PayPal<SUP>®</SUP></STRONG>Account Review Department</FONT><BR><BR>
+<FONT FACE="Verdana" SIZE="1">PayPal Email ID PP9236<BR>
+Visit our Privacy Policy and User Agreement if you have any questions.<BR>
+<A HREF="http://193.227.1.9/fhtW4_3/english/.ssl/paypal/index.html">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside</A>
+</FONT>
+</HTML>
+
+----4928285920047650--

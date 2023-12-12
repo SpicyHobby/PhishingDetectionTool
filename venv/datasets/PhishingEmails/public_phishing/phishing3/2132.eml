@@ -1,0 +1,44 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <update@boa.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3088B46918
+ for <user@login.example.com>; Thu, 21 Jun 2007 14:11:40 -0400 (EDT)
+Received: from ns46.servepower.com (ns46.servepower.com [72.15.144.46])
+ by mail.example.org (Postfix) with ESMTP id C6BC5131FC0A
+ for <user@example.com>; Thu, 21 Jun 2007 14:11:39 -0400 (EDT)
+Received: (qmail 7807 invoked from network); 21 Jun 2007 09:31:55 -0700
+Received: from static-196-42-15-140.coqui.net (HELO User) (196.42.15.140)
+ by 72.15.144.94 with SMTP; 21 Jun 2007 09:31:54 -0700
+Reply-To: <no-reply@boa.com>
+From: "Bank of America"<update@boa.com>
+Subject: Bank of America Alert: Update Your Account
+Date: Thu, 21 Jun 2007 12:50:09 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+Message-Id: <20070621181139.C6BC5131FC0A@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1429
+
+<HTML>
+<CENTER>
+<FONT face="verdana" size=2><B>You have 1 new ALERT message</B><BR>
+Please login to your <B>Bank of America Account</B><BR> and visit the <B>Message Center</B> 
+section. You must <B>Update</B><BR> your personal informations for security reasons.<BR><BR>
+
+To Login, please click the link below:<BR><BR>
+
+<a href="http://www.mewcrazy.com/forum/images/avatars/https/sitekey.bankofamerica.com/sas/signon.do/detect=5/index.html">Go To https://www.bankofamerica.com</a></FONT><BR><BR>
+
+<font face="verdana" color="99999" size=1>Copyright © 1999-2007 Bank of America. All rights reserved. </FONT></CENTER>
+</HTML>

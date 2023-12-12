@@ -1,0 +1,35 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <service@intl.paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 70F295370E6
+ for <nobody@login.example.com>; Mon, 26 Dec 2005 21:54:22 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 601326FA3B3
+ for <nobody@example.com>; Mon, 26 Dec 2005 21:54:21 -0500 (EST)
+Received: from 168.243.13.97 (unknown [168.243.13.97])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Mon, 26 Dec 2005 21:54:21 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.9 required=5.0 tests=MISSING_HEADERS,
+ MISSING_SUBJECT,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_XBL,RCVD_NUMERIC_HELO 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 1.2 RCVD_NUMERIC_HELO Received: contains an IP address used
+ for HELO *  0.1 MISSING_HEADERS Missing To: header
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?168.243.13.97>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [168.243.13.97 listed in sbl-xbl.spamhaus.org]
+ *  1.2 MISSING_SUBJECT Missing Subject: header
+Message-Id: <20051227025421.601326FA3B3@mail2.example.com>
+Date: Mon, 26 Dec 2005 21:54:21 -0500 (EST)
+From: service@intl.paypal.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 174
+

@@ -1,0 +1,119 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id 341FD536E78; Mon, 12 Dec 2005 19:28:15 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 7A7336FA323;
+ Mon, 12 Dec 2005 19:27:58 -0500 (EST)
+Received: from pcp09046424pcs.rocsth01.mi.comcast.net
+ (pcp09046424pcs.rocsth01.mi.comcast.net [68.60.34.138])
+ by mail2.example.com (Postfix) with SMTP;
+ Mon, 12 Dec 2005 19:27:57 -0500 (EST)
+Received: from 242.16.246.230 by 68.60.34.138; Mon, 12 Dec 2005 18:24:53 -0600
+Message-ID: <FREBBNESPEMCXTWALEHBICJOE@ebay.com>
+From: "aw-confirm@eBay.com" <aw-confirm@eBay.com>
+Reply-To: "aw-confirm@eBay.com" <aw-confirm@eBay.com>
+To: nobody@example.com
+Subject: NOTICE eBay Obligatory Verifying - Invalid User Information
+Date: Tue, 13 Dec 2005 01:25:53 +0100
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--89045561006468237676"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****************************
+X-Spam-Status: Yes, score=28.9 required=5.0 tests=FORGED_MUA_EUDORA,
+ HELO_DYNAMIC_COMCAST,HTML_20_30,HTML_MESSAGE,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,RCVD_BY_IP,RCVD_DOUBLE_IP_SPAM,RCVD_IN_BL_SPAMCOP_NET,
+ RCVD_IN_DSBL,RCVD_IN_NJABL_DUL,RCVD_IN_SORBS_DUL,RCVD_IN_XBL 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  3.7 HELO_DYNAMIC_COMCAST Relay HELO'd using suspicious hostname (Comcast)
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [68.60.34.138 listed in sbl-xbl.spamhaus.org]
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [68.60.34.138 listed in dnsbl.sorbs.net]
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?68.60.34.138>]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?68.60.34.138>]
+ *  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+ *      [68.60.34.138 listed in combined.njabl.org]
+ *  4.1 RCVD_DOUBLE_IP_SPAM Bulk email fingerprint (double IP) found
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  0.0 FORGED_MUA_EUDORA Forged mail pretending to be from Eudora
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 127
+
+----89045561006468237676
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<body>
+
+<p><font face=3D"Arial" size=3D"2">Dear eBay user:<br>
+<br>
+<br>
+We regret to inform you that your eBay account has been suspended due<br>
+to concerns we have for the safety and integrity of the eBay community.<br=
+>
+<br>
+Per the User Agreement, Section 9, we may immediately issue a warning,<br>=
+
+temporarily suspend, indefinitely suspend or terminate your membership<br>=
+
+and refuse to provide our services to you if we believe that your<br>
+actions may cause financial loss or legal liability for you, our users or<=
+br>
+us. We may also take these actions if we are unable to verify or<br>
+authenticate any information you provide to us.<br>
+<br>
+To speed up this process, you are required to verify your personal informa=
+tion<br>
+against the account registration data we have on file by following the lin=
+k
+below.<br>
+<br>
+<a href=3D"http://www.ddldeb.com/Update/SAPI.dll/account-information-updat=
+e/verify/eb5.02/index.html">https://signin.ebay.com/ws/eBayISAPI.dll?Signi=
+n</a><br>
+<br>
+Due to the suspension of this account, please be advised you are<br>
+prohibited from using eBay in any way. This includes the registering of a =
+new<br>
+account.<br>
+<br>
+Please note that any seller fees due to eBay will immediately become<br>
+due and payable. eBay will charge any amounts you have not previously<br>
+disputed to the billing method currently on file.<br>
+<br>
+<br>
+Regards,<br>
+<br>
+Safeharbor Department<br>
+eBay, Inc.</font><br>
+&nbsp;</p>
+
+</body>
+
+
+
+----89045561006468237676--

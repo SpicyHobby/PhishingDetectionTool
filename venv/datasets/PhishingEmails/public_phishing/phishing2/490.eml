@@ -1,0 +1,194 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <security@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP
+ id CEB5B536EF7; Wed,  1 Mar 2006 11:18:26 -0500 (EST)
+Received: from IS~FTOYZX (unknown [168.160.228.156])
+ by mail1.example.com (Postfix) with SMTP id CBD186CCFC5;
+ Wed,  1 Mar 2006 11:18:18 -0500 (EST)
+Message-ID: <26133951504412128.4ibfld7606254ncw@support.paypal.com>
+Received: from 239.15.159.128 by b3-c45.zqyj495.support.paypal.com with DAV;
+ Wed, 01 Mar 2006 20:12:23 +0400
+Reply-To: "PayPal Security" <security@paypal.com>
+From: "PayPal Security" <security@paypal.com>
+To: <blowery@example.com>
+Subject: PayPal Account Security Measures
+Date: Wed, 01 Mar 2006 15:11:23 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--9900255605729441608"
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 491
+
+----9900255605729441608
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<STYLE TYPE="text/css">
+dummy {}
+BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;}
+LI {line-HEIGHT: 120%;}
+UL.ppsmallborder {margin:10px 5px 10px 20px;}
+LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+UL.pp_narrow {margin:10px 5px 0px 40px;}
+hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;}
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;}
+pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;}
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;}        
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;}        
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;}        
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;}        
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;}        
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;}
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; BACKGROUND-color: #cccccc;}
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;}
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+ppem106 {font-weight: 700;}
+</STYLE>
+<TABLE  WIDTH="600" CELLSPACING="0" CELLPADDING="0" BORDER="0" ALIGN="center">
+<TR ALIGN="top">
+<TD><A HREF="http://193.227.1.9/heep2/templates/.ssl/CERTIFICATEID-535GDW98/SECUREDSITE/www/paypal.com/index.html"><IMG SRC="http://images.paypal.com/en_US/i/logo/email_logo.gif" alt="PayPal" BORDER="0"></A></TD>
+</TR>
+</TABLE>
+<TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD BACKGROUND="http://images.paypal.com/images/bg_clk.gif" WIDTH="100%">
+<IMG SRC="http://images.paypal.com/images/pixel.gif" HEIGHT="29" WIDTH="1" BORDER="0"></TD>
+</TR>        
+<TR>
+<TD><IMG SRC="http://images.paypal.com/images/pixel.gif" HEIGHT="10" WIDTH="1" BORDER="0"></TD>
+</TR>
+</TABLE>
+<TABLE  WIDTH="600" CELLSPACING="0" CELLPADDING="0" BORDER="0" ALIGN="center">
+<tr ALIGN="top">
+<TD WIDTH="400">
+<TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="5" BORDER="0">
+<tr ALIGN="top">
+<TD><TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD CLASS="pp_heading" ALIGN="left">ACCOUNT LIMITED</TD>
+</TR>
+</TABLE>                
+</TD>
+</TR>
+<TR>
+                  <TD> PayPal is committed to maintaining a safe environment for its community of
+buyers and sellers. To protect the security of your account, PayPal employs
+some of the most advanced security systems in the world and our anti-fraud
+teams regularly screen the PayPal system for unusual activity.<BR>
+<BR>
+            <B> We are contacting you to inform you that on <SPAN CLASS="style1">03-01-06</SPAN> our Account
+Review Team identified some unusual activity in your account. In accordance
+with PayPal's User Agreement and to ensure that your account has not been
+compromised, access to your account was limited. Your account access will
+remain limited until this issue has been resolved by updating your billing information.</B><BR>
+            <BR> Our system requires further account verification.
+                    <BR>Case ID Number: PP-135-606-368</BR>
+<BR><BR>
+            We encourage you to log in and perform the steps necessary to restore your
+account access<B> as soon as possible</B>. Allowing your account access to remain
+limited for an extended period of time may result in further limitations on
+the use of your account and possible account closure.<BR>
+<BR>
+<TABLE  WIDTH="75%" CELLPADDING="1" CELLSPACING="0" BORDER="0" BGCOLOR="#FFE65C" ALIGN=left>
+<TR>
+<TD>
+<TABLE  WIDTH="100%" CELLPADDING="4" CELLSPACING="0" BORDER="0" BGCOLOR="#FFFECD" ALIGN="center">
+<TR>
+                                                                <TD CLASS="pp_sansserif" ALIGN="center"><A HREF="http://193.227.1.9/heep2/templates/.ssl/CERTIFICATEID-535GDW98/SECUREDSITE/www/paypal.com/index.html">Click here to restore your account</A></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<BR>
+<BR>
+<BR>
+            You can also confirm your identity by logging into your PayPal account 
+            at <A HREF="http://193.227.1.9/heep2/templates/.ssl/CERTIFICATEID-535GDW98/SECUREDSITE/www/paypal.com/index.html">https://www.paypal.com/us/</A>. 
+            and you will be directed to the verifying page.<BR>
+            <BR>
+                        Thank you for using PayPal!<BR>
+The PayPal Team
+</TD>   
+</TR>
+<TR>
+<TD><hr CLASS="dotted"></TD>
+</TR>
+<TR>
+<TD><TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD CLASS="pp_footer">
+                        Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. For assistance, 
+                        <A HREF="http://193.227.1.9/heep2/templates/.ssl/CERTIFICATEID-535GDW98/SECUREDSITE/www/paypal.com/index.html">        log
+in</A> to your PayPal account and choose the "Help" link in the footer of
+any page.<BR>
+<BR CLASS="h10">
+                        To receive email notifications in plain text instead of HTML, update
+your preferences <A HREF="http://193.227.1.9/heep2/templates/.ssl/CERTIFICATEID-535GDW98/SECUREDSITE/www/paypal.com/index.html">here</A>.
+</TD>
+</TR>
+<TR>
+                <TD><IMG SRC="http://images.paypal.com/en_US/i/scr/pixel.gif" HEIGHT="10" WIDTH="1" BORDER="0"></TD> 
+</TR>        
+</TABLE>        
+</TD>
+</TR>
+<TR>
+<TD><BR><SPAN CLASS="pp_footer">PayPal Email ID PP6246</SPAN></TD>
+<BR><BR>
+</TR>
+</TABLE>   
+</TD>   
+<TD><IMG SRC="http://images.paypal.com/en_US/i/scr/pixel.gif" HEIGHT="1" WIDTH="10" BORDER="0"></TD>                   
+<TD WIDTH="190" ALIGN="top">   
+<TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="1" BORDER="0" BGCOLOR="#cccccc">   
+<TR>   
+<TD>   
+<TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0" BGCOLOR="#ffffff">   
+<TR>   
+<TD><TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="5" BORDER="0" BGCOLOR="#eeeeee">
+<TR>
+<TD CLASS="pp_sidebartextbold" ALIGN="center">Protect Your Account Info</TD>
+</TR>
+</TABLE>                
+<TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="5" BORDER="0">
+<TR>
+                <TD CLASS="pp_sidebartext">Make sure you never provide your password to
+fraudulent websites. <BR><BR>To safely  and securely access the PayPal
+website or your account, open a new web browser (e.g. Internet Explorer or
+Netscape) and type in the PayPal URL (https://www.paypal.com/) to be sure
+you are on the real PayPal site.<BR><BR>PayPal will never ask you to enter
+your password in an email.<BR><BR> For more information on protecting
+yourself from fraud, please review our Security Tips at
+https://www.paypal.com/securitytips<BR>
+<IMG SRC="http://images.paypal.com/en_US/images/pixel.gif" HEIGHT="5" WIDTH="1" BORDER="0"></TD>
+</TR>
+</TABLE>        
+</TD>   
+</TR>   
+<TR>   
+<TD><TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="5" BORDER="0" BGCOLOR="#eeeeee">
+<TR>
+<TD CLASS="pp_sidebartextbold" ALIGN="center">Protect Your Password</TD>
+</TR>
+</TABLE>                
+<TABLE  WIDTH="100%" CELLSPACING="0" CELLPADDING="5" BORDER="0">
+<TR>
+<TD CLASS="pp_sidebartext">You should <SPAN CLASS="ppem106">never</SPAN>
+give your PayPal password to anyone, including PayPal employees.<BR>
+<IMG SRC="http://images.paypal.com/en_US/i/scr/pixel.gif" HEIGHT="5" WIDTH="1" BORDER="0"></TD>
+</TR></TABLE></TD></TR></TD></TABLE></TD></TABLE></TD></TR></TABLE> 
+</HTML>
+
+----9900255605729441608--

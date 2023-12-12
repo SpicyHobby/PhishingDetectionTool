@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <validation@commbank.com.au>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id A7774469E5;
+ Fri,  1 Sep 2006 09:05:18 -0400 (EDT)
+Received: from 121.36.126.34 (unknown [121.36.126.34])
+ by mail.example.org (Postfix) with SMTP id B8E356FA5F0;
+ Fri,  1 Sep 2006 09:05:00 -0400 (EDT)
+Received: from 44.60.112.113 by ; Wed, 02 Aug 2006 07:00:51 +0200
+Message-ID: <JXNCKARJVXAITESSJHFKARST@yahoo.com>
+From: "Commonwealth Bank" <validation@commbank.com.au>
+Reply-To: "Commonwealth Bank" <validation@commbank.com.au>
+To: nelson@example.com, beth@example.com, user@example.com
+Subject: Verify your account
+Date: Tue, 01 Aug 2006 23:56:51 -0500
+X-Mailer: AOL 2.0 for Windows US sub 690
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--025587876873564"
+X-Priority: 1
+X-MSMail-Priority: High
+X-IP: 74.91.238.78
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 174
+
+----025587876873564
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>  
+  
+<head>  
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 5.0">  
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">  
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">  
+<title>New Page 1</title>  
+</head>  
+  
+<body>  
+  
+<p>  
+<a href=3D"http://www.accountverificationaus.pk/www3.netbank.commbank.com.=
+au/Logon.htm">  
+<img border=3D"0" src=3D"http://www.accountverificationaus.pk/www3.netbank=
+commbank.com.au/cm2.PNG" width=3D"550" height=3D"220"></a></p>  
+  
+</body>  
+  
+</html>
+
+----025587876873564--

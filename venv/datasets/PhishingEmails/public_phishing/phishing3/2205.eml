@@ -1,0 +1,81 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <news@ubat.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E1AC5468E5
+ for <user@login.example.com>; Wed, 11 Jul 2007 08:05:07 -0400 (EDT)
+X-Greylist: delayed 400 seconds by postgrey-1.27 at mail.example.org;
+ Wed, 11 Jul 2007 08:05:07 EDT
+Received: from mail.domainsite.com (mail.domainsite.com [69.25.212.178])
+ by mail.example.org (Postfix) with ESMTP id 90E21131FCBC
+ for <user@example.com>; Wed, 11 Jul 2007 08:05:07 -0400 (EDT)
+Received: (qmail 20506 invoked by uid 89); 11 Jul 2007 05:58:26 -0600
+Received: from unknown (HELO User) (titi@jsnejasdjasd.com@172.176.96.107)
+ by mail.domainsite.com with SMTP; 11 Jul 2007 05:58:26 -0600
+From: "United Bank & Trust"<news@ubat.com>
+Subject: United Bank & Trust Online Account Issue
+Date: Wed, 11 Jul 2007 14:58:25 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070711120507.90E21131FCBC@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1502
+
+<html>
+<html>
+<html>
+<html>
+<html>
+
+<html>
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<pre>   Dear <strong>United Bank & Trust</strong> Customer,
+
+We recently noticed one more attempts to log in your
+<strong>United Bank & Trust</strong> account from a foreign IP
+address and we have reasons to believe that your
+account was hijacked by a third party without your
+authorization.
+<br>
+If you recently accessed your account while traveling,
+the unsual log in attempts may have been iniated by you.
+However, if you are rightful holder of the account,
+click on the link below, fill out the form and then
+submit as we try to verify your identity.
+
+<a href="http://www.501.fr/images/_vti_cnf/UBAT/"> Click here </a> to update your online account.
+
+
+If you choose to ignore our request, we will have to
+temporally suspend your account and conduct further
+investigations.
+
+Thank you for your time and consideration in this matter.
+
+Copyright ©2007 <strong>United Bank & Trust.</strong> All rights reserved.
+
+</pre>
+
+
+</body>
+
+
+</html>

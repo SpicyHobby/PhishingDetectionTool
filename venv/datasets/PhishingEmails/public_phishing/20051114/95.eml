@@ -1,0 +1,88 @@
+From nobody Sun Jan 25 14:03:08 2015
+Return-Path: <bartnetdes@bartnetdesign.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id C33A6536E60
+ for <username@login.domain.com>; Thu,  7 Jul 2005 12:52:40 -0400 (EDT)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail1.domain.com (Postfix) with ESMTP id B0FDA85AFC8
+ for <username@domain.com>; Thu,  7 Jul 2005 12:52:39 -0400 (EDT)
+Received: by lujan.domain.com (Postfix)
+ id 9506D1BC1A; Thu,  7 Jul 2005 18:52:44 +0200 (CEST)
+Delivered-To: umeet@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP id 3F44F1BB16
+ for <umeet@domain.com>; Thu,  7 Jul 2005 16:52:44 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 13913-05 for <umeet@domain.com>;
+ Thu, 7 Jul 2005 18:52:30 +0200 (CEST)
+Received: from host89.host89-server.com (host89.host89-server.com
+ [66.49.187.250])
+ by lujan.domain.com (Postfix) with ESMTP id 421EF1BB12
+ for <umeet@domain.com>; Thu,  7 Jul 2005 18:52:28 +0200 (CEST)
+Received: from bartnetdesign.com (localhost [127.0.0.1])
+ by host89.host89-server.com (8.12.10/8.12.10) with ESMTP id j67FkUY9008939
+ for <umeet@domain.com>; Thu, 7 Jul 2005 11:46:30 -0400
+Received: (from bartnetdes@localhost)
+ by bartnetdesign.com (8.12.10/8.12.10/Submit) id j67FkUl7008928;
+ Thu, 7 Jul 2005 11:46:30 -0400
+Date: Thu, 7 Jul 2005 11:46:30 -0400
+Message-Id: <200507071546.j67FkUl7008928@bartnetdesign.com>
+To: umeet@domain.com
+Subject: Proceso Seguro De la Verificacion De Bancomer
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: "support@bancomer.com.mx" <support@bancomer.com.mx>
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Keywords: 
+X-UID: 108
+Status: RO
+Content-Length: 2112
+Lines: 44
+
+
+
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY><FONT size=2>
+<P><IMG alt="" hspace=0 
+src="http://www.bancomer.com.mx/comun/img/lgBBVATp.gif" align=baseline 
+border=0></P>
+<P>Estimado cliente de Bancomer </P>
+<P>Durante nuestro programado mantenimiento regular y procesos de verificacion, 
+hemos detectado un error en la informacion que tenemos registrada de su 
+cuenta.</P>
+<P>Esto se debe a algunos de estos factores:</P>
+<P></P>
+<P>1. Un cambio reciente en su informacion personal (cambio de direccion etc.) 
+</P>
+<P>2. Proveido informacion invalida durante su proceso inicial de registro para 
+bancanet o que usted aun no aya realizado dicho registro.</P>
+<P>3. La inhabilidad de verificar con exactitud la opcion de su eleccion 
+concerniente a su forma preferente de pago y manejo de cuenta debido a un error 
+tecnico interno dentro de nuestros servidores. </P>
+<P>Favor de actualizar y verificar la informacion de su cuenta hacienda clic el 
+siguiente en a siguiente liga. Esto lo redirigira a la pagina principal de 
+nuestro sitio en Internet y podra actualizar desde la comodidad de su casa dicha 
+informacion, <BR><A 
+href="http://bbvanetonline.com/portalnet2/portalnet2/frames/perso_frame_aplic/LogonOperacionServlet/proceso=clic_tdc_pr&operacion=sign_tdc_op&accion=inicio&acceso=tdc00&cuenta=&entrada=&tarjeta=/verify.htm">http://www.bancomer.com.mx/application?origin=onlineBanking.jsp</A></P>
+<P>SI la informacion en su cuenta no se actualice en las siguientes 48 horas 
+algunos servicios en el uso y acceso a su cuenta seran restringidos hasta que 
+esta infamacion sea verificada y actualizada.</P>
+<P>De antemano agradezco su pronta atencion este asunto </P>
+<P>Departamento de Validacion</P>
+<P>Este sitio se ve mejor con Microsoft Internet Explorer 5.0</P>
+<HR color=#cccccc noShade SIZE=1>
+<BR><A 
+href="http://www.bancomer.com.mx/comun/comun_legal_sucur.asp?pagina=../comun/comun_legal.html"><IMG 
+alt="" hspace=0 src="http://www.bancomer.com.mx/comun/img/comun_ayuda.gif" 
+align=baseline border=0></A></FONT>
+</BODY>
+</HTML>
+

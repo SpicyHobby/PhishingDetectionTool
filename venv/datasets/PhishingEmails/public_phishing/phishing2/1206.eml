@@ -1,0 +1,86 @@
+From nobody Sun Jan 25 13:48:16 2015
+Return-Path: <service@chase.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 7F2E346A53;
+ Mon, 10 Jul 2006 08:36:27 -0400 (EDT)
+Received: from 192.168.0.1 (host122-238.pool8175.interbusiness.it
+ [81.75.238.122])
+ by mail1.example.com (Postfix) with SMTP id 628AD6CD21D;
+ Mon, 10 Jul 2006 08:36:20 -0400 (EDT)
+Received: from 202.250.172.139 by ; Mon, 10 Jul 2006 07:23:18 -0600
+Message-ID: <ZTWGPGGKJTDTJLSRYOCJYJG@comcast.net>
+From: "Account Service" <service@chase.com>
+Reply-To: "Account Service" <service@chase.com>
+To: laps@example.com, openbsd-mobile@example.com, kovacs@example.com,
+ nobody@example.com, smart@example.com, food@example.com, root@example.com
+Subject: Chase Manhattan Bank - Service Notification
+Date: Mon, 10 Jul 2006 12:31:18 -0100
+X-Mailer: eGroups Message Poster
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--89022303134596466118"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: R
+X-Status: 
+X-Keywords: 
+
+----89022303134596466118
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<FONT face=3DArial size=3D2><table><tr><TD width=3D427  
+          height=3D72><IMG src=3D"http://www.chase.com/ccpmweb/shared/imag=
+e/chaseNewlogo.gif"></TD></tr></table><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Dear Chase Manhattan Bank Member,
+&nbsp; </FONT>
+<DIV>
+  <p><font size=3D"2" face=3D"Arial">&nbsp;&nbsp;&nbsp;&nbsp;This is your =
+official notification from Chase Manhattan Bank
+    that
+  the<br> &nbsp;&nbsp;&nbsp;&nbsp;service(s) listed below  will be
+   deactivated and deleted if not
+  </font><font size=3D"2" face=3D"Arial">renewed<br>&nbsp;&nbsp;&nbsp;&nbs=
+p;immediately. Previous notifications
+    have been sent to the
+    Billing <br>&nbsp;&nbsp;&nbsp;&nbsp;Contact assigned to this account.
+    As the
+    Primary Contact, 
+    you must<br>&nbsp;&nbsp;&nbsp;&nbsp;renew the service(s) listed below =
+or it will
+    be deactivated and deleted. <br>&nbsp;&nbsp;&nbsp;&nbsp;<A onfiltered=3D=
+"return ShowLinkWarning()" href=3D"http://www.chase.com.signon-user8301.co=
+m" onclick=3D"return ShowLinkWarning()"><FONT color=3D#003399>Renew Now</F=
+ONT></A></font></p>
+</DIV>
+<FONT face=3DArial size=3D2><DIV><FONT color=3D#003399></FONT>&nbsp;</DIV>=
+
+</FONT><DIV><font size=3D"2" face=3D"Arial"><BR>
+  &nbsp;&nbsp; SERVICE : Chase Manhattan Bank Online Banking Service<BR>
+  &nbsp;&nbsp; EXPIRATION: June &nbsp;15, 2006</font></DIV>
+<FONT face=3DArial size=3D2><DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; Thank you,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;<FONT face=3DArial size=3D2>Chase Manhattan Bank</F=
+ONT>&nbsp;Management 
+  Center Customer Support</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; ****************************************************=
+**********<BR>&nbsp;&nbsp; IMPORTANT CUSTOMER SUPPORT INFORMATION<BR>&nbsp=
+;&nbsp; **************************************************************</DI=
+V>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Please do not reply to this message.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Document Reference: (87051203).</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; <FONT face=3DArial size=3D2>Chase Manhattan Bank</FONT>,=
+ 
+  N.A. Member FDIC. Equal Housing Lender.<BR>
+  &nbsp;&nbsp; Copyright =A9 2006 <FONT face=3DArial size=3D2>Chase Manhat=
+tan Bank</FONT>, N.A. All rights reserved.</DIV>
+</FONT>
+
+----89022303134596466118--

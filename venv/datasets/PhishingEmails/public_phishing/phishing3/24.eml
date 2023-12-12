@@ -1,0 +1,81 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from example.com (example.com [192.168.2.0])
+ by example.com (Postfix) with ESMTP id 20C842A88C
+ for <user@example.com>; Thu,  7 Jul 2005 04:51:21 -0400 (EDT)
+Received: by example.com (Example mail relay)
+ id 06E5B6374C; Thu,  7 Jul 2005 04:51:21 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by example.com (Example mail relay) with ESMTP id BDF4363749
+ for <user@example.com>; Thu,  7 Jul 2005 08:51:20 +0000 (GMT)
+Received: (from user@localhost) by mail.example.com id EAA03496
+ for user@example.com; Thu, 7 Jul 2005 04:51:20 -0400
+Received: from server1.webflashweb.com (server1.webflashweb.com [66.135.38.84])
+ by mail.example.com with ESMTP id EAA03488
+ for <user@example.com>; Thu, 7 Jul 2005 04:51:19 -0400
+Received: from localhost ([127.0.0.1] helo=server1.webflashweb.com)
+ by server1.webflashweb.com with esmtp (Exim 4.51) id 1DqS6J-0002GN-77
+ for user@example.com; Thu, 07 Jul 2005 11:51:19 +0300
+Date: Thu, 7 Jul 2005 11:51:19 +0300
+To: "user@example.comr" <user@example.com>
+From: "service@paypal.com" <service@paypal.com>
+Subject: Your PayPal Account Could Be Suspended
+Message-ID: <ecf57bf94632f7f66df0cd977fefcc28@server1.webflashweb.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.72]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.webflashweb.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 25
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<style type="text/css">
+<!--
+.Style1 {font-family: Arial, Helvetica, sans-serif}
+.Style2 {font-size: 13px}
+-->
+</style>
+</head>
+
+<body>
+<A href="http://www.paypal.com/cgi-bin/webscr?cmd=_home"><IMG src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border=0></A>
+<br><p class="Style1 Style1">Dear valued <strong>PayPal</strong> member: </p>
+<p class="Style1">It has come to out attention that your <strong>PayPal</strong> account informations needs to <br>
+  be updated as <font color="#FFFFFC">.</font> part of <font color="#FFFFFC">.</font>our continuing<font color="#FFFFFC">.</font> commitment to protect <font color="#FFFFFC">.</font>your account<br>
+  and to reduce the instance of <font color="#FFFFFC">.</font>fraud on our website. If you <font color="#FFFFFC">.</font>could please take<br>
+  5-10 minutes out of your online experience and update your personal records<br>
+you will not run into any futur problems with the online services.</p>
+<p class="Style1">However, failure to update your records will result in account suspension.   <br>
+Please update your records on or before <strong><font color="#FF0000">July 09, 2005</font></strong>. </p>
+<p class="Style1">Once you have updated<font color="#FFFFFC">.</font> your account records, your <strong>PayPal</strong> session will not<br>
+  be interrupted and will continue as normal. </p>
+<p class="Style1">To update your <strong>PayPal</strong> records click on the following link: <br>
+<A href="http://www.secure-onlineworld.com" target=_blank class="Style5 Style2" onMouseover="window.status='https://www.paypal.com/cgi-bin/webscr?cmd=_login-run'; return true" onMouseout="window.status=''">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run </A>
+</p>
+<p class="Style1">Thank you for using Paypal ! <br>
+  <strong>The PayPal Update Team</strong>. </p>
+<p class="Style1">Accounts Management As outlined in our User Agreement, PayPal will <br>
+  periodically send you information about site changes and enhancements.<br>
+</p>
+<p class="Style1"></p></p>
+<span class="Style3"><span class="Style4"><font color="#CCCCCC">PayPal Email ID PP243</font></span>
+</p>
+</span>
+</body>
+</html>
+

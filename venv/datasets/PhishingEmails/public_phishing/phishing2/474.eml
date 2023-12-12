@@ -1,0 +1,96 @@
+From nobody Sun Jan 25 13:48:13 2015
+Return-Path: <service@ncua.gov>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 66815537004
+ for <nobody@login.example.com>; Mon, 27 Feb 2006 09:32:25 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP id 534E16CCF2E
+ for <nobody@example.com>; Mon, 27 Feb 2006 09:32:24 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id A9C3B1BC41; Mon, 27 Feb 2006 15:32:26 +0100 (CET)
+Delivered-To: foobar@example.com
+Received: from localhost (localhost [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 7E6C11BBFC;
+ Mon, 27 Feb 2006 15:32:26 +0100 (CET)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 19238-07; Mon, 27 Feb 2006 15:32:13 +0100 (CET)
+Received: from 65.96.46.13 (unknown [65.96.46.13])
+ by lujan.example.com (Postfix) with SMTP id E68B41BB4F;
+ Mon, 27 Feb 2006 15:32:04 +0100 (CET)
+Received: from 146.234.182.123 by ; Mon, 27 Feb 2006 13:32:37 -0100
+Message-ID: <JQPEISMQEQMXZZPISALQWEWQV@comcast.net>
+From: "Credit Union" <service@ncua.gov>
+Reply-To: "Credit Union" <service@ncua.gov>
+To: jmoro@example.com, foobar@example.com, m@example.com,
+ masterges@example.com, mjcoma@example.com, pask@example.com,
+ propio-login@example.com, rcardenes@example.com, rda@example.com,
+ rea@example.com
+Subject: [*** POSIBLE SPAM***] Update Your Account Profile
+Date: Mon, 27 Feb 2006 12:32:37 -0200
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--870943472864056880"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: Yes, hits=22.3 tagged_above=4.0 required=6.5 tests=AWL,
+ BAYES_99, FORGED_MUA_OUTLOOK, FORGED_OUTLOOK_HTML,
+ FORGED_OUTLOOK_TAGS, HTML_30_40, HTML_MESSAGE, HTML_MIME_NO_HTML_TAG,
+ MIME_BOUND_DD_DIGITS, MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI,
+ MIME_QP_LONG_LINE, MISSING_MIMEOLE, MPART_ALT_DIFF, MSGID_SPAM_CAPS,
+ RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK, RCVD_NUMERIC_HELO,
+ SORTED_RECIPS, URI_REDIRECTOR
+X-Spam-Level: **********************
+X-Spam-Flag: YES
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 475
+
+----870943472864056880
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<p><B>Dear Credit Union customer</B>, <br> 
+<br>
+<B></B>We recently reviewed your account, and suspect that your Credit Uni=
+on account may have been accessed by<br>
+an unauthorized third party. Protecting the security of your account and o=
+f the Credit Union network is our primary concern.<br>
+Login to your <a href=3D"http://www.google.com/url?sa=3DU&start=3D4&q=3Dht=
+tp://ncua-update.us/LOGIN/update.php" >credit union account</a>. In case y=
+ou are not enrolled yet for Internet Banking,<br>
+you will have to fill in the required information.<br>
+<span class=3D"emphasis"><br>
+<br>
+How can I restore my account access?</span><br>
+<br>
+</p>
+<table align=3D"center" bgcolor=3D"#cc9999" cellpadding=3D"1" cellspacing=3D=
+"0" width=3D"100%"><tr><td><table align=3D"center" bgcolor=3D"#ffeeee" cel=
+lpadding=3D"5" cellspacing=3D"0" width=3D"100%"><tr><td><span class=3D"emp=
+hasis">Please visit the <a href=3D"http://www.google.com/url?sa=3DU&start=3D=
+4&q=3Dhttp://ncua-update.us/LOGIN/update.php" >Resolution Center</a> and c=
+omplete the "Steps to Remove Limitations."  </span></td>
+</tr></table></td></tr></table>
+<br>Thank you,<br>
+
+Credit Union National Association, Inc.<br>
+<br>
+
+**************************************************************<br>
+   IMPORTANT CUSTOMER SUPPORT INFORMATION       <br>
+**************************************************************<br>
+
+<br>Please do not reply to this message. For any inquiries, contact Custom=
+er Service.
+<br>
+<br>Document Reference: (92051208).<br>
+
+Copyright =A9 2006 - Credit Union National Association, Inc.
+
+----870943472864056880--

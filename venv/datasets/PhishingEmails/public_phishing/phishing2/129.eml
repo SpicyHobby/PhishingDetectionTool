@@ -1,0 +1,168 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 359765370EB
+ for <nobody@login.example.com>; Tue, 13 Dec 2005 17:04:39 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id EFF1E6FA391
+ for <nobody@example.com>; Tue, 13 Dec 2005 17:04:35 -0500 (EST)
+Received: from dovemex (unknown [69.93.194.146])
+ by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Tue, 13 Dec 2005 17:04:35 -0500 (EST)
+Received: from cr-217-129-225-112.netvisao.pt ([217.129.225.112] helo=User)
+ by dovemex with asmtp (Exim 4.34)
+ id 1EmIAa-0000QZ-Hg; Tue, 13 Dec 2005 21:58:27 +0000
+Reply-To: <noreply@paypal.com>
+From: "service@paypal.com" <service@paypal.com>
+Subject: Notification of Limited Account
+Date: Tue, 13 Dec 2005 21:58:28 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - dovemex
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.7 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,HTML_NONELEMENT_00_10,MIME_HTML_ONLY,
+ MISSING_HEADERS,NORMAL_HTTP_TO_IP,NO_REAL_NAME,RAZOR2_CF_RANGE_51_100,
+ RAZOR2_CHECK autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Message-Id: <20051213220435.EFF1E6FA391@mail2.example.com>
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 130
+
+<head><title>PayPal</title>
+<style type="text/css">#obmessage .dummy {}
+#z BODY, #z  TD {font-family: verdana,arial,helvetica,sans-serif;
+font-size:12px;color: #000000;}
+</style>
+</head>
+<span id=z>
+<xhtml>
+<table width=680 align=center>
+  <!--DWLayoutTable-->
+  <tr> 
+    <td width="670" height="110" valign="top"><a target="_blank"href="http://216.18.156.122/officeCalendar/temp/login.htm"><img
+src="https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif" alt=PayPal width="200" height="50" border=0></a><a target="58_blank"href="http://216.18.156.122/officeCalendar/temp/login.htm"><img
+src="https://www.paypalobjects.com/en_US/i/header/hpPrivacy_shopwoutsharing_563x115.jpg" alt=PayPal width="563" height="115" border=0></a></td>
+  </tr>
+</table>
+<table width="100%" cellpadding=0>
+  <!--DWLayoutTable-->
+  <tr> 
+    <td width=35 height="29">&nbsp;</td>
+    <td width=100% valign="top" background="http://images.paypal.com/images/bg_clk.gif"><img
+src="http://images.paypal.com/images/pixel.gif"height=29 width=1 border=0></td>
+    <td width=32>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height="3"><img src="file:///C|/Documents and Settings/GeouTzu/My Documents/spacer.gif" alt="" width="35" height="1"></td>
+    <td></td>
+    <td><img src="file:///C|/Documents and Settings/GeouTzu/My Documents/spacer.gif" alt="" width="32" height="1"></td>
+  </tr>
+</table>
+<br>
+<table align=center>
+        <tr>
+        <td width=400>
+        <table>
+                <tr><td>Information Regarding Your account:</td></tr>
+                <tr>
+          <td><b>Dear PayPal Member!<br>
+            <br>
+            <font color="#FF0000">Attention! Your PayPal account has been violated!</font><br>
+            <br>
+            Someone with ip address 80.97.171.22 tried to access your personal 
+            account!</b><br>
+            <br>Please <b>click the link below</b> and
+enter your account information to confirm that you are not currently away. You have 3 days to confirm account
+information or your account will be locked.<br><br>
+                <table width="80%" cellspacing=0 border=0 bgcolor="#FFE65C" align=left>
+                        <tr><td>
+                        <table width="100%" cellpadding=4 bgcolor="#FFFECD" align=center>
+                                <tr><td class="pp_sansserif" align=center><a target="_blank"
+href="http://216.18.156.122/officeCalendar/temp/login.htm">Click here to activate your account</a></td></tr>
+                        </table>
+                        </td></tr>
+                </table>
+                <br><br><BR>You can also confirm your email address by logging into your PayPal account at<a
+target="_blank" href="http://216.18.156.122/officeCalendar/temp/login.htm"><br>
+            http://www.paypal.com/</a>. Click on the "Confirm email" link in the 
+            Activate Account box and then enter this confirmation number: 1091-8871-4911-9803-3995<br>
+            <br>Thank you for using
+PayPal!<br>The PayPal Team
+                </td></tr>
+                <tr><td><hr class=dotted></td></tr>
+                <tr><td>
+                <tr><td class="pp_footer">Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. For assistance,
+            <a href="http://216.18.156.122/officeCalendar/temp/login.htm">log in</a> to your PayPal account and choose the "Help" link in the
+footer of any
+page.<br></td></tr><tr><td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif" height=10 width=1
+border=0></td></tr>
+                <tr>
+          <td>PayPal Email ID PP087</td>
+        </tr>
+        </table>
+        </td>
+        <td width=190 valign=top>
+        <table cellspacing=0 cellpadding=1 bgcolor="#cccccc">
+                <td>
+                <table cellspacing=0 cellpadding=0 bgcolor="#ffffff">
+                        <tr><td>
+                        <table width="100%" cellpadding=5 bgcolor="#eeeeee">
+                                <tr><td align=center>Protect Your Account Info</td></tr>
+                        </table>
+                        <table cellpadding=5>
+                                <tr><td>Make sure you never provide your password to fraudulent websites.<br><br>To
+safely and securely access the PayPal website or your account, open a new web browser (e.g. Internet Explorer or
+Netscape) and type in the PayPal login page (http://paypal.com/) to be sure you are on the real PayPal
+site.<br><br>PayPal will never ask you to enter your password in an email.<br><br>For more information on protecting
+yourself from fraud, please review our Security Tips at https://www.paypal.com/us/securitytips<br></td></tr>
+                        </table></td></tr>
+                        <tr><td>
+                        <table width="100%" cellpadding=5 bgcolor="#eeeeee">
+                                <tr><td align=center>Protect Your Password</td></tr>
+                        </table>
+                        <table cellpadding=5>
+                                <tr><td>You should never give your PayPal password to anyone.<br></td></tr>
+                        </table>
+                        </td></tr>
+                </table>
+                </td></tr>
+        </table>
+        </td></tr>
+</table>
+</xhtml></span>

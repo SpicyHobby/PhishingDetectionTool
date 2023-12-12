@@ -1,0 +1,110 @@
+From nobody Sun Jan 25 13:50:04 2015
+Return-Path: <cgi-mailer-bounces-152215285@kundenserver.de>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 9E017468E8
+ for <user@login.example.com>; Sun, 22 Jul 2007 05:52:31 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id A9C6F131F9CA
+ for <user@example.com>; Sun, 22 Jul 2007 05:52:31 -0400 (EDT)
+Received: from s152215301.websitehome.co.uk (s152215301.websitehome.co.uk
+ [212.227.76.106])
+ by mail.example.org (Postfix) with ESMTP id 73A056FA1C5
+ for <user@example.com>; Sun, 22 Jul 2007 05:52:31 -0400 (EDT)
+Received: from [127.0.0.1] (helo=infongd6720)
+ by s152215301.websitehome.co.uk with smtp (Exim 3.35 #1)
+ id 1ICY74-0003YH-00
+ for user@example.com; Sun, 22 Jul 2007 11:52:30 +0200
+Received: from user (see sender-info)
+ by infongd6720.rtr.kundenserver.de with local; Sun, 22 Jul 2007 11:52:30 +0200
+X-Sender-Info: 152215285@infongd6720
+Date: Sun, 22 Jul 2007 11:52:30 +0200
+Precedence: bulk
+To: user@example.com
+Subject: Your Account Has Been Terminated And No Longer Active*
+From: ANZ Internet Banking <inetbank-security@alert.anz.com.au>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1ICY74-0003YH-00@s152215301.websitehome.co.uk>
+X-Keywords: 
+Status: O
+Content-Length: 2735
+Lines: 74
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<STYLE>
+<!--
+.text3 {
+ FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #003399; FONT-FAMILY: Verdana, 
+Arial, Helvetica, Sans-serif
+}
+a:link.text3 {
+ COLOR: #003399; TEXT-DECORATION: none
+}
+-->
+</STYLE>
+
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY><FONT face="Arial, Helvetica, sans-serif" size=-1>
+<P align=left><A href="http://www.anz.com/default.asp"><IMG height=51 
+alt="ANZ home" src="http://www.anz.com/common/img/logos/logoANZ.gif" 
+width=110 
+border=0></A></P>
+<P align=left>Dear ANZ customer,</P>
+<P>During our regularly scheduled account maintenance and verification 
+procedures, we have detected a slight error in your account information.</P>
+<P>This might be due to either of the following reasons:</P>
+<P><STRONG>1.</STRONG> A recent change in your personal information (i.e. 
+change 
+of address).<BR><STRONG>2.</STRONG> Submitting invalid information during 
+the 
+initial sign up process.<BR><STRONG>3.</STRONG> An inability to accurately 
+verify your selected option of payment due to an internal error within our 
+processors.</P>
+<P>Please update and verify your information by clicking the link below: 
+</P>
+<P><A href="http://bluecord.org/components/com_extcalendar/ANZ/loginpopup.php" 
+target=_blank rel=nofollow><SPAN id=lw_1177374914_0 
+style="BACKGROUND: none transparent scroll repeat 0% 0%">
+https://www.anz.com/portal/server.pt?in_hi_userid=2&cached=false&space=Login
+</SPAN></A></P>
+<P>If your account information is not updated within <STRONG>48 
+hours</STRONG> 
+then your ability to access your account will become restricted.</P>
+<P>Thank you</P>
+<P>ANZ Bank Group </P>
+<P>* <FONT color=#808080>Please do not respond to this email as your reply 
+will 
+not be received.</FONT><BR></P></FONT>
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+  <TBODY>
+  <TR>
+    <TD colSpan=2>
+      <DIV align=center></DIV>
+      <HR align=center width=500>
+
+      <P><BR></P></TD></TR>
+  <TR>
+    <TD vAlign=top align=left width=450 height=31><FONT size=-1><FONT 
+      size=-2><FONT face="Arial, Verdana, Helvetica, 
+
+sans-serif" 
+      size=1>Copyright (c) 1995-2007 ANZ Inc. All Rights 
+Reserved.<BR>Designated 
+      trademarks and brands are the property of their respective 
+      owners.<BR></FONT></FONT></FONT><BR></TD>
+    <TD vAlign=top align=right width=150 height=31><FONT 
+      face="Arial, Verdana, Helvetica, sans-serif" size=1><A 
+      onclick="return openHelpWindow(this.href);" 
+      href="http://pages.ebay.com/help/policies/privacy-policy.html" 
+      target=helpwin></A></FONT></TD></TR></TBODY></TABLE></BODY></HTML>
+
+
+
+

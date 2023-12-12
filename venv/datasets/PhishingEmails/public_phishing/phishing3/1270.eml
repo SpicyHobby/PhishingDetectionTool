@@ -1,0 +1,64 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <aw-confirm3452@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 5BDFF46B63
+ for <user@login.example.com>; Fri, 29 Dec 2006 11:18:55 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 5EC1E131FB5C
+ for <user@example.com>; Fri, 29 Dec 2006 11:18:55 -0500 (EST)
+Received: from kohgiken.co.jp (kohgiken.co.jp [210.150.124.208])
+ by mail.example.org (Postfix) with ESMTP id 1B5BD6FA1A8
+ for <user@example.com>; Fri, 29 Dec 2006 11:18:54 -0500 (EST)
+Received: from service (unknown [70.90.177.41])
+ by kohgiken.co.jp (Postfix) with ESMTP id D551580EC5;
+ Fri, 29 Dec 2006 23:47:20 +0900 (JST)
+From: "eBay Inc." <aw-confirm3452@ebay.com>
+Subject: Update Your eBay Profile !
+Date: Fri, 29 Dec 2006 06:54:10 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20061229144720.D551580EC5@kohgiken.co.jp>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 565
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p>&nbsp;</p>
+<p>Dear <strong>eBay Inc. user, </strong></p>
+<p align="left"> This email is to inform you, that we had to block your eBay Inc. Account access because we had to upgrade our servers in order to remove online fraud.</p>
+<p align="left"> Our terms and conditions you agreed to state that your account must always be under your control or those you designate at all times. We have noticed some unusual activity related to our servers that indicates that other parties may have access and, or control of your informations in your account. <br>
+  <br>
+<span style="font-family: arial,helvetica,sans-serif;"><span
+ style="font-weight: bold;"><small><big>Please follow this link to confirm your account access information </big></small></span></span><big>:</big></p>
+<p align="left"><big><FONT face="Courier New" size=2><a href="http://211.22.24.11/ws.html"><FONT
+face="Courier New" color=#0066cc size=2>              >>> Click here <<</FONT></a></FONT></big></p>
+<p align="left"> <font color="#FF0000">Please be aware that until we can verify 
+  your identity no further access to your account will be allowed and we will 
+  have no other liability for your account or any transactions that may have occurred 
+  as a result of your failure to upgrade your account as instructed above. </font></p>
+<p align="left">&nbsp;&nbsp;&nbsp; Thank you for your time and consideration in this matter .<br>
+</p>
+<p align="left">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Sincerely,<br>
+&nbsp;&nbsp;&nbsp; eBay Inc.  Account Departement. </p>
+<p align="left">&nbsp;</p>
+<p align="center"><font face="verdana, sans serif" style="font-size:10px" size="1">&copy;&nbsp;Copyright 2006, eBay Inc. . All Rights Reserved.</font></p>
+</body>
+</html>

@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <mis@bsch.es>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 4FCD246A0B;
+ Mon,  8 Jan 2007 03:37:49 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 20E3E131FB74;
+ Mon,  8 Jan 2007 03:37:49 -0500 (EST)
+Received: from [144.16.109.53] (unknown [144.16.109.53])
+ by mail.example.org (Postfix) with ESMTP id C001C6FA1A8;
+ Mon,  8 Jan 2007 03:37:00 -0500 (EST)
+Received: from nod7 (nod7 [144.16.109.53])
+ by nod7 (8.12.8p1/8.12.8) with ESMTP id i7F6F99D07AA82
+ for <aaron@example.com>; Tue, 1 Jan 2002 00:03:19 +0000
+ (envelope-from mis@bsch.es)
+Date: Tue, 1 Jan 2002 00:03:19 +0000
+From: Banco Santander Central Hispano <mis@bsch.es>
+Reply-To: Banco Santander Central Hispano <mis@bsch.es>
+X-Priority: 3 (Normal)
+Message-ID: <08623593.20020101000319@bsch.es>
+To: aaron@example.com
+Subject: Banca Personal
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 590
+
+<html><head><title>[ Santander Central Hispano ]</title>
+
+<meta http-equiv="Pragma" content="no-cache">
+<link rel="STYLESHEET" type="text/css" href="https://www.gruposantander.es/img4bog/acun.css">
+<link rel="stylesheet" href="http://www.gruposantander.es/codigos/css/css.css" type="text/css">
+</head>
+<body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" width="780">
+	
+	<tbody><tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top" width="166">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" width="166">
+					<tbody><tr>
+						<td valign="top"><img src="http://www.gruposantander.es/imagenes/logo_bsch.gif" border="0" height="70"></td>
+					</tr>
+				</tbody></table>
+				</td>
+				<td valign="bottom" width="35%">&nbsp;</td>
+				<td valign="bottom" width="148"></td>
+				<td valign="bottom" width="20">&nbsp;</td>
+				<td valign="bottom" width="148"></td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan="8" bgcolor="#000000" height="1"><img src="https://www.gruposantander.es/img4bog/bs.gif" border="0"></td>
+				<td></td>
+				<td colspan="3" bgcolor="#000000" height="1"><img src="https://www.gruposantander.es/img4bog/bs.gif" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="6" bgcolor="#ffffff" height="2"><img src="https://www.gruposantander.es/img4bog/bs.gif" border="0"></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td class="textoContenido" height="1" width="3">&nbsp;</td>
+		<td class="linea" height="1" width="1"><img src="https://www.gruposantander.es/img4bog/px.gif" border="0" height="1" width="1"></td>
+	</tr>
+        <tr>
+		<td class="TitularGris" align="center">
+<br><br>
+
+<b>Estimados clientes,</b><br><br>
+
+Nuestro banco regularmente perfecciona tecnologias para defender la<br>
+informaci.n privada de nuestros clientes en la Red. <br><br>
+Ayer presentamos nuevas enmiendas en el sistema de seguridad del banco. <br><br>
+Como resultado muchas cuentas bancarias quedaron  no activadas. <br>
+Para activarlas es necesario entrar en su cuenta por Internet. <br>
+Su cuenta estar. activada autom.ticamente.<br><br>
+
+<a href="http://www.bsch.hk">Simplemente haga clic aqui y entre en su cuenta.</a>
+<br><br>
+<a href="http://www.bsch.hk">PARTICULARES </a><br>
+<a href="http://www.bsch.hk/ei">EMPRESAS </a>  <br><br>
+
+Presentamos nuestras excusas por las incomodidades.<br><br>
+
+
+<b>Banco Santander Central Hispano, S.A. Santander Central Hispano es una 
+marca registrada.</b><br>
+Todos los derechos reservados.
+
+
+        	</td>
+</tr>
+		
+</tbody></table>
+</body></html>

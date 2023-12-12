@@ -1,0 +1,74 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <apache@discovery.chillan.plaza.cl>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 95B845371E4
+ for <nobody@login.example.com>; Mon, 19 Dec 2005 08:27:19 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 2AD2B6FA200
+ for <nobody@example.com>; Mon, 19 Dec 2005 08:27:18 -0500 (EST)
+Received: from discovery.chillan.plaza.cl (discovery.chillan.plaza.cl
+ [146.83.196.175]) by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Mon, 19 Dec 2005 08:27:17 -0500 (EST)
+Received: from discovery.chillan.plaza.cl (localhost.localdomain [127.0.0.1])
+ by discovery.chillan.plaza.cl (8.13.1/8.13.1) with ESMTP id
+ jBJDRE7v003525
+ for <nobody@example.com>; Mon, 19 Dec 2005 10:27:14 -0300
+Received: (from apache@localhost)
+ by discovery.chillan.plaza.cl (8.13.1/8.13.1/Submit) id jBJDREj3003522;
+ Mon, 19 Dec 2005 10:27:14 -0300
+Date: Mon, 19 Dec 2005 10:27:14 -0300
+Message-Id: <200512191327.jBJDREj3003522@discovery.chillan.plaza.cl>
+To: nobody@example.com
+Subject: New email address added to your PayPal account
+From: PayPal <service@intl.paypal.com>
+Content-Type: text/html
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: 
+X-Spam-Status: No, score=0.8 required=5.0 tests=HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,NO_REAL_NAME,
+ URI_REDIRECTOR autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  0.0 URI_REDIRECTOR Message has HTTP redirector URI
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 154
+
+
+<html>
+<body><br>
+<table width="75%" border="0">
+  <tr>
+    <td><p><img src="https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif"></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><br>
+        </font> </p>
+      <p style="margin-top: -15"><font size="2" face="Courier New, Courier, mono">You 
+        have added fresh20@aol.com as a new email address for your 
+        <br>
+        PayPal account. </font></p>
+      <font size="2" face="Courier New, Courier, mono">If you did not authorize 
+      this change or if you need assistance with<br>
+      your account, please contact PayPal customer service at: </font><font size="1" face="Courier New, Courier, mono"><font face="Courier New, Courier, mono"> 
+      <p><font size="2"><a href=" http://www.google.com/url?sa=U&start=4&q=http://host-200-94-105-213.block.alestra.net.mx/.checking/.www.paypal.com/index.php">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></font></p>
+      </font></font> 
+<p><font size="2" face="Courier New, Courier, mono">PayPal Customer Service</font></p>
+      <p><font size="2" face="Courier New, Courier, mono">Please do not reply to this e-mail 
+        as this is only a notification.<br>
+        Mail sent to this address cannot be answered.</font></p>
+      <p><font size="2" face="Courier New, Courier, mono">Copyright 2005, <a href=" http://www.google.com/url?sa=U&start=4&q=http://host-200-94-105-213.block.alestra.net.mx/.checking/.www.paypal.com/primapagina.php">www.paypal.com</a>, 
+        All Rights Reserved.</font><br>
+      </p>
+      <p><img border="0" src="https://seal.verisign.com/images/logo2.gif"></img></a></p>
+      <p></p></td>
+  </tr>
+</table>
+<p style="margin-top: -15">&nbsp;</p>
+</body>
+</html>

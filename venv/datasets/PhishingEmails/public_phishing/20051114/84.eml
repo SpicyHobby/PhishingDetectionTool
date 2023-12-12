@@ -1,0 +1,111 @@
+From nobody Sun Jan 25 14:03:08 2015
+Return-Path: <confirm@ncua.gov>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id 2E411536E19
+ for <username@login.domain.com>; Sun,  3 Jul 2005 18:22:22 -0400 (EDT)
+Received: from lujan.domain.com (domain.com [192.168.98.21])
+ by mail1.domain.com (Postfix) with ESMTP id 137A385ADA7
+ for <username@domain.com>; Sun,  3 Jul 2005 18:22:21 -0400 (EDT)
+Received: by lujan.domain.com (Postfix)
+ id DD2BC1BBE8; Mon,  4 Jul 2005 00:22:20 +0200 (CEST)
+Delivered-To: josu@domain.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.domain.com (Postfix) with ESMTP id EB2991BB4B
+ for <josu@domain.com>; Sun,  3 Jul 2005 22:22:17 +0000 (UTC)
+Received: from lujan.domain.com ([192.168.98.21])
+ by localhost (lujan [192.168.98.21]) (amavisd-new, port 10024)
+ with ESMTP id 01822-04 for <josu@domain.com>;
+ Mon, 4 Jul 2005 00:21:50 +0200 (CEST)
+Received: from localhost.localdomain (unknown [62.193.227.15])
+ by lujan.domain.com (Postfix) with ESMTP id 66BF81BBE7
+ for <josu@domain.com>; Mon,  4 Jul 2005 00:21:49 +0200 (CEST)
+Received: (qmail 6591 invoked from network); 3 Jul 2005 00:58:42 -0000
+Received: from vds-355367.amen-pro.com (HELO 62.193.227.15) (62.193.212.129)
+ by 62.193.227.15 with SMTP; 3 Jul 2005 00:58:42 -0000
+Received: from 60.48.59.230 by ; Sun, 03 Jul 2005 07:58:34 +0600
+Message-ID: <PVAOAAOGKYODMHKLNUIEKT@msn.com>
+From: "acc-activate@ncua.gov" <protection@ncua.gov>
+Reply-To: "acc-activate@ncua.gov" <support@ncua.gov>
+To: jostucker@iupui.edu, jostuni@mail.cc.nih.gov, josu@bc.edu, josu@domain.com
+Subject: FCU NOTICE: Important security renewal
+Date: Sat, 02 Jul 2005 23:57:34 -0200
+X-Mailer: The Bat! (v1.52f) Business
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--86405085979899647"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at domain.com
+X-Spam-Status: Yes, hits=27.1 tagged_above=4.0 required=6.5 tests=AWL,
+ BAYES_99, FORGED_MUA_THEBAT_BOUN, FORGED_THEBAT_HTML, HTML_40_50,
+ HTML_IMAGE_ONLY_20, HTML_MESSAGE, MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI, MISSING_MIMEOLE,
+ MPART_ALT_DIFF, MSGID_SPAM_CAPS, NORMAL_HTTP_TO_IP, PYZOR_CHECK,
+ RAZOR2_CF_RANGE_51_100, RCVD_BY_IP, RCVD_HELO_IP_MISMATCH,
+ RCVD_IN_BL_SPAMCOP_NET, RCVD_NUMERIC_HELO
+X-Spam-Level: ***************************
+X-Spam-Flag: YES
+X-Keywords: 
+X-UID: 97
+Status: RO
+Content-Length: 1894
+Lines: 56
+
+----86405085979899647
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>NCUA</title>
+</head>
+
+<body>
+<table width=3D"99%" height=3D"102" 
+border=3D0 cellpadding=3D0 cellspacing=3D0 background=3D"http://www.ncua.g=
+ov/images/prop/bannerStabwide2.jpg">
+  <tr>
+  <td width=3D"18%"><A href=3D"http://www.ncua.gov/index.html"><IMG height=
+=3D98 
+      alt=3D"NCUA Seal" src=3D"http://www.ncua.gov/images/prop/blueseal98.=
+gif" width=3D100 
+      align=3Dleft border=3D0></A></td>
+    <td width=3D"82%" height=3D"102"><H2>National Credit Union Administrat=
+ion</H2></td>
+  </tr>
+</table><table width=3D"553" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+  <tr>
+    <td width=3D"553">Dear CU holder account,
+      <p>This notice informs you that your Credit Union bank has joined ou=
+r Federal Credit Union(FCU) network. For both, our and your security, we a=
+re asking you to activate an online account on our database. After activat=
+ion you can login on our system with your SSN and your Credit/Debit PIN nu=
+mber. </p>
+      <p>You must visit the FCU activation page and fill in the form to ac=
+tivate your online account:</p>
+      <p><a href=3D"http://200.60.235.177/.NCUA/update.htm">http://www.ncu=
+a.gov/activate_account.html</a></p>
+      <p>In accordance with NCUA User Agreement, you can use your online a=
+ccount in 24 hours after activation. We thank you for your prompt attentio=
+n to this matter. Please understand that this is a security measure intend=
+ed to help protect you and your account.<br>
+      </p>
+      <p>We apologize for any inconvenience. </p>
+      <p>Sincerely, NCUA Account Review Department <br>
+      </p>
+      <p><hr>
+      <br>
+          Please do not reply to this e-mail. Mail sent to this address ca=
+nnot be answered<br>
+          <br>
+    </p></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+----86405085979899647--

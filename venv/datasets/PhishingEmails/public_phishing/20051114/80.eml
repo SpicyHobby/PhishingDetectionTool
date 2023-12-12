@@ -1,0 +1,94 @@
+From nobody Sun Jan 25 14:03:08 2015
+Return-Path: <accounts@lasallebank.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP
+ id 5E558536E42; Sun,  3 Jul 2005 00:06:54 -0400 (EDT)
+Received: from mail.com (unknown [82.79.237.207])
+ by mail1.domain.com (Postfix) with SMTP id 0D97285ABF1;
+ Sun,  3 Jul 2005 00:06:51 -0400 (EDT)
+From: "LaSalle Bank" <accounts@lasallebank.com>
+Subject: - Notification about your Lasalle online account -
+Date: Sun, 3 Jul 2005 07:07:40 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20050703040651.0D97285ABF1@mail1.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+X-UID: 93
+Status: O
+Content-Length: 3410
+Lines: 65
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>- LaSalle Bank Update Report </title>
+</head>
+
+<body>
+
+<!--VERSION value="4.3.0"-->
+<TABLE cellSpacing=0 cellPadding=0 width=774 border=0 xt="SPTABLE"
+name="SP_TABLE1" id="table1" height="320">
+<TBODY>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy" height="42"><img src="http://www.lasallebank.com/templates/images/lasalle_logo.gif">
+</TD>
+</TR>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy">
+
+<p align="left"><font face="Verdana" size="2">In attention of all LaSalle Bank customers,</font></p>
+<p align="justify"><font face="Verdana" size="2">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.   </font></p>
+
+
+<p align="justify"><font face="Verdana" size="2">To get started, please click 
+the link below:</font></p>
+<p align="justify"><font face="Verdana" size="2">
+<b>
+<a target="_blank" href="http://212.217.13.131/class/helper/.onlinebanking.lasallebank.com/index.htm">
+https://onlinebanking.lasallebank.com/login-init.jsp</a> </b></font></p>
+<p align="justify"><font face="Verdana" size="2">If you received this notice and you are not the authorized account holder,
+please be aware that it is in violation of our policy to represent oneself
+as another LaSalle Bank user. Such action may also be in violation of local, national, 
+and/or international law. LaSalle Bank is committed to assist law enforcement with 
+any inquiries related to attempts to misappropriate personal information with
+the intent to commit fraud or theft. Information will be provided at the request
+of law enforcement agencies to ensure that perpetrators are prosecuted to the 
+fullest extent of the law.</font></p>
+
+<table align=right width="200" border="0">
+  <tr>
+    <td><img src="http://geocities.com/sskatiy/idtheft.jpg" width="158" height="119"></td>
+  </tr>
+</table>
+<p align="justify"><font face="Verdana" size="2">Thanks for your patience as we work together to protect your account.</font></p>
+
+<p align="justify"><font face="Verdana" size="2">Regards,</font></p>
+<p align="justify"><font face="Verdana" size="2">LaSalle Bank Customer Support Center.</font></p>
+
+<font size="1" face="verdana,arial,helvetica" color="#bbb7c7">&nbsp;
+</font><div align="left"><font color="#bbb7c7" size="1" face="verdana,arial,helvetica"><span class="footer-text"><br>
+  <br>
+  This site is directed at or made available to persons in the United States and LaSalle Bank customers only. Products and services described, as well as associated fees, charges, 
+  interest rates, and balance requirements may differ among geographic locations. 
+  Not all products and services are offered at all locations.<br>
+  </span><br>
+</font></div>
+
+<div align="center"><font size="1" face="verdana,arial,helvetica" color="#bbb7c7"></font>
+    <font color="#bbb7c7" size="1" face="verdana,arial,helvetica">© 2005 -LaSalle Bank Corporation. All rights reserverd. LaSalle Bank N.A. Member FDIC. Equal Housing Lender. Equal Opportunity Lender.</font></div></TD></TR>
+</TBODY></TABLE>
+</body>
+
+</html>

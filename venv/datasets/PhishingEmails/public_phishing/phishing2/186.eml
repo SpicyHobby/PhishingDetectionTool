@@ -1,0 +1,122 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <no-replay@amazon.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id B1B9A536E19
+ for <nobody@login.example.com>; Sun,  1 Jan 2006 04:53:42 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 57A0F6FA2C5
+ for <nobody@example.com>; Sun,  1 Jan 2006 04:53:40 -0500 (EST)
+Received: from 10.3.4.5 (c-24-63-49-52.hsd1.nh.comcast.net [24.63.49.52])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Sun,  1 Jan 2006 04:53:40 -0500 (EST)
+Received: from nihva.8fm72cd.net [177.175.41.22] by 10.3.4.5;
+ Sun, 01 Jan 2006 05:48:43 -0400
+Message-ID: <9--9-6mto$2$$s-m553b0o7vnx7i@qg4zz1n.4ve>
+From: "Amazon" <no-replay@amazon.com>
+To: <nobody@example.com>
+Subject: Revision to Your Amazon.com Information
+Date: Sun, 01 Jan 06 05:48:43 GMT
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="02..9_1.7B46.B_16C__CBC"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.6 required=5.0 tests=DATE_SPAMWARE_Y2K,
+ FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_40_50,
+ HTML_IMAGE_ONLY_20,HTML_MESSAGE,HTML_TAG_EXIST_TBODY,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_RANDY,
+ NORMAL_HTTP_TO_IP,RCVD_BY_IP,RCVD_HELO_IP_MISMATCH,
+ RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_SORBS_DUL,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: * 3.9 DATE_SPAMWARE_Y2K Date header uses unusual Y2K formatting
+ *  0.1 RCVD_BY_IP Received by mail server with no name
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+ *      [24.63.49.52 listed in dnsbl.sorbs.net]
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?24.63.49.52>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [24.63.49.52 listed in sbl-xbl.spamhaus.org]
+ *  1.9 MSGID_RANDY Message-Id has pattern used in spam
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 187
+
+This is a multi-part message in MIME format.
+
+--02..9_1.7B46.B_16C__CBC
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<HTML>
+<BODY>
+
+<br><br><table style=3D"width:900px" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" align=3D"center">
+	<tr>
+<img SRC=3D"http://g-images.amazon.com/images/G/01/nav/amazon/amzn-logo-11=
+8w.gif"  BORDER=3D0 height=3D23 width=3D100>
+	</tr>
+
+<P><BR><BR>
+<P class=3Dstyle6>
+<P class=3Dstyle4 align=3Dleft><SPAN class=3Dstyle7>At the last reviewing =
+at your amazon account we discovered that your information is inaccurate. =
+We apologize for this but because most frauds are possible because we don'=
+t have enough information about our clients, we require this verification.=
+ Please login and reenter  your personal information</SPAN>. 
+<P class=3Dstyle2 align=3Dcenter>
+<P class=3Dstyle7 align=3Dleft>Please follow this link to update your pers=
+onal information: 
+<P class=3Dstyle2 align=3Dleft><BR>
+<P>
+<P class=3Dstyle2 align=3Dleft><A class=3Dstyle3 href=3D"http://202.27.83.=
+118/~test/.us/exec?ref=3Dpd_irl_gw_r/102-8758036-5777720?opt=3Doa&page=3Dr=
+ecs/sign-in-secure.html&response=3Dtg/recs/recs-post-login-dispatch/-/recs=
+/ref=3Dpd_rw_gw_r/ref=3Damb__94837201_2/102-8758036-577772" target=3D"_bla=
+nk" > http://www.amazon.com/exec/obidos/sign-in.html</A> 
+<P class=3Dstyle5 align=3Dleft>(To complete the verification process you m=
+ust fill in all the required fields) 
+<P>
+<P>
+<P>
+<P><SPAN class=3Dstyle3>Please note: </SPAN><SPAN class=3Dstyle7>If you do=
+n't update your information within next 48 hours , we will be forced to su=
+spend your account untill you have the time to contact us by phone</SPAN>.=
+ 
+<P>
+<P>We apreciate your support and understanding, as we work together to kee=
+p amazon market a safe place to trade. Thank you for your attention on thi=
+s serious matter and we apologize. <BR>
+<P>
+<TABLE cellSpacing=3D0 cellPadding=3D0>
+</TD></TR></TBODY></TABLE>
+<HR align=3Dleft SIZE=3D1>
+<SPAN class=3Dstyle10>This message was generated automatically, please do =
+not reply to it. Amazon treats your personal information with the utmost c=
+are, and our Privacy Policy is designed to protect you and your informatio=
+n.</SPAN> 
+<HR noShade SIZE=3D1>
+</TD></TR></TABLE>
+
+--02..9_1.7B46.B_16C__CBC--

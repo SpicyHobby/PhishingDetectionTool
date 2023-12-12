@@ -1,0 +1,219 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <onlineservice@ws.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B728B468DC
+ for <user@login.example.com>; Thu, 17 May 2007 07:43:37 -0400 (EDT)
+X-Greylist: delayed 69162 seconds by postgrey-1.27 at mail.example.org;
+ Thu, 17 May 2007 07:43:37 EDT
+Received: from ns2.interhostingusa.com (unknown [207.44.172.60])
+ by mail.example.org (Postfix) with ESMTP id CC971131FA05
+ for <user@example.com>; Thu, 17 May 2007 07:43:37 -0400 (EDT)
+Received: from User ([216.135.37.176]) (authenticated (0 bits))
+ by ns2.interhostingusa.com (8.11.6/8.11.6) with ESMTP id l4GIDVn06131;
+ Wed, 16 May 2007 14:13:31 -0400
+Message-Id: <200705161813.l4GIDVn06131@ns2.interhostingusa.com>
+From: "Capital One Bank"<onlineservice@ws.com>
+Subject: Capital One Bank Notification - Please Read - ID: COB495886838
+Date: Wed, 16 May 2007 11:31:25 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1274
+
+<html>
+<title>Capital One | Message</title>
+<img src="http://www.capitalone.com/images/header/logos/capone.gif">
+<br><br>
+<style type="text/css">
+A:link {
+	COLOR: #336699
+}
+BODY {
+	FONT-FAMILY: Helvetica, Verdana, sans-serif
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.boldsmall {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+B {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.copyblock {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+P.footer {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+P.copyblockheading {
+	FONT: bold 11px/11px Arial, Helvetica, Verdana, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+TH {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+TD.copyblock {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+H1 {
+	FONT-SIZE: 14pt; COLOR: #333366
+}
+H2 {
+	FONT-SIZE: 12pt; COLOR: #666666
+}
+H3 {
+	FONT-SIZE: 11pt; COLOR: #000000
+}
+H4 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+.header {
+	FONT-SIZE: 12px
+}
+.headerbright {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff
+}
+.headerbrightsmall {
+	FONT-SIZE: 11px; COLOR: #ffffff
+}
+.popup {
+	FONT-SIZE: 12px
+}
+.subhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.errorheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: red
+}
+.errorbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 15pt; COLOR: #ff0000
+}
+.spacer {
+	FONT-SIZE: 11px; MARGIN-LEFT: 10px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+UL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+OL {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+BLOCKQUOTE {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+SUP {
+	FONT-SIZE: 8px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.copyright {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+.super {
+	FONT-SIZE: 11px
+}
+.small {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.smallblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.smallblueNonBold {
+	FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.boldLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.indentLabel {
+	FONT-SIZE: 11px; MARGIN-LEFT: 15px
+}
+.statementError {
+	FONT-SIZE: 13px; COLOR: red
+}
+.smallred {
+	FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.cadisc {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif
+}
+.footer10 {
+	FONT-SIZE: 10px
+}
+.navmenu {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.navmenunone {
+	TEXT-DECORATION: none
+}
+.ime_capone_compose {
+	TEXT-DECORATION: none
+}
+.formlabel {
+	TEXT-DECORATION: none
+}
+.buttonText {
+	TEXT-DECORATION: none
+}
+.ime_capone_navmenu {
+	FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.ime_capone_navmenunone {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.ime_capone_header_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+.ime_capone_regular {
+	FONT-SIZE: 12px
+}
+.ime_capone_regular_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.feecolor {
+	BACKGROUND-COLOR: #ebf7fb
+}
+A.ime_capone_folder_list:link {
+	FONT-SIZE: 12px; COLOR: black
+}
+A.ime_capone_folder_list:visited {
+	FONT-SIZE: 12px; COLOR: black
+}
+.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textSmall {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+.textSmallBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif
+}
+</style>
+<P><FONT size=1>Dear Capital One Bank, Capital One, F.S.B., Member,
+        <br><br>
+                Because of unusual number of invalid login attempts on you account, we had to believe that, their might be<br>
+                some security problem on you account. So we have decided to put an extra verification process to ensure your identity<br>
+                and your account security. Please click the link bellow:.<br>
+        <a href="http://mail.zenithoptimediaindia.com/account.html">https://onlinebanking.capitalone.com/capitalone/ID=?COB495886838</a>
+        <br><br>It is all about your security. Thank you. and visit the customer service section.
+        <br><br>Capital One Bank, Capital One, F.S.B., members FDIC. ©2007 Capital One Services, Inc.
+        <br>Capital One is a federally registered service mark. All rights reserved.
+        <br><br>Capital One ID: COB495886838
+
+</FONT></P></html>

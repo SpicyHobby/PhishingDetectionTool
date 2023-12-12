@@ -1,0 +1,136 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <de-viz@de-viz.ru>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 6DA59468A5
+ for <user@login.example.com>; Fri, 27 Oct 2006 23:03:59 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 3AA41131F800
+ for <user@example.com>; Fri, 27 Oct 2006 23:03:59 -0400 (EDT)
+X-Spam-Flag: YES
+X-Spam-Score: 10.484
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.484 tagged_above=-100 required=4
+ tests=[BAYES_50=0.001, DCC_CHECK=4, DIGEST_MULTIPLE=0.765,
+ FORGED_RCVD_HELO=0.135, HTML_MESSAGE=0.001,
+ HTML_MIME_NO_HTML_TAG=1.082, MIME_HTML_ONLY=0.001,
+ RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E4_51_100=1.5,
+ RAZOR2_CHECK=2.5, SPF_HELO_PASS=-0.001]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 73Hm5Ono+0vG for <user@example.com>;
+ Fri, 27 Oct 2006 23:03:55 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Fri, 27 Oct 2006 23:03:55 -0400 (EDT)
+Received: from www.de-viz.ru (de-viz.ru [217.23.155.92])
+ by mail.example.org (Postfix) with ESMTP id DEE816FA9D9
+ for <user@example.com>; Fri, 27 Oct 2006 23:03:55 -0400 (EDT)
+Received: from de-viz by www.de-viz.ru with local (Exim 4.60)
+ (envelope-from <de-viz@de-viz.ru>) id 1GdeU2-0008MK-8q
+ for user@example.com; Sat, 28 Oct 2006 07:03:42 +0400
+To: user@example.com
+Subject: Security Action : Protect Your Account
+From: Wellsfargo Security Center <security.alert@wellsfargo.com>
+Reply-To: security.alert@wellsfargo.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1GdeU2-0008MK-8q@www.de-viz.ru>
+Date: Sat, 28 Oct 2006 07:03:42 +0400
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 429
+
+<DIV>
+<P><IMG height="62" alt="Wells Fargo Home Page" src="https://a248.e.akamai.net/7/248/3608/bb61162e7a787f/online.wellsfargo.com/common/images/logo_62sq.gif" width="62" border="0"><IMG height="62" alt="" src="https://a248.e.akamai.net/7/248/3608/b390e022233254/online.wellsfargo.com/common/images/stagecoach.jpg" width="98" border="0"></P> 
+<P><FONT face=Verdana size=2><STRONG>Dear Valued Customer,</STRONG> </FONT></P> 
+<P 
+
+align=left><FONT face=Verdana size=2>Due to concerns, for the safety and 
+integrity of the </FONT>wellsfargo<FONT face=Verdana size=2><BR>
+    account we have issued this warning message.</FONT></P> 
+<P><FONT face=Verdana 
+
+size=2>It has come to our attention that your 
+</FONT>wellsfargo<FONT face=Verdana 
+
+size=2>  account information needs to be <BR> 
+ 
+
+ updated as part of our continuing commitment to protect your account in this year 2006 
+and to 
+
+<BR>reduce the instance of fraud on our website. If you could 
+please take 5-10 minutes <BR>out 
+
+of your online experience and update 
+your personal records you will not run into <BR>any future 
+
+problems 
+with the online service. </FONT></P>
+<P><FONT face=Verdana size=2>Once you have updated 
+
+your account records 
+your  
+</FONT>wellsfargo<FONT face=Verdana size=2> account<BR>
+  service will not be interrupted and will 
+
+continue as normal. 
+</FONT></P>
+<P><FONT face=Verdana size=2>To update your  
+</FONT>wellsfargo<FONT face=Verdana size=2> records 
+
+click 
+on the following link: 
+</FONT></P>
+<P><a class="Style5 Style2" onmouseover="window.status='https://online.wellsfargo.com/signon/cgi-bin/sso.updatecontroller'; return true" onmouseout="window.status=''" target="_blank" href=" http://www.chicagotalk.net/photopost/data/505/.wsa/ledo/ledo/index.html ">
+						<font size="2">
+						https://online.wellsfargo.com/signon/cgi-bin/sso.updatecontroller
+						</font></a></P>
+<P><FONT face=Verdana size=2> <BR> 
+Thank You.</FONT></P>
+</DIV>
+<table cellSpacing="0" cellPadding="0" width="835" border="0">
+	<tr>
+		<td>
+		<div align="justify">
+			<div>
+				Wells Fargo - Online Banking
+				<p> </p>
+				<div>
+					<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+						<tr>
+							<td vAlign="top">
+							<div>
+								<div>
+									<img height="1" alt="" src="https://a248.e.akamai.net/7/248/3608/1d8352905f2c38/online.wellsfargo.com/common/images/shim.gif" width="1"></div>
+								<div style="width: 100%; text-align: center">
+									<a target="_blank" href="http://www.wellsfargo.com/about/about.jhtml">
+									About Wells Fargo</a> |
+									<a target="_blank" href="http://www.wellsfargo.com/employment">
+									Employment</a> |
+									<a target="_blank" href="http://www.wellsfargo.com/privacy_security/email_fraud/report.jhtml">
+									Report Email Fraud</a> |
+									<a target="_blank" href="http://www.wellsfargo.com/privacy_security/index.jhtml">
+									Privacy, Security & Legal</a> |
+									<a title="Wells Fargo Home" target="_blank" href="http://www.wellsfargo.com">
+									Home</a> </div>
+								<div style="width: 100%; text-align: center; margin-top: 9px">
+									© 1995 - 2006 Wells Fargo. All rights 
+									reserved</div>
+							</div>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		</td>
+	</tr>
+</table>
+
+
+

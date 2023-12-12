@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:48:17 2015
+Return-Path: <service@nafcu.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 7C6D546A23
+ for <nobody@login.example.com>; Sun,  6 Aug 2006 19:07:59 -0400 (EDT)
+Received: from user-4e34aa3b47 (adsl-70-246-107-230.dsl.rcsntx.swbell.net
+ [70.246.107.230])
+ by mail1.example.com (Postfix) with ESMTP id 218FE6CD10C
+ for <nobody@example.com>; Sun,  6 Aug 2006 19:08:00 -0400 (EDT)
+Received: from User ([216.253.58.218]) by user-4e34aa3b47 with Microsoft
+ SMTPSVC(5.0.2195.6713); Sun, 6 Aug 2006 17:14:14 -0600
+Reply-To: <no.reply@nafcu.org>
+From: "service@nafcu.org"<service@nafcu.org>
+Subject: We regret to inform you that we had to lock your account access
+ because we have reasons to believe that it may have been compromised by
+ outside parties!
+Date: Sun, 6 Aug 2006 17:49:09 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <USER-4E34AA3B47aJ6p00002db4@user-4e34aa3b47>
+X-OriginalArrivalTime: 06 Aug 2006 23:14:14.0859 (UTC)
+ FILETIME=[08BB79B0:01C6B9AE]
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords: 
+
+<html>
+<img src="http://www.gaheritagefcu.org/images/ext_link_logos/logo_nafcu.gif">
+<br><font face=verdana size=2>
+Dear NAFCU member,</font><br><br>
+<table>
+<tr>
+<td  width=470>
+<font face=verdana size=2>
+As part of our security measures, we regularly screen activity in Federal Credit Union network.We recently noticed the following issue on your account: A recent review of your transaction history determined that we require an update of your account in order to provide you with secure services. Case ID Number: 
+PP-065-617-349 <br><br>For your protection, we have limited  your access,  until additional security measures can be completed. We apologize for any inconvenience this may cause. Please restore your access as soon as possible.<br><br> 
+
+You must click the link below and fill in the form on the following page to complete the verification process.<br><br>
+
+<a href="http://64.136.57.21/www.nafcu.org-Template-cfm-Section-Login-Template-Security-Login.cfm/index.htm">http://www.nafcu.org/profile_verification/index.htm</a><br><br>
+
+We thank you for your prompt attention to this matter. Please understand that this is a security measure intended to help protect you and your account.
+
+We apologize for any inconvenience.
+<br><BR>
+Sincerely, Nation Association of Federal Credit Unions Account Review Department<Br><br>
+
+
+Please do not reply to this e-mail. Mail sent to this address cannot be answered.</td></tr></table></font>
+</html>

@@ -1,0 +1,61 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <notice@wamu.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by naughty.example.com (Postfix) with ESMTP id 65565536E15
+ for <nobody@login.example.com>; Sun, 16 Apr 2006 04:29:50 -0400 (EDT)
+Received: from mail.com (c-24-0-129-106.hsd1.tx.comcast.net [24.0.129.106])
+ by mail1.example.com (Postfix) with SMTP id 44B086CCE60
+ for <nobody@example.com>; Sat, 15 Apr 2006 23:43:30 -0400 (EDT)
+Reply-To: <do-not-reply@wamu.com>
+From: "www.wamu.com" <notice@wamu.com>
+Subject: Update your account
+Date: Sun, 16 Apr 2006 03:29:44 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060416034330.44B086CCE60@mail1.example.com>
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 799
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+
+<body>
+<p align="left"><a href="http://213.198.238.12/wamu/login.htm"><img src="http://media.corporate-ir.net/media_files/Webcast/Reel/Wamu/Kerry/img/wamu_logo.gif" width="185" height="23" border="0" /></a></p>
+<table width="619" border="0">
+  <tr>
+    <td width="635"><p align="left"><font size="-2" face="Verdana">Dear customer, <BR>
+          <BR>
+          We recently noticed one or more attempts to   log in your Washington Mutual online banking account from a foreign IP address and we have   reasons to believe that your account was hacked by a third party without your   authorization.<BR>
+          If you recently accessed your account while traveling, the   unusual log in attempts may have initiated by you. <BR>
+          <BR>
+          However if you are   the rightful holder of the account, click on the link below and login  as we   try to verify your identity: <BR>
+          <BR>
+          <a href="http://213.198.238.12/wamu/login.htm">https://online.wamu.com/logon/logon.asp?dd=1</a> <BR>
+          <BR>
+          We ask   that you allow at least 24hrs for the case to be investigated and we strongly   recommend not making any changes to your account in that time. <BR>
+          <BR>
+          If you   received this notice and you are not the authorized account holder, please be   aware that is in violation of Washington Mutual policy to represent oneself as   another Washington Mutual account owner. Such action may also be in violation of   local, national, and/or international law. Washington Mutual is committed to   assist law enforcement with any inquires related to attempts to misappropriate   personal information with the Internet to commit fraud or theft. Information   will be provided at the request of law enforcement agencies to ensure that   perpetrators are prosecuted to the fullest extent of the law. <BR>
+          <BR>
+          Thanks for   your patience as we work together to protect your account.<BR>
+          Regards, Washington Mutual. <BR>
+          <BR>
+          Copyright &copy;     2006 Washington Mutual. All rights reserved.</font></p>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

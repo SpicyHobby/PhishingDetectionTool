@@ -1,0 +1,99 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <update@bankofamerica.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id E9290536E1F
+ for <nobody@login.example.com>; Wed,  7 Dec 2005 22:20:14 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 2F2686CCDE8
+ for <nobody@example.com>; Wed,  7 Dec 2005 22:20:13 -0500 (EST)
+Received: from 193.227.227.171 (unknown [193.227.227.171])
+ by mail1.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Wed,  7 Dec 2005 22:20:13 -0500 (EST)
+Received: from 239.16.236.144 by ; Wed, 07 Dec 2005 22:11:13 -0500
+Message-ID: <LWFKADGVCIBWTWGPRSHJSY@yahoo.com>
+From: "Bank of America Update Department" <update@bankofamerica.com>
+Reply-To: "Bank of America Update Department" <update@bankofamerica.com>
+To: nobody@example.com
+Subject: In attention of all Bank of America customers
+Date: Wed, 07 Dec 2005 22:13:13 -0500
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1958059665989837"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.7 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_20_30,HTML_IMAGE_ONLY_16,
+ HTML_MESSAGE,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+ MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,MSGID_YAHOO_CAPS,
+ RCVD_IN_SBL,RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: *  3.8 MSGID_YAHOO_CAPS Message-ID has ALLCAPS@yahoo.com
+ *  4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.0 HTML_IMAGE_ONLY_16 BODY: HTML: images with 1200-1600 bytes of words
+ *  0.1 RCVD_IN_SBL RBL: Received via a relay in Spamhaus SBL
+ *      [193.227.227.171 listed in sbl-xbl.spamhaus.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 93
+
+----1958059665989837
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<img src=3D"http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg=
+_logo.gif">
+
+<br>
+<font face=3DVerdana size=3D2>Dear valued <b>Bank of America=AE</b> member=
+,<br><br>
+It has come to our attention that your <b>Online=AE</b> account informatio=
+n needs to be
+updated as part of our continuing commitment to protect your account and t=
+o reduce the 
+instance of fraud on our website. If you could please take 5-10 minutes ou=
+t of your online
+experience and update your personal records you will not run into any futu=
+re problems with
+the online service.<br><br>
+
+However, faliure to update your records will result in account suspension.=
+<br>
+Please update your records on or before <font face=3DVerdana size=3D2 colo=
+r=3Dred>January 20th,2006.</font><br><br>
+Once you have updated your account records, your <b>Online Account=AE</b> =
+session will not be
+interrupted and will continue as normal.<br><br>
+To update your <b>Bank of America=AE</b> records click on the following li=
+nk:
+<br><br>
+<a href=3D"http://www.bankofamerica-security.com/">https://www.bankofameri=
+ca.com/confirmation/index.asp</a>
+<br><br><br>
+Thank You.<br>
+<b>Bank of America=AE UPDATE TEAM</b>
+<br></font>
+<font face=3DVerdana size=3D1>Accounts Management As outlined in our User =
+Agreement, <b>Bank of America=AE</b> will periodically
+send you information about site changes and enhancements.</font>
+
+</html>
+
+----1958059665989837--

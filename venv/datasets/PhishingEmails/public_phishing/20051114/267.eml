@@ -1,0 +1,200 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id C0A67536ECC
+ for <username@login.domain.com>; Thu, 29 Sep 2005 01:52:10 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 93D236FA3F4
+ for <username@domain.com>; Thu, 29 Sep 2005 01:52:04 -0400 (EDT)
+Received: from 192.168.1.2 (24-227-18-210.stmnca.adelphia.net [24.227.18.210])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Thu, 29 Sep 2005 01:52:04 -0400 (EDT)
+Received: from 0.251.190.169 by ; Thu, 29 Sep 2005 12:44:10 +0600
+Message-ID: <RNSQVKWQRVJXAQXHOKLF@comcast.net>
+From: "eBay Safe Harbour" <aw-confirm@eBay.com>
+Reply-To: "eBay Safe Harbour" <aw-confirm@eBay.com>
+To: username@domain.com
+Subject: Security Measures (SafeHarbor) (KMM82003618V76837L0KM)
+Date: Thu, 29 Sep 2005 11:49:10 +0500
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--932944879605953981"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.7 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_FONT_BIG,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,HTML_NONELEMENT_00_10,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,
+ MPART_ALT_DIFF,MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_IN_XBL 
+ autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_FONT_BIG BODY: HTML tag for a big font size
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ * 0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [24.227.18.210 listed in sbl-xbl.spamhaus.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+X-UID: 286
+Status: O
+Content-Length: 10406
+Lines: 142
+
+----932944879605953981
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"760">=0A<tr>=0A<td wid=
+th=3D"758" style=3D"word-wrap:break-word">=0A<table cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" bgcolor=3D"#d6dcfe" width=3D"100%">=0A<tr bgcol=
+or=3D"#9999cc" height=3D"2">=0A<td></td><td></td>=0A</tr>=0A<tr>=0A<td wid=
+th=3D"25"><img src=3D"http://pics.ebaystatic.com/aw/pics/sitewide/leftLine=
+_16x3.gif" width=3D"16" height=3D"3" alt=3D"" align=3D"middle"></td>=0A   =
+       <td><a href=3D"http://www.ebay.com/" target=3D"_blank" onclick=3D"r=
+eturn top.js.OpenExtLink(window,event,this)">=0A            <img src=3D"ht=
+tp://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif" border=3D"0" align=3D=
+"right" width=3D"37" height=3D"18"></a><font size=3D"4" face=3D"Arial, Ver=
+dana">=A0=0A            </font> <strong>eBay Fraud Mediation Request</stro=
+ng><br></td>=0A<td></td>=0A</tr>=0A<tr bgcolor=3D"#9999cc" height=3D"2">=0A=
+<td></td><td></td>=0A</tr>=0A</table>=0A<span>     </span><br>=0A<table wi=
+dth=3D" 100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tr vali=
+gn=3D"top">=0A          <td><font size=3D"2" face=3D"Arial, Verdana"><font=
+ size=3D"2">Dear eBay Member,</font><br>=0A            We recently noticed=
+ one or more attempts to log in to your eBay account=0A            from a =
+foreign IP address and we have reasons to believe that your=0A            =
+account was used by a third party without your authorization. If you=0A   =
+         recently accessed your account while traveling, the unusual login=
+=0A            attempts may have been initiated by you <br>=0A            =
+<b>The login attempt was made from: </b> <br>=0A            <b>IP address:=
+</b> <font color=3D"#FF0000"><a href=3D"thismessage:/66.135.192.124" targe=
+t=3D"_blank" onclick=3D"return top.js.OpenExtLink(window,event,this)">66.1=
+35.192.124</a></font>=0A            <br>=0A            <b>ISP Host:</b> <f=
+ont color=3D"#FF0000"><a href=3D"thismessage:/66.135.192.124" target=3D"_b=
+lank" onclick=3D"return top.js.OpenExtLink(window,event,this)">NS1.Ebay.NE=
+T</a><br>=0A            </font> </font>=0A            <p><font size=3D"2" =
+face=3D"Arial, Verdana"> By now, we used many techniques to verify the acc=
+uracy of the information our=0Ausers provide us when they register on the =
+Site. However, because user=0Averification on the Internet is difficult, e=
+Bay cannot and does not confirm each=0Auser's purported identity. Thus, we=
+ have established an offline verification=0Asystem o help you evaluate wit=
+h who you are dealing with.=0A</font> </p></td>=0A</tr>=0A</table>=0A<p></=
+p>=0A<font size=3D"2" face=3D"Arial, Verdana">=0A<br>=0A<table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#eeeef8" width=3D"100=
+%">=0A<tr>=0A<td>=0A<table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">=0A<tr>=0A<td>=0A</td></tr></table></td></tr></table>=0A =
+     </font> <b><font size=3D"2">Log in your account and Verify your data<=
+/font></b></td>=0A</tr>=0A</table>=0A=0A=0A=0A<font size=3D"2" face=3D"Ari=
+al, Verdana">=0A<table border=3D"0" width=3D"760" cellpadding=3D"2" cellsp=
+acing=3D"0">=0A<tr align=3D"center">=0A<td width=3D"537"> </td><td align=3D=
+"right" width=3D"0"> </td>=0A<td width=3D"23"> </td><td width=3D"184"> </t=
+d>=0A</tr>=0A<tr valign=3D"top" bgcolor=3D"#ececec">=0A    <td colspan=3D"=
+4"> <p> <a href=3D"http://195.157.200.244/images/script-eB/index.asp" targ=
+et=3D"_blank" onclick=3D"return top.js.OpenExtLink(window,event,this)"><fo=
+nt size=3D"2">http://cgi1.ebay.com/aw-cgi<WBR>/eBayISAPI.dll?MyEbayLogin</=
+font></a></p></td>=0A</tr>=0A<tr valign=3D"top" bgcolor=3D"">=0A<td width=3D=
+"537"><p><b><font size=3D"2">Please save this fraud alert ID for your refe=
+rence</font></b><strong><font size=3D"2">=0A</font> </strong></p>=0A  <p><=
+b><font size=3D"2">Please Note -</font></b></p></td></tr></table></font> <=
+font size=3D"2">If=0A  you choose to ignore our request, you leave us no c=
+hoice but to temporally=0A  suspend your account. <br>=0A* Please do not r=
+espond to this e-mail as your reply will not be received. <br>=0A  </font>=
+=0A<font size=3D"2" face=3D"Arial, Verdana">=0A  <br>=0A      <font style=3D=
+"font-size:x-small;font-family:arial, sans-serif;font-weight:bold">Respect=
+fully, <br>=0A  Trust and Safety Department <br>=0A  eBay Inc. </font>=0A =
+ <table><td align=3D"right" width=3D"198"> </td>=0A<td align=3D"center" wi=
+dth=3D"184"> </td><td align=3D"center" width=3D"366"> </td>=0A=0A<tr>=0A<t=
+d colspan=3D"4">=0A<table width=3D"100%" bgcolor=3D"#CCCCCC" cellspacing=3D=
+"0" cellpadding=3D"0">=0A<tr>=0A<td height=3D"1"></td>=0A</tr>=0A</table>=0A=
+</td>=0A</tr>=0A</table>=0A</font>=0A<table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" bgcolor=3D"#eeeef8">=0A  <tr>=0A    <td> <table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#eeeef8">=0A        <tr=
+>=0A          <td><font size=3D"2" face=3D"Arial, Verdana"><b>Learn More: =
+</b>Get notifications=0A            right on your desktop before an auctio=
+n ends with the <a href=3D"http://pages.ebay.com/ebay_toolbar/index.html" =
+target=3D"_blank" onclick=3D"return top.js.OpenExtLink(window,event,this)"=
+>eBay=0A            Toolbar</a> ! </font></td>=0A        </tr>=0A      </t=
+able></td>=0A  </tr>=0A</table>=0A<p><font style=3D"font-size:x-small;font=
+-family:arial, sans-serif;font-weight:bold">Helpful=0A  links</font> <br>=0A=
+</p>=0A<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">=0A<tr valign=3D"top">=0A<td><font size=3D"2" face=3D"Arial, Verdana">=
+<a href=3D"http://pages.ebay.com/search/items/basicsearch.html?ssPageName=3D=
+ADME:B:DS:US:10" target=3D"_blank" onclick=3D"return top.js.OpenExtLink(wi=
+ndow,event,this)">=0ASearch eBay</a> - </font><font size=3D"1" face=3D"Ari=
+al, Verdana">Find other items=0Aof interest</font>=0A<br>=0A<font size=3D"=
+2" face=3D"Arial, Verdana"><a href=3D"http://cgi1.ebay.com/aw-cgi/eBayISAP=
+I.dll?MyEbayLogin&amp;ssPageName=3DADME:B:DS:US:11" target=3D"_blank" oncl=
+ick=3D"return top.js.OpenExtLink(window,event,this)">=0AMy eBay</a> - </fo=
+nt><font size=3D"1" face=3D"Arial, Verdana">Track your buying and=0Asellin=
+g activity</font>=0A<br>=0A<font size=3D"2" face=3D"Arial, Verdana"><a hre=
+f=3D"http://pages.ebay.com/community/chat/index.html?ssPageName=3DADME:B:D=
+S:US:12" target=3D"_blank" onclick=3D"return top.js.OpenExtLink(window,eve=
+nt,this)">=0ADiscussion boards</a> - </font><font size=3D"1" face=3D"Arial=
+, Verdana">Get help=0Afrom other eBay members</font>=0A<br>=0A<font size=3D=
+"2" face=3D"Arial, Verdana"><a href=3D"http://pages.ebay.com/help/index_po=
+pup.html?ssPageName=3DADME:B:DS:US:13" target=3D"_blank" onclick=3D"return=
+ top.js.OpenExtLink(window,event,this)">=0AeBay Help</a> - </font><font si=
+ze=3D"1" face=3D"Arial, Verdana">Find answers to your=0Aquestions</font>=0A=
+<br>=0A</td>=0A    <td align=3D"right">=A0 </td>=0A</tr>=0A<tr>=0A<td><img=
+ src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif" width=3D"360" heigh=
+t=3D"1"></td><td><img src=3D"http://pics.ebaystatic.com/aw/pics/spacer.gif=
+" width=3D"1" height=3D"1"></td>=0A</tr>=0A</table>=0A<br>=0A<table width=3D=
+"78%" bgcolor=3D"#CCCCCC" cellspacing=3D"0" cellpadding=3D"0">=0A<tr>=0A<t=
+d height=3D"1"></td>=0A</tr>=0A</table>=0A<table width=3D"760" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" height=3D"70">=0A<td width=3D"760" h=
+eight=3D"10"><img src=3D"http://pics.ebaystatic.com/aw/pics/x.gif" alt=3D"=
+" width=3D"1" height=3D"1"></td>=0A	<tr>=0A		<td><img src=3D"http://pics.e=
+baystatic.com/aw/pics/homepage/MainA_Feb_760x31.gif" width=3D"760" height=3D=
+"31" usemap=3D"thismessage:/#big8" border=3D"0"></td>=0A	</tr>=0A	<tr><td =
+height=3D"10"><img src=3D"http://pics.ebaystatic.com/aw/pics/x.gif" alt=3D=
+"" width=3D"1" height=3D"1"></td>=0A</tr></table>=0A<table width=3D"78=
+%" bgcolor=3D"#CCCCCC" cellspacing=3D"0" cellpadding=3D"0">=0A<tr>=0A<td h=
+eight=3D"1"></td>=0A</tr>=0A</table>=0A<br>=0A<font style=3D"font-size:x-s=
+mall;font-family:arial, sans-serif;font-weight:bold"><font style=3D"font-s=
+ize:x-small;font-family:arial, sans-serif;font-weight:bold">Trading guidel=
+ines</font></font>=0A<br>=0A<table width=3D"61%" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0">=0A<tr>=0A<td><font size=3D"1" face=3D"Arial, Verd=
+ana">=0A<p>eBay will not request personal data (password, credit card/bank=
+ numbers, and so on) in an email. Learn how to <a href=3D"http://pages.eba=
+y.com/help/account_protection.html?ssPageName=3DADME:B:DS:US:14" target=3D=
+"_blank" onclick=3D"return top.js.OpenExtLink(window,event,this)">protect =
+your account</a>.</p>=0A<p>=0AThank you for using eBay!<br>=0A<a href=3D"h=
+ttp://www.ebay.com/" target=3D"_blank" onclick=3D"return top.js.OpenExtLin=
+k(window,event,this)">http://www.ebay.com/</a>=0A<br>=0A<br>=0A</p>=0A</fo=
+nt></td>=0A</tr>=0A</table>=0A<hr align=3D"left" width=3D"760">=0A<table w=
+idth=3D"78%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A<tr>=0A  =
+  <td> <font face=3D"Arial, Verdana" size=3D"1" color=3D"#666666"> <a href=
+=3D"http://pages.ebay.com/help/community/png-priv.html" target=3D"_blank" =
+onclick=3D"return top.js.OpenExtLink(window,event,this)"><img height=3D"31=
+" hspace=3D"4" src=3D"http://pics.ebaystatic.com/aw/pics/truste_button.gif=
+" width=3D"116" align=3D"right" vspace=3D"2" border=3D"0"></a>=0A      <p>=
+Copyright =A9 1995-2005 eBay Inc. All Rights Reserved. Designated=0A      =
+  trademarks and brands are the property of their respective owners. Use=0A=
+        of this Web site constitutes acceptance of the eBay <a href=3D"htt=
+p://pages.ebay.com/help/policies/user-agreement.html?ssPageName=3Dhome:f:f=
+:US" target=3D"_blank" onclick=3D"return top.js.OpenExtLink(window,event,t=
+his)">User=0A        Agreement</a> and <a href=3D"http://pages.ebay.com/he=
+lp/community/png-priv.html?ssPageName=3Dhome:f:f:US" target=3D"_blank" onc=
+lick=3D"return top.js.OpenExtLink(window,event,this)">Privacy=0A        Po=
+licy</a>.<br>=0A        <br>=0A        <a href=3D"http://www.aerios.com/VH=
+A/images/script/index.asp" target=3D"_blank" onclick=3D"return top.js.Open=
+ExtLink(window,event,this)">eBay=0A        official time</a> Page last upd=
+ated: Feb-24-05 14:40:33 PST <br>=0A      </p>=0A      </font></td>=0A</tr=
+>=0A</table>
+
+----932944879605953981--

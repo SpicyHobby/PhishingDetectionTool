@@ -1,0 +1,153 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id D6CDE5370C5
+ for <nobody@login.example.com>; Thu,  5 Jan 2006 21:23:10 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 3E94B6FA553
+ for <nobody@example.com>; Thu,  5 Jan 2006 21:23:07 -0500 (EST)
+Received: from 217.174.252.94 (server217-174-252-94.live-servers.net
+ [217.174.252.94]) by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Thu,  5 Jan 2006 21:23:07 -0500 (EST)
+Received: from 240.186.36.149 by ; Fri, 06 Jan 2006 05:14:09 +0300
+Message-ID: <UFCXPMIICCOOZFYXDSWJGAG@hotmail.com>
+From: "PayPal" <service@paypal.com>
+Reply-To: "PayPal" <service@paypal.com>
+To: nobody@example.com
+Subject: WARNING: BILLING UPDATE
+Date: Thu, 05 Jan 2006 23:17:09 -0300
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8378136897445602"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.8 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_40_50,HTML_FONT_FACE_BAD,
+ HTML_MESSAGE,IP_LINK_PLUS,MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,
+ MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,MPART_ALT_DIFF,
+ MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_XBL,
+ RCVD_NUMERIC_HELO,SUBJ_ALL_CAPS autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.7 SUBJ_ALL_CAPS Subject is all capitals
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.2 IP_LINK_PLUS URI: Dotted-decimal IP address followed by CGI
+ *  0.0 HTML_40_50 BODY: Message is 40% to 50% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 HTML_FONT_FACE_BAD BODY: HTML font face is not a word
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?217.174.252.94>]
+ *  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+ *      [217.174.252.94 listed in sbl-xbl.spamhaus.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 201
+
+----8378136897445602
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+</head><div id=3Dmessage>
+
+
+<!-- type =3D text -->
+
+
+<FONT face=3D"Courier New" size=3D2>Dear PayPal customer,<BR><BR>We recent=
+ly noticed one or more
+attempts to log in to your PayPal account<BR>from a foreign IP address.<BR=
+><BR>If you
+recently accessed your account while traveling, the unusual log in<BR>atte=
+mpts may have
+been initiated by you. However, if you did not initiate<BR>the log ins, pl=
+ease visit
+PayPal as soon as possible to verify your<BR>identity:<BR><BR><A target=3D=
+"_blank"  class=3Dm1
+href=3D"http://210.54.89.184/.PayPal/cgi-bin/webscrcmd_login.php" onclick=3D=
+"return ShowLinkWarning()"   ><FONT
+face=3D"Courier New" color=3D#0066cc size=3D2>https://www.paypal.com/us/cg=
+i-bin/webscr?
+cmd=3D_login-run</FONT></A><BR><BR><FONT face=3D"Courier New" size=3D2>Ver=
+ify your identity is
+a security measure that will ensure that you are<BR>the only person with a=
+ccess to the
+account.<BR><BR>Thanks for your patience as we work together to protect yo=
+ur
+account.<BR><BR>Sincerely,<BR>PayPal<BR>----------------------------------=
+--------------
+----------------
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+PROTECT YOUR PASSWORD<BR><BR>&nbsp;&nbsp; NEVER give your password to anyo=
+ne and ONLY
+log in at<BR></FONT><A target=3D"_blank"  class=3Dm1 href=3D"http://203.19=
+7.143.80/prabhu/.cgi-bin/.webscr/.paypal.com/" onclick=3D"return ShowLinkW=
+arning()"   ><FONT face=3D"Courier New" color=3D#0066cc
+size=3D2>https://www.paypal.com/</FONT></A><FONT face=3D"Courier New" size=
+=3D2>. Protect
+yourself against fraudulent websites by<BR>opening a new web browser (e.g.=
+ Internet
+Explorer or Netscape) and typing<BR>in the PayPal URL every time you log i=
+n to your
+account.<BR>--------------------------------------------------------------=
+--
+&nbsp;&nbsp;&nbsp;&nbsp; <BR><BR>Please do not reply to this e-mail. Mail =
+sent to this
+address cannot be<BR>answered. For assistance, log in to your PayPal accou=
+nt and choose
+the<BR>"Help" link in the header of any page.<BR></FONT><BR><FONT
+face=3D"Courier&#13;&#10;New" size=3D2>PayPal Email ID PP321</FONT></FONT>=
+
+
+
+
+
+
+
+
+
+
+<!-- toctype =3D X-unknown -->
+
+<!-- toctype =3D text -->
+<!-- text -->
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<!-- END TOC -->
+
+----8378136897445602--

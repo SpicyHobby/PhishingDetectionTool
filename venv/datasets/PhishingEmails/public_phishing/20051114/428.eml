@@ -1,0 +1,269 @@
+From nobody Sun Jan 25 14:03:11 2015
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 21408536EBF
+ for <username@login.domain.com>; Sun, 13 Nov 2005 08:41:01 -0500 (EST)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 3FFE46FA33C
+ for <username@domain.com>; Sun, 13 Nov 2005 08:40:24 -0500 (EST)
+Received: from 200.0.246.252 (unknown [200.0.246.252])
+ by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Sun, 13 Nov 2005 08:40:23 -0500 (EST)
+Received: from 60.148.34.80 by ; Sun, 13 Nov 2005 16:33:53 +0300
+Message-ID: <PPPACWGUTSPTAOISRBXT@verizon.net>
+From: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+Reply-To: "aw-confirm@ebay.com" <aw-confirm@ebay.com>
+To: username@domain.com
+Subject: Security Notification
+Date: Sun, 13 Nov 2005 16:31:53 +0300
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--45163986140848248018"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.2 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_80_90,HTML_FONT_BIG,
+ HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_BOUND_DD_DIGITS,
+ MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,
+ MPART_ALT_DIFF,MSGID_SPAM_CAPS,RCVD_IN_DSBL,RCVD_IN_NJABL_PROXY,
+ RCVD_NUMERIC_HELO,URI_REDIRECTOR autolearn=spam version=3.0.2
+X-Spam-Report: * 4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+ *  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 URI_REDIRECTOR Message has HTTP redirector URI
+ *  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_FONT_BIG BODY: HTML tag for a big font size
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+ *  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+ *      [<http://dsbl.org/listing?200.0.246.252>]
+ *  0.4 RCVD_IN_NJABL_PROXY RBL: NJABL: sender is an open proxy
+ *      [200.0.246.252 listed in combined.njabl.org]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+ *  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Keywords: 
+Status: O
+Content-Length: 8746
+Lines: 209
+
+----45163986140848248018
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<link>
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"82%" bgColor=3D"white"=
+ border=3D"0">
+  <tr>
+    <td noWrap width=3D"1%">
+    <img src=3D"http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrLe=
+ft_13x39.gif" width=3D"13" height=3D"39"></td>
+    <td noWrap width=3D"96%" background=3D"http://pics.ebaystatic.com/aw/p=
+ics/email/syiSessions/imgSpan_5x39.gif">
+    <span class=3D"SectionTitle"><font size=3D"4"><b>&nbsp;Security Valida=
+tion -- 
+    Respond Now</b></font></span></td>
+    <td vAlign=3D"bottom" noWrap width=3D"3%">
+    <img alt=3D"eBay" src=3D"http://pics.ebaystatic.com/aw/pics/email/syiS=
+essions/hdrRight_90x39.gif" width=3D"82" height=3D"39"></td>
+  </tr>
+</table>
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"863" border=3D"0">
+  <tr>
+    <td width=3D"10">
+    <img height=3D"1" src=3D"http://pics.ebaystatic.com/aw/pics/s.gif" wid=
+th=3D"10"></td>
+    <td width=3D"1096">
+    <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"929" border=3D"0">=
+
+      <tr>
+        <td width=3D"934">
+        <table style=3D"border-left: 1px solid #9999cc; border-right: 1px =
+solid #9999cc; border-bottom: 1px solid #9999cc" width=3D"932" bgColor=3D"=
+#eeeef8" border=3D"0" height=3D"14">
+          <tr>
+            <td style=3D"padding-left: 8px" height=3D"10" width=3D"917">
+            <font face=3D"Arial, Verdana" size=3D"2">eBay sent this messag=
+e on 
+            behalf of an eBay member services. Responses sent using email =
+will 
+            go to the eBay member services directly and will include your =
+email address. 
+            Click the <b>Respond To This Notification</b> button below to =
+send 
+            your response via E-Mail (your email address will not be inclu=
+ded).</font>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"622" border=3D"0">
+  <tr>
+    <td width=3D"23">
+    <img title alt=3D" " src=3D"https://securepics.ebaystatic.com/aw/pics/=
+s.gif" width=3D"1" height=3D"1"></td>
+  </tr>
+</table>
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"784" border=3D"0">
+  <tr>
+    <td width=3D"10">&nbsp; </td>
+    <td vAlign=3D"top" width=3D"1118">
+    <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"861" border=3D"0">=
+
+      <tr>
+        <td vAlign=3D"top" width=3D"935">
+        <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"826" border=3D=
+"0">
+          <tr>
+            <td width=3D"834">
+            <table cellSpacing=3D"0" cellPadding=3D"1" width=3D"752" align=
+=3D"center" bgColor=3D"#9999cc" border=3D"0" height=3D"266">
+              <tr bgColor=3D"#9999cc" height=3D"26">
+                <td height=3D"6" width=3D"1125">&nbsp;</td>
+              </tr>
+              <tr>
+                <td height=3D"264" width=3D"1125">
+                <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"746" a=
+lign=3D"center" border=3D"0" height=3D"99">
+                  <tr bgColor=3D"#c6c6c6">
+                    <td width=3D"818" height=3D"1">
+                    <img src=3D"http://pics.ebaystatic.com/aw/pics/s.gif" =
+width=3D"1" height=3D"1"></td>
+                  </tr>
+                  <tr bgColor=3D"#ffffff">
+                    <td width=3D"818" height=3D"90">
+                    <table cellSpacing=3D"0" cellPadding=3D"4" width=3D"86=
+4" height=3D"190">
+                      <tr>
+                        <td vAlign=3D"top" width=3D"1036" height=3D"182">
+                        <font face=3D"Verdana, Arial, Helvetica, sans-seri=
+f" size=3D"2">
+                        During our regular update and verification of the =
+
+                        accounts, we could not verify your current informa=
+tion.Either your information has changed or it is incomplete.</font><p>
+                        <font face=3D"Verdana, Arial, Helvetica, sans-seri=
+f" size=3D"2">
+                        As a result, your access to bid or buy on eBay has=
+ been 
+                        restricted. To start using fully your eBay account=
+, 
+                        please update and verify your information by respo=
+nding 
+                        this notification.</font></p>
+                        <p>
+                        <a target=3D"_blank" href=3D"http://www.quicke.com=
+.tw/asp/index.php?MfcISAPICommand=3DChangeFPP&UsingSSL=3D1&userid=3D&pass=3D=
+co_partnerId=3D2&pUserId=3D&siteid=3D0&pageType=3D&pa1=3D&i1=3D&bshowgif=3D=
+&UsingSSL=3D&ru=3Dhttp://www.ebay.com&pp=3D&pa2=3D&errmsg=3D&runame=3D&rup=
+arams=3D&ruproduct=3D&sid=3D&favoritenav=3D&migrateVisitor=3D">
+                        <img border=3D"0" src=3D"http://pics.ebaystatic.co=
+m/aw/pics//email/btnRespond.gif" width=3D"193" height=3D"22"></a></p>
+                        <p><font size=3D"2" face=3D"Verdana">If you do not=
+ respond 
+                        by Nov-20-2005 your account may be suspended for 
+                        security reasons.</font></p>
+                        <p><span class=3D"ebay"><font face=3D"Verdana" siz=
+e=3D"2">
+                        Note: If this is the second time you receiving thi=
+s 
+                        notice, it might be because you have made a mistak=
+e when 
+                        you entered your details or the account was not up=
+dated.</font></span></p>
+                        <p><font size=3D"2" face=3D"Verdana">Regards, </fo=
+nt>
+                        <font face=3D"Arial, Verdana" size=3D"2"><br>
+&nbsp;</font></p>
+                        <table height=3D"104" cellSpacing=3D"0" cellPaddin=
+g=3D"0" width=3D"920" border=3D"0">
+                          <tr class=3D"help" vAlign=3D"top">
+                            <td class=3D"navigation" width=3D"970" height=3D=
+"104">
+                            <hr class=3D"FooterSeparator" xmlns:x=3D"urn:s=
+chemas-microsoft-com:xslt" xmlns:co=3D"CheckoutV3" xmlns:ebay=3D"eBayV3" c=
+olor=3D"#C0C0C0" size=3D"1">
+                            <table cellSpacing=3D"0" cellPadding=3D"0" wid=
+th=3D"897" border=3D"0" xmlns:x=3D"urn:schemas-microsoft-com:xslt" xmlns:c=
+o=3D"CheckoutV3" xmlns:ebay=3D"eBayV3">
+                              <tr>
+                                <td width=3D"897"><br>
+                                <font face=3D"Arial, Verdana" color=3D"#66=
+6666" size=3D"1">&nbsp; 
+                                This eBay notice was sent to you based on =
+your 
+                                eBay account preferences. To unsubscribe f=
+rom 
+                                this eBay notice,
+                                <a target=3D"helpwin" href=3D"http://cgi4.=
+aol.ebay.com/ws/eBayISAPI.dll?OptinLoginShow&ssPageName=3DADME:X:EOAS:US:1=
+1">click here</a>. If you would like to receive 
+                                this email in text only,
+                                <a target=3D"helpwin" href=3D"http://cgi4.=
+aol.ebay.com/ws/eBayISAPI.dll?OptinLoginShow&ssPageName=3DADME:X:EOAS:US:1=
+2">click here</a>.
+                                <p>&nbsp;As outlined in our User Agreement=
+, eBay will 
+                                periodically send you information about si=
+te 
+                                changes and enhancements. Visit our
+                                <a target=3D"helpwin" href=3D"http://pages=
+.ebay.com/help/policies/privacy-policy.html?ssPageName=3DADME:X:EOAS:US:14=
+">Privacy Policy</a> and
+                                <a target=3D"helpwin" href=3D"http://pages=
+.ebay.com/help/policies/user-agreement.html?ssPageName=3DADME:X:EOAS:US:13=
+">User Agreement</a> if you have any questions.
+                                </p>
+                                <p align=3D"center">Copyright =A9 2005 eBa=
+y Inc. All 
+                                Rights Reserved.<br>
+                                Designated trademarks and brands are the 
+                                property of their respective owners. </p>
+                                <p align=3D"center">eBay and the eBay logo=
+ are 
+                                trademarks of eBay Inc. </font></td>
+                              </tr>
+                            </table>
+                            </td>
+                          </tr>
+                        </table>
+                        </td>
+                        <td vAlign=3D"top" align=3D"middle" width=3D"218" =
+height=3D"182">&nbsp;</td>
+                      </tr>
+                    </table>
+                    </td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+
+
+----45163986140848248018--

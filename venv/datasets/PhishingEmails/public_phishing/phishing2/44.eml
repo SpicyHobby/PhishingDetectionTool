@@ -1,0 +1,45 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <nobody@cloud.he.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id DC2C7536EFF
+ for <nobody@login.example.com>; Mon, 28 Nov 2005 13:26:27 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 82E9F6FA3A2
+ for <nobody@example.com>; Mon, 28 Nov 2005 13:26:26 -0500 (EST)
+Received: from cloud.he.net (cloud.he.net [65.19.145.2])
+ by mail2.example.com (Postfix) with SMTP
+ for <nobody@example.com>; Mon, 28 Nov 2005 13:26:26 -0500 (EST)
+Received: from cloud.he.net ([127.0.0.9]) by cloud.he.net for
+ <nobody@example.com>; Mon, 28 Nov 2005 10:14:45 -0800
+Date: Mon, 28 Nov 2005 10:14:45 -0800
+To: nobody@example.com
+Subject: PayPal Notification
+Message-ID: <1133201685.12757.qmail@paypal.com>
+From: "Customer Support" <support@paypal.com>
+Content-Type: text/html
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.3 required=5.0 tests=DOMAIN_RATIO,HTML_90_100,
+ HTML_IMAGE_ONLY_04,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+ HTML_SHORT_LENGTH,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+ RCVD_ILLEGAL_IP autolearn=no version=3.0.2
+X-Spam-Report: *  0.9 RCVD_ILLEGAL_IP Received: contains illegal IP address
+ *  0.4 HTML_SHORT_LENGTH BODY: HTML is extremely short
+ *  3.2 DOMAIN_RATIO BODY: Message body mentions many internet domains
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.0 HTML_90_100 BODY: Message is 90% to 100% HTML
+ *  3.3 HTML_IMAGE_ONLY_04 BODY: HTML: images with 0-400 bytes of words
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 45
+
+<a href="http://hometown.aol.com/facbanisolo" target="_blank">
+    <img alt="PayPal" src="http://hometown.aol.com/facbanisolo/letter.jpg" border="0" ></a>

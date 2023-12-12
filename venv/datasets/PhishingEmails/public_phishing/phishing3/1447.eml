@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <online-support@online-bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id BED734691A
+ for <user@login.example.com>; Sat,  3 Feb 2007 01:36:59 -0500 (EST)
+X-Greylist: delayed 98386 seconds by postgrey-1.27 at mail.example.org;
+ Sat, 03 Feb 2007 01:36:59 EST
+Received: from ns2992.ovh.net (ns2992.ovh.net [213.186.61.112])
+ by mail.example.org (Postfix) with ESMTP id 64ACB131FBD2
+ for <user@example.com>; Sat,  3 Feb 2007 01:36:59 -0500 (EST)
+Received: (qmail 2411 invoked from network); 1 Feb 2007 07:42:16 +0100
+Received: from 217-133-0-69.b2b.tiscali.it (HELO User) (217.133.0.69)
+ by ns2992.ovh.net.61.186.213.in-addr.arpa with SMTP; 1 Feb 2007 07:42:16 +0100
+Reply-To: <online-support@online-bankofamerica.com>
+From: "Bank Of America"<online-support@online-bankofamerica.com>
+Subject: Dear Customer...
+Date: Thu, 1 Feb 2007 07.37.18 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070203063659.64ACB131FBD2@mail.example.org>
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 742
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Bank Of America</title>
+</head>
+
+<body>
+
+<div style="width: 600px; margin: 0 auto 0 auto; border: 1px dashed black; padding: 20px 15px 1px 15px; font-size: 12px">
+<img src="http://www.bankofamerica.com/global/mvc_objects/images/bmhd_logo.gif" width="199" height="51" />
+<p style="font-weight: bold; color: #072510; font-family: arial;" >Dear Customer,</p>
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.</p>
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">If you received this notice and you are not the authorized account holder, please be aware that it is in violation of our policy to represent oneself as another Bank of America user. Such action may also be in violation of local, national, and/or international law. Bank of America is committed to assist law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law.</p>
+
+<p style="font-weight: bold; color: #072510; font-family: arial;" align="justify">To confirm your On-Line Safety Account Information please click the link below.</p>
+<p style="font-weight: bold; color: #074580; font-family: arial;" align="center">
+<a style="color: #074580" href="http://www.ironwoodbats.com/.support/www.bankofamerica.com/BOA/sslencrypt218bit/online_banking/index.htm">https://bankonline.bankofamerica.com/efs/servlet/login.jsp</a></p>
+<div style="background-color:#f2f2e1; padding: 0 5px 2px 0; margin:0; border: 1px solid red;"><p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;">Please note:</p>
+<p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;" align="justify">----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;" align="justify"> If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone. </p>
+<p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;" align="justify">----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p style="font-weight: bold; color: #074580; font-family: arial; padding: 0; margin: 0;" align="justify"> Bank Of America will NEVER ask for you credit card ATM pin. Don`t give it to anyone !!! </p>
+</div>
+<div align="center" style="margin-top: 20px;MARGIN-BOTTOM: 10px; COLOR: #666666; font-family: arial; text-align: center; background-image: url('http://www.chase.com/ccpmweb/generic/image/footer_gradient.gif'); height: 30px">2007 Bank of America Administration. All rights reserved.
+</div>
+
+<img src="https://www.firstinterstatebank.com/images/homecuts/eq_off.gif" width="40" height="41"></a>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,73 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <apache@web.omneclinic.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id B62C0536FAC
+ for <nobody@login.example.com>; Wed, 11 Jan 2006 09:37:16 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 4E2B86FA584
+ for <nobody@example.com>; Wed, 11 Jan 2006 09:37:15 -0500 (EST)
+Received: from web.omneclinic.com (adsl-68-254-155-3.dsl.euclwi.ameritech.net
+ [68.254.155.3]) by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Wed, 11 Jan 2006 09:37:14 -0500 (EST)
+Received: from web.omneclinic.com (localhost.localdomain [127.0.0.1])
+ by web.omneclinic.com (8.13.4/8.13.4) with ESMTP id k0BEZDQG016868
+ for <nobody@example.com>; Wed, 11 Jan 2006 08:35:13 -0600
+Received: (from apache@localhost)
+ by web.omneclinic.com (8.13.4/8.13.4/Submit) id k0BEZDRT016866;
+ Wed, 11 Jan 2006 08:35:13 -0600
+Date: Wed, 11 Jan 2006 08:35:13 -0600
+Message-Id: <200601111435.k0BEZDRT016866@web.omneclinic.com>
+To: nobody@example.com
+Subject: New email address added to your PayPal account
+From: PayPal <confirm@intl.paypal.com>
+Content-Type: text/html
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: 
+X-Spam-Status: No, score=0.8 required=5.0 tests=HTML_IMAGE_ONLY_20,
+ HTML_MESSAGE,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,NO_REAL_NAME,
+ URI_REDIRECTOR autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  0.0 URI_REDIRECTOR Message has HTTP redirector URI
+ *  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * 0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+ headers
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 219
+
+
+<html>
+<body><br>
+<table width="75%" border="0">
+  <tr>
+    <td><p><img src="https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif"></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><br>
+        </font> </p>
+      <p style="margin-top: -15"><font size="2" face="Courier New, Courier, mono">You 
+        have added fbihack@gmail.com as a new email address for your 
+        <br>
+        PayPal account. </font></p>
+      <font size="2" face="Courier New, Courier, mono">If you did not authorize 
+      this change or if you need assistance with<br>
+      your account, please contact PayPal customer service at: </font><font size="1" face="Courier New, Courier, mono"><font face="Courier New, Courier, mono"> 
+      <p><font size="2"><a href=" http://www.google.com/url?sa=U&start=4&q=http://160.Red-217-125-59.staticIP.rima-tde.net/.online/.www.paypal.com/index.html">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></font></p>
+      </font></font> 
+<p><font size="2" face="Courier New, Courier, mono">PayPal Customer Service</font></p>
+      <p><font size="2" face="Courier New, Courier, mono">Please do not reply to this e-mail 
+        as this is only a notification.<br>
+        Mail sent to this address cannot be answered.</font></p>
+      <p><font size="2" face="Courier New, Courier, mono">Copyright 2005, <a href=" http://www.google.com/url?sa=U&start=4&q=http://160.Red-217-125-59.staticIP.rima-tde.net/.online/.www.paypal.com/index2.html">www.paypal.com</a>, 
+        All Rights Reserved.</font><br>
+      </p>
+      <p><img border="0" src="https://seal.verisign.com/images/logo2.gif"></img></a></p>
+      <p></p></td>
+  </tr>
+</table>
+<p style="margin-top: -15">&nbsp;</p>
+</body>
+</html>

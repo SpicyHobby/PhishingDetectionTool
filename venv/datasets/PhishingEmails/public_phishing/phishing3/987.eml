@@ -1,0 +1,47 @@
+From nobody Sun Jan 25 13:49:59 2015
+Return-Path: <admin@c-asc.co.jp>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 1768E46B5D
+ for <user@login.example.com>; Tue, 19 Sep 2006 09:26:21 -0400 (EDT)
+Received: from c-asc.co.jp (unknown [202.222.19.110])
+ by mail.example.org (Postfix) with SMTP id B64296CD1C7
+ for <user@example.com>; Tue, 19 Sep 2006 09:26:20 -0400 (EDT)
+Received: (qmail 8231 invoked by uid 500); 19 Sep 2006 15:27:18 +0900
+Date: 19 Sep 2006 15:27:18 +0900
+Message-ID: <20060919062718.8230.qmail@c-asc.co.jp>
+To: user@example.com
+Subject: Update Online Access Profile
+From: Bank Of America <secure@bankofamerica.com>
+Content-Type: text/html
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 282
+
+
+<HTML>
+<TABLE cellSpacing=0 cellPadding=0 width=417 border=0>
+<TBODY>
+<TR>
+<TD colSpan=2>
+<BLOCKQUOTE>
+<P class="f32 style14 style15"><FONT size=2>
+<TABLE cellSpacing=0 cellPadding=0 width=750 summary="" border=0>
+<TBODY>
+<TR>
+<TD width=282>
+<DIV style="DISPLAY: inline"><IMG height=69 alt="Bank of America Higher Standards Home" src="http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg_logo.gif" width=250 border=0></DIV></TD>
+<TD width=308><IMG height=1 alt="" src="http://www.bankofamerica.com/x.gif" width=1 border=0></TD></TR></TBODY></TABLE><BR>Dear Member,</FONT></P>
+<P class="f32 style14 style15"><FONT size=2>We regret to inform you, that we had to lock your Online Access<BR>User ID because we have reasons to believe that your<BR>account may have been compromised by outside parties.<BR></FONT>
+<P><FONT size=2>In order to protect your sensitive information, we temporarily<BR>suspended your account for further investigations.</FONT> 
+<P><FONT size=2>To reactivate your account, click on the encrypted link below and confirm<BR>your identity by completing the secure form that will appear:</FONT></P>
+<P class="f32 style14 style15"><FONT size=2><A href="http://1160649613/secure/">http://1160649613/</A></FONT></P>
+<P><FONT size=2>Take our apologies for any inconvenience that this may cause.<BR></FONT></P>
+<P class="f32 style14 style15"></P>
+<P class="f32 style14 style15"><FONT size=2>Thank you,<BR>Bank of America Internet Banking.</FONT></P></BLOCKQUOTE>
+<P class="f32 style14 style15"></P>
+<P class="f32 style14 style15"></P>
+<DIV class=ftr-text1 align=left><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bank of America, N.A. Member FDIC. </FONT><A class=ftr-link2 title="Link opens Equal Housing Lender pop-up window" href="http://www.bankofamerica.com/help/equalhousing_popup.cfm" target=_blank><FONT size=2>Equal Housing Lender</FONT></A><A title="Link opens Equal Housing Lender pop-up window" href="http://1160649613/secure/" target=_blank><FONT size=2><IMG height=9 alt="Link opens Equal Housing Lender pop-up window" hspace=3 src="http://www.bankofamerica.com/images/shared/house.gif" width=14 border=0></FONT></A><BR><FONT size=2>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © 2006 Bank of America Corporation. All rights reserved.</FONT> </DIV></TD></TR></TBODY></TABLE></FORM>
+</HTML>

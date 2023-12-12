@@ -1,0 +1,59 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <root@server1.exservers.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B51DF468F9
+ for <user@login.example.com>; Sun, 21 Jan 2007 16:31:29 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 68890131FC82
+ for <user@example.com>; Sun, 21 Jan 2007 16:31:29 -0500 (EST)
+Received: from server1.exservers.com (www.exservers.com [72.21.40.186])
+ by mail.example.org (Postfix) with ESMTP id 7BFFB6FA1C1
+ for <user@example.com>; Sun, 21 Jan 2007 16:31:29 -0500 (EST)
+Received: from root by server1.exservers.com with local (Exim 4.63)
+ (envelope-from <root@server1.exservers.com>) id 1H8kH2-0007X8-54
+ for user@example.com; Sun, 21 Jan 2007 15:30:48 -0600
+From: "Washington Mutual" <onlineservice@wamu.com>
+MIME-Version: 1.0 Content-Type: text/html\r\n
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit\r\n
+Subject: Complete Your Washington Mutual Access 
+Message-Id: <E1H8kH2-0007X8-54@server1.exservers.com>
+Date: Sun, 21 Jan 2007 15:30:48 -0600
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.exservers.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - server1.exservers.com
+X-Source: /bin/bash
+X-Source-Args: sh xinetd 
+X-Source-Dir: /usr/local/games/examples
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 654
+
+Dear Washington Mutual Cardholder,<br><br>
+
+We regret to inform you that at our recent account verification we couldn't update your information because they were missing or they were incorrect.  For the User Agreement, Section 9,  we may immediately issue a warning,  temporarily suspend,  indefinitely suspend or terminate your membership and  refuse to  provide  our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us.
+
+<br><br>To restore your card account access, please take the following step, to ensure that your account has not been compromised:
+
+<br><br>- Login to your Online Service, complete your Washington Mutual Access form with your correct information  and check your account profile to make sure no changes have been made.
+
+<br><br>To get started, please follow the link below:
+
+<b>
+<a target="_blank" href="http://www.ipalmline.com/~tempo/wamu.com/index.htm">Click Here</a></b>          
+
+<br><br>We apologize for any inconvenience this may cause, and appreciate your 
+assistance in helping us maintain the integrity of the entire Washington Mutual system. Thank you for your attention to this matter.
+
+<br><br>Thank You,		
+<br>Washington Mutual Security Center
+
+<br><br>Please do not reply to this message.
+<br>Copyright 2007 Washington Mutual Inc. All rights reserved.

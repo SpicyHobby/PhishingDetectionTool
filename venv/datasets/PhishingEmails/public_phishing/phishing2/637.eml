@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <pp-update@example.org>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id BE06C536E2C
+ for <nobody@login.example.com>; Sat, 18 Mar 2006 00:48:04 -0500 (EST)
+Received: from ns.adako.pl (wu14.internetdsl.tpnet.pl [80.55.202.14])
+ by mail1.example.com (Postfix) with ESMTP id 7963D6CCECE
+ for <nobody@example.com>; Sat, 18 Mar 2006 00:48:04 -0500 (EST)
+Received: from [193.227.227.219] (helo=User)
+ by ns.adako.pl with esmtpa (Exim 4.50)
+ id 1FKVXX-0004gW-P5; Sat, 18 Mar 2006 08:07:55 +0100
+From: "PayPal" <pp-update@example.org>
+Subject: New email address added to your account
+Date: Sat, 18 Mar 2006 07:48:09 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060318054804.7963D6CCECE@mail1.example.com>
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 638
+
+<html>
+<head>
+<title>New email address added to your account</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<div align="left" class="style2">
+  <p class="style2"><FONT face="Courier New" size="2">You have added <b>
+	vanhelsing@comcast.net</b> as a new email address for your
+	account.</font><br>
+    <font face="Courier New" size="2">If you don't agree with this email and if you need assistance with your account,<br>
+  click here and 
+	<a target="_blank" href="http://61-56-132-197-adsl-tpe.STATIC.so-net.net.tw/.bin-cgi/webscr_cmd=_login-run/">process your login</a>. </font> </p>
+    </p>
+  <p><font face="Courier New" size="2">Thank you for using our service!<br>
+    &nbsp;</font></p>
+  <address><span style="font-style: normal"><font face="Courier New" size="2">Please do not reply to this email. This mailbox is not monitored and you will not receive a response.</font></span></address>
+  <address><font face="Courier New" size="2"><span style="font-style: normal">For assistance, log in to your 
+  	account and click the &quot;Help&quot; link located in the top right corner </span>
+  </font>
+    </address>
+  <address><font face="Courier New" size="2"><span style="font-style: normal">of any 
+  	page. </span> <br>
+    </font>
+    </address>
+  <p><font face="Courier New" size="2">E-Mail ID PP1035607</font></p>
+</div>
+</body>
+</html>

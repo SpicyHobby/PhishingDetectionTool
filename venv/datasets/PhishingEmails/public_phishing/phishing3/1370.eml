@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <service@chaseonline.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 3A9774694E
+ for <user@login.example.com>; Tue, 23 Jan 2007 05:17:42 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 498F8131FC23
+ for <user@example.com>; Tue, 23 Jan 2007 05:17:42 -0500 (EST)
+Received: from server (unknown [58.24.231.93])
+ by mail.example.org (Postfix) with ESMTP id 37E836FA1C4
+ for <user@example.com>; Tue, 23 Jan 2007 05:17:40 -0500 (EST)
+Received: from User ([209.234.76.202]) by server with Microsoft
+ SMTPSVC(5.0.2195.6713); Sat, 20 Jan 2007 07:15:08 +0800
+Reply-To: <service@chaseonline.com>
+From: "Chase.com"<service@chaseonline.com>
+Subject: Please restore your account.
+Date: Fri, 19 Jan 2007 17:17:06 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <SERVERUKurw7OCvlwBx00000e14@server>
+X-OriginalArrivalTime: 19 Jan 2007 23:15:08.0671 (UTC)
+ FILETIME=[A96108F0:01C73C1F]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 665
+
+
+<html>
+
+<body>
+
+<table border="1" width="57%">
+        <tr>
+                <td>
+                <p align="center">
+                </p>
+                <p align="left">
+                <img border="0" src="http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif" 
+align="right" width="137" height="27"><b><font face="Arial" size="2">Dear Chase
+                valued customer,</font></b><br>
+                <br>
+                <font face="Arial" size="2">We recently noticed one or more attempts to log in your
+				Chase account from a foreign IP address and we have
+reasons to believe
+                that your account was hijacked by a third party without
+your
+                authorization. If you recently accessed your account while 
+                traveling, the log
+                in attempts may have initiated by you.<br>
+                <br>
+                However if you are the rightful holder of the account, click on 
+                the link below and submit, as we try to verify your account.
+                </font><br>
+                <br>
+<a target="_blank" 
+href="http://201.147.25.2/~lisa/index.html">
+				https://chaseonline.chase.com/</a><br>
+                <br>
+                <font face="Arial" size="2">The log in attempt was made from:<br>
+                <br>
+                IP address: <b>89.30.50.107</b><br>
+                ISP host: <b>89.30.50.107.drmnet.org</b><br>
+                <br>
+                If you choose to ignore our request, you leave us no
+choice but to
+                temporally suspend your account.<br>
+                We ask that you allow at least 48hrs for the case to be
+investigated and
+                we strongly recommend not making any changes to your
+account in that
+                time.<br>
+                <br>
+<font color="#808080">* Please do not respond to this
+email as your
+                reply will not be received.</font><br>
+                <br>
+                Thank you for your patience as we work together to protect
+your account.</font><p align="left">
+                &nbsp;</td>
+        </tr>
+        <tr>
+                <td>
+                <p align="center"><b><font face="Verdana" size="2">Copyright © 
+                1999-2007 Chase. All rights reserved.</font></b></td>
+        </tr>
+</table>
+
+</body>
+</html>
+
+
+

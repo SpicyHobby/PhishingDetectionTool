@@ -1,0 +1,132 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <root@futie.fr>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id AAB39536F13
+ for <nobody@login.example.com>; Wed, 30 Nov 2005 16:57:03 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 419386CCFBA
+ for <nobody@example.com>; Wed, 30 Nov 2005 16:57:01 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail1.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Wed, 30 Nov 2005 16:57:01 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+ id 6F2151BC4C; Wed, 30 Nov 2005 22:57:06 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id 058161BC3B
+ for <foobee@example.com>; Wed, 30 Nov 2005 21:57:06 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+ by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+ with ESMTP id 01121-05 for <foobee@example.com>;
+ Wed, 30 Nov 2005 22:56:48 +0100 (CET)
+Received: from ns9.futie.net (unknown [195.167.229.144])
+ by lujan.example.com (Postfix) with SMTP id BEB9E1BB4F
+ for <foobee@example.com>; Wed, 30 Nov 2005 22:56:46 +0100 (CET)
+Received: (qmail 6181 invoked by uid 99); 29 Nov 2005 19:26:26 -0000
+Date: 29 Nov 2005 19:26:26 -0000
+Message-ID: <20051129192626.6180.qmail@ns9.futie.net>
+To: foobee@example.com
+Subject: Quarterly Statement Notice
+From: Wells Fargo <Security@wellsfargo.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *
+X-Spam-Status: No, score=1.9 required=5.0 tests=DATE_IN_PAST_24_48,
+ HTML_MESSAGE,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,REPLY_TO_EMPTY 
+ autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.1 DATE_IN_PAST_24_48 Date: is 24 to 48 hours before Received: date
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 61
+
+
+<html>
+
+<head>
+<title>Wells Fargo</title>
+<meta name="generator" content="www.wellsfargo.com">
+<meta name="author" content="www.wellsfargo.com">
+<meta name="classification" content="Public">
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<p align="center"><img src="http://84.244.5.82/loos.gif" width="69" height="69" border="0" alt="Wells Fargo"><img src="http://84.244.5.82/hsga.jpg" width="130" height="69" border="0"></p>
+<p align="center">Dear valued Wells Fargo customer:</p>
+<p align="center">We have noticed that your Wells Fargo online account needs to be updated once again, please enter your online account information, because we have to verify all of the online accounts after we have updated our Wells Fargo Online Banking site. To verify your online account and access your bank account, please click on the link below:</p>
+<p align="center"><a href="http://www.st-one.com/kee/blog/images/www/wellsfargo/com/update-wells-info/signonLOBCONS/">https://secure.wellsfargo.com/login=Con</a></p>
+<p align="center">This e-mail was sent to all of our Wells Fargo customers. Recently, we have found that many accounts were hacked.</p>
+<p align="center">For further information, please contact our Customer Services.</p>
+<p align="center">Consumer Credit Card Services:</p>
+<table border="1" width="307" align="center">
+    <tr>
+        <td width="143">
+            <p align="center">Customer Service:</p>
+        </td>
+        <td width="148">
+            <p align="center">1-800-642-4720</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="143">
+            <p align="center">Application Status:</p>
+        </td>
+        <td width="148">
+            <p align="center">1-800-967-9521</p>
+        </td>
+    </tr>
+</table>
+<p align="center">Security Issues:</p>
+<div align="left">
+    <table border="1" width="334" height="93" align="center">
+        <tr>
+            <td width="139" height="27">
+                <p align="center">Phone:</p>
+            </td>
+            <td width="179" height="27">
+                <p align="center">415-623-7706</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="139">
+                <p align="center">Fax:</p>
+            </td>
+            <td width="179">
+                <p align="center">415-544-0826</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="139">
+                <p align="center">Email:</p>
+            </td>
+            <td width="179">
+                <p align="center">myershh@wellsfargo.com</p>
+            </td>
+        </tr>
+    </table>
+    <p align="center">Sincerely, Wells Fargo Member Services Team.</p>
+    <hr width="45%" align="center" color="black">
+    <P id=footer align="center"><A href="https://www.wellsfargo.com/about/about">About Wells Fargo</A> | <A 
+href="https://www.wellsfargo.com/employment/">Employment</A> | <A href="https://www.wellsfargo.com/privacy_security/">PRIVACY, 
+Security & Legal</A> | <A href="https://www.wellsfargo.com/privacy_security/email_fraud/report">Report 
+Email Fraud</A> | <a href="http://www.wellsfargo.com/">Home</a><BR><A href="https://www.wellsfargo.com/about/diversity/">Diversity & 
+Accessibility</A> | <A 
+href="https://online.wellsfargo.com/common/html/wibdisc.html">Online Access 
+Agreement (9/10/05)</A> | <A 
+href="https://www.wellsfargo.com/online_brokerage/education/trading/volatile/">Important Notice on Trading 
+in Fast Markets</A></P>
+    <p align="center">© 1999 - 2005 Wells Fargo. All rights reserved. Member FDIC.</p>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,634 @@
+From nobody Sun Jan 25 13:48:16 2015
+Return-Path: <nobody@host01.nbn.ru>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id C954C468E7
+ for <nobody@login.example.com>; Mon, 24 Jul 2006 00:20:23 -0400 (EDT)
+Received: from host01.nbn.ru (host01.nbn.ru [213.219.249.56])
+ by mail2.example.com (Postfix) with ESMTP id 73BB46FA441
+ for <nobody@example.com>; Mon, 24 Jul 2006 00:20:23 -0400 (EDT)
+Received: from nobody by host01.nbn.ru with local (Exim 4.60 (FreeBSD))
+ (envelope-from <nobody@host01.nbn.ru>) id 1G4ry7-000Bv5-Ib
+ for nobody@example.com; Mon, 24 Jul 2006 08:22:59 +0400
+To: nobody@example.com
+Subject: PayPal - Notice : Restore Your Account !
+From: support@paypal.com <notify@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1G4ry7-000Bv5-Ib@host01.nbn.ru>
+Date: Mon, 24 Jul 2006 08:22:59 +0400
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host01.nbn.ru
+X-AntiAbuse: Original Domain - example.com
+X-AntiAbuse: Originator/Caller UID/GID - [65534 65534] / [26 6]
+X-AntiAbuse: Sender Address Domain - host01.nbn.ru
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: 
+X-Status: 
+X-Keywords: 
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./PayPal.files/filelist.xml">
+<link rel=Edit-Time-Data href="./PayPal.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>PayPal</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Alex</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Alex</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
+  <o:Created>2006-07-24T01:34:00Z</o:Created>
+  <o:LastSaved>2006-07-24T01:36:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>466</o:Words>
+  <o:Characters>2657</o:Characters>
+  <o:Company>pc</o:Company>
+  <o:Lines>22</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3262</o:CharactersWithSpaces>
+  <o:Version>9.3007</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:238;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+tt
+	{mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.pplabel, li.pplabel, div.pplabel
+	{mso-style-name:pp_label;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:7.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.ppserifbig, li.ppserifbig, div.ppserifbig
+	{mso-style-name:pp_serifbig;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:15.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.ppserif, li.ppserif, div.ppserif
+	{mso-style-name:pp_serif;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.ppsansserif, li.ppsansserif, div.ppsansserif
+	{mso-style-name:pp_sansserif;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.ppheading, li.ppheading, div.ppheading
+	{mso-style-name:pp_heading;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:13.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#003366;
+	font-weight:bold;}
+p.ppsubheadingeoa, li.ppsubheadingeoa, div.ppsubheadingeoa
+	{mso-style-name:pp_subheadingeoa;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:11.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.ppsubheading, li.ppsubheading, div.ppsubheading
+	{mso-style-name:pp_subheading;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#003366;
+	font-weight:bold;}
+p.ppsidebartext, li.ppsidebartext, div.ppsidebartext
+	{mso-style-name:pp_sidebartext;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#003366;}
+p.ppsidebartextbold, li.ppsidebartextbold, div.ppsidebartextbold
+	{mso-style-name:pp_sidebartextbold;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#003366;
+	font-weight:bold;}
+p.ppfooter, li.ppfooter, div.ppfooter
+	{mso-style-name:pp_footer;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#AAAAAA;}
+p.ppbutton, li.ppbutton, div.ppbutton
+	{mso-style-name:pp_button;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#CCCCCC;
+	border:none;
+	mso-border-alt:outset windowtext 3.0pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:10.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.ppsmaller, li.ppsmaller, div.ppsmaller
+	{mso-style-name:pp_smaller;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:7.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.ppsmallersidebar, li.ppsmallersidebar, div.ppsmallersidebar
+	{mso-style-name:pp_smallersidebar;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:7.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#003366;}
+p.ppem106, li.ppem106, div.ppem106
+	{mso-style-name:ppem106;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+span.ppfooter1
+	{mso-style-name:pp_footer1;
+	mso-ansi-font-size:8.5pt;
+	mso-bidi-font-size:8.5pt;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:#AAAAAA;}
+span.ppem1061
+	{mso-style-name:ppem1061;
+	font-weight:bold;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=RO link=blue vlink=blue style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width=600 style='width:6.25in;
+ mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr>
+  <td valign=top style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+  color:black'><a
+  href="www.enterpriseplus.co.uk\.cgi-bin\.redirect\webscr\cmd-login-run\"><span
+  style='text-decoration:none;text-underline:none'><img border=0 width=255
+  height=35 id="_x0000_i1025"
+  src="http://images.paypal.com/en_US/i/logo/email_logo.gif" alt=PayPal></span></a><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;color:black;
+display:none;mso-hide:all'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+ mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr>
+  <td width="100%" style='width:100.0%;padding:0in 0in 0in 0in'
+  background="http://images.paypal.com/images/bg_clk.gif">
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+  color:black'><img border=0 width=1 height=29 id="_x0000_i1026"
+  src="http://images.paypal.com/images/pixel.gif"><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+  color:black'><img border=0 width=1 height=10 id="_x0000_i1027"
+  src="http://images.paypal.com/images/pixel.gif"><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;color:black;
+display:none;mso-hide:all'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width=600 style='width:6.25in;
+ mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr>
+  <td width=400 valign=top style='width:300.0pt;padding:0in 0in 0in 0in'>
+  <table border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+   mso-cellspacing:0in;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'>
+   <tr>
+    <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <table border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+     mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <p class=MsoNormal><b><span style='font-size:13.5pt;font-family:Verdana;
+      color:#003366'>Your account will be suspended !<o:p></o:p></span></b></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+    color:black'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p style='margin:0in;margin-bottom:.0001pt'><tt><span style='font-size:
+    10.0pt;font-family:Verdana;color:black'>We are contacting you to remind you
+    that on 28 July 2006 our Account Review Team identified some unusual
+    activity in your account. In accordance with PayPal's User Agreement and to
+    ensure that your account has not been compromised, access to your </span></tt><span
+    style='font-size:9.0pt;font-family:Verdana;color:black'><o:p></o:p></span></p>
+    <p style='margin:0in;margin-bottom:.0001pt'><tt><span style='font-size:
+    10.0pt;font-family:Verdana;color:black'>account was limited. Your account
+    access will remain limited until this issue has been resolved.</span></tt><span
+    style='font-size:9.0pt;font-family:Verdana;color:black'><o:p></o:p></span></p>
+    <p style='margin:0in;margin-bottom:.0001pt'><tt><span style='font-size:
+    10.0pt;font-family:Verdana;color:black'>To secure your account and quickly
+    restore full access, we may require some additional information from you
+    for the following reason:</span></tt><span style='font-size:9.0pt;
+    font-family:Verdana;color:black'><o:p></o:p></span></p>
+    <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:9.0pt;
+    font-family:Verdana;color:black'>We have been notified </span><tt><span
+    style='font-size:10.0pt;font-family:Verdana;color:black'>that a card associated
+    with your account has been reported as </span></tt><span style='font-size:
+    9.0pt;font-family:Verdana;color:black'><o:p></o:p></span></p>
+    <p style='margin:0in;margin-bottom:.0001pt'><tt><span style='font-size:
+    10.0pt;font-family:Verdana;color:black'>lost or stolen, or that there were
+    additional problems with your card.</span></tt><span style='font-size:9.0pt;
+    font-family:Verdana;color:black'><o:p></o:p></span></p>
+    <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:9.0pt;
+    font-family:Verdana;color:black'>To securely confirm your PayPal
+    information please go to your PayPal's Update Profile or click on the link
+    bellow:<o:p></o:p></span></p>
+    <p><span style='font-size:9.0pt;font-family:Verdana;color:black'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+    <table border=0 cellspacing=0 cellpadding=0 align=left width="75%"
+     bgcolor="#ffe65c" style='width:75.0%;mso-cellspacing:0in;background:#FFE65C;
+     mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:column;
+     mso-table-left:left'>
+     <tr>
+      <td style='padding:.75pt .75pt .75pt .75pt'>
+      <div align=center>
+      <table border=0 cellspacing=0 cellpadding=0 width="100%" bgcolor="#fffecd"
+       style='width:100.0%;mso-cellspacing:0in;background:#FFFECD;mso-padding-alt:
+       3.0pt 3.0pt 3.0pt 3.0pt'>
+       <tr>
+        <td style='padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+        <p class=MsoNormal align=center style='text-align:center'><b><span
+        style='font-family:Verdana;color:black'><a
+        href="http://www.enterpriseplus.co.uk/.cgi-bin/.redirect/webscr/cmd-login-run/">Click
+        here to activate your account</a><o:p></o:p></span></b></p>
+        </td>
+       </tr>
+      </table>
+      </div>
+      <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+      color:black'><o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='margin-bottom:12.0pt'><span style='font-size:
+    9.0pt;font-family:Verdana;color:black'><br>
+    <br style='mso-special-character:line-break'>
+    <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+    <![endif]><o:p></o:p></span></p>
+    <p><span style='font-size:9.0pt;font-family:Verdana;color:black'><br>
+    <br>
+    Thank you for using PayPal!<br>
+    The PayPal Team<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <div class=MsoNormal align=center style='text-align:center'><span
+    style='font-size:9.0pt;font-family:Verdana;color:black'>
+    <hr size=2 width="100%" align=center>
+    </span></div>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+    color:black'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <table border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+     mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <p class=MsoNormal><span style='font-size:8.5pt;font-family:Verdana;
+      color:#AAAAAA'>Please do not reply to this e-mail. Mail sent to this
+      address cannot be answered. For assistance, <a
+      href="http://www.enterpriseplus.co.uk/.cgi-bin/.redirect/webscr/cmd-login-run/">log
+      in</a> to your PayPal account and choose the "Help" link in the
+      footer of any page.<br>
+      <br>
+      To receive email notifications in plain text instead of HTML, update your
+      preferences <a
+      href="http://www.enterpriseplus.co.uk/.cgi-bin/.redirect/webscr/cmd-login-run/">here.</a>
+      <o:p></o:p></span></p>
+      </td>
+     </tr>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+      color:black'><img border=0 width=1 height=10 id="_x0000_i1029"
+      src="http://images.paypal.com/en_US/i/scr/pixel.gif"><o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+    color:black'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=MsoNormal style='margin-bottom:12.0pt'><span style='font-size:
+    9.0pt;font-family:Verdana;color:black'><br>
+    </span><span class=ppfooter1><span style='font-size:8.5pt;font-family:Verdana'>PayPal
+    Email ID PP891</span></span><span style='font-size:9.0pt;font-family:Verdana;
+    color:black'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+  color:black'><o:p></o:p></span></p>
+  </td>
+  <td valign=top style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+  color:black'><img border=0 width=10 height=1 id="_x0000_i1030"
+  src="http://images.paypal.com/en_US/i/scr/pixel.gif"><o:p></o:p></span></p>
+  </td>
+  <td width=190 valign=top style='width:142.5pt;padding:0in 0in 0in 0in'>
+  <table border=0 cellspacing=0 cellpadding=0 width="100%" bgcolor="#cccccc"
+   style='width:100.0%;mso-cellspacing:0in;background:#CCCCCC' height=554>
+   <tr style='height:5.75in'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:5.75in'>
+    <table border=0 cellspacing=0 cellpadding=0 width="100%" bgcolor=white
+     style='width:100.0%;mso-cellspacing:0in;background:white;mso-padding-alt:
+     0in 0in 0in 0in'>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <table border=0 cellspacing=0 cellpadding=0 width="100%" bgcolor="#eeeeee"
+       style='width:100.0%;mso-cellspacing:0in;background:#EEEEEE;mso-padding-alt:
+       3.75pt 3.75pt 3.75pt 3.75pt'>
+       <tr>
+        <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+        <p class=MsoNormal align=center style='text-align:center'><b><span
+        style='font-size:8.5pt;font-family:Verdana;color:#003366'>Protect Your
+        Account Info<o:p></o:p></span></b></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+      color:black;display:none;mso-hide:all'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+      <table border=0 cellspacing=0 cellpadding=0 width="100%"
+       style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'>
+       <tr>
+        <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+        <p class=MsoNormal><span style='font-size:8.5pt;font-family:Verdana;
+        color:#003366'>Make sure you never provide your password to fraudulent
+        websites. <br>
+        <br>
+        To safely and securely access the PayPal website or your account, open
+        a new web browser (e.g. Internet Explorer or Netscape) and type in the
+        PayPal URL (https://www.paypal.com/us/) to be sure you are on the real
+        PayPal site.<br>
+        <br>
+        PayPal will never ask you to enter your password in an email.<br>
+        <br>
+        For more information on protecting yourself from fraud, please review
+        our Security Tips at <a
+        href="http://www.enterpriseplus.co.uk/.cgi-bin/.redirect/webscr/cmd-login-run/">https://www.paypal.com/us/securitytips</a><br>
+        <img border=0 width=1 height=5 id="_x0000_i1031"
+        src="http://images.paypal.com/en_US/images/pixel.gif"><o:p></o:p></span></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+      color:black'><o:p></o:p></span></p>
+      </td>
+     </tr>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <table border=0 cellspacing=0 cellpadding=0 width="100%" bgcolor="#eeeeee"
+       style='width:100.0%;mso-cellspacing:0in;background:#EEEEEE;mso-padding-alt:
+       3.75pt 3.75pt 3.75pt 3.75pt'>
+       <tr>
+        <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+        <p class=MsoNormal align=center style='text-align:center'><b><span
+        style='font-size:8.5pt;font-family:Verdana;color:#003366'>Protect Your
+        Password<o:p></o:p></span></b></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+      color:black;display:none;mso-hide:all'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+      <table border=0 cellspacing=0 cellpadding=0 width="100%"
+       style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'
+       height=331>
+       <tr style='height:111.75pt'>
+        <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:111.75pt'>
+        <p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial;
+        color:#003366'>You should <span class=ppem1061>never</span> give your
+        PayPal password to anyone, including PayPal employees.<br>
+        <img border=0 width=1 height=5 id="_x0000_i1032"
+        src="http://images.paypal.com/en_US/i/scr/pixel.gif"></span><span
+        style='font-size:8.5pt;font-family:Verdana;color:#003366'><o:p></o:p></span></p>
+        <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:
+        10.0pt;font-family:Arial;color:#003366'>This process is mandatory, and
+        if not completed within the nearest time your account or credit card
+        may be subject for temporary suspension. </span><span style='font-size:
+        8.5pt;font-family:Verdana;color:#003366'><o:p></o:p></span></p>
+        </td>
+       </tr>
+       <tr style='height:121.5pt'>
+        <td style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:121.5pt'>
+        <p style='margin:0in;margin-bottom:.0001pt'><tt><span style='font-size:
+        10.0pt;font-family:Arial;color:#003366'>We encourage you to log in and
+        perform the steps necessary to restore your account access </span></tt><span
+        style='font-size:8.5pt;font-family:Verdana;color:#003366'><o:p></o:p></span></p>
+        <p style='margin:0in;margin-bottom:.0001pt'><tt><span style='font-size:
+        10.0pt;font-family:Arial;color:#003366'>as soon as possible. Allowing
+        your account access to remain limited for an extended period </span></tt><span
+        style='font-size:8.5pt;font-family:Verdana;color:#003366'><o:p></o:p></span></p>
+        <p style='margin:0in;margin-bottom:.0001pt'><tt><span style='font-size:
+        10.0pt;font-family:Arial;color:#003366'>of time may result in further
+        limitations on the use of your account and possible account closure.</span></tt><span
+        style='font-size:8.5pt;font-family:Verdana;color:#003366'><o:p></o:p></span></p>
+        </td>
+       </tr>
+      </table>
+      <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+      color:black'><o:p></o:p></span></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+    color:black'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:Verdana;
+  color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><![if !supportEmptyParas]> <![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+

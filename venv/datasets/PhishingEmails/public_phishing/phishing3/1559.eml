@@ -1,0 +1,77 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <account@capitalone.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 485B64690A
+ for <user@login.example.com>; Mon, 19 Feb 2007 11:16:42 -0500 (EST)
+X-Greylist: delayed 11655 seconds by postgrey-1.27 at mail.example.org;
+ Mon, 19 Feb 2007 11:16:48 EST
+Received: from 70.85.134.164 (a4.86.5546.static.theplanet.com [70.85.134.164])
+ by mail.example.org (Postfix) with SMTP id 0C02C131FBEB
+ for <user@example.com>; Mon, 19 Feb 2007 11:16:47 -0500 (EST)
+Received: from 170.68.125.21 by ; Mon, 19 Feb 2007 21:13:39 +0500
+Message-ID: <amtrak@yahoo.com>
+From: "Capital One" <account@capitalone.com>
+Reply-To: "Capital One" <account@capitalone.com>
+To: libevent-users@example.com, user@example.com, mat@example.com,
+ d1ck@example.com, passion@example.com
+Subject: Account Authentication Required
+Date: Mon, 19 Feb 2007 15:13:39 -0100
+X-Mailer: Internet Mail Service (5.5.2650.21)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--16403132900430689495"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 854
+
+----16403132900430689495
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<FONT face=3DVerdana size=3D2>&nbsp;<img alt=3D"CapitalOne.com" src=3D"htt=
+p://www.capitalone.com/images/header/logos/capone.gif" border=3D"0" hspace=
+=3D"10" vspace=3D"14"><br><BR><div>&nbsp;&nbsp;&nbsp;Dear Capital One Cust=
+omer,<BR></div>&nbsp; 
+<DIV>&nbsp;
+<DIV>&nbsp;&nbsp; Due to recent fraudulent activities on some of Capital O=
+ne online <br>&nbsp;&nbsp;&nbsp;accounts we are launching a new security s=
+ystem to make<br>&nbsp;&nbsp;&nbsp;Capital One online accounts more secure=
+ and safe. Before we can <br>&nbsp;&nbsp;&nbsp;activate it we will be chec=
+king all Capital One online accounts to confirm <br>&nbsp;&nbsp;&nbsp;the =
+authenticity of the holder.</DIV>
+<DIV><FONT color=3D#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; We will require a confirmation that your account has=
+ not been <br>&nbsp;&nbsp;&nbsp;stolen or hacked. Your account has not bee=
+n suspended or frozen. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; To confirm your account status please <A href=3D"htt=
+p://82.106.10.192/red.htm">Login</A><BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;-complete the required information to authenticate and reset your ac=
+count<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your account b=
+alance has not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-ma=
+ke sure your details have not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;-review recent transactions in your account history for any un=
+authorized <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transfer</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp;&nbsp;If you find any type of suspicious activities p=
+lease contact us immediately.<br>&nbsp;&nbsp; Please include in your messa=
+ge your account number, your account name<br>&nbsp;&nbsp; and the unauthor=
+ized transfer date & time.<BR><BR></DIV>
+
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Please do not reply to this message. For any inquiries, =
+contact Customer Service.</DIV>
+<DIV>&nbsp;</DIV>
+
+<DIV>&nbsp;&nbsp; =A92007 Capital One Services, Inc.</DIV></FONT>
+<DIV>&nbsp;</DIV>
+
+
+
+
+----16403132900430689495--

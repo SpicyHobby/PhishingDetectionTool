@@ -1,0 +1,68 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id 09589536E13
+ for <username@login.domain.com>; Wed,  9 Nov 2005 23:43:42 -0500 (EST)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id 96E9B6CCED7
+ for <username@domain.com>; Wed,  9 Nov 2005 23:43:40 -0500 (EST)
+Received: from hotmail.com (host10-94.pool8173.interbusiness.it [81.73.94.10])
+ by mail1.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Wed,  9 Nov 2005 23:43:40 -0500 (EST)
+Reply-To: <accounting@paypal.com>
+From: "Account Service" <service@paypal.com>
+Subject: Verify your PayPal Account
+Date: Thu, 10 Nov 2005 05.43.40 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.5 required=5.0 tests=AWL,FORGED_HOTMAIL_RCVD,
+ FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_10_20,
+ HTML_MESSAGE,INVALID_DATE,MIME_HTML_ONLY,MISSING_HEADERS,RAZOR2_CHECK,
+ RCVD_IN_BL_SPAMCOP_NET autolearn=no version=3.0.2
+X-Spam-Report: *  0.2 INVALID_DATE Invalid Date: header (not RFC 2822)
+ *  2.5 FORGED_HOTMAIL_RCVD Forged hotmail.com 'Received:' header found
+ *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?81.73.94.10>]
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+ * -0.2 AWL AWL: From: address is in the auto white-list
+Message-Id: <20051110044340.96E9B6CCED7@mail1.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: O
+Content-Length: 1172
+Lines: 16
+
+
+<BODY><BR><BR>We recently have determined that different computers have logged 
+into your PayPal account, and multiple password failures were present before 
+the login. One of our Customer Service employees has already tryed to 
+telephonically reach you. As our employee did not manage to reach you, this 
+email has been sent to your notice.<BR>Therefore your account has been temporary 
+suspended. We need you to confirm your identity in order to regain full 
+privileges of your account.<BR>If this is not completed by <STRONG>November 13, 
+2005</STRONG>, we reserve the right to terminate all privileges of your account 
+indefinitly, as it may have been used for fraudulent purposes. We thank you for 
+your cooperation in this manner.<BR>To confirm your identity please follow the 
+link below:<BR><BR><A 
+href="http://paypal.com.login-user7942.info/webscr.php?cmd=LogIn">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</A> 
+<BR><BR><BR><BR><BR>Thank you for your patience in this matter. <BR><BR>PayPal - 
+Customer Service <BR><BR>Please do not reply to this e-mail as this is only a 
+notification. Mail sent to this address cannot be answered. <BR></BODY></HTML>

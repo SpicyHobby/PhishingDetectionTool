@@ -1,0 +1,71 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <service@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id BB97E468B3
+ for <user@login.example.com>; Fri, 10 Nov 2006 19:51:54 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 93EA3131F9C0
+ for <user@example.com>; Fri, 10 Nov 2006 19:51:54 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Score: 9.835
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.835 tagged_above=-100 required=4
+ tests=[DNS_FROM_RFC_ABUSE=0.479, FORGED_MUA_OUTLOOK=3.36,
+ FORGED_OUTLOOK_HTML=2.514, HTML_MESSAGE=0.001,
+ HTML_TAG_BALANCE_BODY=0.18, MAILTO_TO_SPAM_ADDR=0.276,
+ MIME_HTML_ONLY=0.001, NO_REAL_NAME=0.55, SPF_HELO_PASS=-0.001,
+ SPF_SOFTFAIL=1.47, UNDISC_RECIPS=0.883, X_PRIORITY_HIGH=0.122]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id uzrSqSmx+8q4 for <user@example.com>;
+ Fri, 10 Nov 2006 19:51:45 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Fri, 10 Nov 2006 19:51:45 -0500 (EST)
+Received: from mail.atmlawfirm.com (mail.atmlawfirm.com [68.16.67.36])
+ by mail.example.org (Postfix) with ESMTP id 6087E6FA5AF
+ for <user@example.com>; Fri, 10 Nov 2006 19:51:45 -0500 (EST)
+Received: from User ([65.15.158.125]) by mail.atmlawfirm.com with Microsoft
+ SMTPSVC(6.0.3790.1830); Fri, 10 Nov 2006 19:51:43 -0500
+Reply-To: <do-not-reply@paypal.com>
+From: "service@paypal.com"<service@paypal.com>
+Subject: New email address added to your account!
+Date: Fri, 10 Nov 2006 19:00:36 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <ATMMCLSTR01Ta6aefbG000038fa@mail.atmlawfirm.com>
+X-OriginalArrivalTime: 11 Nov 2006 00:51:43.0722 (UTC)
+ FILETIME=[8E9524A0:01C7052B]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 439
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><FONT face="Verdana" size="2">You have added <FONT face="Verdana" size="2">muartea55@aol.com</A> as a new email address for<br> your
+PayPal account.<br></p></FONT>
+
+<P><FONT face="Verdana" size="2">If you did not authorize this change or if you need assistance<br> with 
+your account, please contact PayPal customer service at:<br></p></FONT>
+
+<P><FONT face="Verdana" size="2"><A href="http://bd.brac.net/manual/mod/zananabunaisibagapulaninimata.htm">
+<FONT face="Verdana" size="2">https://www.paypal.com/us/wf/f=cancel_email</A><br></p></FONT>
+<P><FONT face="Verdana" size="2">Thank you for using PayPal!<br>
+The PayPal Team</p></FONT><br>
+<P><FONT face="Verdana" size="2">Please do not reply to this e-mail. Mail sent to this address cannot<br> be
+answered. For assistance, log in to your PayPal account and choose<br> the
+"Help" link in the header of any page.<br></p></FONT>

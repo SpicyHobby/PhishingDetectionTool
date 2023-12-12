@@ -1,0 +1,95 @@
+From nobody Sun Jan 25 13:50:02 2015
+Return-Path: <apache@ip.asm.md>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id E6A1A4691C
+ for <user@login.example.com>; Fri, 30 Mar 2007 09:49:54 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id DB026131FB86
+ for <user@example.com>; Fri, 30 Mar 2007 09:49:53 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 3BA661C30A; Fri, 30 Mar 2007 15:49:50 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id CCEE61C305
+ for <umeet@uninet.edu>; Fri, 30 Mar 2007 15:49:49 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id AA4B2898
+ for <umeet@uninet.edu>; Fri, 30 Mar 2007 15:49:49 +0200 (CEST)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 24942-07 for <umeet@uninet.edu>;
+ Fri, 30 Mar 2007 15:49:26 +0200 (CEST)
+Received: from ip.asm.md (ip-193.226.65.9.asm.md [193.226.65.9])
+ by lujan.uninet.edu (Postfix) with ESMTP id AAEB21BEA5
+ for <umeet@uninet.edu>; Fri, 30 Mar 2007 15:49:11 +0200 (CEST)
+Received: from apache by ip.asm.md with local (Exim 4.63)
+ (envelope-from <apache@ip.asm.md>) id 1HXHTW-0007e4-J6
+ for umeet@uninet.edu; Fri, 30 Mar 2007 16:49:06 +0300
+To: umeet@uninet.edu
+Subject: Personal Security
+Date: Fri, 30 Mar 2007 16:49:06 +0300
+From: Del Norte CU <do-not-reply@customers.dncu.net>
+Reply-To: Del Norte CU <do-not-reply@customers.dncu.net>
+Message-ID: <2378b88f3e489f19bc92ae813a643de9@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+Sender: Apache <apache@ip.asm.md>
+X-Virus-Scanned: by amavisd-new-20030616-p10 at uninet.edu
+X-Spam-Status: Yes, hits=11.4 tagged_above=0.0 required=5.0 tests=BAYES_20,
+ HTML_30_40, HTML_IMAGE_ONLY_16, HTML_MESSAGE, MIME_HTML_ONLY,
+ RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK
+X-Spam-Level: ***********
+X-Spam-Flag: YES
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1049
+
+<html>
+
+<title>notice</title>
+
+<p><img border="0" src="http://www.sweet-revenge.at/images/banner_cu.gif"></p>
+
+<p><font face="Arial" size="2"><span class="treb">Dear Member, <br>
+
+<br>
+
+Due to the recent phishing attacks targeting Del Norte Credit Union we are 
+
+currently launching<Br>
+
+ a new security system that will improve
+
+the level of member service we can provide to you.<br>
+
+In order to update your account and benefit from new facilities, click
+
+<a href="http://www.cuathome.madmilkdud.com/wesco2/">here</a>.</span></font></p>
+
+<p><span style="font-family: Arial"><font size="2">To enhance the security when 
+
+accessing your on-line accounts, Del Norte Credit Union has<Br> implemented an 
+
+additional layer to our on-line security system. <Br>You may be requested to answer 
+
+security questions in order to complete your log in to DNCU Online Banking.</font></span><font face="Arial" size="2"><span class="treb"><br>
+
+<br>
+
+<b>Failure to authenticate your account may result in account malfunction, <br>slow 
+
+online experience or even exposure of sensible data.<br></b><br>
+
+Please do not reply to this message. For any inquiries, contact Member Service. <br>
+
+<br>
+
+</span>Copyright © 2007 Del Norte Credit Union. All rights reserved.</font></p>
+
+</html>

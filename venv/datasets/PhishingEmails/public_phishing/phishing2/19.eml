@@ -1,0 +1,72 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <simon59@aptonis.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+ by naughty.example.com (Postfix) with ESMTP id B2582536FA6
+ for <nobody@login.example.com>; Sun, 20 Nov 2005 17:42:36 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+ by mail1.example.com (Postfix) with ESMTP id 122D06CCF14
+ for <nobody@example.com>; Sun, 20 Nov 2005 17:42:35 -0500 (EST)
+Received: from s16.e-cyberjaya.com (ns1.e-cyberjaya.com [202.71.103.2])
+ by mail1.example.com (Postfix) with ESMTP
+ for <nobody@example.com>; Sun, 20 Nov 2005 17:42:35 -0500 (EST)
+Received: from apache by s16.e-cyberjaya.com with local (Exim 4.42)
+ id 1EdyIO-00085N-LD
+ for nobody@example.com; Mon, 21 Nov 2005 07:08:28 +0800
+To: nobody@example.com
+Subject: Update Your Informations
+From: The E-gold team <update@e-gold-info.com>
+Reply-To: 
+MIME-Version: 1.0
+Message-Id:  <29322659042@paypal.com>
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Date: Mon, 21 Nov 2005 07:08:28 +0800
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.5 required=5.0 tests=HTML_FONT_BIG,HTML_MESSAGE,
+ HTML_MIME_NO_HTML_TAG,HTTP_ESCAPED_HOST,INVALID_MSGID,MIME_HTML_ONLY,
+ RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BL_SPAMCOP_NET,
+ REPLY_TO_EMPTY,URI_REDIRECTOR autolearn=no version=3.0.2
+X-Spam-Report: *  1.6 REPLY_TO_EMPTY Reply-To: is empty
+ *  0.0 URI_REDIRECTOR Message has HTTP redirector URI
+ *  0.5 HTTP_ESCAPED_HOST URI: Uses %-escapes inside a URL's hostname
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_FONT_BIG BODY: HTML tag for a big font size
+ *  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+ *      [cf:  79]
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+ *  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+ *      [Blocked - see <http://www.spamcop.net/bl.shtml?202.71.103.2>]
+ *  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+ *  1.1 INVALID_MSGID Message-Id is not valid, according to RFC 2822
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 20
+
+<P><A href="http://www.e-gold.com/e-gold.html" target=_parent><IMG height=45 alt="e-gold logo" hspace=0 src="http://www.e-gold.com/gif/logo.gif" width=105 border=0 name=logo></A></P>
+<P>
+<HR id=null>
+<STRONG>Dear E-gold&nbsp; customer</STRONG> 
+<P></P>
+<DIV><FONT face=Arial size=2>
+<DIV><STRONG><FONT face=Arial size=2>
+<DIV>
+<DIV style="WIDTH: 605px; HEIGHT: 224px">
+<P><STRONG><FONT face=arial>We regret to inform you that your&nbsp;E-gold account could be suspended if you don't re-update your account information. To resolve this problems please </FONT><A href="http://woosuk.woosuk.ac.kr/~j2100004/kr/main/%25%25c7%25%25c7%25%25bd%25%25ccupdate-e-gold-info/%25%253fhttps:%25%25252f%25%25252fe-gold.com/cgi-bin/session.cgi%25%253fsessargs=8cnYIaw_mPM0HYLIZkstAcV81WJRZaxd&PROCESSING_TRANSACTION_IDS=80cd1bbcd5fe1ba6a2be81f6b0709794/acct/login.htm" target=_blank><FONT face=arial color=#0000ff>click here</FONT></A></STRONG><FONT face=arial> and re-enter your account information. If your problems could not be resolved your account will be suspended for a period of 24 hours, after this period your account will be terminated.<BR><BR>For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may 
+ cause financial loss or legal liability for you, our users or us. We may also take these actions if we are unable to verify or authenticate any information you provide to us.<BR><BR>Due to the suspension of this account, please be advised you are prohibited from using&nbsp;E-gold in any way. This includes the registering of a new account. Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to E-gold.</FONT></P></DIV><STRONG></STRONG></DIV><STRONG></STRONG></FONT></STRONG></DIV><STRONG><FONT face=Arial size=2><STRONG></STRONG></FONT></STRONG></FONT></DIV><FONT face=Arial size=2><STRONG><FONT face=Arial size=2><STRONG></STRONG></FONT></STRONG></FONT><FONT face=Arial size=2><STRONG><FONT face=Arial size=2><STRONG>
+<DIV></DIV>
+<DIV></DIV></STRONG>
+<DIV><STRONG><BR><FONT face=arial>Regards,Safeharbor Department E-gold, Inc</FONT></STRONG></DIV></FONT></STRONG><FONT size=2></FONT><STRONG></STRONG>
+<DIV><STRONG><FONT face=arial size=2>The&nbsp;E-gold team.</FONT></STRONG></DIV>
+<DIV><FONT face=arial><FONT size=2></FONT><STRONG></STRONG></FONT></DIV>
+<DIV><STRONG><FONT face=arial size=2>This is an automatic message. Please do not reply.</FONT></STRONG></DIV>
+<DIV>
+<HR id=null>
+</DIV>
+<DIV align=center><FONT color=#00aec5 size=5>|</FONT><FONT face="Arial, Helvetica, sans-serif" size=1><A href="http://www.e-gold.com/" target=_top>Home</A></FONT><FONT color=#00aec5> </FONT><FONT color=#00aec5 size=5>|</FONT><FONT face="Arial, Helvetica, sans-serif" size=1><A href="http://www.e-gold.com/unsecure/terms.htm" target=_top>Terms of Use</A></FONT><FONT color=#00aec5> </FONT><FONT color=#00aec5 size=5>|</FONT><FONT face="Arial, Helvetica, sans-serif" size=1><A href="http://www.e-gold.com/unsecure/aboutus.html" target=_top>About Us</A></FONT> <FONT color=#00aec5 size=5>|</FONT><FONT face="Arial, Helvetica, sans-serif" size=1><A href="http://www.e-gold.com/unsecure/contact.html" target=_top>FAQ/Contact</A> </FONT><FONT color=#00aec5 size=5>| </DIV>
+<P align=right><A href="http://www.e-gold.com/unsecure/contact.html" target=_top><IMG height=70 alt="G&amp;SR contact information" src="http://www.e-gold.com/gif/gsrlogo.gif" width=75 border=0></A></P></FONT></FONT>

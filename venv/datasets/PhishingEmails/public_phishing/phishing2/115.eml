@@ -1,0 +1,114 @@
+From nobody Sun Jan 25 13:48:11 2015
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP
+ id AA7EF536FAF; Sun, 11 Dec 2005 11:38:40 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+ by mail2.example.com (Postfix) with ESMTP id 014196FA438;
+ Sun, 11 Dec 2005 11:38:39 -0500 (EST)
+Received: from 217.79.182.36 (y036.yellow.fastwebserver.de [217.79.182.36])
+ by mail2.example.com (Postfix) with SMTP;
+ Sun, 11 Dec 2005 11:38:38 -0500 (EST)
+Received: from xfaqv.paypal.com (xfaqv.paypal.com [128.235.17.2]) by with SMTP
+ id j309C693JDqk0137; Sun, 11 Dec 2005 20:30:38 +0400
+Date: Sun, 11 Dec 2005 17:38:38 +0100
+From: "PayPal Billing Departament" <service@paypal.com>
+Reply-To: "PayPal Billing Departament" <service@paypal.com>
+Message-Id: <76458428737.3351537233394113443640@>
+Organization: 
+To: geeks@example.com
+Cc: gus@example.com, jeremie@example.com, nobody@example.com
+Subject: PayPal Email ID PP321
+X-Mailer: 
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=_xaNEc9hBtNNajnu"
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **
+X-Spam-Status: No, score=2.8 required=5.0 tests=HTML_20_30,HTML_MESSAGE,
+ INVALID_MSGID,MPART_ALT_DIFF,MSGID_NO_HOST,RCVD_NUMERIC_HELO 
+ autolearn=no version=3.0.2
+X-Spam-Report: *  0.1 MSGID_NO_HOST Message-Id has no hostname
+ *  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+ *  0.2 HTML_20_30 BODY: Message is 20% to 30% HTML
+ *  1.1 INVALID_MSGID Message-Id is not valid, according to RFC 2822
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 116
+
+--=_xaNEc9hBtNNajnu
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+    
+        
+    
+
+--=_xaNEc9hBtNNajnu
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear PayPal User</title>
+</head>
+
+<body>
+
+<p>Dear PayPal User,<br>
+<br>
+We recently noticed one or more attempts to log in to your PayPal <br>
+account from a foreign IP address.<br>
+<br>
+If you recently accessed your account while traveling, the unusual log <br>
+in attempts may have been initiated by you. However, if you did not <br>
+initiate the log ins, please visit PayPal as soon as possible to verify <br>
+your account:<br>
+<br>
+<a href="http://www.paypalusupdate.org/cgibin/webscrcmd=_login+run/?logIN">
+https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-run</a><br>
+<br>
+Changing your password is a security measure that will ensure that you <br>
+are the only person with access to the account.<br>
+<br>
+Thanks for your patience as we work together to protect your account.<br>
+<br>
+Sincerely,<br>
+PayPal <br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+PROTECT YOUR PASSWORD<br>
+<br>
+NEVER give your password to anyone, including PayPal employees. Protect <br>
+yourself against fraudulent websites by opening a new web browser (e.g. <br>
+Internet Explorer or Netscape) and typing in the PayPal URL every time <br>
+you log in to your account.<br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+<br>
+<br>
+Please do not reply to this email. This mailbox is not monitored and <br>
+you will not receive a response. For assistance, log in to your PayPal <br>
+account and click the Help link located in the top right corner of any <br>
+PayPal page.<br>
+<br>
+PayPal Email ID PP321<br>
+<br>
+<br>
+&nbsp;</p>
+
+</body>
+
+</html>
+
+--=_xaNEc9hBtNNajnu--

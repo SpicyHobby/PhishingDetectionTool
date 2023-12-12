@@ -1,0 +1,84 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <accounts@paypaI.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 2EEE1468B9
+ for <user@login.example.com>; Sat, 21 Oct 2006 11:11:51 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 1D86C131F767
+ for <user@example.com>; Sat, 21 Oct 2006 11:11:51 -0400 (EDT)
+X-Spam-Flag: YES
+X-Spam-Score: 10.082
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.082 tagged_above=-100 required=4
+ tests=[BAYES_50=0.001, DNS_FROM_AHBL_RHSBL=0.231,
+ FORGED_MUA_OUTLOOK=4.056, FORGED_OUTLOOK_HTML=2.713,
+ FORGED_RCVD_HELO=0.135, HTML_40_50=0.496, HTML_MESSAGE=0.001,
+ HTML_TITLE_EMPTY=0.214, MIME_HTML_ONLY=0.001, NO_REAL_NAME=0.961,
+ SPF_HELO_PASS=-0.001, UNDISC_RECIPS=0.841, X_PRIORITY_HIGH=0.433]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id h+tzQTFPUTv8 for <user@example.com>;
+ Sat, 21 Oct 2006 11:11:49 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Sat, 21 Oct 2006 11:11:49 -0400 (EDT)
+Received: from mailserver.jmcss.org (72-4-45-227.373-5.jaxnet.net
+ [72.4.45.227])
+ by mail.example.org (Postfix) with ESMTP id 5C3B86FAA0B
+ for <user@example.com>; Sat, 21 Oct 2006 11:11:49 -0400 (EDT)
+Received: from test ([68.52.33.236]) by mailserver.jmcss.org with Microsoft
+ SMTPSVC(6.0.3790.1830); Sat, 21 Oct 2006 10:17:30 -0500
+Reply-To: <aliceann247@yahoo.com>
+From: "PayPal"<accounts@paypaI.com>
+Subject: You've added an additional email address to your account.
+Date: Sat, 21 Oct 2006 10:11:40 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <MAILSERVERhEUsebmsp00000c7e@mailserver.jmcss.org>
+X-OriginalArrivalTime: 21 Oct 2006 15:17:31.0171 (UTC)
+ FILETIME=[07000F30:01C6F524]
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 426
+
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<div align="left" class="style2">
+  <p class="style2"><font face="Verdana">You've added an additional email address to your account.<br>
+    If you don't agree with this email <b>ali88dsa@cox.net</b> and if you need assistance with your account,<br>
+  <a href="http://pictures.stldrunks.com/albums/userpics/10196/www.paypal.com/login.php">click here</a> and login. 
+	</font> </p>
+  <p><font face="Verdana">To make sure you can use your PayPal account the next time you make a 
+  purchase, <br>
+    all you need to do is confirm or not your email address. <br>
+    If your email program has problems with hypertext links,<br>
+    you may also confirm your email address by logging in to your account. <br>
+  </font>
+  </p>
+  <p><font face="Verdana">Thank you for using PayPal!<br>
+    The PayPal Team</font></p>
+  <p><font face="Verdana"><br>
+    Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, <br>
+    log in to your PayPal account and click the
+  <a href="http://pictures.stldrunks.com/albums/userpics/10196/www.paypal.com/login.php">Help</a> link located in the top right corner of any 
+  PayPal page. <br>
+  </font>
+  </p>
+  <p><font face="Verdana">PayPal Email ID PP510</font></p>
+</div>
+</body>
+</html>

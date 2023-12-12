@@ -1,0 +1,105 @@
+From nobody Sun Jan 25 13:50:05 2015
+Return-Path: <accountservice@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 070A4468FE;
+ Sat, 28 Jul 2007 13:38:49 -0400 (EDT)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id EED91131FB0B;
+ Sat, 28 Jul 2007 13:38:48 -0400 (EDT)
+Received: from 82-33-20-211.cable.ubr01.stav.blueyonder.co.uk
+ (82-33-20-211.cable.ubr01.stav.blueyonder.co.uk [82.33.20.211])
+ by mail.example.org (Postfix) with SMTP id C64B16FA1C4;
+ Sat, 28 Jul 2007 13:38:47 -0400 (EDT)
+Received: from [120.157.194.126] by
+ 82-33-20-211.cable.ubr01.stav.blueyonder.co.uk with ESMTP id CB8A2A94265;
+ Sat, 28 Jul 2007 18:32:48 +0000
+Message-ID: <5$-2-8wzkp8escz8$h@kcatjq.qsnt>
+From: "PayPal Service" <accountservice@paypal.com>
+Reply-To: "PayPal Service" <accountservice@paypal.com>
+To: user@example.com
+Subject: Please Restore Your Account Access !
+Date: Sat, 28 Jul 07 18:32:48 GMT
+X-Mailer: bizness-mailer v.3.9.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary=".31EC26A7B"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Keywords: 
+Status: O
+Content-Length: 2713
+Lines: 71
+
+
+--.31EC26A7B
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1" />
+<title>Paypal Service</title>
+</head>
+
+<body>
+<p>Dear PayPal Member,</p>
+<p>As part of our security measures, we regularly screen activity in the <=
+br />
+  PayPal system. We recently contacted you after noticing an issue on your=
+ <br />
+  account.We requested information from you for the following reason:</p>
+<p>We recently received a report of unauthorized credit card use <br />
+  associated with this account. As a precaution, we have limited access to=
+ your <br />
+  PayPal account in order to protect against future unauthorized <br />
+  transactions.</p>
+<p>Case ID Number: PP-222-735-506</p>
+<p>This is a reminder to log in to PayPal as soon as possible.</p>
+<p>Be sure to log in securely by opening a new browser window and typing <=
+br />
+  the PayPal URL. Once you log in, you will be provided with steps to <br =
+/>
+  restore your account access. We appreciate your understanding as we work=
+ to <br />
+  ensure account safety.</p>
+<p><a href=3D"http://210.172.51.123/i/paypal.com/">Click here to restore y=
+our account access.</a></p>
+<p>In accordance with PayPal's User Agreement, your account access will <b=
+r />
+  remain limited until the issue has been resolved. Unfortunately, if <br =
+/>
+  access to your account remains limited for an extended period of time, i=
+t <br />
+  may result in further limitations or eventual account closure. We <br />=
+
+  encourage you to log in to your PayPal account as soon as possible to he=
+lp <br />
+  avoid this. </p>
+<p>To review your account and some or all of the information that PayPal <=
+br />
+  used to make its decision to limit your account access, please visit the=
+ <br />
+  Resolution Center. If, after reviewing your account information, you <br=
+ />
+  seek further clarification regarding your account access, please contact=
+ <br />
+  PayPal by visiting the Help Center and clicking &quot;Contact Us&quot;.<=
+/p>
+<p>We thank you for your prompt attention to this matter. Please <br />
+  understand that this is a security measure intended to help protect you =
+and your <br />
+  account. We apologize for any inconvenience.</p>
+<p>Sincerely,<br />
+  PayPal Account Review Department<br />
+----------------------------------------------------------------</p>
+<p>PayPal Email ID PP638<br />
+  ------------------------------------------------------------------</p>
+</body>
+</html>
+
+--.31EC26A7B--

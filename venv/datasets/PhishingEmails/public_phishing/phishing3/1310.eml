@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <account@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 508F7468B0
+ for <user@login.example.com>; Thu, 11 Jan 2007 07:15:54 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 49320131FC81;
+ Thu, 11 Jan 2007 07:15:54 -0500 (EST)
+Received: from 72.232.233.138 (unknown [72.232.233.138])
+ by mail.example.org (Postfix) with SMTP id 3F4ED6FA1C1;
+ Thu, 11 Jan 2007 07:15:54 -0500 (EST)
+Received: from 69.196.226.2 by ; Thu, 11 Jan 2007 11:10:55 -0100
+Message-ID: <dignitary@yahoo.com>
+From: "Bank of America" <account@bankofamerica.com>
+Reply-To: "Bank of America" <account@bankofamerica.com>
+To: user@example.com, openbsd-mobile-request@example.com,
+ owner-ceremony-digest@example.com
+Subject: Account Authentication Required
+Date: Thu, 11 Jan 2007 13:15:55 +0100
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--385767701355581984"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 605
+
+----385767701355581984
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<FONT face=3DVerdana size=3D2>&nbsp;<img alt=3D"Bankofamerica.com" src=3D"=
+http://www.bankofamerica.com/global/mvc_objects/images/mhd_reg_logo.gif" b=
+order=3D"0" hspace=3D"10" vspace=3D"14"><br><BR><div>&nbsp;&nbsp;&nbsp;Dea=
+r Bank of America Customer,<BR></div>&nbsp; 
+<DIV>&nbsp;
+<DIV>&nbsp;&nbsp; Due to recent fraudulent activities on some of Bank of A=
+merica online <br>&nbsp;&nbsp;&nbsp;accounts we are launching a new securi=
+ty system to make<br>&nbsp;&nbsp;&nbsp;Bank of America online accounts mor=
+e secure and safe. Before we can <br>&nbsp;&nbsp;&nbsp;activate it we will=
+ be checking all Bank of America online accounts to confirm <br>&nbsp;&nbs=
+p;&nbsp;the authenticity of the holder.</DIV>
+<DIV><FONT color=3D#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; We will require a confirmation that your account has=
+ not been <br>&nbsp;&nbsp;&nbsp;stolen or hacked. Your account has not bee=
+n suspended or frozen. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; To confirm your account status please <A href=3D"htt=
+p://www.google.com/url?q=3D%68%74%74%70%3a%2f%2fsommer.csommer.com/hi.htm"=
+>Login</A><BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-complete the requir=
+ed information to authenticate and reset your account<BR><BR>&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;-make sure your account balance has not been change=
+d<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your details have =
+not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-review recent=
+ transactions in your account history for any unauthorized <BR>&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;transfer</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp;&nbsp;If you find any type of suspicious activities p=
+lease contact us immediately.<br>&nbsp;&nbsp; Please include in your messa=
+ge your account number, your account name<br>&nbsp;&nbsp; and the unauthor=
+ized transfer date & time.<BR><BR></DIV>
+
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp; Please do not reply to this message. For any inquiries, =
+contact Customer Service.</DIV>
+<DIV>&nbsp;</DIV>
+
+<DIV>&nbsp;&nbsp; Bank of America Copyright =A9 2007</DIV></FONT>
+<DIV>&nbsp;</DIV>
+
+
+
+
+----385767701355581984--

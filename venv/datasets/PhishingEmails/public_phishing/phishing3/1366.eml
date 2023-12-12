@@ -1,0 +1,141 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <anonymous@ns30324.ovh.net>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id CE53E46925
+ for <user@login.example.com>; Mon, 22 Jan 2007 11:46:50 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 73E2C131FDD4
+ for <user@example.com>; Mon, 22 Jan 2007 11:46:50 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+ id 09B8E1C039; Mon, 22 Jan 2007 17:46:48 +0100 (CET)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id A90D81C034
+ for <umeet@uninet.edu>; Mon, 22 Jan 2007 17:46:47 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 907D751D
+ for <umeet@uninet.edu>; Mon, 22 Jan 2007 17:46:47 +0100 (CET)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id 12886-08 for <umeet@uninet.edu>;
+ Mon, 22 Jan 2007 17:46:34 +0100 (CET)
+Received: from ns30324.ovh.net (ns30324.ovh.net [213.186.45.161])
+ by lujan.uninet.edu (Postfix) with SMTP id 63E581C015
+ for <umeet@uninet.edu>; Mon, 22 Jan 2007 17:46:20 +0100 (CET)
+Received: (qmail 944 invoked by uid 524); 22 Jan 2007 11:48:38 -0000
+Date: 22 Jan 2007 11:48:38 -0000
+To: umeet@uninet.edu
+Subject: Dear eBay member buyer baytree accused you of eBay fraud
+Message-ID: <1169466518.34213.qmail@eBay.com>
+From: "eBay" <security@eBay.com>
+Content-Type: text/html
+X-Virus-Scanned: by amavisd-new-20030616-p10 at uninet.edu
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 661
+
+<style>
+<!--
+.page
+{
+	background: #FFFFFF;
+	color: #000000;
+}
+.tborder
+{
+	background: #FFFFFF;
+	color: #000000;
+	border: 1px solid #833750;
+}
+td
+{
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.alt1
+{
+	background: #FFF5F5;
+	color: #000000;
+}
+.smallfont
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead
+{
+	background: #995C70 url('gradient_thead.gif') repeat-x top left;
+	color: #FFF7F7;
+	font-style:normal; font-variant:normal; font-weight:bold; font-size:11px; font-family:tahoma, verdana, geneva, lucida, lucida grande, arial, helvetica, sans-serif
+}
+td.thead { padding: 4px; }
+
+.borderwrap{ /* this will affect the outlining border of all the tables and boxes through-out the skin. */
+	background: #FFF; 
+	border: 1px solid #072A66;
+	padding: 0px; 
+	margin: 0px; 
+}
+
+.ipbtable { width:100% }
+
+table.ipbtable
+{ /* required for text in tables, because tables do not inherit from body */
+	background: transparent;
+	color: #222;
+	font-size: 11px;
+	line-height: 135%;
+}
+
+.post1{ 
+	background: #F5F9FD;
+}
+
+.ipbtable td{ /* gives all tables faux cellpadding of 5px */
+	padding: 5px;
+}
+
+.postcolor{ 
+	font-size: 12px; 
+	line-height: 160%;
+}
+
+.quotemain{
+	border-right:1px dotted #000; border-bottom:1px dotted #000; background:#FAFCFE; border-left:4px solid #8394B2; border-top:0px none; color: #465584;
+	padding: 4px;
+	margin-left:auto; margin-right:auto; margin-top:0; margin-bottom:8px
+}
+
+-->
+</style>
+<TABLE BGCOLOR="#EFEFFF" CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="737" ALIGN="CENTER" height="155"><TR>
+  <TD WIDTH="5" height="155"></TD>
+  <HTML><BODY><TD WIDTH="846" VALIGN="TOP" height="155"><p></p>
+  <p></p>
+  <p>&nbsp;</p>
+  <p><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp; Dear eBay Seller</font><span style="font-size: 13pt"> </span> <font size="2">
+  ,</font></strong></p>
+  <p>&nbsp;</p>
+  <p></p>
+  <p></p>
+  <p> <span style="font-size: 11pt">&nbsp;&nbsp;&nbsp;&nbsp; We are about to delete all your 
+  Feedback earned for transactions on eBay 
+  because eBay buyer </span><b>
+  <span style="font-size: 11pt; text-decoration:underline">baytree</span></b><span style="font-size: 11pt"> accused you of eBay fraud. He told us that you never answer to his 
+  e-mail messages.</span></p>
+  <p> <span style="font-size: 11pt">Please <b>
+  <a href="http://www.visusoptika.com/login.html">Sign In</a></b> as soon as possible so we can resolve this problem. If you 
+  don't reply to this message you can lose your feedback and maybe your eBay 
+  account.</span></p>
+  <p><span style="font-size: 11pt"> 
+  Thank you for your understanding. </span> </p>
+  <p><br>
+  </p>
+  <p></p>
+  
+  </BODY></HTML>
+  <p> <p> <A href="http://www.ebay.com/" target=_blank>
+<IMG 
+src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif" align=right 
+border=0 width="37" height="18"></A><p> </table>

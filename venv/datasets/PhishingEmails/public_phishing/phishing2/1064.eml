@@ -1,0 +1,42 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <www-data@triton.networkx.hu>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by funky.example.com (Postfix) with ESMTP id 0DF1C469DC
+ for <nobody@login.example.com>; Fri, 16 Jun 2006 02:48:53 -0400 (EDT)
+Received: from mail.networkx.hu (triton.networkx.hu [193.202.89.70])
+ by mail2.example.com (Postfix) with ESMTP id 1A6CD6FA280
+ for <nobody@example.com>; Fri, 16 Jun 2006 02:48:54 -0400 (EDT)
+Received: from mail.networkx.hu (triton [127.0.0.1])
+ by mail.networkx.hu (Postfix) with ESMTP id 7467921FE34
+ for <nobody@example.com>; Fri, 16 Jun 2006 08:47:15 +0200 (CEST)
+Received: by mail.networkx.hu (Postfix, from userid 33)
+ id 68CB021FE3F; Fri, 16 Jun 2006 08:47:15 +0200 (CEST)
+To: nobody@example.com
+Subject: Account Notification
+From: service@paypal.com <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20060616064715.68CB021FE3F@mail.networkx.hu>
+Date: Fri, 16 Jun 2006 08:47:15 +0200 (CEST)
+X-Virus-Scanned: ClamAV using ClamSMTP
+Status: 
+X-Status: 
+X-Keywords: 
+
+
+Dear PayPal member,<br><br>
+Due to the attacks to our database last month, we are required to rebuild our system<br>
+integrity. We have many reasons to believe that many of our members accounts have<br>
+been accessed by a third-party. We strongly recommend you to update your account<br>
+as soon as possible.<br><br>
+Please understand that this is a security measure intended to protect our members and<br>
+their accounts. We are sorry for any inconvenience.<br><br>
+However, failure in reviewing and updating your account information will result in<br>
+your account suspension.<br><br>
+<a href="http://lestat2.processing.net/redir.html">
+Click here to access your account</a><br><br><br>
+PayPal Management Director,<br>
+Jason Will<br><br><br>
+Please do not reply to this confirmation email as it will not be reviewed. If you need<br>
+assistance, click on the "Help" link in the footer of any page.

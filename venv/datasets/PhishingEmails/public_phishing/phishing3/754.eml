@@ -1,0 +1,54 @@
+From nobody Sun Jan 25 13:49:58 2015
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id C57EE46943;
+ Tue, 15 Aug 2006 10:09:49 -0400 (EDT)
+Received: from mail.com (adsl-66-125-41-182.dsl.lsan03.pacbell.net
+ [66.125.41.182])
+ by mail.example.org (Postfix) with SMTP id 3376B6CD137;
+ Tue, 15 Aug 2006 10:09:48 -0400 (EDT)
+Reply-To: <aw-confirm@eBay.com>
+From: "aw-confirm@eBay.com" <aw-confirm@eBay.com>
+Subject: eBay Listing
+Date: Tue, 15 Aug 2006 07:31:14 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20060815140948.3376B6CD137@mail.example.org>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 48
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+
+
+<body>
+
+<div>Please confirm me if this is your listing, because I am really interesed in buying this from you.</div>
+
+
+<div>&nbsp;</div>
+
+
+<div><a href="http://signinebay.mail333.com/ws/eBayISAPI.dll_SignIn_co_partnerId_2_pUserId__siteid_0_pageType__pa1__i1__bshowgif__UsingSSL__ru__pp__pa2__errmsg__runame__ruparams__ruproduct__sid__favoritenav__confirm__ebxPageType__existingEmail__isCheckout__migrateVisitor_/signin.html" target="_blank" onfiltered="return top.js.OpenExtLink(window,event,this)"><font color="#003399">htp://cgi.ebay.com/ws/eBayISAPI<wbr>.dll?ViewItem&amp;item=5784504408<wbr>&amp;sspagename=ADME:B:AAQ:UK:1</font></a></div>
+
+
+<div>&nbsp;</div>
+
+
+<div>Reply me if this is yours.</div>
+
+</body>
+</html>

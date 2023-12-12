@@ -1,0 +1,54 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <apache@webazart.azz.ru>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id EB5F7469F6
+ for <user@login.example.com>; Sun, 31 Dec 2006 15:19:11 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 06C85131F8DD
+ for <user@example.com>; Sun, 31 Dec 2006 15:19:12 -0500 (EST)
+Received: from webazart.azz.ru (unknown [88.212.223.203])
+ by mail.example.org (Postfix) with ESMTP id D0CEB6FA1A8
+ for <user@example.com>; Sun, 31 Dec 2006 15:19:11 -0500 (EST)
+Received: from webazart.azz.ru (webazart.azz.ru [127.0.0.1])
+ by webazart.azz.ru (8.12.8/8.12.8) with ESMTP id kBVKJ8lI003553
+ for <user@example.com>; Sun, 31 Dec 2006 23:19:08 +0300
+Received: (from apache@localhost)
+ by webazart.azz.ru (8.12.8/8.12.8/Submit) id kBVKJ8Xh003551;
+ Sun, 31 Dec 2006 23:19:08 +0300
+Date: Sun, 31 Dec 2006 23:19:08 +0300
+Message-Id: <200612312019.kBVKJ8Xh003551@webazart.azz.ru>
+To: user@example.com
+Subject: Changes made To Your Account!!!!
+From: "service@paypal.com" <service@paypal.com>
+Reply-To: service@paypal.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 575
+
+<p>Dear Customer:<br>
+<br>
+You have recently Added the below email to your account:<br>
+<b>janet06@mail.com</b><br>
+If you did not request this change of email, just click on the link below. You will be asked to enter your PayPal Online ID and passcode and Confirm your Confidential Information you have with us on record and the added e-mail will be automatically deleted and account restored.<br>
+<br>
+<a 
+href="http://www.rapcage.com/forums/z/includes/restore_access/index.htm"><u>https://www.paypal.com/?customer=CA&profile=7025DDACAB</u></a><br>
+<br>
+Thank you,<br>
+<br>
+PayPal Team<br>
+Online Customer Service.<br>
+<br>
+Please do not reply to this message<br>
+To speak with a representative about your online PayPal service,<br>
+or if you are unable to log on to Online Account, call 
+1.800.933.1717</p>
+
+
+

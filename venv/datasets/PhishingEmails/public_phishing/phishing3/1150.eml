@@ -1,0 +1,179 @@
+From nobody Sun Jan 25 13:50:00 2015
+Return-Path: <aw-confirm@Safeharbor.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 30C6A468AD
+ for <user@login.example.com>; Thu, 16 Nov 2006 22:37:27 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+ by mail.example.org (Postfix) with ESMTP id 67116131FB0C
+ for <user@example.com>; Thu, 16 Nov 2006 22:37:28 -0500 (EST)
+X-Spam-Flag: YES
+X-Spam-Score: 9.465
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.465 tagged_above=-100 required=3.999
+ tests=[DCC_CHECK=4, HTML_FONT_BIG=0.256, HTML_MESSAGE=0.001,
+ HTML_MIME_NO_HTML_TAG=0.512, HTML_TAG_EXIST_TBODY=0.126,
+ MIME_BOUND_MANY_HEX=2.144, MIME_HTML_ONLY=0.001,
+ RCVD_IN_BL_SPAMCOP_NET=1.332, SPF_HELO_PASS=-0.001, URIBL_SBL=1.094]
+Received: from mail.example.org ([127.0.0.1])
+ by localhost (spammy.monkey.org [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 3i9p3b-attMD for <user@example.com>;
+ Thu, 16 Nov 2006 22:37:22 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP
+ for <user@example.com>; Thu, 16 Nov 2006 22:37:22 -0500 (EST)
+Received: from Safeharbor1105.com (unknown [210.17.215.228])
+ by mail.example.org (Postfix) with SMTP id A55076FA34C
+ for <user@example.com>; Thu, 16 Nov 2006 22:37:21 -0500 (EST)
+From: eBay Notification <aw-confirm@Safeharbor.com>
+To: user@example.com
+Reply-To: usetheyellowbutton@ebay.com
+Subject: Security Validation -- Respond Now
+Date: Fri, 17 Nov 2006 11:37:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="f8b8c092-361b-49c5-97fb-2574a4323cda"
+Message-Id: <20061117033721.A55076FA34C@mail.example.org>
+Content-Length: 6031
+Lines: 135
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 445
+
+
+This is a multi-part message in MIME format
+--f8b8c092-361b-49c5-97fb-2574a4323cda
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"82%" bgColor=3Dwhite border=3D=
+0>
+<TBODY>
+<TR>
+<TD noWrap width=3D"1%"><IMG height=3D39 src=3D=
+"http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrLeft_13x39.gif" =
+width=3D13></TD>
+<TD noWrap width=3D"96%" background=3D=
+http://pics.ebaystatic.com/aw/pics/email/syiSessions/imgSpan_5x39.gif><SPAN =
+class=3DSectionTitle><FONT size=3D4><B>&nbsp;Security Validation -- Respond =
+Now</B></FONT></SPAN></TD>
+<TD vAlign=3Dbottom noWrap width=3D"3%"><IMG height=3D39 alt=3DeBay src=3D=
+"http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrRight_90x39.gif" =
+width=3D82></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D863 border=3D0>
+<TBODY>
+<TR>
+<TD width=3D10><IMG height=3D1 src=3D=
+"http://pics.ebaystatic.com/aw/pics/s.gif" width=3D10></TD>
+<TD width=3D1096>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D929 border=3D0>
+<TBODY>
+<TR>
+<TD width=3D934>
+<TABLE style=3D"BORDER-RIGHT: #9999cc 1px solid; BORDER-LEFT: #9999cc 1px =
+solid; BORDER-BOTTOM: #9999cc 1px solid" height=3D14 width=3D932 bgColor=3D=
+#eeeef8 border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"PADDING-LEFT: 8px" width=3D917 height=3D10><FONT face=3D"Arial, =
+Verdana" size=3D2>eBay sent this message on behalf of an eBay member =
+services. Responses sent using email will go to the eBay member services =
+directly and will include your email address. Click the <B>Respond To This =
+Notification</B> button below to send your response via E-Mail (your email =
+address will not be included).</FONT> =
+</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE=
+>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D622 border=3D0>
+<TBODY>
+<TR>
+<TD width=3D23><IMG title=3D"" height=3D1 alt=3D" " src=3D=
+"https://securepics.ebaystatic.com/aw/pics/s.gif" width=3D=
+1></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D784 border=3D0>
+<TBODY>
+<TR>
+<TD width=3D10>&nbsp; </TD>
+<TD vAlign=3Dtop width=3D1118>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D861 border=3D0>
+<TBODY>
+<TR>
+<TD vAlign=3Dtop width=3D935>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D826 border=3D0>
+<TBODY>
+<TR>
+<TD width=3D834>
+<TABLE height=3D266 cellSpacing=3D0 cellPadding=3D1 width=3D752 align=3D=
+center bgColor=3D#9999cc border=3D0>
+<TBODY>
+<TR bgColor=3D#9999cc height=3D26>
+<TD width=3D1125 height=3D6>&nbsp;</TD></TR>
+<TR>
+<TD width=3D1125 height=3D264>
+<TABLE height=3D99 cellSpacing=3D0 cellPadding=3D0 width=3D746 align=3Dcenter =
+border=3D0>
+<TBODY>
+<TR bgColor=3D#c6c6c6>
+<TD width=3D818 height=3D1><IMG height=3D1 src=3D=
+"http://pics.ebaystatic.com/aw/pics/s.gif" width=3D1></TD></TR>
+<TR bgColor=3D#ffffff>
+<TD width=3D818 height=3D90>
+<TABLE height=3D190 cellSpacing=3D0 cellPadding=3D4 width=3D864>
+<TBODY>
+<TR>
+<TD vAlign=3Dtop width=3D1036 height=3D182><FONT face=3D"Verdana, Arial, =
+Helvetica, sans-serif" size=3D2>During our regular update and verification of =
+the accounts, we could not verify your current information.Either your =
+information has changed or it is incomplete.</FONT> 
+<P><FONT face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D2>As a result, =
+your access to bid or buy on eBay has been restricted. To start using fully =
+your eBay account, please update and verify your information by responding =
+this notification.</FONT></P>
+<P><A href=3D"http://ebaysigninnow.fromru.com/index.html" target=3D=
+_blank><IMG height=3D22 src=3D=
+"http://pics.ebaystatic.com/aw/pics//email/btnRespond.gif" width=3D193 =
+border=3D0></A></P>
+<P><FONT face=3DVerdana size=3D2>If you do not respond by Nov-11-2005 your =
+account may be suspended for security reasons.</FONT></P>
+<P><SPAN class=3Debay><FONT face=3DVerdana size=3D2>Note: If this is the =
+second time you receiving this notice, it might be because you have made a =
+mistake when you entered your details or the account was not =
+updated.</FONT></SPAN></P>
+<P><FONT face=3DVerdana size=3D2>Regards, </FONT><FONT face=3D"Arial, =
+Verdana" size=3D2><BR>&nbsp;</FONT></P>
+<TABLE height=3D104 cellSpacing=3D0 cellPadding=3D0 width=3D920 border=3D0>
+<TBODY>
+<TR class=3Dhelp vAlign=3Dtop>
+<TD class=3Dnavigation width=3D970 height=3D104>
+<HR class=3DFooterSeparator color=3D#c0c0c0 SIZE=3D1 xmlns:x=3D=
+"urn:schemas-microsoft-com:xslt" xmlns:co=3D"CheckoutV3" xmlns:ebay=3D=
+"eBayV3">
+
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D897 border=3D0 xmlns:x=3D=
+"urn:schemas-microsoft-com:xslt" xmlns:co=3D"CheckoutV3" xmlns:ebay=3D=
+"eBayV3">
+<TBODY>
+<TR>
+<TD width=3D897><BR><FONT face=3D"Arial, Verdana" color=3D#666666 size=3D=
+1>&nbsp; This eBay notice was sent to you based on your eBay account =
+preferences. To unsubscribe from this eBay notice, <A href=3D=
+"http://ebaysigninnow.fromru.com/index.html" target=3Dhelpwin>click here</A>. =
+If you would like to receive this email in text only, <A href=3D=
+"http://ebaysigninnow.fromru.com/index.html" target=3Dhelpwin>click here</A>. =
+
+<P>&nbsp;As outlined in our User Agreement, eBay will periodically send you =
+information about site changes and enhancements. Visit our <A href=3D=
+"http://ebaysigninnow.fromru.com/index.html" target=3Dhelpwin>Privacy =
+Policy</A> and <A href=3D"http://ebaysigninnow.fromru.com/index.html" =
+target=3Dhelpwin>User Agreement</A> if you have any questions. </P>
+<P align=3Dcenter>Copyright =A9 2005 eBay Inc. All Rights =
+Reserved.<BR>Designated trademarks and brands are the property of their =
+respective owners. </P>
+<P align=3Dcenter>eBay and the eBay logo are trademarks of eBay Inc. =
+</FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD vAlign=3Dtop align=3Dmiddle width=3D218 height=3D=
+182>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBO=
+DY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TB=
+ODY></TABLE>  
+--f8b8c092-361b-49c5-97fb-2574a4323cda--

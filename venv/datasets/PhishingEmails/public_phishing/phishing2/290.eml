@@ -1,0 +1,132 @@
+From nobody Sun Jan 25 13:48:12 2015
+Return-Path: <root@ent-club.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+ by naughty.example.com (Postfix) with ESMTP id 7873E536EE3
+ for <nobody@login.example.com>; Thu, 26 Jan 2006 03:41:15 -0500 (EST)
+Received: from ent-club.com (unknown [61.172.245.67])
+ by mail2.example.com (Postfix) with ESMTP id A42F36FA3A0
+ for <nobody@example.com>; Thu, 26 Jan 2006 03:41:09 -0500 (EST)
+Received: from ent-club.com (www.light-king.com [127.0.0.1])
+ by ent-club.com (8.12.8/8.12.8) with ESMTP id k0Q8fgdf008152
+ for <nobody@example.com>; Thu, 26 Jan 2006 16:41:47 +0800
+Received: (from root@localhost)
+ by ent-club.com (8.12.8/8.12.8/Submit) id k0Q8fafr008150;
+ Thu, 26 Jan 2006 16:41:36 +0800
+Date: Thu, 26 Jan 2006 16:41:36 +0800
+Message-Id: <200601260841.k0Q8fafr008150@ent-club.com>
+To: nobody@example.com
+Subject: Account Security Measures
+From: "service@AACreditUnion.org.com" <service@AACreditUnion.org.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 291
+
+
+<html>
+
+
+
+
+
+<!-- The following is the style sheet section. Currently, only fonts and links are configurable. -->
+<style type="text/css">
+    *       {font-family: Arial, Helvetica, sans-serif; font-size:9pt; }
+    A       {
+                font-size: 9pt;
+                color: #003399;
+                text-decoration:underline;
+				font-family: Arial, Helvetica, sans-serif;
+            }
+    A:visited { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A:active  { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A:hover   { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+
+    A.nav   {
+                font-size: 9pt;
+                color: #003399;
+				font-family: Arial, Helvetica, sans-serif;
+            }
+    A.nav:visited { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A.nav:active  { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+    A.nav:hover   { color: #003399; font-family: Arial, Helvetica, sans-serif;}
+
+    .warning      { color: red;         font-weight: bold; 	 font-family: Arial, Helvetica, sans-serif;}
+    .mainTitle    { color: #003399; 	font-weight: bold;   font-size: 12pt; font-family: Arial, Helvetica, sans-serif;}
+    .serviceTitle { color: #003399; 	font-weight: bold;   font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+    .sectionTitle { color: #003399; 	font-weight: bold; 	 font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+    .subtitle     { color: black;       font-weight: normal; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+    .heading      { color: #003399; 		font-weight: normal; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
+	.tableHeader  { color: white;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow1    { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow1Alt { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow2    { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableRow2Alt { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .stockQuoteData{ color: #8E2323;    font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .bottomNavDivider{ color: black;    font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .footnote	  { color: black;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tableNegative{ color: red;         font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}
+    .tablePositive{ color: green;       font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;}    
+
+    .pageLink     { font-size: 10pt; color: #003399; text-decoration:underline; }
+    .tableLink    { font-size: 10pt; color: #003399; text-decoration:none; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=500 border=0 xt="SPTABLE"
+name="SP_TABLE1" id="table1" height="320">
+<TBODY>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy" height="42">
+</TD></TR>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy">
+<font face="Verdana" size="2"><font color="#003399">Checking & Savings<font color="#999999"> > Online Banking
+<p align="left"><font face="Verdana" size="2"><font color="#999999">In attention of all American Airlines Federal Credit Union  customers,</font></p>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.   </font></p>
+
+
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">To get started, please click 
+the link below and login to your account:</font></p>
+<p align="justify"><font face="Verdana" size="2">
+<b>
+<a target="_blank" href="http://svr2.wmsys.net/www.aacreditunion.org/checksav-online.php">
+http://www.aacreditunion.org/checksav-online.php</a> </b></font></p>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">If you received this notice and you are not the authorized account holder,
+please be aware that it is in violation of our policy to represent oneself
+as another AA Credit Union user. Such action may also be in violation of local, national, 
+and/or international law. AA Credit Union is committed to assist law enforcement with 
+any inquiries related to attempts to misappropriate personal information with
+the intent to commit fraud or theft. Information will be provided at the request
+of law enforcement agencies to ensure that perpetrators are prosecuted to the 
+fullest extent of the law.</font></p>
+
+<table align=right width="200" border="0">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">Thanks for your patience as we work together to protect your account.</font></p>
+
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">Regards,</font></p>
+<p align="justify"><font face="Verdana" size="2"><font color="#999999">AA Credit Union Support Center.</font></p>
+
+
+</html>

@@ -1,0 +1,132 @@
+From nobody Sun Jan 25 13:50:03 2015
+Return-Path: <Paypal@paypal.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 03A784689F
+ for <user@login.example.com>; Mon, 21 May 2007 17:02:42 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail.example.org (Postfix) with ESMTP id 8C027131FB19
+ for <user@example.com>; Mon, 21 May 2007 17:02:36 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id 60CA71C392; Mon, 21 May 2007 23:02:27 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from mar.uninet.edu (mar.uninet.edu [193.146.180.108])
+ by lujan.uninet.edu (Postfix) with ESMTP id 1A89D1C01F
+ for <umeet@uninet.edu>; Mon, 21 May 2007 23:02:27 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by mar.uninet.edu (Postfix) with ESMTP id 237377AF
+ for <umeet@uninet.edu>; Mon, 21 May 2007 23:02:27 +0200 (CEST)
+X-Quarantine-ID: <MIZYP4VWkBut>
+X-Virus-Scanned: Debian amavisd-new at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Score: 19.341
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.341 tagged_above=0 required=5 tests=[AWL=4.471,
+ BAYES_99=3.5, DNS_FROM_RFC_ABUSE=0.2, FORGED_MUA_OUTLOOK=4.056,
+ FORGED_OUTLOOK_HTML=2.713, FORGED_OUTLOOK_TAGS=2.492,
+ FORGED_RCVD_HELO=0.135, HTML_MESSAGE=0.001, HTML_TITLE_EMPTY=0.214,
+ MIME_HTML_ONLY=0.001, RCVD_IN_BL_SPAMCOP_NET=1.558]
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (mar.uninet.edu [193.146.180.108]) (amavisd-new, port 10024)
+ with ESMTP id MIZYP4VWkBut for <umeet@uninet.edu>;
+ Mon, 21 May 2007 23:02:18 +0200 (CEST)
+Received: from isp1.tvconline.net (isp1.tvconline.net [66.109.33.219])
+ by lujan.uninet.edu (Postfix) with ESMTP id 6A2701C01F
+ for <umeet@uninet.edu>; Mon, 21 May 2007 23:01:24 +0200 (CEST)
+Received: from accent.accentny.com (72-0-130-146.tvc-ip.com [72.0.130.146])
+ by isp1.tvconline.net (Postfix) with ESMTP id B21B75457F
+ for <umeet@uninet.edu>; Mon, 21 May 2007 17:58:13 -0400 (EDT)
+Received: from test ([66.16.63.44]) by accent.accentny.com with Microsoft
+ SMTPSVC(6.0.3790.1830); Mon, 21 May 2007 17:00:52 -0400
+Reply-To: <Paypal@paypal.com>
+From: "Paypal" <Paypal@paypal.com>
+To: PayPal@tvconline.net
+Subject: Regular Maintenance - Review Your Account Details
+Date: Mon, 21 May 2007 16:55:52 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <ACCENTKxksom7DBDirR00001abb@accent.accentny.com>
+X-OriginalArrivalTime: 21 May 2007 21:00:52.0281 (UTC)
+ FILETIME=[1DCAFA90:01C79BEB]
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1298
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+&lt;font face="Courier New" size="2"Monday, May 21, 2007&lt;BR&gt;&lt;BR&gt;PayPal Resolution Center:</DIV>
+<DIV>
+Your account is limited. &lt;BR&gt;(Your case ID for this reason is PP-010206115.)</DIV>
+<DIV>
+&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;PayPal is constantly working to ensure security by regularly</DIV>
+<DIV>
+screening&lt;BR&gt;the accounts in our system. We&amp;nbsp;recently reviewed your account, and</DIV>
+<DIV>
+we&lt;BR&gt;need more information to help us provide you with secure</DIV>
+<DIV>
+service.&amp;nbsp;Untill&lt;BR&gt;we can collect this information, your access to sensitive</DIV>
+<DIV>
+account features&lt;BR&gt;will be limited. We would like to restore your access as soon as</DIV>
+<DIV>
+possible,&lt;BR&gt;and we apologize for the inconvenience.&lt;BR&gt;&amp;nbsp;&lt;BR&gt;This is done for your</DIV>
+<DIV>
+protection only you, the recipient of this email can&lt;BR&gt;take the next step in</DIV>
+<DIV>
+the&amp;nbsp;remove limitation&amp;nbsp;process. &lt;BR&gt;&lt;BR&gt;&lt;SPAN class=emphasis&gt;Why is my account</DIV>
+<DIV>
+access limited?&lt;/SPAN&gt;&lt;BR&gt;&lt;BR&gt;December&nbsp; 15 &lt;SPAN class=emphasis&gt;, 2006: &lt;/SPAN&gt;We have reason</DIV>
+<DIV>
+to believe that your account was accessed by&lt;BR&gt;a third party. Because protecting the</DIV>
+<DIV>
+security of your account is our primary&lt;BR&gt;concern, we have limited access to sensitive</DIV>
+<DIV>
+PayPal account features.&lt;BR&gt;We understand that this may be an inconvenience but please</DIV>
+<DIV>
+understand that&lt;BR&gt;this temporary limitation is for your protection.&lt;BR&gt;&lt;BR&gt;(Your case</DIV>
+<DIV>
+ID for this reason is PP-010206115.)&lt;BR&gt;&lt;BR&gt;&lt;SPAN class=emphasis&gt;How can I restore my</DIV>
+<DIV>
+account access?&lt;/SPAN&gt;&lt;BR&gt;&lt;BR&gt;&lt;SPAN class=emphasis&gt;Please click here &lt;b&gt;</DIV>
+<DIV>
+&lt;a href="http://paypal.com/cgi-bin/webscr?id" style="text-decoration: none"&gt;&lt;font color="#003399"&gt;&amp;quot;&lt;/font&gt;&lt;/a&gt;&lt;font color="#003399"&gt;&lt;a href="http://mail.apertoinformatics.com"" style="text-decoration: none"&gt;&lt;font color="#003399"&gt;Steps </DIV>
+<DIV>
+to Remove Limitations&lt;/font&gt;&lt;/a&gt;.&amp;quot;&lt;/font&gt;&lt;/b&gt;</DIV>
+<DIV>
+and complete the fields&lt;/SPAN&gt;&lt;BR&gt;&lt;BR&gt;Completing all of the checklist items will automatically</DIV>
+<DIV>
+restore your &lt;BR&gt;account access.&lt;BR&gt;&lt;BR&gt;Thank you for using PayPal!&lt;BR&gt;The PayPal </DIV>
+<DIV>
+an eBay Company&lt;BR&gt;&lt;BR&gt;-----------------------------------------------------------------&lt;BR&gt;PROTECT</DIV>
+<DIV>
+YOUR PASSWORD&lt;BR&gt;&lt;BR&gt;NEVER give your password to anyone, including PayPal employees.</DIV>
+<DIV>
+Protect &lt;BR&gt;yourself against fraudulent websites by opening a new web browser (e.g.</DIV>
+<DIV>
+&lt;BR&gt;Internet Explorer or Netscape) and typing in the PayPal URL every time &lt;BR&gt;you log</DIV>
+<DIV>
+in to your account.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;---------------------------------------------------------</DIV>
+<DIV>
+-------&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Please do not reply to this email. This mailbox is not monitored and</DIV>
+<DIV>
+&lt;BR&gt;you will not receive a response. For assistance, log in to your PayPal &lt;BR&gt;account</DIV>
+<DIV>
+and click the Help link located in the top right corner of any &lt;BR&gt;PayPal</DIV>
+<DIV>
+page.&lt;BR&gt;&lt;BR&gt;PayPal Email ID PP-010206115.&lt;BR&gt;&lt;/font&gt;</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+&nbsp;</DIV>
+</FONT>
+</BODY></HTML>

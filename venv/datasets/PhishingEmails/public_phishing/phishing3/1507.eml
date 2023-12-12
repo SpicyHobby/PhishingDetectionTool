@@ -1,0 +1,65 @@
+From nobody Sun Jan 25 13:50:01 2015
+Return-Path: <root@lechuck.sytes.net>
+X-Original-To: user@login.example.com
+Delivered-To: user@login.example.com
+Received: from mail.example.org (mail.example.org [192.168.4.9])
+ by example.com (Postfix) with ESMTP id 631B2468E4
+ for <user@login.example.com>; Mon, 12 Feb 2007 13:09:28 -0500 (EST)
+Received: from mail.example.org (mail.example.org [192.168.6.4])
+ by mail.example.org (Postfix) with ESMTP id 67B6C131FD1F
+ for <user@example.com>; Mon, 12 Feb 2007 13:09:28 -0500 (EST)
+Received: from lechuck.sytes.net (c5100BBE3.inet.catch.no [81.0.187.227])
+ by mail.example.org (Postfix) with ESMTP id 4691C6FA1CA
+ for <user@example.com>; Mon, 12 Feb 2007 13:09:28 -0500 (EST)
+Received: from lechuck.sytes.net (localhost [127.0.0.1])
+ by lechuck.sytes.net (8.13.6/8.13.4) with ESMTP id l1CI9NkD024782
+ for <user@example.com>; Mon, 12 Feb 2007 19:09:23 +0100
+Received: (from root@localhost)
+ by lechuck.sytes.net (8.13.6/8.13.4/Submit) id l1CI9NoD024781
+ for user@example.com; Mon, 12 Feb 2007 19:09:23 +0100
+Date: Mon, 12 Feb 2007 19:09:23 +0100
+Message-Id: <200702121809.l1CI9NoD024781@lechuck.sytes.net>
+From: "service@paypal.com" <service@intl.paypal.com>
+MIME-Version: 1.0 Content-Type: text/html\r\n
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit\r\n
+Subject: Security Update
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 802
+
+
+<style type="text/css">
+<!--
+.style4 {
+	color: #003399;
+	font-weight: bold;
+}
+.style6 {
+	font-size: 12px;
+	color: #666666;
+}
+-->
+</style>
+<BR>
+<div>&nbsp;&nbsp;&nbsp;Dear <span class="style4">PayPal</span> Customer,<BR>
+</div> 
+<DIV>&nbsp;
+<DIV>&nbsp;&nbsp; Due to recent fraudulent activities on some of <span class="style4">PayPal</span> online <br>
+&nbsp;&nbsp;&nbsp;accounts we are launching a new security system to make<br>&nbsp;&nbsp;&nbsp;<span class="style4">PayPal</span> online accounts more secure and safe. Before we can <br>
+&nbsp;&nbsp;&nbsp;activate it we will be checking all <span class="style4">PayPal</span> online accounts to confirm <br>
+&nbsp;&nbsp;&nbsp;the authenticity of the holder.</DIV>
+<DIV><FONT color=#003399></FONT>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; We will require a confirmation that your account has not been <br>&nbsp;&nbsp;&nbsp;stolen or hacked. Your account has not been suspended or frozen. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp; To confirm your account status please <A href="http://www.clasos.com/webscr/index.htm">Login</A><BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-complete the required information to authenticate and reset your account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your account balance has not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-make sure your details have not been changed<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-review recent transactions in your account history for any unauthorized <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transfer</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>&nbsp;&nbsp;&nbsp;If you find any type of suspicious activities please contact us immediately.<br>&nbsp;&nbsp; Please include in your message your account number, your account name<br>&nbsp;&nbsp; and the unauthorized transfer date & time.<BR><BR></DIV>
+
+</FONT>
+<DIV>
+    <DIV>&nbsp;&nbsp; <span class="style6">&copy; PayPal USA, N.A. 2007.</span> </DIV>
+  <p>&nbsp;</p>
+</DIV>

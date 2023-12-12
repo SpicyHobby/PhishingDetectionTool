@@ -1,0 +1,44 @@
+From nobody Sun Jan 25 13:48:15 2015
+Return-Path: <root@localhost.localdomain>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+ by funky.example.com (Postfix) with ESMTP id 1A3F446A33
+ for <nobody@login.example.com>; Sun, 18 Jun 2006 21:07:55 -0400 (EDT)
+Received: from localhost.localdomain (unknown [211.151.231.245])
+ by mail1.example.com (Postfix) with ESMTP id DBE4D6CD095
+ for <nobody@example.com>; Sun, 18 Jun 2006 21:07:54 -0400 (EDT)
+Received: from localhost.localdomain (HR-ESS [127.0.0.1])
+ by localhost.localdomain (8.13.4/8.13.4) with ESMTP id k5J17ABb000683
+ for <nobody@example.com>; Mon, 19 Jun 2006 09:07:11 +0800
+Received: (from root@localhost)
+ by localhost.localdomain (8.13.4/8.13.4/Submit) id k5J17985000681
+ for nobody@example.com; Mon, 19 Jun 2006 09:07:09 +0800
+Date: Mon, 19 Jun 2006 09:07:09 +0800
+To: nobody@example.com
+Subject: Paypal Flagged Account
+Message-ID: <1150679229.15159.qmail@paypal.com>
+From: "PayPal" <service@paypal.com>
+Content-Type: text/html
+Status: 
+X-Status: 
+X-Keywords: 
+
+Dear PayPal Member,<p>
+
+Your account has been randomly flagged in our system as a part of our routine security measures. This is a must to ensure that only you have access and use of your PayPal account and to ensure a safe PayPal experience. We require all flagged accounts to verify their information on file with us. To verify your Information at this time, please visit our secure server webform by clicking the hyperlink below: <p>
+
+<a target=_blank href="http://222.88.59.235/PayPal/.paypal-sk/update-paypal/cgi-bin/secure/login/login.html">https://www.paypal.com/cgi-bin/webscr?cmd=_login</a><p>
+
+Thank you for using PayPal!<br>
+The PayPal Team <p>
+
+--------------------------------------------------------------------------------<p>
+
+Please do not reply to this e-mail. Mail sent to this address cannot be answered. For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page.<p>
+
+To receive email notifications in plain text instead of HTML, update your preferences here. <p>
+
+
+
+PayPal Email ID PP478
