@@ -6,10 +6,32 @@ from sklearn.preprocessing import StandardScaler
 import joblib
 import matplotlib.pyplot as plt
 
+
+# Function to preprocess DataFrame
+def preprocess_df(df):
+    # Convert boolean columns to numeric
+    bool_cols = ['is_secure', 'has_attachment', 'blank_subject', 'contains_suspicious_keyword',
+                 'contains_suspicious_keyword_body', 'urgent_tone']
+    df[bool_cols] = df[bool_cols].astype(int)
+
+    # Drop non-numeric/string columns
+    df = df.drop(columns=['sender_domain', 'urgent_subject'])
+
+    # Encode the label column
+    df['label'] = df['label'].map({'legitimate': 0, 'phishing': 1})
+
+    return df
+
+
 # Loading the datasets
 train_df = pd.read_csv('D:/PhishingDetectionTool/venv/datasets/training_set.csv')
 validation_df = pd.read_csv('D:/PhishingDetectionTool/venv/datasets/validation_set.csv')
 test_df = pd.read_csv('D:/PhishingDetectionTool/venv/datasets/testing_set.csv')
+
+# Preprocess the datasets
+train_df = preprocess_df(train_df)
+validation_df = preprocess_df(validation_df)
+test_df = preprocess_df(test_df)
 
 # Feature scaling using StandardScaler
 scaler = StandardScaler()
@@ -19,6 +41,9 @@ X_validation = scaler.transform(validation_df.drop('label', axis=1))
 y_validation = validation_df['label']
 X_test = scaler.transform(test_df.drop('label', axis=1))
 y_test = test_df['label']
+
+# Save the scaler
+joblib.dump(scaler, 'scaler.pkl')
 
 # Initialize and hyperparameter tuning the model using validation set
 param_grid = {'C': [0.01, 0.1, 1, 10, 100]}
@@ -52,4 +77,4 @@ plt.legend(loc="lower right")
 plt.show()
 
 # Save the best model
-joblib.dump(best_model, 'phishing_detection_best_model.pkl')
+joblib.dump(best_model, 'phishing_detection_updated_model.pkl')
