@@ -9,14 +9,29 @@ from textblob import TextBlob
 
 # Read an .eml file and return the email message object
 def read_email(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        msg = email.message_from_file(file, policy=default)
-    return msg
+    # List of encodings to try
+    encodings = ['utf-8', 'latin1', 'iso-8859-1', 'cp1252']
+
+    for encoding in encodings:
+        try:
+            with open(file_path, 'r', encoding=encoding) as file:
+                msg = email.message_from_file(file, policy=default)
+                return msg
+        except UnicodeDecodeError:
+            continue
+
+    raise UnicodeDecodeError(f"Failed to decode {file_path} with tried encodings.")
 
 # Check sender's domain and analyze URL features
 def check_sender_domain_and_url(msg):
-    sender = msg.get('From', '')
-    domain = sender.split('@')[-1] if sender else ''
+    try:
+        sender = msg.get('From', '')
+        domain = sender.split('@')[-1] if sender else ''
+    except AttributeError:
+        # If parsing fails, set default values
+        sender = ''
+        domain = ''
+
     url_features = {
         'sender_domain': domain,
         'domain_length': len(domain),
@@ -61,7 +76,8 @@ def attachment_analysis(msg):
 #extract_text_features function
 def extract_text_features(cleaned_text):
     #list of suspicious keywords
-    suspicious_keywords_body = ['password', 'click', 'update', 'urgent', 'login', 'confirm', 'secure', ...]
+    suspicious_keywords_body = ['password', 'click', 'update', 'urgent', 'login', 'confirm', 'secure',
+                                'account', 'credit', 'offer', 'free', 'winner']
 
     # Sentiment Analysis - Determines if the email text has a tone of urgency or threat
     sentiment = TextBlob(cleaned_text).sentiment.polarity
@@ -74,7 +90,7 @@ def extract_text_features(cleaned_text):
 
 
 # Extract features from an email
-def extract_features(email_path):
+def extract_features(email_path, clean_content):
     features = {}
     msg = read_email(email_path)
 
@@ -93,8 +109,8 @@ def extract_features(email_path):
     features.update(subject_features)
 
     # Extract text-based features from the email body
-    cleaned_body = clean_email_body(msg.get_payload(decode=True))
-    features.update(extract_text_features(cleaned_body))
+
+    features.update(extract_text_features(clean_content))
 
     return features
 

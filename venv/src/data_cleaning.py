@@ -1,10 +1,16 @@
 from bs4 import BeautifulSoup
 import re
+import os
 
 def clean_email_body(body):
-    # Remove HTML tags
-    soup = BeautifulSoup(body, "html.parser")
-    cleaned_text = soup.get_text()
+    # Check if 'body' is a string and does not resemble a file path
+    if isinstance(body, str) and not os.path.exists(body):
+        soup = BeautifulSoup(body, "html.parser")
+        cleaned_text = soup.get_text()
+    else:
+        # Handle unexpected 'body' content
+        # For now, let's just return an empty string if 'body' is not as expected
+        return ""
 
     # Lowercase the text
     cleaned_text = cleaned_text.lower()

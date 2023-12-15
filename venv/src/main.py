@@ -12,26 +12,41 @@ from email_reader import read_email
 from data_cleaning import clean_email_body 
 from feature_extraction import extract_features
 
+
 def process_emails(directory, label):
     data = []
-    for filename in os.listdir(directory):
-        if filename.endswith('.eml'):
-            file_path = os.path.join(directory, filename)
-            email_msg = read_email(file_path)
-            
-            # Clean and preprocess the email content
-            clean_content = clean_email_body(email_msg.get_payload(decode=True))
-            
-            # Extract features
-            features = extract_features(file_path)
-            features['label'] = label  # Label for the emails (phishing or legitimate)
-            
-            data.append(features)
+    for dirpath, dirnames, filenames in os.walk(directory):
+        for filename in filenames:
+            if filename.endswith('.eml'):
+                file_path = os.path.join(dirpath, filename)
+                email_msg = read_email(file_path)
+
+                # Process the email depending on whether it is multipart
+                if email_msg.is_multipart():
+                    for part in email_msg.walk():
+                        if part.get_content_type() in ['text/plain', 'text/html']:
+                            payload = part.get_payload(decode=True)
+                            if payload:
+                                clean_content = clean_email_body(payload)
+                                features = extract_features(file_path, clean_content)
+                                features['label'] = label
+                                data.append(features)
+                                break  # Exit after processing the first relevant part
+                else:
+                    payload = email_msg.get_payload(decode=True)
+                    if payload:
+                        clean_content = clean_email_body(payload)
+                        features = extract_features(file_path, clean_content)
+                        features['label'] = label
+                        data.append(features)
+
     return data
 
+
+
 # Directories containing .eml files
-phishing_directory = 'D:\PhishingDetectionTool\venv\datasets\PhishingEmails'
-legitimate_directory = 'D:\PhishingDetectionTool\venv\datasets\LegitEmailseml'
+phishing_directory = r'D:\PhishingDetectionTool\venv\datasets\PhishingEmails'
+legitimate_directory = r'D:\PhishingDetectionTool\venv\datasets\LegitEmailseml'
 
 # Process emails
 phishing_data = process_emails(phishing_directory, 'phishing')
@@ -42,7 +57,7 @@ all_data = phishing_data + legitimate_data
 df = pd.DataFrame(all_data)
 
 # Output directory for all datasets
-output_dir = 'D:\PhishingDetectionTool\venv\datasets'
+output_dir = r'D:\PhishingDetectionTool\venv\datasets'
 
 # Save the combined dataset in the datasets folder
 combined_csv_path = os.path.join(output_dir, 'combined_email_features.csv')
