@@ -6,7 +6,6 @@ from sklearn.preprocessing import StandardScaler
 import joblib
 import matplotlib.pyplot as plt
 
-
 # Function to preprocess DataFrame
 def preprocess_df(df):
     # Convert boolean columns to numeric
@@ -22,7 +21,6 @@ def preprocess_df(df):
 
     return df
 
-
 # Loading the datasets
 train_df = pd.read_csv('D:/PhishingDetectionTool/venv/datasets/training_set.csv')
 validation_df = pd.read_csv('D:/PhishingDetectionTool/venv/datasets/validation_set.csv')
@@ -33,6 +31,10 @@ train_df = preprocess_df(train_df)
 validation_df = preprocess_df(validation_df)
 test_df = preprocess_df(test_df)
 
+# Save feature names before scaling
+feature_names = train_df.drop('label', axis=1).columns.tolist()
+joblib.dump(feature_names, 'D:/PhishingDetectionTool/venv/src/feature_names.pkl')  # Adjust path as necessary
+
 # Feature scaling using StandardScaler
 scaler = StandardScaler()
 X_train = scaler.fit_transform(train_df.drop('label', axis=1))
@@ -41,9 +43,6 @@ X_validation = scaler.transform(validation_df.drop('label', axis=1))
 y_validation = validation_df['label']
 X_test = scaler.transform(test_df.drop('label', axis=1))
 y_test = test_df['label']
-
-# Save the scaler
-joblib.dump(scaler, 'scaler.pkl')
 
 # Initialize and hyperparameter tuning the model using validation set
 param_grid = {'C': [0.01, 0.1, 1, 10, 100]}
@@ -76,5 +75,6 @@ plt.title('Receiver Operating Characteristic (ROC) Curve')
 plt.legend(loc="lower right")
 plt.show()
 
-# Save the best model
-joblib.dump(best_model, 'phishing_detection_updated_model.pkl')
+# Save the best model and the scaler
+joblib.dump(best_model, 'D:/PhishingDetectionTool/venv/src/phishing_detection_updated_model.pkl')
+joblib.dump(scaler, 'D:/PhishingDetectionTool/venv/src/scaler.pkl')

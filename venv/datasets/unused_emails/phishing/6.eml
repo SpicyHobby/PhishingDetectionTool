@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:49:55 2015
+Return-Path: <user@mail.example.com>
+Delivered-To: user@example.com
+Received: from example.com (example.com [192.168.2.0])
+ by example.com (Postfix) with ESMTP id 5A0332A88C
+ for <user@example.com>; Wed, 29 Jun 2005 13:23:20 -0400 (EDT)
+Received: by example.com (Example mail relay)
+ id 3CE3E634C4; Wed, 29 Jun 2005 13:23:20 -0400 (EDT)
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.168.3.6])
+ by example.com (Example mail relay) with ESMTP id EF942633C7
+ for <user@example.com>; Wed, 29 Jun 2005 17:23:19 +0000 (GMT)
+Received: (from user@localhost) by mail.example.com id NAA31557
+ for user@example.com; Wed, 29 Jun 2005 13:23:19 -0400
+Received: from hotmail.com (host59-79.pool8174.interbusiness.it [81.74.79.59])
+ by mail.example.com with SMTP id NAA31549
+ for <user@example.com>; Wed, 29 Jun 2005 13:23:18 -0400
+Message-Id: <200506291723.NAA31549@mail.example.com>
+Reply-To: <accounting@paypal.com>
+From: "Account Service" <service@paypal.com>
+Subject: Verify your PayPal Account
+Date: Wed, 29 Jun 2005 19:10:28 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 7
+
+<br><br>
+We recently have determined that different computers have logged into 
+your 
+PayPal account, and multiple password failures
+were present before the login. One of our Customer Service employees 
+has 
+already tryed to telephonically reach you. As our employee
+did not manage to reach you, this email has been sent to your 
+notice.<br>
+Therefore your account has been temporary suspended. We need you to 
+confirm your identity in
+order to regain full privileges of your account.<br>
+If this is not completed by <strong>July 1, 2005</strong>, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href="http://paypal.com.login-user1616.info/webscr.php?cmd=LogIn">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a>
+<br>
+<br><br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+PayPal - Customer Service
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+<br>
