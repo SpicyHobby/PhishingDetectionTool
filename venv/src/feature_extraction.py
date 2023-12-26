@@ -7,7 +7,7 @@ import re
 import pandas as pd
 from textblob import TextBlob
 
-# Read an .eml file and return the email message object
+# Reads an .eml file and returns the email message object
 def read_email(file_path):
     # List of encodings to try
     encodings = ['utf-8', 'latin1', 'iso-8859-1', 'cp1252']
@@ -22,13 +22,13 @@ def read_email(file_path):
 
     raise UnicodeDecodeError(f"Failed to decode {file_path} with tried encodings.")
 
-# Check sender's domain and analyze URL features
+# Checks sender's domain and analyzes URL features
 def check_sender_domain_and_url(msg):
     try:
         sender = msg.get('From', '')
         domain = sender.split('@')[-1] if sender else ''
     except AttributeError:
-        # If parsing fails, set default values
+        # If parsing fails, sets default values
         sender = ''
         domain = ''
 
@@ -40,7 +40,7 @@ def check_sender_domain_and_url(msg):
     }
     return url_features
 
-# Extract hyperlinks from the email body
+# Extracts hyperlinks from the email body
 def extract_hyperlinks(msg):
     links = []
     for part in msg.walk():
@@ -64,7 +64,7 @@ def subject_analysis(msg):
     }
     return features
 
-# Check for attachments
+# Checks for attachments
 def attachment_analysis(msg):
     has_attachment = False
     for part in msg.walk():
@@ -89,7 +89,7 @@ def extract_text_features(cleaned_text):
     return features
 
 
-# Extract features from an email
+# Extracts features from an email
 def extract_features(email_msg, clean_content):
     features = {}
 
@@ -107,18 +107,18 @@ def extract_features(email_msg, clean_content):
     subject_features = subject_analysis(email_msg)
     features.update(subject_features)
 
-    # Extract text-based features from the cleaned email body
+    # Extracts text-based features from the cleaned email body
     features.update(extract_text_features(clean_content))
 
     return features
 
-# Process all .eml files in a directory and extract features
+# Proceses all .eml files in a directory and extracts features
 def process_directory(directory):
     data = []
     for filename in os.listdir(directory):
         if filename.endswith('.eml'):
             file_path = os.path.join(directory, filename)
             features = extract_features(file_path)
-            features['filename'] = filename  # Optionally track the file name
+            features['filename'] = filename  # tracks the file name
             data.append(features)
     return data

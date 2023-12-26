@@ -21,7 +21,7 @@ def process_emails(directory, label):
                 file_path = os.path.join(dirpath, filename)
                 email_msg = read_email(file_path)
 
-                # Process the email depending on whether it is multipart
+                # Processes the email depending on whether it is multipart
                 if email_msg.is_multipart():
                     for part in email_msg.walk():
                         if part.get_content_type() in ['text/plain', 'text/html']:
@@ -31,7 +31,7 @@ def process_emails(directory, label):
                                 features = extract_features(file_path, clean_content)
                                 features['label'] = label
                                 data.append(features)
-                                break  # Exit after processing the first relevant part
+                                break  # Exits after processing the first relevant part
                 else:
                     payload = email_msg.get_payload(decode=True)
                     if payload:
@@ -48,11 +48,11 @@ def process_emails(directory, label):
 phishing_directory = r'D:\PhishingDetectionTool\venv\datasets\PhishingEmails'
 legitimate_directory = r'D:\PhishingDetectionTool\venv\datasets\LegitEmailseml'
 
-# Process emails
+# Processes emails
 phishing_data = process_emails(phishing_directory, 'phishing')
 legitimate_data = process_emails(legitimate_directory, 'legitimate')
 
-# Combine and save to a DataFrame
+# Combines and saves to a DataFrame
 all_data = phishing_data + legitimate_data
 df = pd.DataFrame(all_data)
 
@@ -67,18 +67,18 @@ df.to_csv(combined_csv_path, index=False)
 X = df.drop('label', axis=1)
 y = df['label']
 
-# Split the data into training, validation, and testing sets
+# Splits the data into training, validation, and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.2, random_state=42)
 
-# Save the training set
+# Saves the sets
 train_df = pd.concat([X_train, y_train], axis=1)
 train_df.to_csv(os.path.join(output_dir, 'training_set.csv'), index=False)
 
-# Save the validation set
+
 val_df = pd.concat([X_val, y_val], axis=1)
 val_df.to_csv(os.path.join(output_dir, 'validation_set.csv'), index=False)
 
-# Save the testing set
+
 test_df = pd.concat([X_test, y_test], axis=1)
 test_df.to_csv(os.path.join(output_dir, 'testing_set.csv'), index=False)

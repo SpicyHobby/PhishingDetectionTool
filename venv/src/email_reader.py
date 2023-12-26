@@ -18,19 +18,19 @@ def read_email(file_path):
     raise UnicodeDecodeError(f"Failed to decode {file_path} with tried encodings.")
 
 def get_email_components(msg):
-    # Extract subject
+    # Extracts subject
     subject = msg.get('Subject', '')
     subject, encoding = decode_header(subject)[0]
     if isinstance(subject, bytes):
         subject = subject.decode(encoding or 'utf-8')
 
-    # Extract sender
+    # Extracts sender
     sender = msg.get('From', '')
     sender, encoding = decode_header(sender)[0]
     if isinstance(sender, bytes):
         sender = sender.decode(encoding or 'utf-8')
 
-    # Extract body
+    # Extracts body
     if msg.is_multipart():
         for part in msg.walk():
             content_type = part.get_content_type()
