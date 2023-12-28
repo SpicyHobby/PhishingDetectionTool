@@ -90,24 +90,39 @@ def extract_text_features(cleaned_text):
 
 
 # Extracts features from an email
-def extract_features(email_msg, clean_content):
-    features = {}
+def extract_features(input_data, clean_content):
+    # Define email_msg at the beginning of the function
+    email_msg = None
 
-    # URL and domain features
+    # Check if input_data is a file path or an EmailMessage object
+    if isinstance(input_data, str):
+        # It's a file path, read the email
+        email_msg = read_email(input_data)
+    elif isinstance(input_data, email.message.Message):
+        # It's already an EmailMessage object
+        email_msg = input_data
+    else:
+        raise ValueError("Invalid input type for extract_features")
+
+    # Initialize all features with default values
+    features = {
+        'sender_domain': '',  # or any default value if needed
+        'domain_length': 0,
+        'special_chars_in_domain': 0,
+        'is_secure': 0,  # False as default, will be converted to 0 later
+        'hyperlink_count': 0,
+        'blank_subject': 1,  # True (1) as default, change if needed
+        'contains_suspicious_keyword': 0,  # False as default
+        'has_attachment': 0,  # False as default
+        'contains_suspicious_keyword_body': 0,  # False as default
+        'urgent_tone': 0  # False as default
+    }
+
+    # Update features with actual values from email_msg
     features.update(check_sender_domain_and_url(email_msg))
-
-    # Hyperlink analysis
     features['hyperlink_count'] = extract_hyperlinks(email_msg)
-
-    # Subject and content analysis
-    features['urgent_subject'] = subject_analysis(email_msg)
+    features.update(subject_analysis(email_msg))
     features['has_attachment'] = attachment_analysis(email_msg)
-
-    # Extract subject-based features
-    subject_features = subject_analysis(email_msg)
-    features.update(subject_features)
-
-    # Extracts text-based features from the cleaned email body
     features.update(extract_text_features(clean_content))
 
     return features

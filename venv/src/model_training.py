@@ -17,8 +17,11 @@ def preprocess_df(df):
                  'contains_suspicious_keyword_body', 'urgent_tone']
     df[bool_cols] = df[bool_cols].astype(int)
 
-    # Drops non-numeric/string columns
-    df = df.drop(columns=['sender_domain', 'urgent_subject'])
+    # Drop columns if they exist in the DataFrame
+    columns_to_drop = ['sender_domain', 'urgent_subject']
+    for column in columns_to_drop:
+        if column in df.columns:
+            df = df.drop(columns=[column])
 
     # Encodes the label column
     df['label'] = df['label'].map({'legitimate': 0, 'phishing': 1})
@@ -126,5 +129,5 @@ plt.show()
 
 
 # Saves the best model and the scaler
-joblib.dump(best_model, 'D:/PhishingDetectionTool/venv/src/phishing_detection_updated_model.pkl')
-joblib.dump(scaler, 'D:/PhishingDetectionTool/venv/src/scalerupdated.pkl')
+joblib.dump(best_model, 'D:/PhishingDetectionTool/venv/src/phishing_detection_best_model.pkl')
+joblib.dump(scaler, 'D:/PhishingDetectionTool/venv/src/scaler.pkl')

@@ -2,16 +2,13 @@ import os
 import pandas as pd
 import sys
 from sklearn.model_selection import train_test_split #model training
+from email_reader import read_email
+from data_cleaning import clean_email_body
+from feature_extraction import extract_features
 
 # Absolute path to modules
 src_dir = 'D:/PhishingDetectionTool/venv/src'
 sys.path.append(src_dir)
-
-
-from email_reader import read_email
-from data_cleaning import clean_email_body 
-from feature_extraction import extract_features
-
 
 def process_emails(directory, label):
     data = []
@@ -21,6 +18,9 @@ def process_emails(directory, label):
                 file_path = os.path.join(dirpath, filename)
                 email_msg = read_email(file_path)
 
+                # Initialize clean_content
+                clean_content = ''
+
                 # Processes the email depending on whether it is multipart
                 if email_msg.is_multipart():
                     for part in email_msg.walk():
@@ -28,17 +28,15 @@ def process_emails(directory, label):
                             payload = part.get_payload(decode=True)
                             if payload:
                                 clean_content = clean_email_body(payload)
-                                features = extract_features(file_path, clean_content)
-                                features['label'] = label
-                                data.append(features)
-                                break  # Exits after processing the first relevant part
+                                break
                 else:
                     payload = email_msg.get_payload(decode=True)
                     if payload:
                         clean_content = clean_email_body(payload)
-                        features = extract_features(file_path, clean_content)
-                        features['label'] = label
-                        data.append(features)
+
+                features = extract_features(email_msg, clean_content)
+                features['label'] = label
+                data.append(features)
 
     return data
 

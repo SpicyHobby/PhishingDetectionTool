@@ -18,12 +18,10 @@ def load_model_scaler_and_features(model_path, scaler_path, feature_names_path):
     return model, scaler, feature_names
 
 # Processes a single .eml file
-def process_email(file_path, scaler, feature_columns):
-    # Read email content
-    email_msg = read_email(file_path)
-
+def process_email(email_msg, scaler, feature_columns):
     # Clean the email body
     if email_msg.is_multipart():
+        cleaned_content = ''
         for part in email_msg.walk():
             if part.get_content_type() in ['text/plain', 'text/html']:
                 payload = part.get_payload(decode=True)
@@ -37,11 +35,15 @@ def process_email(file_path, scaler, feature_columns):
     # Extracts features
     features = extract_features(email_msg, cleaned_content)
 
-    # Converts features to DataFrame for scaling
-    features_df = pd.DataFrame([features])
+    # Initialize a DataFrame with the correct structure
+    features_df = pd.DataFrame(columns=feature_columns)
+    for col in feature_columns:
+        features_df.loc[0, col] = features.get(col, 0)  # Use feature value or 0 if not found
 
-    # Reindexes DataFrame to match training feature columns
-    features_df = features_df.reindex(columns=feature_columns, fill_value=0)
+    # Convert boolean columns to integers, if any
+    bool_cols = ['is_secure', 'has_attachment', 'blank_subject',
+                 'contains_suspicious_keyword', 'contains_suspicious_keyword_body', 'urgent_tone']
+    features_df[bool_cols] = features_df[bool_cols].astype(int)
 
     # Scales the features
     scaled_features = scaler.transform(features_df)
@@ -68,7 +70,8 @@ def main():
     email_path = os.path.join(chosen_directory, chosen_email)
 
     # Processes the email
-    processed_email = process_email(email_path, scaler, feature_columns)
+    email_msg = read_email(email_path)
+    processed_email = process_email(email_msg, scaler, feature_columns)
 
     # Makes a prediction
     prediction = model.predict(processed_email)
